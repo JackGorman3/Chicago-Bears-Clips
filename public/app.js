@@ -87,14 +87,12 @@ function filterArticles() {
   console.log(`Total articles to search: ${allArticles.length}`);
 
   return allArticles.filter(article => {
-    const searchText = (
-      article.title +
-      ' ' +
-      article.excerpt +
-      ' ' +
-      article.content
-    ).toLowerCase();
+    const content = (article.content || '').trim();
+    const excerpt = (article.excerpt || '').trim();
+    const hasFullContent = content && content !== excerpt;
+    if (!hasFullContent) return false;
 
+    const searchText = (article.title + ' ' + excerpt + ' ' + content).toLowerCase();
     const matches = keywords.some(keyword => searchText.includes(keyword.toLowerCase()));
     if (matches) console.log(`✓ Match: ${article.title}`);
     return matches;
