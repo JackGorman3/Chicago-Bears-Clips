@@ -2,7 +2,7 @@ import { generateDocx, downloadDocx } from '../src/docx-generator.js';
 
 // State
 let allArticles = [];
-let keywords = ['Chicago Bears'];
+let keywords = ['Bears'];
 let selectedArticles = new Set();
 
 // DOM Elements

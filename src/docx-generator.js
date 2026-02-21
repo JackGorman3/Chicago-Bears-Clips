@@ -1,287 +1,240 @@
-import { Document, Packer, Paragraph, Table, TableRow, TableCell, TextRun, AlignmentType, BorderStyle, WidthType, Header } from 'docx';
+import { Document, Packer, Paragraph, TextRun, AlignmentType, Header, ImageRun, TabStopType } from 'docx';
 
-/**
- * Format date as "DAY OF WEEK, MONTH DATEth"
- */
-function formatDate(date) {
-  const days = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY'];
-  const months = ['JANUARY', 'FEBRUARY', 'MARCH', 'APRIL', 'MAY', 'JUNE', 'JULY', 'AUGUST', 'SEPTEMBER', 'OCTOBER', 'NOVEMBER', 'DECEMBER'];
-  
-  const dayName = days[date.getDay()];
-  const monthName = months[date.getMonth()];
-  const dayNum = date.getDate();
-  
-  let suffix = 'th';
-  if (dayNum === 1 || dayNum === 21 || dayNum === 31) suffix = 'st';
-  if (dayNum === 2 || dayNum === 22) suffix = 'nd';
-  if (dayNum === 3 || dayNum === 23) suffix = 'rd';
-  
-  return `${dayName}, ${monthName} ${dayNum}${suffix}`;
+// ---------------------------------------------------------------------------
+// Helpers
+// ---------------------------------------------------------------------------
+
+function getOrdinalSuffix(n) {
+  if (n === 1 || n === 21 || n === 31) return 'st';
+  if (n === 2 || n === 22) return 'nd';
+  if (n === 3 || n === 23) return 'rd';
+  return 'th';
 }
 
-/**
- * Return cover date parts: day name, and month + day
- */
-function formatCoverDateParts(date) {
+function formatCoverDate(date) {
   const days = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY'];
   const months = ['JANUARY', 'FEBRUARY', 'MARCH', 'APRIL', 'MAY', 'JUNE', 'JULY', 'AUGUST', 'SEPTEMBER', 'OCTOBER', 'NOVEMBER', 'DECEMBER'];
-  const dayName = days[date.getDay()];
-  const monthName = months[date.getMonth()];
-  const dayNum = date.getDate();
-  return { dayName, monthDay: `${monthName} ${dayNum}` };
+  return {
+    dayLine: days[date.getDay()] + ',',
+    monthDay: months[date.getMonth()] + ' ' + date.getDate(),
+    suffix: getOrdinalSuffix(date.getDate()),
+  };
 }
 
-/**
- * Create title page section
- */
-function createTitlePage(date) {
-  return [
-    new Paragraph({ text: '', spacing: { line: 600 } }),
+function formatHeaderDate(dateStr) {
+  const d = new Date(dateStr);
+  if (isNaN(d)) return dateStr || '';
+  return d.toLocaleDateString('en-US', {
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    year: 'numeric',
+  });
+}
 
+async function fetchLogoBuffer() {
+  try {
+    const resp = await fetch('./images/bears-logo.png');
+    if (!resp.ok) return null;
+    return await resp.arrayBuffer();
+  } catch {
+    return null;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Cover page
+// ---------------------------------------------------------------------------
+
+function createTitlePage(date, logoBuffer) {
+  const { dayLine, monthDay, suffix } = formatCoverDate(date);
+  const FONT = 'Arial';
+  const TITLE_PT = 72;  // 36pt in half-points
+  const DATE_PT = 72;
+
+  const children = [
+    new Paragraph({ text: '', spacing: { before: 1440 } }),
+
+    // CHICAGO BEARS
     new Paragraph({
-      children: [
-        new TextRun({
-          text: 'CHICAGO BEARS',
-          font: 'Arial',
-          size: 70
-        })
-      ],
+      children: [new TextRun({ text: 'CHICAGO BEARS', font: FONT, size: TITLE_PT })],
       alignment: AlignmentType.CENTER,
-      spacing: { line: 200 }
+      spacing: { line: 276 },
     }),
 
+    // MEDIA CLIPS
     new Paragraph({
-      children: [
-        new TextRun({
-          text: 'MEDIA CLIPS',
-          font: 'Arial',
-          size: 70
-        })
-      ],
+      children: [new TextRun({ text: 'MEDIA CLIPS', font: FONT, size: TITLE_PT })],
       alignment: AlignmentType.CENTER,
-      spacing: { line: 600 }
+      spacing: { after: 720 },
     }),
 
-    new Paragraph({ text: '', spacing: { line: 400 } }),
+    // TUESDAY,
+    new Paragraph({
+      children: [new TextRun({ text: dayLine, font: FONT, size: DATE_PT })],
+      alignment: AlignmentType.CENTER,
+      spacing: { line: 276 },
+    }),
 
-    // Cover date: day on first line, then month + day on next
-    (() => {
-      const parts = formatCoverDateParts(date);
-      return new Paragraph({
+    // FEBRUARY 17th  (suffix is superscript)
+    new Paragraph({
+      children: [
+        new TextRun({ text: monthDay, font: FONT, size: DATE_PT }),
+        new TextRun({ text: suffix, font: FONT, size: Math.round(DATE_PT * 0.55), superScript: true }),
+      ],
+      alignment: AlignmentType.CENTER,
+      spacing: { after: 960 },
+    }),
+  ];
+
+  if (logoBuffer) {
+    children.push(
+      new Paragraph({
         children: [
-          new TextRun({ text: parts.dayName, font: 'Arial', size: 50 }),
+          new ImageRun({
+            data: logoBuffer,
+            transformation: { width: 260, height: 240 },
+            type: 'png',
+          }),
         ],
         alignment: AlignmentType.CENTER,
-        spacing: { line: 200 }
-      });
-    })(),
-    new Paragraph({
-      children: [
-        new TextRun({ text: formatCoverDateParts(date).monthDay, font: 'Arial', size: 40 })
-      ],
-      alignment: AlignmentType.CENTER,
-      spacing: { line: 400 }
-    }),
+      })
+    );
+  }
 
-    new Paragraph({
-      children: [
-        new TextRun({
-          text: '[Chicago Bears Logo Here]',
-          font: 'Arial',
-          size: 22,
-          italics: true,
-          color: '999999'
-        })
-      ],
-      alignment: AlignmentType.CENTER,
-      spacing: { before: 400, after: 400 }
-    }),
-
-    // single page break to start articles
-    new Paragraph({ text: '', pageBreakBefore: true })
-  ];
+  children.push(new Paragraph({ text: '', pageBreakBefore: true }));
+  return children;
 }
 
-/**
- * Create publication header (top right, in RED, italic)
- */
-function createPublicationHeader(source, date) {
-  const formattedDate = new Date(date).toLocaleDateString('en-US', {
-    weekday: 'long',
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric'
-  });
-  
+// ---------------------------------------------------------------------------
+// Article pages
+// ---------------------------------------------------------------------------
+
+function createPublicationHeader(source, publishedAt) {
   return new Paragraph({
     children: [
       new TextRun({
-        text: `${source} - ${formattedDate}`,
-        font: 'Times New Roman',
-        size: 20,
-        color: '000000',
-        italics: true
-      })
+        text: `${source} - ${formatHeaderDate(publishedAt)}`,
+        font: 'Courier New',
+        size: 18,       // 9pt
+        color: 'FF0000',
+        italics: true,
+      }),
     ],
     alignment: AlignmentType.RIGHT,
-    spacing: { line: 200, before: 100 }
   });
 }
 
-/**
- * Create article title
- */
 function createArticleTitle(title) {
   return new Paragraph({
     children: [
       new TextRun({
         text: title,
         font: 'Courier New',
-        size: 40,
+        size: 36,       // 18pt
         bold: true,
-        color: '000000'
-      })
+      }),
     ],
     alignment: AlignmentType.LEFT,
-    spacing: { line: 240, after: 100 }
+    spacing: { after: 80 },
   });
 }
 
-/**
- * Create byline
- */
-function createByline(author, source) {
+// Byline on left, page number on right — same line via tab stop
+function createBylineAndPageNumber(author, source, pageNum, totalPages) {
   return new Paragraph({
     children: [
       new TextRun({
-        text: `BY ${author}, ${source}`,
+        text: `BY ${(author || 'STAFF').toUpperCase()}, ${source.toUpperCase()}`,
         font: 'Courier New',
-        size: 20,
-        color: '000000',
-        bold: true
-      })
+        size: 20,       // 10pt
+        bold: true,
+      }),
+      new TextRun({ text: '\t' }),
+      new TextRun({
+        text: `Page ${pageNum} of ${totalPages}`,
+        font: 'Courier New',
+        size: 20,       // 10pt
+        bold: true,
+        color: 'FF0000',
+      }),
     ],
-    alignment: AlignmentType.LEFT,
-    spacing: { line: 240, after: 200 }
+    tabStops: [
+      { type: TabStopType.RIGHT, position: 9360 },
+    ],
+    spacing: { after: 200 },
   });
 }
 
-/**
- * Create page number header (Page X of Y, in RED, right-aligned)
- */
-function createPageNumber(currentPage, totalPages) {
-  return new Paragraph({
-    children: [
-      new TextRun({
-        text: `Page ${currentPage} of ${totalPages}`,
-        font: 'Times New Roman',
-        size: 20,
-        color: '000000'
-      })
-    ],
-    alignment: AlignmentType.RIGHT,
-    spacing: { line: 200 }
-  });
+function createBodyParagraphs(content) {
+  const paragraphs = (content || '').split('\n').filter(p => p.trim());
+  if (paragraphs.length === 0) return [];
+
+  return paragraphs.map(para =>
+    new Paragraph({
+      children: [
+        new TextRun({
+          text: para.trim(),
+          font: 'Courier New',
+          size: 20,     // 10pt
+        }),
+      ],
+      alignment: AlignmentType.BOTH,  // justified
+      spacing: { after: 120 },
+    })
+  );
 }
 
-/**
- * Create article body text in two-column layout
- */
-function createArticleBody(bodyText) {
-  const paragraphs = bodyText.split('\n').filter(p => p.trim());
+// ---------------------------------------------------------------------------
+// Exports
+// ---------------------------------------------------------------------------
 
-  return paragraphs.map(para => new Paragraph({
-    children: [
-      new TextRun({
-        text: para.trim(),
-        font: 'Courier New',
-        size: 20,
-        color: '000000'
-      })
-    ],
-    alignment: AlignmentType.LEFT,
-    spacing: { line: 240, after: 100 }
-  }));
-}
-
-/**
- * Generate DOCX document from articles
- */
 export async function generateDocx(articles, currentDate = new Date()) {
+  const logoBuffer = await fetchLogoBuffer();
   const totalPages = articles.length;
-  const sections = [];
-  
-  // Title page section
-  sections.push({
-    children: createTitlePage(currentDate),
-    properties: {
-      page: {
-        margin: { top: 720, right: 720, bottom: 720, left: 720 }
-      }
-    }
-  });
-  
-  // Article sections
+
+  const sections = [
+    {
+      children: createTitlePage(currentDate, logoBuffer),
+      properties: {
+        page: { margin: { top: 1440, right: 1440, bottom: 1440, left: 1440 } },
+      },
+    },
+  ];
+
   articles.forEach((article, index) => {
-    const formattedDate = new Date(article.publishedAt).toLocaleDateString('en-US', {
-      weekday: 'long',
-      year: 'numeric',
-      month: 'long',
-      day: 'numeric'
-    });
-    
     const pageNum = index + 1;
-    
-    const articleChildren = [
-      createArticleTitle(article.title),
-      createByline(article.author, article.source.toUpperCase()),
-      new Paragraph({ text: '', spacing: { line: 200, after: 100 } }),
-      ...createArticleBody(article.content)
-    ];
+    const body = createBodyParagraphs(article.content || article.excerpt || '');
 
     sections.push({
-      children: articleChildren,
-      properties: {
-        page: {
-          margin: { top: 720, right: 720, bottom: 720, left: 720 }
-        },
-        column: {
-          space: 708,
-          count: 2
-        }
-      },
       headers: {
         default: new Header({
-          children: [
-            createPublicationHeader(article.source, article.publishedAt),
-            createPageNumber(pageNum, totalPages)
-          ]
-        })
-      }
+          children: [createPublicationHeader(article.source, article.publishedAt)],
+        }),
+      },
+      children: [
+        createArticleTitle(article.title),
+        createBylineAndPageNumber(article.author, article.source, pageNum, totalPages),
+        ...body,
+      ],
+      properties: {
+        page: { margin: { top: 1440, right: 1440, bottom: 1440, left: 1440 } },
+      },
     });
   });
-  
-  const doc = new Document({
-    sections: sections
-  });
-  
-  return doc;
+
+  return new Document({ sections });
 }
 
-/**
- * Generate and download DOCX file
- */
 export async function downloadDocx(articles, filename = 'Chicago-Bears-Clips.docx') {
   const doc = await generateDocx(articles);
   const blob = await Packer.toBlob(doc);
-  
-  // Create download link
   const url = window.URL.createObjectURL(blob);
-  const link = document.createElement('a');
-  link.href = url;
-  link.download = filename;
-  document.body.appendChild(link);
-  link.click();
-  document.body.removeChild(link);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
   window.URL.revokeObjectURL(url);
 }
