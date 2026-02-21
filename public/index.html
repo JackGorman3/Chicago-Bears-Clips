@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chicago Bears Media Clips</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <!-- Header -->
+    <header class="header">
+      <img src="./images/bears-logo.png" alt="Chicago Bears Logo" class="header-logo">
+      <h1 class="header-title">CHICAGO BEARS MEDIA CLIPS</h1>
+      <p class="header-subtitle">Daily News Aggregation</p>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container">
+      <!-- Search Section -->
+      <section id="search-section" class="search-section">
+        <div class="search-header">
+          <h2>Search for Articles</h2>
+        </div>
+        
+        <div class="keywords-container">
+          <label for="keywords-list">Keywords:</label>
+          <div id="keywords-list" class="keywords-list">
+            <div class="keyword-tag">Chicago Bears <button class="keyword-remove" data-keyword="Chicago Bears">×</button></div>
+          </div>
+          
+          <div class="keyword-input-group">
+            <input type="text" id="keyword-input" placeholder="Add keyword...">
+            <button id="add-keyword-btn" class="btn btn-secondary">Add</button>
+          </div>
+        </div>
+        
+        <button id="search-btn" class="btn btn-primary">Search Articles</button>
+      </section>
+
+      <!-- Articles Section -->
+      <section id="articles-section" class="articles-section" style="display: none;">
+        <div class="section-header">
+          <h2>Select Articles to Include</h2>
+          <div class="select-controls">
+            <button id="select-all-btn" class="btn btn-secondary">Select All</button>
+            <button id="deselect-all-btn" class="btn btn-secondary">Deselect All</button>
+            <span id="selection-count" class="selection-count">0 selected</span>
+          </div>
+        </div>
+
+        <div id="articles-list" class="articles-list">
+          <!-- Articles will be loaded here -->
+        </div>
+
+        <div class="generate-section">
+          <button id="generate-btn" class="btn btn-primary" disabled>Generate Document</button>
+        </div>
+      </section>
+
+      <!-- Loading State -->
+      <div id="loading" class="loading" style="display: none;">
+        <p>Loading articles...</p>
+      </div>
+
+      <!-- Message -->
+      <div id="message" class="message"></div>
+    </main>
+  </div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
