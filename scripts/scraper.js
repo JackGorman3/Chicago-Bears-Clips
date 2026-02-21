@@ -1,6 +1,6 @@
 /**
  * Chicago Bears Article Scraper
- * Runs via GitHub Actions daily at 6 AM UTC.
+ * Runs via GitHub Actions daily at 6 AM CST (noon UTC).
  * Scrapes articles from configured news sources published in the last 26 hours
  * and writes them to public/data/articles.json.
  */
@@ -79,11 +79,11 @@ function sleep(ms) {
 }
 
 // ---------------------------------------------------------------------------
-// ESPN — public JSON API (most reliable source)
+// ESPN — public JSON API + follow article links for full content
 // ---------------------------------------------------------------------------
 
 async function scrapeEspn() {
-  console.log('Scraping ESPN (API)...');
+  console.log('Scraping ESPN (API + article fetch)...');
   try {
     const resp = await fetch(
       'https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?team=3&limit=50',
@@ -93,7 +93,7 @@ async function scrapeEspn() {
     const data = await resp.json();
 
     const cutoff = Date.now() - LOOKBACK_HOURS * 60 * 60 * 1000;
-    const articles = (data.articles || [])
+    let articles = (data.articles || [])
       .filter(a => {
         const ts = new Date(a.published || a.lastModified || 0).getTime();
         return ts > cutoff;
@@ -105,12 +105,17 @@ async function scrapeEspn() {
         source: 'ESPN',
         sourceUrl: a.links?.web?.href || '',
         publishedAt: a.published || null,
-        excerpt: a.description || null,
-        content: a.story || a.description || '',
+        excerpt: cleanText(a.description || ''),
+        content: cleanText(a.story || a.description || ''),
         scrapedAt: new Date().toISOString(),
       }));
 
-    console.log(`  Found ${articles.length} recent articles`);
+    console.log(`  Found ${articles.length} recent articles from API`);
+
+    // Follow article links to get full body text (API story field is often empty)
+    const bodySelector = '.article-body, [class*="article-body"], [class*="ArticleBody"], .story__body, [class*="story-body"]';
+    articles = await enrichWithContent(articles, bodySelector, 'ESPN');
+
     return articles;
   } catch (err) {
     console.error(`  ESPN error: ${err.message}`);
@@ -123,7 +128,7 @@ async function scrapeEspn() {
 // ---------------------------------------------------------------------------
 
 async function scrapeHtmlListing(config) {
-  console.log(`Scraping ${config.source}...`);
+  console.log(`Scraping ${config.source} (HTML)...`);
   const html = await fetchPage(config.listUrl);
   if (!html) return [];
 
@@ -186,7 +191,7 @@ async function scrapeHtmlListing(config) {
 // Follow article links to fetch full body text (non-paywalled sites only)
 // ---------------------------------------------------------------------------
 
-async function enrichWithContent(articles, bodySelector) {
+async function enrichWithContent(articles, bodySelector, sourceName = '') {
   const limited = articles.slice(0, MAX_FOLLOW_PER_SITE);
   const results = [];
 
@@ -221,6 +226,7 @@ async function enrichWithContent(articles, bodySelector) {
 
 // ---------------------------------------------------------------------------
 // RSS / Atom feed parser
+// Handles WordPress content:encoded (full text) vs description (excerpt)
 // ---------------------------------------------------------------------------
 
 async function scrapeRss(config) {
@@ -243,7 +249,14 @@ async function scrapeRss(config) {
       cleanText($el.find('pubDate').text()) ||
       cleanText($el.find('published').text()) ||
       cleanText($el.find('updated').text());
-    const description = $el.find('description, summary, content').first().text();
+
+    // WordPress: content:encoded = full article text, description = excerpt
+    // Non-WordPress: description/summary is all we get
+    const descriptionRaw = $el.find('description, summary').first().text();
+
+    // Cheerio XML mode: access content:encoded via escaped selector
+    const contentEncodedRaw = $el.find('content\\:encoded').text();
+
     const author =
       cleanText($el.find('author name').text()) ||
       cleanText($el.find('dc\\:creator').text());
@@ -255,7 +268,11 @@ async function scrapeRss(config) {
       if (!isNaN(ts) && ts < cutoff) return;
     }
 
-    const contentText = cleanText(description.replace(/<[^>]*>/g, ''));
+    const excerptText = cleanText(descriptionRaw.replace(/<[^>]*>/g, '')).slice(0, 400) || null;
+    const fullText = contentEncodedRaw
+      ? cleanText(contentEncodedRaw.replace(/<[^>]*>/g, ''))
+      : excerptText;
+
     articles.push({
       id: urlToId(link),
       title,
@@ -263,8 +280,8 @@ async function scrapeRss(config) {
       source: config.source,
       sourceUrl: link,
       publishedAt: pubDate ? new Date(pubDate).toISOString() : null,
-      excerpt: contentText.slice(0, 400) || null,
-      content: contentText,
+      excerpt: excerptText,
+      content: fullText || '',
       scrapedAt: new Date().toISOString(),
     });
   });
@@ -275,25 +292,17 @@ async function scrapeRss(config) {
 
 // ---------------------------------------------------------------------------
 // Site configurations
-// Selectors are best-effort and may need tuning if a site changes its markup.
-// Run `node scripts/scraper.js` locally to test and adjust.
 // ---------------------------------------------------------------------------
 
 const SITE_CONFIGS = [
+  // --- Official site via RSS ---
   {
     source: 'Chicago Bears Official',
-    listUrl: 'https://www.chicagobears.com/news/',
-    selectors: {
-      items: '.nfl-c-article-list__item, article, li.d3-o-media-object',
-      title: '.nfl-c-article-list__headline, h1, h2, h3',
-      link: 'a',
-      date: 'time',
-      author: '.nfl-c-article-list__author, [class*="author"]',
-      excerpt: '.nfl-c-article-list__abstract, [class*="abstract"], p',
-    },
-    followLinks: true,
-    articleBodySelector: '.nfl-c-article__body, [class*="article-body"], .article-content',
+    type: 'rss',
+    rssUrl: 'https://www.chicagobears.com/rss/news',
   },
+
+  // --- AP News via HTML + followLinks (reliable full content) ---
   {
     source: 'AP News',
     listUrl: 'https://apnews.com/hub/chicago-bears',
@@ -308,6 +317,8 @@ const SITE_CONFIGS = [
     followLinks: true,
     articleBodySelector: '.RichTextStoryBody, [class*="ArticleBody"], .article-body',
   },
+
+  // --- Paywalled: headlines/excerpts only ---
   {
     source: 'Chicago Tribune',
     listUrl: 'https://www.chicagotribune.com/sports/chicago-bears/',
@@ -319,7 +330,6 @@ const SITE_CONFIGS = [
       author: '[class*="byline"], [class*="author"]',
       excerpt: 'p, [class*="summary"], [class*="abstract"]',
     },
-    // Paywalled: full-text not available, headlines/excerpts only
   },
   {
     source: 'Chicago Sun-Times',
@@ -332,7 +342,6 @@ const SITE_CONFIGS = [
       author: '[class*="author"], [class*="byline"]',
       excerpt: 'p, [class*="excerpt"], [class*="summary"]',
     },
-    // Paywalled: headlines/excerpts only
   },
   {
     source: "Crain's Chicago Business",
@@ -345,7 +354,6 @@ const SITE_CONFIGS = [
       author: '[class*="author"], [class*="byline"]',
       excerpt: 'p, [class*="summary"], [class*="teaser"]',
     },
-    // Paywalled: headlines only
   },
   {
     source: 'The Athletic',
@@ -358,91 +366,43 @@ const SITE_CONFIGS = [
       author: '[data-testid="byline"], [class*="byline"]',
       excerpt: 'p, [data-testid="summary"], [class*="summary"]',
     },
-    // Paywalled: headlines only
   },
+
+  // --- WordPress / RSS-based sites ---
   {
     source: 'Daily Herald',
-    listUrl: 'https://www.dailyherald.com/sports/chicago-bears/',
-    selectors: {
-      items: 'article, .story, [class*="article-item"], [class*="list-item"]',
-      title: 'h2, h3, .headline, [class*="title"]',
-      link: 'a',
-      date: 'time, .timestamp, [class*="date"]',
-      author: '.byline, [class*="author"]',
-      excerpt: 'p, .summary, [class*="excerpt"]',
-    },
+    type: 'rss',
+    rssUrl: 'https://www.dailyherald.com/search/?f=rss&t=article&l=25&s=start_time&sd=desc&k=%22chicago+bears%22',
   },
   {
     source: '670 The Score',
-    listUrl: 'https://670thescore.com/category/chicago-bears/',
-    selectors: {
-      items: 'article, .post, [class*="article-card"]',
-      title: 'h2, h3, .entry-title, [class*="post-title"]',
-      link: 'h2 a, h3 a, .entry-title a, a',
-      date: 'time, .entry-date, [class*="post-date"]',
-      author: '.author, .entry-author, [class*="author-name"]',
-      excerpt: '.excerpt, .entry-summary, p',
-    },
+    type: 'rss',
+    rssUrl: 'https://670thescore.com/category/chicago-bears/feed/',
   },
   {
     source: 'Fox 32 Chicago',
-    listUrl: 'https://www.fox32chicago.com/tag/chicago-bears',
-    selectors: {
-      items: 'article, [class*="story-"], [class*="article-card"], [class*="content-list"]',
-      title: 'h2, h3, [class*="headline"], [class*="title"]',
-      link: 'a',
-      date: 'time, [class*="date"], [class*="timestamp"]',
-      author: '[class*="byline"], [class*="author"]',
-      excerpt: 'p, [class*="dek"], [class*="excerpt"]',
-    },
+    type: 'rss',
+    rssUrl: 'https://www.fox32chicago.com/tag/chicago-bears.rss',
   },
   {
     source: 'Marquee Sports Network',
-    listUrl: 'https://www.marqueesportsnetwork.com/?s=chicago+bears',
-    selectors: {
-      items: 'article, [class*="post-card"], .card, [class*="search-result"]',
-      title: 'h2, h3, .entry-title, [class*="post-title"]',
-      link: 'h2 a, h3 a, .entry-title a, a',
-      date: 'time, [class*="post-date"], [class*="date"]',
-      author: '[class*="author"], .byline',
-      excerpt: '.entry-summary, p',
-    },
+    type: 'rss',
+    rssUrl: 'https://www.marqueesportsnetwork.com/tag/bears/feed/',
   },
   {
     source: 'CBS Chicago',
-    listUrl: 'https://www.cbsnews.com/chicago/tag/chicago-bears/',
-    selectors: {
-      items: 'article, [class*="item--"], [class*="story"], .item',
-      title: 'h2, h3, [class*="title"], [class*="headline"]',
-      link: 'a',
-      date: 'time, [class*="date"], [class*="timestamp"]',
-      author: '[class*="author"], [class*="byline"]',
-      excerpt: 'p, [class*="dek"], [class*="summary"]',
-    },
+    type: 'rss',
+    rssUrl: 'https://www.cbsnews.com/chicago/tag/chicago-bears/feed/',
   },
   {
     source: 'WGN News',
-    listUrl: 'https://wgntv.com/sports/chicago-bears/',
-    selectors: {
-      items: 'article, [class*="article-"], .story-card, .post',
-      title: 'h2, h3, [class*="headline"], [class*="title"]',
-      link: 'a',
-      date: 'time, [class*="date"], [class*="timestamp"]',
-      author: '[class*="author"], [class*="byline"]',
-      excerpt: 'p, [class*="excerpt"], [class*="summary"]',
-    },
+    type: 'rss',
+    rssUrl: 'https://wgntv.com/sports/chicago-bears/feed/',
   },
   {
     source: 'CHGO Sports',
-    listUrl: 'https://chgosports.com/?s=bears',
-    selectors: {
-      items: 'article, [class*="post"], .card',
-      title: 'h2, h3, .entry-title',
-      link: 'h2 a, h3 a, .entry-title a, a',
-      date: 'time, [class*="date"]',
-      author: '[class*="author"]',
-      excerpt: '.entry-summary, p',
-    },
+    type: 'rss',
+    rssUrl: 'https://chgosports.com/tag/chicago-bears/feed/',
   },
 
   // ---------------------------------------------------------------------------
@@ -478,10 +438,10 @@ async function run() {
 
   const allNew = [];
 
-  // ESPN via API
+  // ESPN via API + followLinks
   allNew.push(...await scrapeEspn());
 
-  // HTML listing sites
+  // All other sites
   for (const config of SITE_CONFIGS) {
     try {
       if (config.type === 'rss') {
@@ -493,7 +453,7 @@ async function run() {
 
       if (config.followLinks && articles.length > 0) {
         console.log(`  Fetching full content for up to ${MAX_FOLLOW_PER_SITE} articles...`);
-        articles = await enrichWithContent(articles, config.articleBodySelector);
+        articles = await enrichWithContent(articles, config.articleBodySelector, config.source);
       }
 
       allNew.push(...articles);
