@@ -77,18 +77,18 @@ function createTitlePage(date, logoBuffer) {
     // Blank spacer
     new Paragraph({ text: '', spacing: { after: 0 } }),
 
-    // TUESDAY, — 35pt, red, centered
+    // TUESDAY, — 35pt, black, centered
     new Paragraph({
-      children: [new TextRun({ text: dayLine, size: 70, color: 'FF0000' })],
+      children: [new TextRun({ text: dayLine, size: 70 })],
       alignment: AlignmentType.CENTER,
       spacing: { after: 0, line: 276 },
     }),
 
-    // FEBRUARY 17th — 35pt, red, centered, superscript suffix (same size)
+    // FEBRUARY 17th — 35pt, black, centered, superscript suffix (same size)
     new Paragraph({
       children: [
-        new TextRun({ text: monthDay, size: 70, color: 'FF0000' }),
-        new TextRun({ text: suffix,   size: 70, color: 'FF0000', superScript: true }),
+        new TextRun({ text: monthDay, size: 70 }),
+        new TextRun({ text: suffix,   size: 70, superScript: true }),
       ],
       alignment: AlignmentType.CENTER,
       spacing: { after: 480 },
@@ -128,7 +128,6 @@ function createPublicationHeader(source, publishedAt) {
         font: 'Courier New',
         size: 20,
         italics: true,
-        color: 'FF0000',
       }),
     ],
     alignment: AlignmentType.RIGHT,
@@ -172,7 +171,6 @@ function createBylineAndPageNumber(author, source, pageNum, totalPages) {
         size: 20,
         bold: true,
         allCaps: true,
-        color: 'FF0000',
       }),
     ],
     tabStops: [{ type: TabStopType.RIGHT, position: TEXT_WIDTH }],
