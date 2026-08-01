@@ -1,6 +1,61 @@
 {
-  "lastUpdated": "2026-07-31T14:18:58.685Z",
+  "lastUpdated": "2026-08-01T13:36:42.431Z",
   "articles": [
+    {
+      "id": "197a6d4602a17c70",
+      "title": "2026 NFL training camp: Latest news, intel for all 32 teams",
+      "author": "NFL Nation",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
+      "publishedAt": "2026-07-31T22:14:42Z",
+      "excerpt": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
+      "content": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
+      "scrapedAt": "2026-08-01T13:36:16.283Z"
+    },
+    {
+      "id": "4b9c58338cf76482",
+      "title": "Bears training camp report: Friday, July 31",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-training-camp-report-friday-july-31",
+      "publishedAt": "2026-07-31T19:46:04.000Z",
+      "excerpt": "Working on an area they have targeted to improve this season, the Bears marched the length of the field and scored a touchdown in an end-of-the-first-half situation Friday in training camp.",
+      "content": "Working on an area they have targeted to improve this season, the Bears marched the length of the field and scored a touchdown in an end-of-the-first-half situation Friday in training camp.",
+      "scrapedAt": "2026-08-01T13:36:19.468Z"
+    },
+    {
+      "id": "736247924be06ef6",
+      "title": "2026 Chicago Bears training camp: Latest intel, updates",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49448378/chicago-bears-training-camp-2026-intel-updates",
+      "publishedAt": "2026-07-31T19:22:26Z",
+      "excerpt": "Follow our daily updates from Bears training camp, including intel on QBs, position battles and potential breakouts.",
+      "content": "Follow our daily updates from Bears training camp, including intel on QBs, position battles and potential breakouts.",
+      "scrapedAt": "2026-08-01T13:36:16.283Z"
+    },
+    {
+      "id": "4d0e121dbea351b4",
+      "title": "Every NFL team's best training camp, preseason riser ever",
+      "author": "NFL Nation",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49464348/nfl-training-camps-preseason-risers-history-davis-cruz-crosby",
+      "publishedAt": "2026-07-31T18:32:43Z",
+      "excerpt": "Let's look back to when 32 NFL players kick-started their careers with strong performances in training camp and the preseason -- one from each team.",
+      "content": "Let's look back to when 32 NFL players kick-started their careers with strong performances in training camp and the preseason -- one from each team.",
+      "scrapedAt": "2026-08-01T13:36:16.283Z"
+    },
+    {
+      "id": "604ce824509c5089",
+      "title": "Ben Johnson: Bears motivated to spurn 'regression' label",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49497927/ben-johnson-bears-motivated-spurn-regression-label",
+      "publishedAt": "2026-07-31T18:19:12Z",
+      "excerpt": "Ben Johnson said his team has been perceived as the \"No. 1 regression candidate\" next season, giving the Bears plenty of motivation heading into next season.",
+      "content": "Ben Johnson said his team has been perceived as the \"No. 1 regression candidate\" next season, giving the Bears plenty of motivation heading into next season.",
+      "scrapedAt": "2026-08-01T13:36:16.283Z"
+    },
     {
       "id": "97e5bed864724b06",
       "title": "Jason McCourty: Rome Odunze doesn't have to be WR1 for Bears",
@@ -10,51 +65,7 @@
       "publishedAt": "2026-07-31T13:45:47Z",
       "excerpt": "Jason McCourty: Rome Odunze doesn't have to be WR1 for Bears",
       "content": "Jason McCourty: Rome Odunze doesn't have to be WR1 for Bears",
-      "scrapedAt": "2026-07-31T14:18:37.309Z"
-    },
-    {
-      "id": "4d0e121dbea351b4",
-      "title": "Every NFL team's best training camp, preseason riser ever",
-      "author": "NFL Nation",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49464348/nfl-training-camps-preseason-risers-history-davis-cruz-crosby",
-      "publishedAt": "2026-07-31T10:00:07Z",
-      "excerpt": "Let's look back to when 32 NFL players kick-started their careers with strong performances in training camp and the preseason -- one from each team.",
-      "content": "Let's look back to when 32 NFL players kick-started their careers with strong performances in training camp and the preseason -- one from each team.",
-      "scrapedAt": "2026-07-31T14:18:37.309Z"
-    },
-    {
-      "id": "736247924be06ef6",
-      "title": "2026 Chicago Bears training camp: Latest intel, updates",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49448378/chicago-bears-training-camp-2026-intel-updates",
-      "publishedAt": "2026-07-30T23:44:04Z",
-      "excerpt": "Follow our daily updates from Bears training camp, including intel on QBs, position battles and potential breakouts.",
-      "content": "Follow our daily updates from Bears training camp, including intel on QBs, position battles and potential breakouts.",
-      "scrapedAt": "2026-07-31T14:18:37.309Z"
-    },
-    {
-      "id": "197a6d4602a17c70",
-      "title": "2026 NFL training camp: Latest news, intel for all 32 teams",
-      "author": "NFL Nation",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
-      "publishedAt": "2026-07-30T23:12:41Z",
-      "excerpt": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
-      "content": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
-      "scrapedAt": "2026-07-31T14:18:37.309Z"
-    },
-    {
-      "id": "038f314d3714f99a",
-      "title": "Bears training camp report: Thursday, July 30",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-training-camp-report-thursday-july-30",
-      "publishedAt": "2026-07-30T19:07:11.000Z",
-      "excerpt": "Quarterback Caleb Williams starred throughout Thursday’s practice, displaying accuracy, touch and timing while spreading the ball around to numerous pass catchers.",
-      "content": "Quarterback Caleb Williams starred throughout Thursday’s practice, displaying accuracy, touch and timing while spreading the ball around to numerous pass catchers.",
-      "scrapedAt": "2026-07-31T14:18:40.140Z"
+      "scrapedAt": "2026-08-01T13:36:16.283Z"
     },
     {
       "id": "2314365724c741f7",
@@ -703,7 +714,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.568Z"
+      "scrapedAt": "2026-08-01T13:36:20.806Z"
     },
     {
       "id": "238e303301355acb",
@@ -846,7 +857,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.567Z"
+      "scrapedAt": "2026-08-01T13:36:20.806Z"
     },
     {
       "id": "e6025261e637f6bf",
@@ -901,7 +912,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.567Z"
+      "scrapedAt": "2026-08-01T13:36:20.806Z"
     },
     {
       "id": "db439d3b5e1af7b3",
@@ -912,7 +923,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.567Z"
+      "scrapedAt": "2026-08-01T13:36:20.806Z"
     },
     {
       "id": "639c0f58638b9002",
@@ -967,7 +978,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.566Z"
+      "scrapedAt": "2026-08-01T13:36:20.805Z"
     },
     {
       "id": "924f6a7b9f63d6d2",
@@ -1066,7 +1077,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.566Z"
+      "scrapedAt": "2026-08-01T13:36:20.805Z"
     },
     {
       "id": "9aa3d6aa28b85161",
@@ -1176,7 +1187,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.566Z"
+      "scrapedAt": "2026-08-01T13:36:20.805Z"
     },
     {
       "id": "f2afc66ebd332973",
@@ -1231,7 +1242,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.566Z"
+      "scrapedAt": "2026-08-01T13:36:20.805Z"
     },
     {
       "id": "ade9cde5ee5e7644",
@@ -1286,7 +1297,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.566Z"
+      "scrapedAt": "2026-08-01T13:36:20.804Z"
     },
     {
       "id": "07743bef2e072fef",
@@ -1308,7 +1319,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.565Z"
+      "scrapedAt": "2026-08-01T13:36:20.804Z"
     },
     {
       "id": "10d7576aa5b8369c",
@@ -1341,7 +1352,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.565Z"
+      "scrapedAt": "2026-08-01T13:36:20.804Z"
     },
     {
       "id": "b39f629e36192969",
@@ -1495,7 +1506,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.565Z"
+      "scrapedAt": "2026-08-01T13:36:20.804Z"
     },
     {
       "id": "31e6e7ce8981c0fd",
@@ -1649,7 +1660,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.565Z"
+      "scrapedAt": "2026-08-01T13:36:20.803Z"
     },
     {
       "id": "4f99670f29d9d588",
@@ -1726,7 +1737,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.564Z"
+      "scrapedAt": "2026-08-01T13:36:20.803Z"
     },
     {
       "id": "7f9d3157acd756a1",
@@ -1803,7 +1814,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.564Z"
+      "scrapedAt": "2026-08-01T13:36:20.803Z"
     },
     {
       "id": "7fcf2c577a1d15f6",
@@ -1814,7 +1825,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.564Z"
+      "scrapedAt": "2026-08-01T13:36:20.803Z"
     },
     {
       "id": "f7085259c27e0cc9",
@@ -1825,7 +1836,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.563Z"
+      "scrapedAt": "2026-08-01T13:36:20.802Z"
     },
     {
       "id": "2ee7bc4b6e2e3cb8",
@@ -1836,7 +1847,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.564Z"
+      "scrapedAt": "2026-08-01T13:36:20.802Z"
     },
     {
       "id": "0aca98ed20535488",
@@ -1880,7 +1891,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.563Z"
+      "scrapedAt": "2026-08-01T13:36:20.802Z"
     },
     {
       "id": "9d5d6c27c89f4c52",
@@ -1979,7 +1990,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.563Z"
+      "scrapedAt": "2026-08-01T13:36:20.801Z"
     },
     {
       "id": "52d467bfdd600c29",
@@ -2287,7 +2298,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.563Z"
+      "scrapedAt": "2026-08-01T13:36:20.801Z"
     },
     {
       "id": "24a54914523257e1",
@@ -2474,7 +2485,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.562Z"
+      "scrapedAt": "2026-08-01T13:36:20.801Z"
     },
     {
       "id": "ebff8628ce4f62c3",
@@ -2562,7 +2573,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.562Z"
+      "scrapedAt": "2026-08-01T13:36:20.800Z"
     },
     {
       "id": "b0fcc42ebc4abd7c",
@@ -2705,7 +2716,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.562Z"
+      "scrapedAt": "2026-08-01T13:36:20.800Z"
     },
     {
       "id": "6e9fc310bf820f78",
@@ -2716,7 +2727,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:40.562Z"
+      "scrapedAt": "2026-08-01T13:36:20.800Z"
     },
     {
       "id": "fd787d9c426c9b9d",
@@ -2804,7 +2815,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "LAKE FOREST, Ill. (AP) — The Chicago Bears have signed safety Dillon Thieneman and center Logan Jones, their top two selections in this year’s NFL draft.The team announced the deals on Friday. Tight end Sam Roush, a third-round selection out of Stanford, is the team’s only draft pick without a deal.The Bears begin a mandatory three-day minicamp on Tuesday.The 21-year-old Thieneman was the No. 25 pick overall, becoming the first defensive player taken in the first round by Chicago since linebacker Roquan Smith in 2018.The 6-foot Thieneman played for Purdue for two years before transferring to Oregon last season. He earned first-team All-Big Ten honors and helped the Ducks go 13-2 while advancing to the College Football Playoff semifinals. He finished with 95 tackles and two interceptions.The 24-year-old Jones was taken in the second round at No. 57 overall. Jones was a defensive lineman at Iowa before switching to offensive line and starting 51 games at center for the Hawkeyes. He won the 2025 Rimington Trophy as the top center in college football. ___AP NFL: https://apnews.com/NFL",
-      "scrapedAt": "2026-07-31T14:18:40.561Z"
+      "scrapedAt": "2026-08-01T13:36:20.799Z"
     },
     {
       "id": "f2f904b4e4566745",
@@ -2891,8 +2902,8 @@
       "sourceUrl": "https://apnews.com/article/bears-dexter-4d96e6e7e730e5a30c4a704f468daa92",
       "publishedAt": null,
       "excerpt": null,
-      "content": "LAKE FOREST, Ill. (AP) — The Chicago Bears are hoping a renewed focus on fundamentals will help energize their pass rush.Defensive lineman Gervon Dexter is already seeing results.“Way different,” Dexter said Tuesday on the first day of the team’s mandatory minicamp. “It’s night and day, in my opinion.”Chicago went 11-6 last season and won the NFC North in coach Ben Johnson’s first year. The defense led the NFL with 23 interceptions and 33 takeaways overall, but it finished with just 35 sacks. The only player in double digits was Montez Sweat with 10, and no one else had more than six.Despite their sagging pass rush, the Bears did not make any major additions to their defensive line in the offseason. They waited until the sixth round of the NFL draft before addressing the position, taking defensive tackle Jordan van den Berg out of Georgia Tech. Dexter, 24, said he heard the conversation about the team needing to add more to its group of defensive linemen.“I feel like we got the guys, though,” he said. “We got the guys in the room to do it. ... Each person in our room knows what they are capable of, so we don’t look at it as, like, a bad thing. We’re taking it on and we’re ready to get after it together.”A year ago, the Bears were installing a new defensive scheme under coordinator Dennis Allen. That was a major part of their preparations for the season, and the coaching staff felt it affected the unit in other ways. Related Stories Deebo Samuel returns to the 49ers on a 1-year deal worth up to $7M, AP source says 1 MIN READ Panthers rookie WR Chris Brazzell to have season-ending surgery on his knee 1 MIN READ Dak Prescott setting high expectations for Cowboys and their offense 3 MIN READ “We do have a high volume of things that we carry in the defense, and we focused so much on that that we lost sight of some of the fundamentals and techniques that it takes to function to do those things,” Allen said last month. “I don’t think we were as fundamentally sound defensively as we need to be. Read More “So how do we have to coach it better? Well, let’s minimize how much we’re focused on the scheme and let’s focus on not what we’re going to do, but how we’re going to do it. I think that’s how we’re going to improve.”Allen and Johnson found a receptive audience in their defensive rooms. “That’s one thing I can definitely appreciate about just being here is because it’s going to make me a better player,” defensive tackle Grady Jarrett said during organized team activities. “It’s going to make us all a better player.”When it comes to their defensive line, the Bears also are hoping for improved health for a couple of key players. Defensive end Dayo Odeyingbo is coming back from an Achilles tendon injury, and Jarrett was slowed by a knee injury in his first season with the team. Shemar Turner, a second-round pick in last year’s draft, played in five games as a rookie before he was sidelined by a torn ACL.Dexter, a second-round selection in the 2023 draft, had a career-high six sacks last year. As part of the emphasis on fundamentals, he has been focusing on getting into a good stance and improving at the start of the play.“I’m looking at it as, it’s another year for me to grow as a player, to get better,” he said. “I’m here to help this team win. We didn’t have the end goal that we wanted last year so I’m here to help get to that goal.”___AP NFL: https://apnews.com/hub/NFL",
-      "scrapedAt": "2026-07-31T14:18:40.561Z"
+      "content": "LAKE FOREST, Ill. (AP) — The Chicago Bears are hoping a renewed focus on fundamentals will help energize their pass rush.Defensive lineman Gervon Dexter is already seeing results.“Way different,” Dexter said Tuesday on the first day of the team’s mandatory minicamp. “It’s night and day, in my opinion.”Chicago went 11-6 last season and won the NFC North in coach Ben Johnson’s first year. The defense led the NFL with 23 interceptions and 33 takeaways overall, but it finished with just 35 sacks. The only player in double digits was Montez Sweat with 10, and no one else had more than six.Despite their sagging pass rush, the Bears did not make any major additions to their defensive line in the offseason. They waited until the sixth round of the NFL draft before addressing the position, taking defensive tackle Jordan van den Berg out of Georgia Tech. Dexter, 24, said he heard the conversation about the team needing to add more to its group of defensive linemen.“I feel like we got the guys, though,” he said. “We got the guys in the room to do it. ... Each person in our room knows what they are capable of, so we don’t look at it as, like, a bad thing. We’re taking it on and we’re ready to get after it together.”A year ago, the Bears were installing a new defensive scheme under coordinator Dennis Allen. That was a major part of their preparations for the season, and the coaching staff felt it affected the unit in other ways. Related Stories The Lions are lead candidates to become latest NFL team to go from worst to first in the division 5 MIN READ Seahawks receiver Tory Horton hopes to pick up where he left off after 2025 season cut short 3 MIN READ Rams won’t know more about Aaron Donald’s possible return before breaking camp, McVay says 1 MIN READ “We do have a high volume of things that we carry in the defense, and we focused so much on that that we lost sight of some of the fundamentals and techniques that it takes to function to do those things,” Allen said last month. “I don’t think we were as fundamentally sound defensively as we need to be. Read More “So how do we have to coach it better? Well, let’s minimize how much we’re focused on the scheme and let’s focus on not what we’re going to do, but how we’re going to do it. I think that’s how we’re going to improve.”Allen and Johnson found a receptive audience in their defensive rooms. “That’s one thing I can definitely appreciate about just being here is because it’s going to make me a better player,” defensive tackle Grady Jarrett said during organized team activities. “It’s going to make us all a better player.”When it comes to their defensive line, the Bears also are hoping for improved health for a couple of key players. Defensive end Dayo Odeyingbo is coming back from an Achilles tendon injury, and Jarrett was slowed by a knee injury in his first season with the team. Shemar Turner, a second-round pick in last year’s draft, played in five games as a rookie before he was sidelined by a torn ACL.Dexter, a second-round selection in the 2023 draft, had a career-high six sacks last year. As part of the emphasis on fundamentals, he has been focusing on getting into a good stance and improving at the start of the play.“I’m looking at it as, it’s another year for me to grow as a player, to get better,” he said. “I’m here to help this team win. We didn’t have the end goal that we wanted last year so I’m here to help get to that goal.”___AP NFL: https://apnews.com/hub/NFL",
+      "scrapedAt": "2026-08-01T13:36:20.799Z"
     },
     {
       "id": "1c19951db2a9a5ce",
@@ -2946,8 +2957,8 @@
       "sourceUrl": "https://apnews.com/article/bears-coby-bryant-4e7c24432082a6b4a460d4db921cfb31",
       "publishedAt": null,
       "excerpt": null,
-      "content": "LAKE FOREST, Ill. (AP) — Coby Bryant was named after the Los Angeles Lakers guard. Being competitive, well, it was destiny.“I’m a true competitor,” he said. “I don’t care if it’s walking down the street, I want to walk faster than somebody else. I don’t care what it is.”Bryant’s fiery intensity is part of a new-look secondary for the Chicago Bears after the safety signed a $40 million, three-year contract with the team in free agency. The 27-year-old Bryant was a key member of Seattle’s dominant defense last season, helping the Seahawks to the franchise’s second Super Bowl championship.Chicago also selected safety Dillon Thieneman in the first round of the NFL draft and cornerback Malik Muhammad in the fourth round. Defensive back Cam Lewis signed a two-year contract with the Bears in March, while safeties Kevin Byard and Jaquan Brisker departed in free agency. “A great group of guys, honestly,” Bryant said of his new team. “I’m still getting to know everyone, but just being here a short amount of time has been special, honestly. We laugh. We put in a lot of work. Guys are willing to work, like I said. It’s been fun. It’s going to be a great year, for sure.”While the secondary has a handful of newcomers, cornerback Jaylon Johnson is back. The 27-year-old Johnson, a two-time Pro Bowler, was limited by a groin injury last season, but he had two interceptions on Tuesday on the first day of mandatory minicamp. Related Stories Deebo Samuel returns to the 49ers on a 1-year deal worth up to $7M, AP source says 1 MIN READ Panthers rookie WR Chris Brazzell to have season-ending surgery on his knee 1 MIN READ Dak Prescott setting high expectations for Cowboys and their offense 3 MIN READ “I think his mind is probably getting more confident in terms of the movements he’s making,” coach Ben Johnson said Wednesday. “So yeah, he’s a vital part of what we want to do. You know he’s been a Pro Bowl-caliber player in the past and hopefully we can get that out of him again this year.” Read More Bryant had a career-high four interceptions last season after picking off three balls in 2024. He missed the final two regular-season games because of a knee injury and returned in the playoffs.Chicago went 11-6 last year and won the NFC North. It edged the Green Bay Packers in a wild-card game before losing an overtime thriller to the Los Angeles Rams in the divisional round. With the Bears looking to take another step forward in their second year under coach Ben Johnson, Bryant has been asked a couple of times about winning the Super Bowl.“The biggest thing is I tell them, you know, just take it one day at a time, one play at a time, one game at a time,” Bryant said. “I try not to use my past — what I did in Seattle — with these guys. The biggest thing I came here to do is be a leader and, you know, direct these guys and lead these guys and vice versa.”Bryant, who had an interception against Caleb Williams during Wednesday’s practice, is expected to serve as a key resource for the speedy Thieneman during his transition to life in the NFL. Bryant was selected by Seattle in the fourth round of the 2022 draft out of the University of Cincinnati.“He’s a rookie, so he wants to go full speed in everything,” Bryant said. “In individual drills, we have to tell him to slow down because I’m not running that fast. I’m 27. He’s 21. Just the speed. He’s very coachable, like I said. He’s exciting to watch, man. He makes plays every day. It’s been special.”___AP NFL: https://apnews.com/hub/nfl",
-      "scrapedAt": "2026-07-31T14:18:40.561Z"
+      "content": "LAKE FOREST, Ill. (AP) — Coby Bryant was named after the Los Angeles Lakers guard. Being competitive, well, it was destiny.“I’m a true competitor,” he said. “I don’t care if it’s walking down the street, I want to walk faster than somebody else. I don’t care what it is.”Bryant’s fiery intensity is part of a new-look secondary for the Chicago Bears after the safety signed a $40 million, three-year contract with the team in free agency. The 27-year-old Bryant was a key member of Seattle’s dominant defense last season, helping the Seahawks to the franchise’s second Super Bowl championship.Chicago also selected safety Dillon Thieneman in the first round of the NFL draft and cornerback Malik Muhammad in the fourth round. Defensive back Cam Lewis signed a two-year contract with the Bears in March, while safeties Kevin Byard and Jaquan Brisker departed in free agency. “A great group of guys, honestly,” Bryant said of his new team. “I’m still getting to know everyone, but just being here a short amount of time has been special, honestly. We laugh. We put in a lot of work. Guys are willing to work, like I said. It’s been fun. It’s going to be a great year, for sure.”While the secondary has a handful of newcomers, cornerback Jaylon Johnson is back. The 27-year-old Johnson, a two-time Pro Bowler, was limited by a groin injury last season, but he had two interceptions on Tuesday on the first day of mandatory minicamp. Related Stories The Lions are lead candidates to become latest NFL team to go from worst to first in the division 5 MIN READ Seahawks receiver Tory Horton hopes to pick up where he left off after 2025 season cut short 3 MIN READ Rams won’t know more about Aaron Donald’s possible return before breaking camp, McVay says 1 MIN READ “I think his mind is probably getting more confident in terms of the movements he’s making,” coach Ben Johnson said Wednesday. “So yeah, he’s a vital part of what we want to do. You know he’s been a Pro Bowl-caliber player in the past and hopefully we can get that out of him again this year.” Read More Bryant had a career-high four interceptions last season after picking off three balls in 2024. He missed the final two regular-season games because of a knee injury and returned in the playoffs.Chicago went 11-6 last year and won the NFC North. It edged the Green Bay Packers in a wild-card game before losing an overtime thriller to the Los Angeles Rams in the divisional round. With the Bears looking to take another step forward in their second year under coach Ben Johnson, Bryant has been asked a couple of times about winning the Super Bowl.“The biggest thing is I tell them, you know, just take it one day at a time, one play at a time, one game at a time,” Bryant said. “I try not to use my past — what I did in Seattle — with these guys. The biggest thing I came here to do is be a leader and, you know, direct these guys and lead these guys and vice versa.”Bryant, who had an interception against Caleb Williams during Wednesday’s practice, is expected to serve as a key resource for the speedy Thieneman during his transition to life in the NFL. Bryant was selected by Seattle in the fourth round of the 2022 draft out of the University of Cincinnati.“He’s a rookie, so he wants to go full speed in everything,” Bryant said. “In individual drills, we have to tell him to slow down because I’m not running that fast. I’m 27. He’s 21. Just the speed. He’s very coachable, like I said. He’s exciting to watch, man. He makes plays every day. It’s been special.”___AP NFL: https://apnews.com/hub/nfl",
+      "scrapedAt": "2026-08-01T13:36:20.798Z"
     },
     {
       "id": "eb90216ca37f653e",
@@ -2979,8 +2990,8 @@
       "sourceUrl": "https://apnews.com/article/bears-caleb-williams-ben-johnson-minicamp-8cbef924b4f3359d0ef5630ec2a6babc",
       "publishedAt": null,
       "excerpt": null,
-      "content": "LAKE FOREST, Ill. (AP) — Being on the cover of “Madden NFL 27” and becoming more of a national celebrity after leading the Chicago Bears to seven comeback wins last season have failed to turn the head of quarterback Caleb Williams.At least that’s what Williams believes, and as Chicago’s minicamp ended Thursday, the third-year quarterback said there are good reasons for it. Possibly the main one is his coach, Ben Johnson.“There’s so much to unlock, there’s so much to get better at, there’s so much left of ball for me and us and accolades that we’ll have as a team and things like that,” Williams said Thursday. “And then having a good support system around me, having Ben and my teammates and things like that I got to look in the face and make sure I’m doing the right thing every single day to accomplish our goal.”Johnson’s tough love last year in training camp and the offseason helped Williams transition well to a new offense in his second season despite a poor 58.1% completion rate. Going through last year with Johnson has the Bears QB feeling miles ahead of where the team started in 2025 with a season-opening loss to the Vikings. “It’s a hell of a lot more fun for me than it was last year just because it was — I was saying it to (running backs Eric Studesville), ‘I feel like I was drowning trying to breathe or stay alive and wait for a boat to come around last year,’” Williams said. “Now this year it’s being able to start where we finished last year, play calls and words and verbiage and speak the same language and now it’s being able to grow more from an earlier stage than maybe doing it a little bit earlier in the season or halfway through the season, speaking on things that really help throughout the year.“That’s the advantage.” Related Stories Deebo Samuel returns to the 49ers on a 1-year deal worth up to $7M, AP source says 1 MIN READ Panthers rookie WR Chris Brazzell to have season-ending surgery on his knee 1 MIN READ Dak Prescott setting high expectations for Cowboys and their offense 3 MIN READ Johnson has been giving Williams daily letter grades during the offseason. The main goal is for him to improve his accuracy, which fell well short of last season’s announced goal of a 70% completion rate. Read More “Ball placement, being able to put the ball in the best position for the wide receivers, first starts with a completion and then from there you grow in the confidence from completing the ball, completion, completion, completion, and then it grows to, how can I place the ball better for these guys in these situations and moments throughout the games and practices?” Williams said. “It starts in practice. It starts with the mindset of that, and then from there you keep growing. “Another thing for me is just always getting better with procedure, being able to see defenses pre-snap and having an idea of what they’ll be in or if I need to make an adjustment. It’s always going to be those couple things for me.”How does Williams’ coach think he’s he doing at all of this?“It’s been OK,” Johnson said.Johnson gave every player three points of emphasis for the summer before they left Halas Hall. He didn’t want to share exactly what they were, but it’s not difficult to imagine Williams’ are targeted toward accuracy.Johnson also is not worried about Williams getting caught up in everything going on in his life off the field, like being the Madden cover boy.“Well, it goes back to my first conversations I’ve had with Caleb and those were he wants to win here in Chicago and he wants to win Super Bowls,” Johnson said. “That’s really his motivating factor. He’s been very clear and consistent with that message over the last year and a half that I’ve gotten to know him.” Williams called his relationship with Johnson a reason he stays grounded and has progressed.“I think getting to the point now there’s times where he’ll be saying something and it’s full agreeance and kind of finish his sentence on some of these things on his mentality and how he wants to win, how he wants to play and who our identity is going to be and being able to build towards that,” Williams said. “He’s obviously a lot more mature than me. He’s older than me by many years.“So he brings a lot of wisdom to me. He notices things that I may not notice in the moment or things like that. So his information, his knowledge, his wisdom and things like that, it goes a long way for me and I’m 110 percent in on whatever he says.” ___AP NFL: https://apnews.com/hub/NFL",
-      "scrapedAt": "2026-07-31T14:18:40.560Z"
+      "content": "LAKE FOREST, Ill. (AP) — Being on the cover of “Madden NFL 27” and becoming more of a national celebrity after leading the Chicago Bears to seven comeback wins last season have failed to turn the head of quarterback Caleb Williams.At least that’s what Williams believes, and as Chicago’s minicamp ended Thursday, the third-year quarterback said there are good reasons for it. Possibly the main one is his coach, Ben Johnson.“There’s so much to unlock, there’s so much to get better at, there’s so much left of ball for me and us and accolades that we’ll have as a team and things like that,” Williams said Thursday. “And then having a good support system around me, having Ben and my teammates and things like that I got to look in the face and make sure I’m doing the right thing every single day to accomplish our goal.”Johnson’s tough love last year in training camp and the offseason helped Williams transition well to a new offense in his second season despite a poor 58.1% completion rate. Going through last year with Johnson has the Bears QB feeling miles ahead of where the team started in 2025 with a season-opening loss to the Vikings. “It’s a hell of a lot more fun for me than it was last year just because it was — I was saying it to (running backs Eric Studesville), ‘I feel like I was drowning trying to breathe or stay alive and wait for a boat to come around last year,’” Williams said. “Now this year it’s being able to start where we finished last year, play calls and words and verbiage and speak the same language and now it’s being able to grow more from an earlier stage than maybe doing it a little bit earlier in the season or halfway through the season, speaking on things that really help throughout the year.“That’s the advantage.” Related Stories The Lions are lead candidates to become latest NFL team to go from worst to first in the division 5 MIN READ Seahawks receiver Tory Horton hopes to pick up where he left off after 2025 season cut short 3 MIN READ Rams won’t know more about Aaron Donald’s possible return before breaking camp, McVay says 1 MIN READ Johnson has been giving Williams daily letter grades during the offseason. The main goal is for him to improve his accuracy, which fell well short of last season’s announced goal of a 70% completion rate. Read More “Ball placement, being able to put the ball in the best position for the wide receivers, first starts with a completion and then from there you grow in the confidence from completing the ball, completion, completion, completion, and then it grows to, how can I place the ball better for these guys in these situations and moments throughout the games and practices?” Williams said. “It starts in practice. It starts with the mindset of that, and then from there you keep growing. “Another thing for me is just always getting better with procedure, being able to see defenses pre-snap and having an idea of what they’ll be in or if I need to make an adjustment. It’s always going to be those couple things for me.”How does Williams’ coach think he’s he doing at all of this?“It’s been OK,” Johnson said.Johnson gave every player three points of emphasis for the summer before they left Halas Hall. He didn’t want to share exactly what they were, but it’s not difficult to imagine Williams’ are targeted toward accuracy.Johnson also is not worried about Williams getting caught up in everything going on in his life off the field, like being the Madden cover boy.“Well, it goes back to my first conversations I’ve had with Caleb and those were he wants to win here in Chicago and he wants to win Super Bowls,” Johnson said. “That’s really his motivating factor. He’s been very clear and consistent with that message over the last year and a half that I’ve gotten to know him.” Williams called his relationship with Johnson a reason he stays grounded and has progressed.“I think getting to the point now there’s times where he’ll be saying something and it’s full agreeance and kind of finish his sentence on some of these things on his mentality and how he wants to win, how he wants to play and who our identity is going to be and being able to build towards that,” Williams said. “He’s obviously a lot more mature than me. He’s older than me by many years.“So he brings a lot of wisdom to me. He notices things that I may not notice in the moment or things like that. So his information, his knowledge, his wisdom and things like that, it goes a long way for me and I’m 110 percent in on whatever he says.” ___AP NFL: https://apnews.com/hub/NFL",
+      "scrapedAt": "2026-08-01T13:36:20.798Z"
     },
     {
       "id": "d7d1df63ddb06094",
@@ -3189,7 +3200,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "LAKE FOREST, Ill. (AP) — The Chicago Bears have signed tight end Sam Roush, one of their two selections in the third round of this year’s NFL draft.Taken at No. 69 overall, Roush was the team’s last unsigned player from the 2026 draft. The Bears announced the deal on Friday.Roush appeared in 48 games over four seasons at Stanford, including 34 starts at tight end. He finished with 119 receptions for 1,201 yards and four touchdowns. ___AP NFL: https://apnews.com/hub/NFL",
-      "scrapedAt": "2026-07-31T14:18:40.560Z"
+      "scrapedAt": "2026-08-01T13:36:20.798Z"
     },
     {
       "id": "1e00c20c892b8f03",
@@ -3265,8 +3276,8 @@
       "sourceUrl": "https://apnews.com/article/nfl-top-players-interior-offensive-line-8d5ab43f04996aed0ecb5097cf83a5ad",
       "publishedAt": null,
       "excerpt": null,
-      "content": "When the Chicago Bears looked to rebuild their offensive line before the start of last season, the first big move they made was to acquire Joe Thuney from Kansas City.Thuney helped turn a weakness for the Bears into a strength with his stellar pass blocking and he earned the honor of being picked as the top interior offensive lineman in the NFL by The Associated Press. A panel of eight AP Pro Football Writers ranked the top five players at guard and center, basing selections on current status entering the 2026 season. First-place votes were worth 10 points. Second- through fifth-place votes were worth 5, 3, 2 and 1 points.Thuney got four first-place votes and narrowly won the voting with 42 points. Kansas City center Creed Humphrey got two first-place votes and was second with 40 points. Denver’s Quinn Meinerz got one first-place vote and came in third, and Atlanta’s Chris Lindstrom got the other first-place vote and was fourth. Indianapolis’ Quenton Nelson came in fifth.Dallas’ Tyler Smith, Las Vegas’ Tyler Linderbaum, Kansas City’s Trey Smith, Seattle’s Grey Zabel, Miami’s Aaron Brewer and Tennessee’s Peter Skoronski also got votes. 1. Joe Thuney, Chicago BearsThuney has been a top performer for the past decade, helping both New England and Kansas City win two Super Bowl titles. He has been picked as an All-Pro the last three seasons and is one of the best pass blockers in the game.He allowed no sacks, one quarterback hit and just 15 total pressures during the 2025 season, according to Pro Football Focus, helping Chicago win its first division title in seven years and win a playoff game for the first time in 15 years. Related Stories Deebo Samuel returns to the 49ers on a 1-year deal worth up to $7M, AP source says 1 MIN READ Panthers rookie WR Chris Brazzell to have season-ending surgery on his knee 1 MIN READ Dak Prescott setting high expectations for Cowboys and their offense 3 MIN READ 2. Creed Humphrey, Kansas City ChiefsThuney’s former teammate in Kansas City has been a top center in the league since being picked in the second round in 2022. Humphrey has been a Pro Bowler the last four seasons and an All-Pro the past two as the anchor of the line for the Chiefs. Humphrey allowed just eight pressures, one sack and two QB hits last season, according to PFF. Read More 3. Quinn Meinerz, Denver BroncosMeinerz made the leap from Division III Wisconsin-Whitewater to the NFL in 2021 with relative ease. He quickly established himself as one of the league’s top guards and a key part of one of the NFL’s top offensive lines in Denver.He is one of the game’s best run blockers and has been named an All-Pro the past two seasons. 4. Chris Lindstrom, Atlanta FalconsLindstrom has been a second-team All-Pro the past four seasons and is a key part of the line that has helped running back Bijan Robinson earn All-Pro honors. Lindstrom has made four Pro Bowls and missed only one game total the past six seasons.5. Quenton Nelson, Indianapolis ColtsNelson was an All-Pro his first three seasons in the NFL from 2018-20. While his level of play has dropped a tick in recent years, he’s still one of the most dependable guards in the league.He has been a Pro Bowler in each of his eight seasons and remains one of the game’s top run blockers.___AP NFL: https://apnews.com/hub/nfl",
-      "scrapedAt": "2026-07-31T14:18:40.560Z"
+      "content": "When the Chicago Bears looked to rebuild their offensive line before the start of last season, the first big move they made was to acquire Joe Thuney from Kansas City.Thuney helped turn a weakness for the Bears into a strength with his stellar pass blocking and he earned the honor of being picked as the top interior offensive lineman in the NFL by The Associated Press. A panel of eight AP Pro Football Writers ranked the top five players at guard and center, basing selections on current status entering the 2026 season. First-place votes were worth 10 points. Second- through fifth-place votes were worth 5, 3, 2 and 1 points.Thuney got four first-place votes and narrowly won the voting with 42 points. Kansas City center Creed Humphrey got two first-place votes and was second with 40 points. Denver’s Quinn Meinerz got one first-place vote and came in third, and Atlanta’s Chris Lindstrom got the other first-place vote and was fourth. Indianapolis’ Quenton Nelson came in fifth.Dallas’ Tyler Smith, Las Vegas’ Tyler Linderbaum, Kansas City’s Trey Smith, Seattle’s Grey Zabel, Miami’s Aaron Brewer and Tennessee’s Peter Skoronski also got votes. 1. Joe Thuney, Chicago BearsThuney has been a top performer for the past decade, helping both New England and Kansas City win two Super Bowl titles. He has been picked as an All-Pro the last three seasons and is one of the best pass blockers in the game.He allowed no sacks, one quarterback hit and just 15 total pressures during the 2025 season, according to Pro Football Focus, helping Chicago win its first division title in seven years and win a playoff game for the first time in 15 years. Related Stories The Lions are lead candidates to become latest NFL team to go from worst to first in the division 5 MIN READ Seahawks receiver Tory Horton hopes to pick up where he left off after 2025 season cut short 3 MIN READ Rams won’t know more about Aaron Donald’s possible return before breaking camp, McVay says 1 MIN READ 2. Creed Humphrey, Kansas City ChiefsThuney’s former teammate in Kansas City has been a top center in the league since being picked in the second round in 2022. Humphrey has been a Pro Bowler the last four seasons and an All-Pro the past two as the anchor of the line for the Chiefs. Humphrey allowed just eight pressures, one sack and two QB hits last season, according to PFF. Read More 3. Quinn Meinerz, Denver BroncosMeinerz made the leap from Division III Wisconsin-Whitewater to the NFL in 2021 with relative ease. He quickly established himself as one of the league’s top guards and a key part of one of the NFL’s top offensive lines in Denver.He is one of the game’s best run blockers and has been named an All-Pro the past two seasons. 4. Chris Lindstrom, Atlanta FalconsLindstrom has been a second-team All-Pro the past four seasons and is a key part of the line that has helped running back Bijan Robinson earn All-Pro honors. Lindstrom has made four Pro Bowls and missed only one game total the past six seasons.5. Quenton Nelson, Indianapolis ColtsNelson was an All-Pro his first three seasons in the NFL from 2018-20. While his level of play has dropped a tick in recent years, he’s still one of the most dependable guards in the league.He has been a Pro Bowler in each of his eight seasons and remains one of the game’s top run blockers.___AP NFL: https://apnews.com/hub/nfl",
+      "scrapedAt": "2026-08-01T13:36:20.797Z"
     },
     {
       "id": "4f8625cd1255abe0",
@@ -3375,8 +3386,8 @@
       "sourceUrl": "https://apnews.com/article/seahawks-training-camp-5667c3e055c485b225c9e30569df44dc",
       "publishedAt": null,
       "excerpt": null,
-      "content": "RENTON, Wash. (AP) — Seattle Seahawks head coach Mike Macdonald is ready to turn the page after capturing the franchise’s second Super Bowl in his second season at the helm. “Look, I’m different than I was this time last year. I’m different than I was at the end of the season. We got, I don’t know, 30 percent of our rosters probably different,” Macdonald said Saturday. “We got changes to our coaching staff. We got guys with a new perspective. … We’re all kind of new people here in this situation, which, by definition, makes us a new team too.”Seattle opened training camp with much of its core in place. It did, however, lose key contributors this past offseason, such as Super Bowl MVP Kenneth Walker III (Chiefs), safety Coby Bryant (Bears), linebacker Boye Mafe (Bengals), and cornerback Riq Woolen (Eagles). It is unclear whether Seattle intends to replace Walker’s production, either by committee with the likes of Emanuel Wilson, who was signed in free agency after three seasons with the Green Bay Packers, rookie Jadarian Price, George Holani and Kenny McIntosh. Or, if the injured Zach Charbonnet will become the main option once he’s healthy. Charbonnet was placed on the physically unable to perform list before camp after tearing his ACL in the divisional game against the San Francisco 49ers.He and Walker were part of a committee approach most of last season, but Charbonnett received a bulk of the carries in the red zone and capitalized with a career-high 12 touchdowns. Related Stories Deebo Samuel returns to the 49ers on a 1-year deal worth up to $7M, AP source says 1 MIN READ Panthers rookie WR Chris Brazzell to have season-ending surgery on his knee 1 MIN READ Dak Prescott setting high expectations for Cowboys and their offense 3 MIN READ “He’s just attacked the heck out of the offseason in his rehab, as you’d expect, and the returns have been what he deserved,” Macdonald said. Read More The Seahawks had a welcoming sight as second-year wide receiver Tory Horton was healthy and running routes all afternoon after a shin injury ended his season prematurely after a scintillating start to his rookie campaign. After missing minicamp and OTA’s, there was optimism he would be ready to go at the start of training camp. “It’s great to see Tory back out there,” Macdonald said. Horton, a fifth-round pick out of Colorado State, scored six touchdowns in his first eight games with Seattle before he was placed on the injured reserve in November. He provides depth to an already deep wide receiver room with AP Offensive Player of the Year Jaxon Smith-Njigba, Cooper Kupp and last season’s midseason acquisition Rashid Shaheed. The Seahawks also placed standout safety Nick Emmanwori on the PUP list after recently having ankle surgery, but there’s expectation he will be ready for their Wednesday night opener on Sept. 9 in a rematch with the New England Patriots. He suffered a low sprain four days before the Super Bowl, but played through the injury.“I think the best way to describe it is something that he’s been dealing with since the Super Bowl,” Macdonald said. “He was able to perform, did some things in the offseason program, but he just got to the point where it was the best for him for the long term to just go ahead and get it fixed.”Emmanwori had 11 passes defended, an interception and 2.5 sacks in 14 games for Seattle. But Macdonald wouldn’t confirm — or deny — that the runner-up for Rookie of the Year would be available. “He could play in the opener,” Macdonald said.___This story has been updated to correct the spelling of Cooper Kupp’s last name.___AP NFL: https://apnews.com/hub/nfl",
-      "scrapedAt": "2026-07-31T14:18:40.559Z"
+      "content": "RENTON, Wash. (AP) — Seattle Seahawks head coach Mike Macdonald is ready to turn the page after capturing the franchise’s second Super Bowl in his second season at the helm. “Look, I’m different than I was this time last year. I’m different than I was at the end of the season. We got, I don’t know, 30 percent of our rosters probably different,” Macdonald said Saturday. “We got changes to our coaching staff. We got guys with a new perspective. … We’re all kind of new people here in this situation, which, by definition, makes us a new team too.”Seattle opened training camp with much of its core in place. It did, however, lose key contributors this past offseason, such as Super Bowl MVP Kenneth Walker III (Chiefs), safety Coby Bryant (Bears), linebacker Boye Mafe (Bengals), and cornerback Riq Woolen (Eagles). It is unclear whether Seattle intends to replace Walker’s production, either by committee with the likes of Emanuel Wilson, who was signed in free agency after three seasons with the Green Bay Packers, rookie Jadarian Price, George Holani and Kenny McIntosh. Or, if the injured Zach Charbonnet will become the main option once he’s healthy. Charbonnet was placed on the physically unable to perform list before camp after tearing his ACL in the divisional game against the San Francisco 49ers.He and Walker were part of a committee approach most of last season, but Charbonnett received a bulk of the carries in the red zone and capitalized with a career-high 12 touchdowns. Related Stories The Lions are lead candidates to become latest NFL team to go from worst to first in the division 5 MIN READ Seahawks receiver Tory Horton hopes to pick up where he left off after 2025 season cut short 3 MIN READ Rams won’t know more about Aaron Donald’s possible return before breaking camp, McVay says 1 MIN READ “He’s just attacked the heck out of the offseason in his rehab, as you’d expect, and the returns have been what he deserved,” Macdonald said. Read More The Seahawks had a welcoming sight as second-year wide receiver Tory Horton was healthy and running routes all afternoon after a shin injury ended his season prematurely after a scintillating start to his rookie campaign. After missing minicamp and OTA’s, there was optimism he would be ready to go at the start of training camp. “It’s great to see Tory back out there,” Macdonald said. Horton, a fifth-round pick out of Colorado State, scored six touchdowns in his first eight games with Seattle before he was placed on the injured reserve in November. He provides depth to an already deep wide receiver room with AP Offensive Player of the Year Jaxon Smith-Njigba, Cooper Kupp and last season’s midseason acquisition Rashid Shaheed. The Seahawks also placed standout safety Nick Emmanwori on the PUP list after recently having ankle surgery, but there’s expectation he will be ready for their Wednesday night opener on Sept. 9 in a rematch with the New England Patriots. He suffered a low sprain four days before the Super Bowl, but played through the injury.“I think the best way to describe it is something that he’s been dealing with since the Super Bowl,” Macdonald said. “He was able to perform, did some things in the offseason program, but he just got to the point where it was the best for him for the long term to just go ahead and get it fixed.”Emmanwori had 11 passes defended, an interception and 2.5 sacks in 14 games for Seattle. But Macdonald wouldn’t confirm — or deny — that the runner-up for Rookie of the Year would be available. “He could play in the opener,” Macdonald said.___This story has been updated to correct the spelling of Cooper Kupp’s last name.___AP NFL: https://apnews.com/hub/nfl",
+      "scrapedAt": "2026-08-01T13:36:20.797Z"
     },
     {
       "id": "0514ac3a59c4901a",
@@ -3441,8 +3452,8 @@
       "sourceUrl": "https://apnews.com/article/bears-kyler-gordon-7adb5ea99ac1df89f6c431507599a78b",
       "publishedAt": null,
       "excerpt": null,
-      "content": "LAKE FOREST, Ill. (AP) — The Chicago Bears are coming off their first NFC North title since 2018. They have one of the NFL’s best young quarterbacks in Caleb Williams, and an array of talent on both sides of the ball.They are no longer an afterthought when it comes to preseason Super Bowl conversation. But they are staying with the same approach they had at this point a year ago.“I think it’s important to have that mindset that you’re always hunting,” general manager Ryan Poles said. “And that’s what we’re going to do. ... We’re going to be hunting at all times.”That process is beginning to ramp up again. Rookies and quarterbacks reported to Halas Hall on Saturday, and the veterans were expected to arrive by Tuesday. The first official practice of training camp is on Wednesday.Chicago went from finishing last in the NFC North for three straight seasons to the top of the division with an 11-6 record in coach Ben Johnson’s first year. The Bears advanced in the playoffs by edging the Green Bay Packers in a wild-card game before losing to the Los Angeles Rams in overtime in the divisional round. “We’ve got a high level of talent on this roster,” Johnson said Tuesday. “I’m not concerned about that at all. I’m more concerned about how we come together as a group right now.”Health also is a concern at the start of training camp. Montez Sweat, who had a team-high 10 sacks last season, was placed on the non-football illness list on Tuesday. Safety Elijah Hicks was added to the physically unable to perform list because of shin discomfort. Related Stories Deebo Samuel returns to the 49ers on a 1-year deal worth up to $7M, AP source says 1 MIN READ Panthers rookie WR Chris Brazzell to have season-ending surgery on his knee 1 MIN READ Dak Prescott setting high expectations for Cowboys and their offense 3 MIN READ The team said it’s a short-term illness for Sweat, and the veteran defensive end is expected back in a few days. Read More Linebacker T.J. Edwards was placed on the non-football injury list on Saturday, and cornerback Kyler Gordon, offensive lineman Ozzy Trapilo and defensive lineman Shemar Stewart went on the PUP list.The 26-year-old Gordon has a calf issue. He was limited to three regular-season games last year because of groin and hamstring injuries. He also played in both of Chicago’s postseason games. The Bears have Jaylon Johnson and Tyrique Stevenson on the outside, but Gordon is the team’s best nickel back — when healthy.“He was here all offseason training, getting right,” Poles said. “We had a delay in that. All hands on deck to get him back. ... Obviously, he’s frustrated. We’re frustrated. We just want him back. He helps our football team. We have to move forward with the guys we have and when he’s ready to go, he’ll be ready to go.”Gordon agreed to a $40 million, three-year contract extension in April 2025. If he is out for a prolonged stretch, rookie Malik Muhammad and Josh Blackwell could be in line for a more prominent role.“There will be certain players that certainly flash here, and we’ll give them opportunities to run with the ones, you know, while Kyler’s out, and we’ll see where it goes from there,” Johnson said.Poles said Edwards has a sore right calf, but the GM didn’t think it was a major issue. Trapilo (left knee) and Turner (torn ACL) are coming back from surgeries.The Bears’ offensive line — one of the team’s biggest strengths last season — also is worth watching during training camp. Braxton Jones, Theo Benedet, Jedrick Wills Jr. and Kiran Amegadjie are part of an open competition at left tackle. Jones has been hampered by injuries since he started 17 games as a rookie in 2022. Wills signed a one-year deal with the Bears in free agency, but he hasn’t appeared in a regular-season game since 2024.Johnson said he thinks Jones has “got another step up in terms of his confidence level than he did a year ago at this time.”Chicago also has an opening at center after Drew Dalman decided to retire. Garrett Bradbury is the front-runner for the job after he was acquired in a March trade with New England. The Bears also selected Logan Jones in the second round of the draft.Right tackle Darnell Wright is in line for a contract extension after he was second-team All-Pro last season. Wright, who turns 25 on Aug. 10, was the No. 10 overall pick in the 2023 draft.“I think there’s a window to get a deal done and then at some point we’ve got to go play football,” Poles said. “So we’ll figure that part out. But obviously I think I’ve said it before, Darnell’s a guy we want here long term.”___AP NFL: https://apnews.com/hub/NFL",
-      "scrapedAt": "2026-07-31T14:18:40.558Z"
+      "content": "LAKE FOREST, Ill. (AP) — The Chicago Bears are coming off their first NFC North title since 2018. They have one of the NFL’s best young quarterbacks in Caleb Williams, and an array of talent on both sides of the ball.They are no longer an afterthought when it comes to preseason Super Bowl conversation. But they are staying with the same approach they had at this point a year ago.“I think it’s important to have that mindset that you’re always hunting,” general manager Ryan Poles said. “And that’s what we’re going to do. ... We’re going to be hunting at all times.”That process is beginning to ramp up again. Rookies and quarterbacks reported to Halas Hall on Saturday, and the veterans were expected to arrive by Tuesday. The first official practice of training camp is on Wednesday.Chicago went from finishing last in the NFC North for three straight seasons to the top of the division with an 11-6 record in coach Ben Johnson’s first year. The Bears advanced in the playoffs by edging the Green Bay Packers in a wild-card game before losing to the Los Angeles Rams in overtime in the divisional round. “We’ve got a high level of talent on this roster,” Johnson said Tuesday. “I’m not concerned about that at all. I’m more concerned about how we come together as a group right now.”Health also is a concern at the start of training camp. Montez Sweat, who had a team-high 10 sacks last season, was placed on the non-football illness list on Tuesday. Safety Elijah Hicks was added to the physically unable to perform list because of shin discomfort. Related Stories The Lions are lead candidates to become latest NFL team to go from worst to first in the division 5 MIN READ Seahawks receiver Tory Horton hopes to pick up where he left off after 2025 season cut short 3 MIN READ Rams won’t know more about Aaron Donald’s possible return before breaking camp, McVay says 1 MIN READ The team said it’s a short-term illness for Sweat, and the veteran defensive end is expected back in a few days. Read More Linebacker T.J. Edwards was placed on the non-football injury list on Saturday, and cornerback Kyler Gordon, offensive lineman Ozzy Trapilo and defensive lineman Shemar Stewart went on the PUP list.The 26-year-old Gordon has a calf issue. He was limited to three regular-season games last year because of groin and hamstring injuries. He also played in both of Chicago’s postseason games. The Bears have Jaylon Johnson and Tyrique Stevenson on the outside, but Gordon is the team’s best nickel back — when healthy.“He was here all offseason training, getting right,” Poles said. “We had a delay in that. All hands on deck to get him back. ... Obviously, he’s frustrated. We’re frustrated. We just want him back. He helps our football team. We have to move forward with the guys we have and when he’s ready to go, he’ll be ready to go.”Gordon agreed to a $40 million, three-year contract extension in April 2025. If he is out for a prolonged stretch, rookie Malik Muhammad and Josh Blackwell could be in line for a more prominent role.“There will be certain players that certainly flash here, and we’ll give them opportunities to run with the ones, you know, while Kyler’s out, and we’ll see where it goes from there,” Johnson said.Poles said Edwards has a sore right calf, but the GM didn’t think it was a major issue. Trapilo (left knee) and Turner (torn ACL) are coming back from surgeries.The Bears’ offensive line — one of the team’s biggest strengths last season — also is worth watching during training camp. Braxton Jones, Theo Benedet, Jedrick Wills Jr. and Kiran Amegadjie are part of an open competition at left tackle. Jones has been hampered by injuries since he started 17 games as a rookie in 2022. Wills signed a one-year deal with the Bears in free agency, but he hasn’t appeared in a regular-season game since 2024.Johnson said he thinks Jones has “got another step up in terms of his confidence level than he did a year ago at this time.”Chicago also has an opening at center after Drew Dalman decided to retire. Garrett Bradbury is the front-runner for the job after he was acquired in a March trade with New England. The Bears also selected Logan Jones in the second round of the draft.Right tackle Darnell Wright is in line for a contract extension after he was second-team All-Pro last season. Wright, who turns 25 on Aug. 10, was the No. 10 overall pick in the 2023 draft.“I think there’s a window to get a deal done and then at some point we’ve got to go play football,” Poles said. “So we’ll figure that part out. But obviously I think I’ve said it before, Darnell’s a guy we want here long term.”___AP NFL: https://apnews.com/hub/NFL",
+      "scrapedAt": "2026-08-01T13:36:20.796Z"
     },
     {
       "id": "e071ecf18d549542",
@@ -3485,8 +3496,8 @@
       "sourceUrl": "https://apnews.com/article/bears-training-camp-caleb-williams-ben-johnson-771778729c37349055dca35f272c5b8c",
       "publishedAt": null,
       "excerpt": null,
-      "content": "LAKE FOREST, Ill. (AP) — The solution to quarterback Caleb Williams’ accuracy issues has Chicago Bears coach Ben Johnson bringing up a familiar number.With training camp underway in his second season, Johnson said he is again expecting a 70% completion rate this year after his third-year quarterback failed to come close to that designated figure last year at 58.1%.Williams believes he can record a higher percentage without flat-out predicting he’ll approach the magic number.Achieving it will require something he didn’t do in his first two seasons, after being the No. 1 pick of the 2024 draft and then leading Chicago to an NFC North title in 2025.“Just hit the easy ones when they’re there,” Williams said. “Be in rhythm with myself. Be confident in my guys, be confident within the play. Deliver a good ball. Deliver a catchable ball. “And then from there, when things happen, I put on the cape and do my thing, but it’s not something that needs to be on or showing until the moment shows up.”Williams’ cape came on for seven fourth-quarter comebacks last year, counting the playoffs.Throughout their first season together, Johnson brought out the tough-love style of coaching for Williams. He had no problem raising his voice repeatedly at practices and being tough in meetings.Whether he would take the harder line again in Williams’ second year within the Bears’ offense wasn’t entirely clear before camp, but Williams had to laugh Wednesday when asked about it after the first practice. Related Stories Deebo Samuel returns to the 49ers on a 1-year deal worth up to $7M, AP source says 1 MIN READ Panthers rookie WR Chris Brazzell to have season-ending surgery on his knee 1 MIN READ Dak Prescott setting high expectations for Cowboys and their offense 3 MIN READ “Oh yeah,” he said. “I know we have a real common goal and it’s to find a way to make the Chicago Bears champions at the end of the day. So everything he says and what he says to me, I’ll do it at 200% and won’t look back. Read More “That’s kind of how it is now. If he yells and curses at me or anything like that, I know it’s for the greater good of the team and so whatever it takes is what it’s going to take.”Although Johnson named 70% again as a target, he isn’t defining anything else specific beyond that number. He sees general improvement possible from Williams within Year 2 of the offense because of simple repetition. “I have this urge as an offensive guy to want to continue to evolve and innovate and push the limits a little bit,” Johnson said. “And yet at the same time, in the back of my mind, what’s best for him is to continue to bank some of these (play) reps.“He’s had two offseasons and one training camp so far, and a full season obviously, to where he’s had a lot of the similar concepts repeat for him. Now we’re at the point where he’s not thinking about the play call, he’s not thinking about the cadence, the motion, and all the rigamarole before the snap. Things are starting to slow down (for him). So, what we need to see here in camp is that anticipation, take it up a notch.”Completion percentage also could improve because Williams’ receivers are more familiar with him and the league. Tight end Colston Loveland and wide receiver Luther Burden were sensations in the season’s second half as rookies. Rome Odunze is now the veteran of the group in his third year after the team traded DJ Moore to Buffalo.“They’re second-year receivers, most of the guys out there, second year or more, so the confidence with them, the confidence within themselves to be able to run the right route, how to run it and create space when they run the route, they’re not just running a route off the board,” Williams said. “So a lot of confidence goes into the work, a lot of confidence goes into myself and then to coach and everybody else.” Williams never actually thought Johnson was going to go easy on him in Year 2. He wouldn’t have it any other way, as the two have forged a good coach-player relationship.“It’s going to be hard, it’s going to be tough like it is every year,” Williams said. “That’s what you embrace, that’s what you enjoy. Because when it shows up on game days and Sundays or whatever day we play on, it’s really rewarding.”___AP NFL: https://apnews.com/hub/NFL",
-      "scrapedAt": "2026-07-31T14:18:40.558Z"
+      "content": "LAKE FOREST, Ill. (AP) — The solution to quarterback Caleb Williams’ accuracy issues has Chicago Bears coach Ben Johnson bringing up a familiar number.With training camp underway in his second season, Johnson said he is again expecting a 70% completion rate this year after his third-year quarterback failed to come close to that designated figure last year at 58.1%.Williams believes he can record a higher percentage without flat-out predicting he’ll approach the magic number.Achieving it will require something he didn’t do in his first two seasons, after being the No. 1 pick of the 2024 draft and then leading Chicago to an NFC North title in 2025.“Just hit the easy ones when they’re there,” Williams said. “Be in rhythm with myself. Be confident in my guys, be confident within the play. Deliver a good ball. Deliver a catchable ball. “And then from there, when things happen, I put on the cape and do my thing, but it’s not something that needs to be on or showing until the moment shows up.”Williams’ cape came on for seven fourth-quarter comebacks last year, counting the playoffs.Throughout their first season together, Johnson brought out the tough-love style of coaching for Williams. He had no problem raising his voice repeatedly at practices and being tough in meetings.Whether he would take the harder line again in Williams’ second year within the Bears’ offense wasn’t entirely clear before camp, but Williams had to laugh Wednesday when asked about it after the first practice. Related Stories The Lions are lead candidates to become latest NFL team to go from worst to first in the division 5 MIN READ Seahawks receiver Tory Horton hopes to pick up where he left off after 2025 season cut short 3 MIN READ Rams won’t know more about Aaron Donald’s possible return before breaking camp, McVay says 1 MIN READ “Oh yeah,” he said. “I know we have a real common goal and it’s to find a way to make the Chicago Bears champions at the end of the day. So everything he says and what he says to me, I’ll do it at 200% and won’t look back. Read More “That’s kind of how it is now. If he yells and curses at me or anything like that, I know it’s for the greater good of the team and so whatever it takes is what it’s going to take.”Although Johnson named 70% again as a target, he isn’t defining anything else specific beyond that number. He sees general improvement possible from Williams within Year 2 of the offense because of simple repetition. “I have this urge as an offensive guy to want to continue to evolve and innovate and push the limits a little bit,” Johnson said. “And yet at the same time, in the back of my mind, what’s best for him is to continue to bank some of these (play) reps.“He’s had two offseasons and one training camp so far, and a full season obviously, to where he’s had a lot of the similar concepts repeat for him. Now we’re at the point where he’s not thinking about the play call, he’s not thinking about the cadence, the motion, and all the rigamarole before the snap. Things are starting to slow down (for him). So, what we need to see here in camp is that anticipation, take it up a notch.”Completion percentage also could improve because Williams’ receivers are more familiar with him and the league. Tight end Colston Loveland and wide receiver Luther Burden were sensations in the season’s second half as rookies. Rome Odunze is now the veteran of the group in his third year after the team traded DJ Moore to Buffalo.“They’re second-year receivers, most of the guys out there, second year or more, so the confidence with them, the confidence within themselves to be able to run the right route, how to run it and create space when they run the route, they’re not just running a route off the board,” Williams said. “So a lot of confidence goes into the work, a lot of confidence goes into myself and then to coach and everybody else.” Williams never actually thought Johnson was going to go easy on him in Year 2. He wouldn’t have it any other way, as the two have forged a good coach-player relationship.“It’s going to be hard, it’s going to be tough like it is every year,” Williams said. “That’s what you embrace, that’s what you enjoy. Because when it shows up on game days and Sundays or whatever day we play on, it’s really rewarding.”___AP NFL: https://apnews.com/hub/NFL",
+      "scrapedAt": "2026-08-01T13:36:20.795Z"
     },
     {
       "id": "99a739779d495965",
@@ -3529,8 +3540,8 @@
       "sourceUrl": "https://apnews.com/article/bears-grady-jarrett-coby-bryant-dennis-allen-177f130968b8c57aad2849bae991e4cb",
       "publishedAt": null,
       "excerpt": null,
-      "content": "LAKE FOREST, Ill. (AP) — During a Thursday training camp practice when Caleb Williams had difficulty finding an incompletion, the Chicago Bears also had to face the downside.As great as their quarterback’s accuracy looked to all points on the field during the scrimmage, he threw the passes against their first-team secondary. That’s supposed to be their defensive strength.The Bears defense struggled mightily much of last year at stopping the run, rushing the passer and staying healthy, but the one thing it could do was intercept passes. Now, a rebuilt secondary might need time to pull together, and it’s questionable whether it actually improved at rushing the passer or stopping the run. It may need another big takeaway year like last season when it picked off 23 passes and recovered 10 fumbles.“You’ve got to live it every day,” defensive coordinator Dennis Allen said about takeaways. “You get the things that you emphasize. So that’s part of the culture of our defense, that runs through the vein of our defense and we have to practice that way every single day. “That has to be the mindset. That doesn’t guarantee anything, but if you don’t have that mindset, then they’re not coming.”At the outset of practices, the Bears have two different safeties in veteran Coby Bryant and rookie Dillon Thieneman, and they have shuffled through three or four players at nickel cornerback with Kyler Gordon out because of a calf muscle injury. Related Stories Deebo Samuel returns to the 49ers on a 1-year deal worth up to $7M, AP source says 1 MIN READ Panthers rookie WR Chris Brazzell to have season-ending surgery on his knee 1 MIN READ Dak Prescott setting high expectations for Cowboys and their offense 3 MIN READ Bryant, the former Seattle Seahawks safety, brings speed and another asset to their secondary. Read More “The biggest thing I want to do is be known for energy,” Bryant said. “That’s something that I always want to be known for. I feel like it can be contagious and like I said, just bring other guys along with me as well. That’s something I want to do.”Even if they do manage to pull together the secondary and challenge last year’s takeaway totals, they haven’t improved pass rush personnel. They started camp with top pass rusher Montez Sweat out because of illness, but he quickly recovered in time to practice Thursday. The surprise they’ve had is defensive end Dayo Odeyingbo’s availability after his season ended with an Achilles tendon tear in early November.“It’s super impressive how hard he’s fought back to come back and come and be able to start off training camp,” defensive tackle Grady Jarrett said. “Had a super tough injury to come back from. Having walked that road before I know the mental toll it does take on you. I’m super proud of him being back ready for training camp and I’m excited for the best things to come for him. “I mean, he’s a grinder. He works every day to put his best foot forward. He’s going to help us. We’re going to need him back.”Yet, Odeyingbo had only one sack in his first Bears season before his midseason injury. It’s why no one would be surprised to see general manager Ryan Poles add a free agent pass rusher or trade for one to complement Sweat and blossoming edge Austin Booker.Allen says they’ll get better as pass rushers another way.“Mechanics, we’re looking for pass rush mechanics,” Allen said. “It’s hard to evaluate a lot of stuff when you’re practicing in underwear. So, we’ll be able to have a better feel of what we got in the run game, what we have in the passing game when we start putting on the pads. That’s where you really kind of determine what you have.” In a few days they’ll have pads on and will be looking for tackles Gervon Dexter and Jarrett and linebacker addition Devin Bush to improve a defense ranked 27th stopping the run in 2025. Like Bryant, Bush was a player they brought in as a free agent for one main reason.“I think one of the things that we’ve looked at is we’re trying to improve our team speed, and I think he’s a guy that can do that for us,” Allen said.Having cornerback Jaylon Johnson back healthy after an injury-plagued 2025 and the return of T.J. Edwards from a season-ending broken leg later in camp should further improve personnel, but overall problems with personnel on the defensive line and new players in the secondary could persist until proven otherwise.Thursday’s problems stopping the pass were an example. “The guys that we’ve got on the field right now are super, highly talented, play a lot of good football and are uniquely blessed with lot of speed and the ability to cover guys at another level and also be good rushers to help us up front as well,” Jarrett said. “I think we’re going to be a unit that works really well together.”___AP NFL: https://apnews.com/hub/NFL",
-      "scrapedAt": "2026-07-31T14:18:40.557Z"
+      "content": "LAKE FOREST, Ill. (AP) — During a Thursday training camp practice when Caleb Williams had difficulty finding an incompletion, the Chicago Bears also had to face the downside.As great as their quarterback’s accuracy looked to all points on the field during the scrimmage, he threw the passes against their first-team secondary. That’s supposed to be their defensive strength.The Bears defense struggled mightily much of last year at stopping the run, rushing the passer and staying healthy, but the one thing it could do was intercept passes. Now, a rebuilt secondary might need time to pull together, and it’s questionable whether it actually improved at rushing the passer or stopping the run. It may need another big takeaway year like last season when it picked off 23 passes and recovered 10 fumbles.“You’ve got to live it every day,” defensive coordinator Dennis Allen said about takeaways. “You get the things that you emphasize. So that’s part of the culture of our defense, that runs through the vein of our defense and we have to practice that way every single day. “That has to be the mindset. That doesn’t guarantee anything, but if you don’t have that mindset, then they’re not coming.”At the outset of practices, the Bears have two different safeties in veteran Coby Bryant and rookie Dillon Thieneman, and they have shuffled through three or four players at nickel cornerback with Kyler Gordon out because of a calf muscle injury. Related Stories The Lions are lead candidates to become latest NFL team to go from worst to first in the division 5 MIN READ Seahawks receiver Tory Horton hopes to pick up where he left off after 2025 season cut short 3 MIN READ Rams won’t know more about Aaron Donald’s possible return before breaking camp, McVay says 1 MIN READ Bryant, the former Seattle Seahawks safety, brings speed and another asset to their secondary. Read More “The biggest thing I want to do is be known for energy,” Bryant said. “That’s something that I always want to be known for. I feel like it can be contagious and like I said, just bring other guys along with me as well. That’s something I want to do.”Even if they do manage to pull together the secondary and challenge last year’s takeaway totals, they haven’t improved pass rush personnel. They started camp with top pass rusher Montez Sweat out because of illness, but he quickly recovered in time to practice Thursday. The surprise they’ve had is defensive end Dayo Odeyingbo’s availability after his season ended with an Achilles tendon tear in early November.“It’s super impressive how hard he’s fought back to come back and come and be able to start off training camp,” defensive tackle Grady Jarrett said. “Had a super tough injury to come back from. Having walked that road before I know the mental toll it does take on you. I’m super proud of him being back ready for training camp and I’m excited for the best things to come for him. “I mean, he’s a grinder. He works every day to put his best foot forward. He’s going to help us. We’re going to need him back.”Yet, Odeyingbo had only one sack in his first Bears season before his midseason injury. It’s why no one would be surprised to see general manager Ryan Poles add a free agent pass rusher or trade for one to complement Sweat and blossoming edge Austin Booker.Allen says they’ll get better as pass rushers another way.“Mechanics, we’re looking for pass rush mechanics,” Allen said. “It’s hard to evaluate a lot of stuff when you’re practicing in underwear. So, we’ll be able to have a better feel of what we got in the run game, what we have in the passing game when we start putting on the pads. That’s where you really kind of determine what you have.” In a few days they’ll have pads on and will be looking for tackles Gervon Dexter and Jarrett and linebacker addition Devin Bush to improve a defense ranked 27th stopping the run in 2025. Like Bryant, Bush was a player they brought in as a free agent for one main reason.“I think one of the things that we’ve looked at is we’re trying to improve our team speed, and I think he’s a guy that can do that for us,” Allen said.Having cornerback Jaylon Johnson back healthy after an injury-plagued 2025 and the return of T.J. Edwards from a season-ending broken leg later in camp should further improve personnel, but overall problems with personnel on the defensive line and new players in the secondary could persist until proven otherwise.Thursday’s problems stopping the pass were an example. “The guys that we’ve got on the field right now are super, highly talented, play a lot of good football and are uniquely blessed with lot of speed and the ability to cover guys at another level and also be good rushers to help us up front as well,” Jarrett said. “I think we’re going to be a unit that works really well together.”___AP NFL: https://apnews.com/hub/NFL",
+      "scrapedAt": "2026-08-01T13:36:20.794Z"
     },
     {
       "id": "f22c40a1ee715179",
@@ -3541,7 +3552,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:53.429Z"
+      "scrapedAt": "2026-08-01T13:36:32.684Z"
     },
     {
       "id": "3e37295634834233",
@@ -3552,7 +3563,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-07-31T14:18:53.429Z"
+      "scrapedAt": "2026-08-01T13:36:32.684Z"
     },
     {
       "id": "9f837903bfce2510",
@@ -3575,6 +3586,28 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-07-31T14:18:53.430Z"
+    },
+    {
+      "id": "d763ff15c03a8b14",
+      "title": "Chicago Bears training camp report: A focus on 2nd quarter — and Ben Johnson responds to Liam Coen’s comment",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/07/31/chicago-bears-training-camp-ben-johnson-liam-coen/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-08-01T13:36:32.684Z"
+    },
+    {
+      "id": "08a8bcca5d837543",
+      "title": "No drama surrounding RT Darnell Wright’s extension talks: ‘I’ll be on the Bears for a long time’",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/07/31/chicago-bears-darnell-wright-contract/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-08-01T13:36:32.684Z"
     }
   ]
 }
