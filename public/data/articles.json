@@ -1,16 +1,49 @@
 {
-  "lastUpdated": "2026-08-27T22:02:12.815Z",
+  "lastUpdated": "2026-08-28T21:58:22.770Z",
   "articles": [
+    {
+      "id": "393b015e56bc9f84",
+      "title": "Bears thrilled to support Chicago State University football program",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-thrilled-to-support-chicago-state-university-football-program",
+      "publishedAt": "2026-08-28T19:58:00.000Z",
+      "excerpt": "On the same day Ben Johnson leads the Bears into their preseason finale against the Titans, his former North Carolina teammate, Bobby Rome II, will coach Chicago State University in its first football game in school history.",
+      "content": "On the same day Ben Johnson leads the Bears into their preseason finale against the Titans, his former North Carolina teammate, Bobby Rome II, will coach Chicago State University in its first football game in school history.",
+      "scrapedAt": "2026-08-28T21:58:06.793Z"
+    },
+    {
+      "id": "766e60f0a715686f",
+      "title": "How every 2026 NFL draft pick has looked in the preseason",
+      "author": "NFL Nation reporters",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49717208/nfl-rookie-2026-nfl-draft-training-camp-preseason-257-picks-report-cards",
+      "publishedAt": "2026-08-28T18:04:09Z",
+      "excerpt": "When will Fernando Mendoza start? Should we expect big things for Sonny Styles, Ja'Kobi Lane and Cashius Howell? We checked in on all 32 NFL teams' rookie classes.",
+      "content": "When will Fernando Mendoza start? Should we expect big things for Sonny Styles, Ja'Kobi Lane and Cashius Howell? We checked in on all 32 NFL teams' rookie classes.",
+      "scrapedAt": "2026-08-28T21:58:04.775Z"
+    },
+    {
+      "id": "c0aa4b72e4df4834",
+      "title": "NFL Rivalries uniforms 2026: Designs, debuts and details",
+      "author": "Anthony Gharib",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49578264/nfl-nike-2026-rivalries-uniform-gear-series-unveiling-nfc-north-afc-south",
+      "publishedAt": "2026-08-28T00:46:26Z",
+      "excerpt": "The second iteration of the NFL's Rivalries uniform series is unveiled with eight new teams from the AFC South and NFC North sharing their threads.",
+      "content": "The second iteration of the NFL's Rivalries uniform series is unveiled with eight new teams from the AFC South and NFC North sharing their threads.",
+      "scrapedAt": "2026-08-28T21:58:04.775Z"
+    },
     {
       "id": "4a9a7a6adfa2b6c6",
       "title": "Titans WR Robinson evaluated for concussion after 'cheap' hit",
       "author": "Turron Davenport",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/49745927/titans-wr-robinson-evaluated-concussion-cheap-hit",
-      "publishedAt": "2026-08-27T21:21:00Z",
+      "publishedAt": "2026-08-27T22:50:10Z",
       "excerpt": "Titans wide receiver Wan'Dale Robinson is being evaluated for a concussion after taking a big hit from Bears safety Xavier Woods during joint practice Thursday.",
       "content": "Titans wide receiver Wan'Dale Robinson is being evaluated for a concussion after taking a big hit from Bears safety Xavier Woods during joint practice Thursday.",
-      "scrapedAt": "2026-08-27T22:01:50.657Z"
+      "scrapedAt": "2026-08-28T21:58:04.775Z"
     },
     {
       "id": "cf7ac604e4c78cc0",
@@ -21,51 +54,7 @@
       "publishedAt": "2026-08-27T20:56:46.000Z",
       "excerpt": "All the latest news from Thursday’s joint practice in Tennessee, including coach Ben Johnson discussing where quarterback Caleb Williams has made the most progress in camp.",
       "content": "All the latest news from Thursday’s joint practice in Tennessee, including coach Ben Johnson discussing where quarterback Caleb Williams has made the most progress in camp.",
-      "scrapedAt": "2026-08-27T22:01:54.150Z"
-    },
-    {
-      "id": "835538bb3ffa5477",
-      "title": "2027 NFL mock draft: Reid's preseason first-round predictions",
-      "author": "Jordan Reid",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/draft2027/story/_/id/49684109/2027-nfl-mock-draft-reid-preseason-first-round-predictions-32-picks-manning-moore-carr",
-      "publishedAt": "2026-08-27T17:13:42Z",
-      "excerpt": "With the college and NFL seasons about to start, Jordan Reid projected the top 32 picks in next year's draft -- including a blockbuster trade.",
-      "content": "With the college and NFL seasons about to start, Jordan Reid projected the top 32 picks in next year's draft -- including a blockbuster trade.",
-      "scrapedAt": "2026-08-27T22:01:50.658Z"
-    },
-    {
-      "id": "e5764e417182729f",
-      "title": "2026 NFL season: Ranking all 32 teams' watchability, excitement",
-      "author": "Ben Solak",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49734084/2026-nfl-season-most-watchable-teams-ranking-excitement-bears-rams-lions-chargers",
-      "publishedAt": "2026-08-27T15:57:08Z",
-      "excerpt": "Which NFL teams are must-watches every Sunday? Ben Solak stacked all 32 by excitement, fun and intrigue, starting with Chicago.",
-      "content": "Which NFL teams are must-watches every Sunday? Ben Solak stacked all 32 by excitement, fun and intrigue, starting with Chicago.",
-      "scrapedAt": "2026-08-27T22:01:50.658Z"
-    },
-    {
-      "id": "361d9d721b881105",
-      "title": "Why Orlovsky is skeptical of Bears' chances to win NFC",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/49742042/why-orlovsky-skeptical-bears-chances-win-nfc",
-      "publishedAt": "2026-08-27T14:46:49Z",
-      "excerpt": "Why Orlovsky is skeptical of Bears' chances to win NFC",
-      "content": "Why Orlovsky is skeptical of Bears' chances to win NFC",
-      "scrapedAt": "2026-08-27T22:01:50.658Z"
-    },
-    {
-      "id": "97179c41a2970445",
-      "title": "Bears getting some help on the injury front",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/49734889/bears-getting-some-help-injury-front",
-      "publishedAt": "2026-08-26T21:02:09Z",
-      "excerpt": "Courtney Cronin details the Bears getting good news on injuries to offensive tackle Darnell Wright and receiver Luther Burden III.",
-      "content": "Courtney Cronin details the Bears getting good news on injuries to offensive tackle Darnell Wright and receiver Luther Burden III.",
-      "scrapedAt": "2026-08-27T22:01:50.658Z"
+      "scrapedAt": "2026-08-28T21:58:06.794Z"
     },
     {
       "id": "2314365724c741f7",
@@ -1836,7 +1825,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.718Z"
+      "scrapedAt": "2026-08-28T21:58:08.126Z"
     },
     {
       "id": "2ee7bc4b6e2e3cb8",
@@ -1891,7 +1880,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.718Z"
+      "scrapedAt": "2026-08-28T21:58:08.125Z"
     },
     {
       "id": "9d5d6c27c89f4c52",
@@ -1990,7 +1979,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.718Z"
+      "scrapedAt": "2026-08-28T21:58:08.125Z"
     },
     {
       "id": "52d467bfdd600c29",
@@ -2298,7 +2287,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.717Z"
+      "scrapedAt": "2026-08-28T21:58:08.125Z"
     },
     {
       "id": "24a54914523257e1",
@@ -2485,7 +2474,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.717Z"
+      "scrapedAt": "2026-08-28T21:58:08.125Z"
     },
     {
       "id": "ebff8628ce4f62c3",
@@ -2573,7 +2562,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.717Z"
+      "scrapedAt": "2026-08-28T21:58:08.124Z"
     },
     {
       "id": "b0fcc42ebc4abd7c",
@@ -2716,7 +2705,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.717Z"
+      "scrapedAt": "2026-08-28T21:58:08.124Z"
     },
     {
       "id": "6e9fc310bf820f78",
@@ -2727,7 +2716,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.717Z"
+      "scrapedAt": "2026-08-28T21:58:08.124Z"
     },
     {
       "id": "fd787d9c426c9b9d",
@@ -2815,7 +2804,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.716Z"
+      "scrapedAt": "2026-08-28T21:58:08.124Z"
     },
     {
       "id": "f2f904b4e4566745",
@@ -2903,7 +2892,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.716Z"
+      "scrapedAt": "2026-08-28T21:58:08.123Z"
     },
     {
       "id": "1c19951db2a9a5ce",
@@ -2958,7 +2947,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.716Z"
+      "scrapedAt": "2026-08-28T21:58:08.123Z"
     },
     {
       "id": "eb90216ca37f653e",
@@ -2991,7 +2980,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.716Z"
+      "scrapedAt": "2026-08-28T21:58:08.123Z"
     },
     {
       "id": "d7d1df63ddb06094",
@@ -3200,7 +3189,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.715Z"
+      "scrapedAt": "2026-08-28T21:58:08.123Z"
     },
     {
       "id": "1e00c20c892b8f03",
@@ -3277,7 +3266,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.715Z"
+      "scrapedAt": "2026-08-28T21:58:08.123Z"
     },
     {
       "id": "4f8625cd1255abe0",
@@ -3387,7 +3376,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.714Z"
+      "scrapedAt": "2026-08-28T21:58:08.122Z"
     },
     {
       "id": "0514ac3a59c4901a",
@@ -3453,7 +3442,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.714Z"
+      "scrapedAt": "2026-08-28T21:58:08.122Z"
     },
     {
       "id": "e071ecf18d549542",
@@ -3497,7 +3486,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.714Z"
+      "scrapedAt": "2026-08-28T21:58:08.122Z"
     },
     {
       "id": "99a739779d495965",
@@ -3541,7 +3530,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.713Z"
+      "scrapedAt": "2026-08-28T21:58:08.121Z"
     },
     {
       "id": "f22c40a1ee715179",
@@ -3618,7 +3607,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.713Z"
+      "scrapedAt": "2026-08-28T21:58:08.121Z"
     },
     {
       "id": "93571fb8ba74e025",
@@ -3629,7 +3618,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.713Z"
+      "scrapedAt": "2026-08-28T21:58:08.121Z"
     },
     {
       "id": "21ed864d2e84f95f",
@@ -3684,7 +3673,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.713Z"
+      "scrapedAt": "2026-08-28T21:58:08.121Z"
     },
     {
       "id": "c8887c1cc122261c",
@@ -3739,7 +3728,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.712Z"
+      "scrapedAt": "2026-08-28T21:58:08.120Z"
     },
     {
       "id": "dd98532d0084bce4",
@@ -3794,7 +3783,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:01:54.712Z"
+      "scrapedAt": "2026-08-28T21:58:08.120Z"
     },
     {
       "id": "3119b3b73e184c38",
@@ -3848,8 +3837,8 @@
       "sourceUrl": "https://apnews.com/article/bears-cam-lewis-thieneman-c6e71357dd3ce059b73cc055f0e5b0dd",
       "publishedAt": null,
       "excerpt": null,
-      "content": "LAKE FOREST, Ill. (AP) — Cam Lewis takes pride in being a team player. Whatever the Chicago Bears need from him, he is ready to go.Right now, that’s free safety.Lewis has been filling in for Coby Bryant since he left practice Monday with an apparent left leg injury. The 29-year-old Lewis signed a two-year contract with Chicago in free agency.“At first I was just splitting time from nickel and safety and then a little portion at dime as well,” Lewis said after Thursday’s practice. “So trying to learn everything. What happened with Coby a couple of days ago, got told to focus a little more on safety so I’ve just been studying that. It’s been going good.”Depending on how long Bryant is sidelined, Lewis could take on a more expanded role early in the season. The Bears also are missing nickel back Kyler Gordon, who is on the physically unable to perform list with a calf issue. Bryant signed a $40 million, three-year contract with Chicago in free agency after helping Seattle to the franchise’s second Super Bowl championship.“We’re still in information collection phase on that in terms of the timeline and the extent of it,” coach Ben Johnson said of Bryant’s injury. “We should have more information here within the next few days.”Johnson had no update on Gordon. Related Stories Rams reacquire WR Tutu Atwell from Dolphins in trade for little-used RB Jarquez Hunter 1 MIN READ Lions coach Campbell pleased with versatility of the secondary 2 MIN READ Colts activate top receiver Alec Pierce from physically unable to perform list after ankle surgery 2 MIN READ While Chicago is taking a closer look at its secondary depth, Johnson made it sound as if the team was nearing the end of its training camp competition at left tackle. But that was before Braxton Jones left Thursday’s practice with an unspecified issue.Lewis made his NFL debut with Buffalo in 2020. He played in 17 games each of his last three seasons with the Bills, making a total of 10 starts. He also has played in 11 playoff games for his career. Read More “I can play safety, I can go out and play nickel, I can play dime if you need me to and go play special teams,” Lewis said. “It’s not about me. I play for the whole team, the whole city and just try to go out there and do my best. That’s the only thing I can do.”Chicago’s opportunistic secondary played a major role in the team’s breakout performance last season. The Bears led the NFL with 23 interceptions on their way to an 11-6 record and the franchise’s first NFC North title since 2018. Bryant and Lewis signed with Chicago in March, and the Bears selected safety Dillon Thieneman and cornerback Malik Muhammad in the draft. Safeties Kevin Byard and Jaquan Brisker departed in free agency.Lewis has been spending more time with Thieneman since Bryant went down.“It’s still early in camp. Haven’t had a lot of reps with him so far, so still getting adjusted to him,” Lewis said. “He’s a hell of a player; I’m excited for him and to see what he does in his career. But just getting comfortable with each other. Just communication, talking after, when we are doing walkthroughs, seeing what he sees right here, how we can hold different disguises and stuff like that. We have a lot of room to grow, it’s still early but I’m excited about that.”___AP NFL: https://apnews.com/hub/NFL",
-      "scrapedAt": "2026-08-27T22:01:54.712Z"
+      "content": "",
+      "scrapedAt": "2026-08-28T21:58:08.120Z"
     },
     {
       "id": "1ee54cdb4f701577",
@@ -3881,8 +3870,8 @@
       "sourceUrl": "https://apnews.com/article/bears-woods-flowers-fd37e589cb9e3b92f360fc5fea37dc74",
       "publishedAt": null,
       "excerpt": null,
-      "content": "LAKE FOREST, Ill. (AP) — The Chicago Bears added significant experience to their secondary on Friday by signing safety Xavier Woods, who has 121 starts in nine NFL seasons.The Bears placed defensive back Dallis Flowers on injured reserve following an injury to his right leg in Thursday’s practice.The 31-year-old Woods has 15 career interceptions, including two in 11 games for Tennessee last season. He had 39 tackles for the Titans.Woods played his first four seasons with Dallas, where he started 48 of 60 games. He also has played for Minnesota and Carolina. He set a career high with 119 tackles and matched his high mark with three interceptions for Carolina in 2024.___AP NFL: https://apnews.com/hub/NFL",
-      "scrapedAt": "2026-08-27T22:01:54.711Z"
+      "content": "",
+      "scrapedAt": "2026-08-28T21:58:08.119Z"
     },
     {
       "id": "c812f1de9bca3c3e",
@@ -3980,8 +3969,8 @@
       "sourceUrl": "https://apnews.com/article/bears-coby-bryant-knee-injury-surgery-253aaae6429af9029a2b2dbe64718f54",
       "publishedAt": null,
       "excerpt": null,
-      "content": "LAKE FOREST, Ill. (AP) — Chicago Bears safety Coby Bryant will miss four to six months after he had surgery on his injured left knee, coach Ben Johnson said Tuesday.Bryant, signed to a $40 million, three-year deal as a free agent this offseason, was expected to be an important part of a revamped Chicago secondary.Johnson said Bryant had surgery Friday without disclosing details of the injury. He did not rule out the possibility that Bryant would return this season.“I got to see him today,” Johnson said. “He’s going to be in a hurry to get back to help us out there at the end of the year.”Bryant was hurt at practice on Aug. 3. ESPN initially reported that he could miss eight to 10 weeks, but the team never confirmed that timeline.Chicago let All-Pro safety Kevin Byard leave for Buffalo in free agency and signed Bryant, who spent four years with the Seattle Seahawks. He was the starting free safety for last year’s Super Bowl-winning squad. “Coby is the template for how we all want our team to play,” Johnson said. “He was a big part of offense, defense and special teams, the mentality, the mindset, his approach. We loved everything about him.“It certainly takes us back a little bit but it also provides opportunity for other guys to fill that void and it might be guys we hope to prod along a little bit.” Related Stories Rams reacquire WR Tutu Atwell from Dolphins in trade for little-used RB Jarquez Hunter 1 MIN READ Lions coach Campbell pleased with versatility of the secondary 2 MIN READ Colts activate top receiver Alec Pierce from physically unable to perform list after ankle surgery 2 MIN READ Former Dallas and Tennessee safety Xavier Woods was signed last week and immediately went in as a replacement for Bryant. He intercepted quarterback Caleb Williams in his first full practice.“He’s a veteran player, he’s played a lot of football, been in a few different schemes,” defensive coordinator Dennis Allen said. “He’s been a productive player.” Read More Woods played for Bears defensive backs coach Al Harris in Dallas at the start of his career.“So there’s some familiarity there with him,” Allen said. “And, I just think, right now, we needed another veteran piece back there in the back end, specifically at the safety position.” Several other Bears players are banged upThe news about Bryant comes as the Bears deal with several less serious injuries. Chicago is preparing to host Cleveland on Saturday in its first preseason game.Wide receiver Luther Burden suffered a groin injury last week and Johnson said he’ll miss the rest of training camp and the preseason, but will return for the start of the regular season.Johnson also updated the injury status of starting left tackle Ozzy Trapilo, who suffered a patellar tendon injury last January in a playoff victory over Green Bay. Trapilo is progressing well, and Johnson wouldn’t rule out his return to practice by the end of preseason.The Bears have been practicing without defensive end Montez Sweat, left tackle Braxton Jones, backup safety/cornerback Cam Lewis and backup safety Elijah Hicks. All of those injuries except for Hicks are considered day-to-day. Starting slot cornerback Kyler Gordon remains on the physically unable to perform list after a calf injury before training camp.The Bears turned to rookie fourth-round pick Malik Muhammad in the slot last week and he continues to work with the starters in that role.___AP NFL: https://apnews.com/hub/NFL",
-      "scrapedAt": "2026-08-27T22:01:54.711Z"
+      "content": "LAKE FOREST, Ill. (AP) — Chicago Bears safety Coby Bryant will miss four to six months after he had surgery on his injured left knee, coach Ben Johnson said Tuesday.Bryant, signed to a $40 million, three-year deal as a free agent this offseason, was expected to be an important part of a revamped Chicago secondary.Johnson said Bryant had surgery Friday without disclosing details of the injury. He did not rule out the possibility that Bryant would return this season.“I got to see him today,” Johnson said. “He’s going to be in a hurry to get back to help us out there at the end of the year.”Bryant was hurt at practice on Aug. 3. ESPN initially reported that he could miss eight to 10 weeks, but the team never confirmed that timeline.Chicago let All-Pro safety Kevin Byard leave for Buffalo in free agency and signed Bryant, who spent four years with the Seattle Seahawks. He was the starting free safety for last year’s Super Bowl-winning squad. “Coby is the template for how we all want our team to play,” Johnson said. “He was a big part of offense, defense and special teams, the mentality, the mindset, his approach. We loved everything about him.“It certainly takes us back a little bit but it also provides opportunity for other guys to fill that void and it might be guys we hope to prod along a little bit.” Related Stories Kirk Cousins looks set to lead the Raiders even as Klint Kubiak keeps QB decision quiet 3 MIN READ Carson Schwesinger went from walk-on to AP NFL Defensive Rookie of the Year 2 MIN READ Tony Romo facing three more citations in connection with his arrest last month 2 MIN READ 18 Former Dallas and Tennessee safety Xavier Woods was signed last week and immediately went in as a replacement for Bryant. He intercepted quarterback Caleb Williams in his first full practice.“He’s a veteran player, he’s played a lot of football, been in a few different schemes,” defensive coordinator Dennis Allen said. “He’s been a productive player.” Read More Woods played for Bears defensive backs coach Al Harris in Dallas at the start of his career.“So there’s some familiarity there with him,” Allen said. “And, I just think, right now, we needed another veteran piece back there in the back end, specifically at the safety position.” Several other Bears players are banged upThe news about Bryant comes as the Bears deal with several less serious injuries. Chicago is preparing to host Cleveland on Saturday in its first preseason game.Wide receiver Luther Burden suffered a groin injury last week and Johnson said he’ll miss the rest of training camp and the preseason, but will return for the start of the regular season.Johnson also updated the injury status of starting left tackle Ozzy Trapilo, who suffered a patellar tendon injury last January in a playoff victory over Green Bay. Trapilo is progressing well, and Johnson wouldn’t rule out his return to practice by the end of preseason.The Bears have been practicing without defensive end Montez Sweat, left tackle Braxton Jones, backup safety/cornerback Cam Lewis and backup safety Elijah Hicks. All of those injuries except for Hicks are considered day-to-day. Starting slot cornerback Kyler Gordon remains on the physically unable to perform list after a calf injury before training camp.The Bears turned to rookie fourth-round pick Malik Muhammad in the slot last week and he continues to work with the starters in that role.___AP NFL: https://apnews.com/hub/NFL",
+      "scrapedAt": "2026-08-28T21:58:08.119Z"
     },
     {
       "id": "8e4b3a5623557a9a",
@@ -4112,8 +4101,8 @@
       "sourceUrl": "https://apnews.com/article/browns-bears-score-watson-sanders-a11e6215a1312999bdfa3ff477ccfb11",
       "publishedAt": null,
       "excerpt": null,
-      "content": "CHICAGO (AP) — It was a mixed bag for Deshaun Watson. Same for Shedeur Sanders.Watson led the Browns on two scoring drives in the first half of Cleveland’s 34-10 loss to the Chicago Bears, and Sanders tossed an ugly interception in the fourth quarter of Saturday’s preseason opener. The QBs are competing for the starting job in coach Todd Monken’s first training camp since taking over in January.“There were some things operationally that I know we can clean up, but I thought at moments we threw the ball well, and that’s what we needed to see,” Monken said.Watson was 11 for 15 for 126 yards but lost a fumble in his first game in almost two years. Sanders was 6 for 11 for 79 yards while playing the third quarter and first part of the fourth.KC Concepcion had a 14-yard touchdown run for Cleveland on the first play of the second quarter. The wide receiver, who also had three receptions for 27 yards, was a first-round pick in this year’s draft. “He’s a very talented player,” Watson said. “He is going to make a lot of plays for this team.”Caleb Williams got the day off as Chicago coach Ben Johnson rested most of his starters. Williams passed for 3,942 yards and 27 touchdowns in Johnson’s first season, helping the Bears win the NFC North for the first time since 2018.Johnson had wide receivers coach Antwaan Randle El call plays in the second half. Related Stories Rams reacquire WR Tutu Atwell from Dolphins in trade for little-used RB Jarquez Hunter 1 MIN READ Lions coach Campbell pleased with versatility of the secondary 2 MIN READ Colts activate top receiver Alec Pierce from physically unable to perform list after ankle surgery 2 MIN READ “I think it was a phenomenal experience for him,” Johnson said, “and I know our guys really rallied around that as well. ... It was a good opportunity for him to get some recognition.”Tyson Bagent played the first half for the Bears, going 13 for 22 for 169 yards and a touchdown. He also threw an interception. Case Keenum was 9 for 10 for 151 yards and two TDs. Read More Kiran Amegadjie started at left tackle as Chicago continued to look at its options for the position. Jedrick Wills Jr. also played against his former team, allowing a sack by Julian Okwara late in the first half.“It’s hard to say a whole lot about left tackle quite yet,” Johnson said. The 30-year-old Watson last played on Oct. 20, 2024. He suffered a season-ending shoulder injury in 2023 and came back the next season only to twice rupture his Achilles tendon.He was also suspended 11 games by the NFL in 2022 after being accused of sexual assault and misconduct by two dozen massage therapists while playing in Houston.Watson helped Cleveland open a 10-0 lead. He fumbled on a sack in the second quarter.“It was good to be able to feel the hits and get tackled a little bit and just, again, play football and throw the ball around and be out there just calling plays,” Watson said.Sanders, who started seven games as a rookie in 2025, was picked off by Beanie Bishop Jr. on a badly overthrown pass intended for Malachi Corley early in the final period.“It was the right read,” Sanders said. “It just slipped. ... I just didn’t execute the decision, but the right decision was made.”Bishop also intercepted a pass by Dillon Gabriel, who finished the game for Cleveland. Gabriel was 5 for 8 for 23 yards.Monken plans to start Sanders in Cleveland’s second preseason game against Buffalo, with Watson beginning the second half behind center. The two will share starting reps during a joint practice with the Bills on Thursday.“The plan was always to get through the Bills game, switch up who was going to start, who was going to play in the second half, and then we’ll go from there,” Monken said. “Every day is important.” InjuriesBrowns defensive backs Michael Coats Jr. (ankle) and Nate Evans (quad) left with injuries.The injury list for the Bears included safety Xavier Woods (groin), linebacker Ruben Hyppolite II (shoulder), tight end Nikola Kalinic (right knee) and linebacker Nephi Sewell (concussion).Bears wide receiver Luther Burden ran on the field before the game. Burden has been sidelined by a groin injury, but he is expected to be ready for the season opener on Sept. 13 at Carolina.Johnson said he thought defensive end Montez Sweat and offensive lineman Braxton Jones would be back at practice this week.Up nextBrowns: Host Buffalo next Saturday.Bears: At Cincinnati next Saturday night. The teams have a joint practice scheduled for Thursday. ___See AP’s full NFL coverage here",
-      "scrapedAt": "2026-08-27T22:01:54.711Z"
+      "content": "CHICAGO (AP) — It was a mixed bag for Deshaun Watson. Same for Shedeur Sanders.Watson led the Browns on two scoring drives in the first half of Cleveland’s 34-10 loss to the Chicago Bears, and Sanders tossed an ugly interception in the fourth quarter of Saturday’s preseason opener. The QBs are competing for the starting job in coach Todd Monken’s first training camp since taking over in January.“There were some things operationally that I know we can clean up, but I thought at moments we threw the ball well, and that’s what we needed to see,” Monken said.Watson was 11 for 15 for 126 yards but lost a fumble in his first game in almost two years. Sanders was 6 for 11 for 79 yards while playing the third quarter and first part of the fourth.KC Concepcion had a 14-yard touchdown run for Cleveland on the first play of the second quarter. The wide receiver, who also had three receptions for 27 yards, was a first-round pick in this year’s draft. “He’s a very talented player,” Watson said. “He is going to make a lot of plays for this team.”Caleb Williams got the day off as Chicago coach Ben Johnson rested most of his starters. Williams passed for 3,942 yards and 27 touchdowns in Johnson’s first season, helping the Bears win the NFC North for the first time since 2018.Johnson had wide receivers coach Antwaan Randle El call plays in the second half. Related Stories Kirk Cousins looks set to lead the Raiders even as Klint Kubiak keeps QB decision quiet 3 MIN READ Carson Schwesinger went from walk-on to AP NFL Defensive Rookie of the Year 2 MIN READ Tony Romo facing three more citations in connection with his arrest last month 2 MIN READ 19 “I think it was a phenomenal experience for him,” Johnson said, “and I know our guys really rallied around that as well. ... It was a good opportunity for him to get some recognition.”Tyson Bagent played the first half for the Bears, going 13 for 22 for 169 yards and a touchdown. He also threw an interception. Case Keenum was 9 for 10 for 151 yards and two TDs. Read More Kiran Amegadjie started at left tackle as Chicago continued to look at its options for the position. Jedrick Wills Jr. also played against his former team, allowing a sack by Julian Okwara late in the first half.“It’s hard to say a whole lot about left tackle quite yet,” Johnson said. The 30-year-old Watson last played on Oct. 20, 2024. He suffered a season-ending shoulder injury in 2023 and came back the next season only to twice rupture his Achilles tendon.He was also suspended 11 games by the NFL in 2022 after being accused of sexual assault and misconduct by two dozen massage therapists while playing in Houston.Watson helped Cleveland open a 10-0 lead. He fumbled on a sack in the second quarter.“It was good to be able to feel the hits and get tackled a little bit and just, again, play football and throw the ball around and be out there just calling plays,” Watson said.Sanders, who started seven games as a rookie in 2025, was picked off by Beanie Bishop Jr. on a badly overthrown pass intended for Malachi Corley early in the final period.“It was the right read,” Sanders said. “It just slipped. ... I just didn’t execute the decision, but the right decision was made.”Bishop also intercepted a pass by Dillon Gabriel, who finished the game for Cleveland. Gabriel was 5 for 8 for 23 yards.Monken plans to start Sanders in Cleveland’s second preseason game against Buffalo, with Watson beginning the second half behind center. The two will share starting reps during a joint practice with the Bills on Thursday.“The plan was always to get through the Bills game, switch up who was going to start, who was going to play in the second half, and then we’ll go from there,” Monken said. “Every day is important.” InjuriesBrowns defensive backs Michael Coats Jr. (ankle) and Nate Evans (quad) left with injuries.The injury list for the Bears included safety Xavier Woods (groin), linebacker Ruben Hyppolite II (shoulder), tight end Nikola Kalinic (right knee) and linebacker Nephi Sewell (concussion).Bears wide receiver Luther Burden ran on the field before the game. Burden has been sidelined by a groin injury, but he is expected to be ready for the season opener on Sept. 13 at Carolina.Johnson said he thought defensive end Montez Sweat and offensive lineman Braxton Jones would be back at practice this week.Up nextBrowns: Host Buffalo next Saturday.Bears: At Cincinnati next Saturday night. The teams have a joint practice scheduled for Thursday. ___See AP’s full NFL coverage here",
+      "scrapedAt": "2026-08-28T21:58:08.118Z"
     },
     {
       "id": "ea1be6dd99b1c1e0",
@@ -4167,8 +4156,8 @@
       "sourceUrl": "https://apnews.com/article/bears-monangai-injury-c77a3021365953c37ec7bf93b147bbfe",
       "publishedAt": null,
       "excerpt": null,
-      "content": "LAKE FOREST, Ill. (AP) — An apparent knee injury to running back Kyle Monangai ruined what initially looked to be a positive day for the Chicago Bears, who returned to practice Sunday after their 34-10 preseason win over the Cleveland Browns on Saturday.Monangai was taken down by defensive tackle Grady Jarrett in a practice without pads and failed to get up after the play. He later was helped up and walked slowly with trainers about 100 yards to Halas Hall.The Bears did not immediately update his status. Monangai ran for 783 yards as a rookie last year in a backfield rotation with D’Andre Swift. Monangai had an unspecified injury earlier in camp but quickly returned and has been working with the team but did not play in Saturday’s preseason opener.“With Kyle, can’t say enough good things about him,” Bears guard Joe Thuney said. “Hopefully it’s nothing too crazy or significant. But football is football. It’s tough. I hope he’s all right.” The injury occurred on a day when last year’s starting left tackle, Ozzy Trapilo, came off the physically unable to perform list and took part in the early, individual work at practice, but not the scrimmage. Trapilo had a patellar tendon injury against Green Bay in the playoffs and had been expected to miss more time, but is back working toward a return.Trapilo coming back to the practice field and the return of Braxton Jones at left tackle from an injury earlier in camp made for a much different picture at that position than in Saturday’s game. Kiran Amegadjie and Jedrick Wills Jr. had played left tackle against the Browns. Related Stories Rams reacquire WR Tutu Atwell from Dolphins in trade for little-used RB Jarquez Hunter 1 MIN READ Lions coach Campbell pleased with versatility of the secondary 2 MIN READ Colts activate top receiver Alec Pierce from physically unable to perform list after ankle surgery 2 MIN READ “Can you believe it?” Thuney said about Trapilo. “It’s awesome, Just a credit to him, the staff here, trainers, weight staff, everybody. It’s just great to see him back in the field. Read More “Who knows what the timetable will be? But great to see him moving in football positions again, helmet on. He had another great year last year and it’s cool to see him out there.”Coach Ben Johnson had called the first preseason game the point when he wanted to have a starter named in the battle for left tackle between Jones, Amegadjie and Wills, but Jones’ injury for the past two weeks has complicated this. The return of Trapilo further clouds the picture. “As soon as we can make a decision, we feel clear and confident this is the person to go forward with, we’d love to be able to do that,” offensive coordinator Press Taylor said. “Until then, we’ll let the process play out.”Wills allowed a sack in Saturday’s game as he and Amegadjie split playing time.“It wasn’t perfect,” Taylor said. “It wasn’t as clean as we’d love it to be going forward. And that’s kind of why there still continues to be an open competition for the position.”The Bears had defensive end Montez Sweat back from injury for part of practice, and also injured back Cam Lewis returned from injury, but safety Xavier Woods was unavailable after suffering a groin injury in Saturday’s game.The Bears also were without starting cornerback Tyrique Stevenson for Sunday’s practice. The Bears go to Cincinnati later in the week for practice against the Bengals and a Saturday game.___See AP’s full NFL coverage here",
-      "scrapedAt": "2026-08-27T22:01:54.710Z"
+      "content": "LAKE FOREST, Ill. (AP) — An apparent knee injury to running back Kyle Monangai ruined what initially looked to be a positive day for the Chicago Bears, who returned to practice Sunday after their 34-10 preseason win over the Cleveland Browns on Saturday.Monangai was taken down by defensive tackle Grady Jarrett in a practice without pads and failed to get up after the play. He later was helped up and walked slowly with trainers about 100 yards to Halas Hall.The Bears did not immediately update his status. Monangai ran for 783 yards as a rookie last year in a backfield rotation with D’Andre Swift. Monangai had an unspecified injury earlier in camp but quickly returned and has been working with the team but did not play in Saturday’s preseason opener.“With Kyle, can’t say enough good things about him,” Bears guard Joe Thuney said. “Hopefully it’s nothing too crazy or significant. But football is football. It’s tough. I hope he’s all right.” The injury occurred on a day when last year’s starting left tackle, Ozzy Trapilo, came off the physically unable to perform list and took part in the early, individual work at practice, but not the scrimmage. Trapilo had a patellar tendon injury against Green Bay in the playoffs and had been expected to miss more time, but is back working toward a return.Trapilo coming back to the practice field and the return of Braxton Jones at left tackle from an injury earlier in camp made for a much different picture at that position than in Saturday’s game. Kiran Amegadjie and Jedrick Wills Jr. had played left tackle against the Browns. Related Stories Kirk Cousins looks set to lead the Raiders even as Klint Kubiak keeps QB decision quiet 3 MIN READ Carson Schwesinger went from walk-on to AP NFL Defensive Rookie of the Year 2 MIN READ Tony Romo facing three more citations in connection with his arrest last month 2 MIN READ 19 “Can you believe it?” Thuney said about Trapilo. “It’s awesome, Just a credit to him, the staff here, trainers, weight staff, everybody. It’s just great to see him back in the field. Read More “Who knows what the timetable will be? But great to see him moving in football positions again, helmet on. He had another great year last year and it’s cool to see him out there.”Coach Ben Johnson had called the first preseason game the point when he wanted to have a starter named in the battle for left tackle between Jones, Amegadjie and Wills, but Jones’ injury for the past two weeks has complicated this. The return of Trapilo further clouds the picture. “As soon as we can make a decision, we feel clear and confident this is the person to go forward with, we’d love to be able to do that,” offensive coordinator Press Taylor said. “Until then, we’ll let the process play out.”Wills allowed a sack in Saturday’s game as he and Amegadjie split playing time.“It wasn’t perfect,” Taylor said. “It wasn’t as clean as we’d love it to be going forward. And that’s kind of why there still continues to be an open competition for the position.”The Bears had defensive end Montez Sweat back from injury for part of practice, and also injured back Cam Lewis returned from injury, but safety Xavier Woods was unavailable after suffering a groin injury in Saturday’s game.The Bears also were without starting cornerback Tyrique Stevenson for Sunday’s practice. The Bears go to Cincinnati later in the week for practice against the Bengals and a Saturday game.___See AP’s full NFL coverage here",
+      "scrapedAt": "2026-08-28T21:58:08.118Z"
     },
     {
       "id": "73bf75777707451e",
@@ -4212,7 +4201,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "LAKE FOREST, Ill. (AP) — The Chicago Bears have signed veteran defensive end Marcus Davenport and defensive back Deantre Prince.The Bears also waived running back Coleman Bennett in moves announced Monday and waived tight end Nikola Kalinic with an injury designation.Davenport played the last two seasons with Detroit, but was limited to 10 combined games due to chest and triceps injuries. The 29-year-old played the 2023 season with Minnesota after starting his career in New Orleans.Davenport had a combined 10 1/2 sacks his first two seasons with the Saints and in 2022 played under Dennis Allen, now Chicago’s defensive coordinator. Davenport has 25 sacks in 77 career games.Kalinic suffered a knee injury in Chicago’s preseason game against Cleveland on Saturday and did not return.___See AP’s full NFL coverage here",
-      "scrapedAt": "2026-08-27T22:01:54.710Z"
+      "scrapedAt": "2026-08-28T21:58:08.118Z"
     },
     {
       "id": "421a6996c036667b",
@@ -4288,8 +4277,8 @@
       "sourceUrl": "https://apnews.com/article/baylor-preview-aranda-big-12-13111317b00aba9648a8ce33b3cd1087",
       "publishedAt": null,
       "excerpt": null,
-      "content": "Baylor 2025 Record: 5-7ExpectationsBaylor coach Dave Aranda likely can’t survive another losing season. If not for the unexpected resignation of the school’s athletic director late last season, Aranda might not have been back with the Bears for this one.They are going into Aranda’s seventh season with a new quarterback (Florida transfer and Texas native DJ Lagway), a lot of new receivers and a new defensive coordinator (Joe Klanderman from Kansas State). Aranda has a 36-37 record after going 5-7 last season, when the Bears lost five of their last six games and finished with a three-game losing streak. The last two losses came after AD Mack Rhoades resigned for personal reasons and school president Linda Livingstone said Aranda would stay for 2026. Baylor is 22-28 since a school-record 12 wins with a Big 12 title and Sugar Bowl win over Ole Miss in 2021, Aranda’s second season. The only winning record since was 8-5 in 2024, when the Bears won their last six regular-season games amid questions even then about the coach’s future. Aranda was coming off an undefeated national championship season as LSU’s defensive coordinator when he got the Baylor job. The Bears last season allowed 32.6 points a game, while they scored 31.1 and had a Power Four high 24 turnovers. Aranda is giving defensive play-calling duties to Klanderman. Strengths include a deep running back room Even after leading rusher Bryson Washington transferred to Auburn, which is Baylor’s season-opening opponent in Atlanta on Sept. 5, the Bears have a deep and talented group of running backs. Caden Knighten ran for 469 yards last season and his 11 catches for 134 yards lead all returning players. Dawson Pendergrass is back after missing all last season with a foot injury. As a true freshman in 2023, Pendergrass ran for 338 yards with five TDs, and in a two-man rotation with 1,000-yard rusher Washington in 2024 had 671 yards with six TDs. Michael Turner as a true freshman last year ran for 320 yards in eight games. Vanderbilt names Blaze Berlowitz the Week 1 starter, with freshman Jared Curtis set to play ACC becomes fourth and final power conference to approve banning players who were on NFL rosters Kevin Jennings unexpectedly got to stay home, QB now in final season at SMU as Heisman hopeful Weaknesses include lack of experience at receiverThe Bears’ up-tempo spread offense lost more than graduated quarterback Sawyer Robertson after his 61 touchdown passes in 30 games and consecutive 3,000-yard seasons. The top five receivers from last year are also gone. There are six new receivers on the roster, including transfers Dre’lon Miller (from Colorado) and Gavin Freeman (from Oklahoma State). Jadon Porter’s nine catches for 85 yards last season were the most for the returners. Lagway started 19 of his 24 games at Florida the past two seasons, throwing for 4,179 yards, 28 TDs and 23 interceptions before transferring to his father’s alma mater. Read More New facesLagway (transfer from Florida), Miller (transfer from Colorado), DE/LB Ryan Davis (transfer from Kansas State), OL Logan Moore (transfer from UAB), DL Hosea Wheeler (transfer from Indiana). Sign up for Top 25 Poll Alerts: Get email alerts for every college football Top 25 Poll release. Email address Sign up By checking this box, you agree to AP's Terms of Use and acknowledge that AP may collect and use your data pursuant to our Privacy Policy. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Key lossesWR Josh Cameron, QB Sawyer Robertson, LB Keaton Thomas (transferred to Ole Miss), Washington (transferred to Auburn), PK Connor Hawkins (transferred to Ohio State). Biggest games for the Bears vs. Auburn in Atlanta (Sept. 5), vs. TCU (Oct. 17), vs. No. 12 Texas Tech (Nov. 21).___AP college football: Sign up for Top 25 poll alerts here, visit the Top 25 here and see AP’s full college football coverage here",
-      "scrapedAt": "2026-08-27T22:01:54.709Z"
+      "content": "Baylor 2025 Record: 5-7ExpectationsBaylor coach Dave Aranda likely can’t survive another losing season. If not for the unexpected resignation of the school’s athletic director late last season, Aranda might not have been back with the Bears for this one.They are going into Aranda’s seventh season with a new quarterback (Florida transfer and Texas native DJ Lagway), a lot of new receivers and a new defensive coordinator (Joe Klanderman from Kansas State). Aranda has a 36-37 record after going 5-7 last season, when the Bears lost five of their last six games and finished with a three-game losing streak. The last two losses came after AD Mack Rhoades resigned for personal reasons and school president Linda Livingstone said Aranda would stay for 2026. Baylor is 22-28 since a school-record 12 wins with a Big 12 title and Sugar Bowl win over Ole Miss in 2021, Aranda’s second season. The only winning record since was 8-5 in 2024, when the Bears won their last six regular-season games amid questions even then about the coach’s future. Aranda was coming off an undefeated national championship season as LSU’s defensive coordinator when he got the Baylor job. The Bears last season allowed 32.6 points a game, while they scored 31.1 and had a Power Four high 24 turnovers. Aranda is giving defensive play-calling duties to Klanderman. Strengths include a deep running back room Even after leading rusher Bryson Washington transferred to Auburn, which is Baylor’s season-opening opponent in Atlanta on Sept. 5, the Bears have a deep and talented group of running backs. Caden Knighten ran for 469 yards last season and his 11 catches for 134 yards lead all returning players. Dawson Pendergrass is back after missing all last season with a foot injury. As a true freshman in 2023, Pendergrass ran for 338 yards with five TDs, and in a two-man rotation with 1,000-yard rusher Washington in 2024 had 671 yards with six TDs. Michael Turner as a true freshman last year ran for 320 yards in eight games. Big Ten will release 4 player availability reports per week for games matching conference teams Oklahoma State pins its revival hopes on Drew Mestemaker after his unlikely QB rise Vanderbilt names Blaze Berlowitz the Week 1 starter, with freshman Jared Curtis set to play Weaknesses include lack of experience at receiverThe Bears’ up-tempo spread offense lost more than graduated quarterback Sawyer Robertson after his 61 touchdown passes in 30 games and consecutive 3,000-yard seasons. The top five receivers from last year are also gone. There are six new receivers on the roster, including transfers Dre’lon Miller (from Colorado) and Gavin Freeman (from Oklahoma State). Jadon Porter’s nine catches for 85 yards last season were the most for the returners. Lagway started 19 of his 24 games at Florida the past two seasons, throwing for 4,179 yards, 28 TDs and 23 interceptions before transferring to his father’s alma mater. Read More New facesLagway (transfer from Florida), Miller (transfer from Colorado), DE/LB Ryan Davis (transfer from Kansas State), OL Logan Moore (transfer from UAB), DL Hosea Wheeler (transfer from Indiana). Sign up for Top 25 Poll Alerts: Get email alerts for every college football Top 25 Poll release. Email address Sign up By checking this box, you agree to AP's Terms of Use and acknowledge that AP may collect and use your data pursuant to our Privacy Policy. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Key lossesWR Josh Cameron, QB Sawyer Robertson, LB Keaton Thomas (transferred to Ole Miss), Washington (transferred to Auburn), PK Connor Hawkins (transferred to Ohio State). Biggest games for the Bears vs. Auburn in Atlanta (Sept. 5), vs. TCU (Oct. 17), vs. No. 12 Texas Tech (Nov. 21).___AP college football: Sign up for Top 25 poll alerts here, visit the Top 25 here and see AP’s full college football coverage here",
+      "scrapedAt": "2026-08-28T21:58:08.117Z"
     },
     {
       "id": "3f0c5d7d40e6e022",
@@ -4299,8 +4288,8 @@
       "sourceUrl": "https://apnews.com/article/chicago-bears-cincinnati-bengals-practice-f0fa82e7235103fb8951e8c050f21cbb",
       "publishedAt": null,
       "excerpt": null,
-      "content": "CINCINNATI (AP) — In the most extensive action that the Cincinnati Bengals will get before the start of the regular season, defensive tackle Dexter Lawrence made his presence felt with an interception, several pressures and a terrific performance in a joint practice against the Chicago Bears on Thursday.In a scrimmage portion of the practice, Lawrence made the play of the day by reading a screen and tipping the pass to himself. On the following drive, a stop that closed it out, Lawrence had a key pressure followed by a sack.The interception was the highlight of this entire Bengals training camp.“I saw the ball get tipped,” linebacker Barrett Carter said. “As a defense, we need to get those. I’m thinking, ‘Who’s the closest to it?’ And then I see this large man under the ball. I was thinking, ‘Please, Dex, just catch it.’ I didn’t know if he had the ball skills or not. He did. I’m glad he’s on my team.” The Bengals defense won the day. There was one more “scrimmage” session, and Myles Murphy denied the Bears’ two-minute drive with consecutive sacks. One of the sacks looked as if it could have been a safety.“He’s an all-pro guy. He’s one of the best if not the best defensive tackle with (Chiefs DL) Chris Jones and all of them up there. He’s a force to be reckoned with,” Bears quarterback Caleb Williams said. “They were a great test for us. They invested pretty heavily in the defense from last year and it showed up today. Then being able to cause some negative plays and things like that.” Related Stories Rams reacquire WR Tutu Atwell from Dolphins in trade for little-used RB Jarquez Hunter 1 MIN READ Lions coach Campbell pleased with versatility of the secondary 2 MIN READ Colts activate top receiver Alec Pierce from physically unable to perform list after ankle surgery 2 MIN READ The Bengals defense started slow but did a great job of closing out the practice. Read More “We were talking on the sideline before that period,” Murphy said. “We’ve got to end it out regardless of what the offense does. We’ve got to show them what we’re about.”It wasn’t all perfect, and every level of the defense was given something to work on. The defense took a bit to get going and struggled more in the red zone. But on the whole, the defense won more than the Bears offense. The Bengals pass rush was the star of the day.“The D-Line is a DB’s best friend,” cornerback DJ Turner said. “They were getting back there.” The Bengals won both scrimmage sessions, closing out one of them with a field goal from Evan McPherson. After struggling to contain the pass rush all camp, the Bengals’ offensive line got to face a different opponent and took a step forward against the Bears.“It was a great day,” center Ted Karras said. “We had a few things that we wanted to try. A couple of play actions could have been better in the base downs period. Other than that, it was smooth sailing. We got after it. Good runs. Good pockets. And we won both situations in the end.”Wide receiver Tee Higgins had a productive day for the offense, and the run game continued to show promise.The offense wasn’t firing on all cylinders, and the unit hasn’t had a consistent overall camp.“We’re still figuring it out,” quarterback Joe Burrow said. “I think No. 1, we have to be more consistent. We’ve shown flashes, but not terribly consistent, and so we have to be better at that, for sure. And I definitely play a role in that. We have some things to fix, but we got three weeks until the first game, so we still got some time.”The Bengals starters aren’t expected to play in the second preseason game on Saturday against the Bears. There was one minor scuffle during the joint practice after Chicago’s Dayo Odeyingbo made contact with Burrow, which didn’t make wide receiver Ja’Marr Chase happy.“I don’t care what we do, We just better protect Joe,” Chase said.The Bengals’ first-team units got the overwhelming majority of the action on Thursday, so the preseason game will give the second, third and fourth-string units an opportunity.The Bengals still have intriguing position depth battles at offensive line and cornerback. They could get more answers at those positions in the game on Saturday.___See AP’s full NFL coverage here",
-      "scrapedAt": "2026-08-27T22:01:54.710Z"
+      "content": "CINCINNATI (AP) — In the most extensive action that the Cincinnati Bengals will get before the start of the regular season, defensive tackle Dexter Lawrence made his presence felt with an interception, several pressures and a terrific performance in a joint practice against the Chicago Bears on Thursday.In a scrimmage portion of the practice, Lawrence made the play of the day by reading a screen and tipping the pass to himself. On the following drive, a stop that closed it out, Lawrence had a key pressure followed by a sack.The interception was the highlight of this entire Bengals training camp.“I saw the ball get tipped,” linebacker Barrett Carter said. “As a defense, we need to get those. I’m thinking, ‘Who’s the closest to it?’ And then I see this large man under the ball. I was thinking, ‘Please, Dex, just catch it.’ I didn’t know if he had the ball skills or not. He did. I’m glad he’s on my team.” The Bengals defense won the day. There was one more “scrimmage” session, and Myles Murphy denied the Bears’ two-minute drive with consecutive sacks. One of the sacks looked as if it could have been a safety.“He’s an all-pro guy. He’s one of the best if not the best defensive tackle with (Chiefs DL) Chris Jones and all of them up there. He’s a force to be reckoned with,” Bears quarterback Caleb Williams said. “They were a great test for us. They invested pretty heavily in the defense from last year and it showed up today. Then being able to cause some negative plays and things like that.” Related Stories Kirk Cousins looks set to lead the Raiders even as Klint Kubiak keeps QB decision quiet 3 MIN READ Carson Schwesinger went from walk-on to AP NFL Defensive Rookie of the Year 2 MIN READ Tony Romo facing three more citations in connection with his arrest last month 2 MIN READ 18 The Bengals defense started slow but did a great job of closing out the practice. Read More “We were talking on the sideline before that period,” Murphy said. “We’ve got to end it out regardless of what the offense does. We’ve got to show them what we’re about.”It wasn’t all perfect, and every level of the defense was given something to work on. The defense took a bit to get going and struggled more in the red zone. But on the whole, the defense won more than the Bears offense. The Bengals pass rush was the star of the day.“The D-Line is a DB’s best friend,” cornerback DJ Turner said. “They were getting back there.” The Bengals won both scrimmage sessions, closing out one of them with a field goal from Evan McPherson. After struggling to contain the pass rush all camp, the Bengals’ offensive line got to face a different opponent and took a step forward against the Bears.“It was a great day,” center Ted Karras said. “We had a few things that we wanted to try. A couple of play actions could have been better in the base downs period. Other than that, it was smooth sailing. We got after it. Good runs. Good pockets. And we won both situations in the end.”Wide receiver Tee Higgins had a productive day for the offense, and the run game continued to show promise.The offense wasn’t firing on all cylinders, and the unit hasn’t had a consistent overall camp.“We’re still figuring it out,” quarterback Joe Burrow said. “I think No. 1, we have to be more consistent. We’ve shown flashes, but not terribly consistent, and so we have to be better at that, for sure. And I definitely play a role in that. We have some things to fix, but we got three weeks until the first game, so we still got some time.”The Bengals starters aren’t expected to play in the second preseason game on Saturday against the Bears. There was one minor scuffle during the joint practice after Chicago’s Dayo Odeyingbo made contact with Burrow, which didn’t make wide receiver Ja’Marr Chase happy.“I don’t care what we do, We just better protect Joe,” Chase said.The Bengals’ first-team units got the overwhelming majority of the action on Thursday, so the preseason game will give the second, third and fourth-string units an opportunity.The Bengals still have intriguing position depth battles at offensive line and cornerback. They could get more answers at those positions in the game on Saturday.___See AP’s full NFL coverage here",
+      "scrapedAt": "2026-08-28T21:58:08.117Z"
     },
     {
       "id": "8ef2fdb272d496b6",
@@ -4354,8 +4343,8 @@
       "sourceUrl": "https://apnews.com/article/bengals-bears-score-58555a4ec5a4b3bf6e7be402a101cc0d",
       "publishedAt": null,
       "excerpt": null,
-      "content": "CINCINNATI (AP) — With Joe Burrow, Joe Flacco and the rest of Cincinnati’s starters and key backups watching in street clothes, 40-year-old journeyman Josh Johnson led the Bengals to a 27-9 preseason victory over the Chicago Bears on Saturday night.After directing a 14-play, 67-yard drive against Chicago’s starting defense to open the game, Johnson threw a pair of touchdown passes late in the second quarter to give the Bengals (2-0) an 11-point lead and ending his night.“I think it’s always good to go out there and show you can still make plays,” said Johnson, whose first NFL season was 2008 with Tampa Bay. “In this business, people want to put labels on you and put tags on you. Everybody thinks they have the right answers. The one person I know who has the answers is the man above.”Johnson went 15 of 23 for 156 yards with touchdown passes of 17 yards to rookie wide receiver Colbie Young and 6 to veteran tight end Tanner Hudson, the latter coming with 23 seconds left in the first half. “Josh, I thought played excellent and finished with a nice touchdown drive at halftime,” Bengals coach Zac Taylor said. “I probably would have played him into the third quarter, but I just thought he played real clean and so I got Sean (Clifford) in there in the second half.”Chicago quarterback Caleb Williams and the rest of the Bears’ starters made their preseason debuts in cameo fashion, playing just the opening series. Related Stories Rams reacquire WR Tutu Atwell from Dolphins in trade for little-used RB Jarquez Hunter 1 MIN READ Lions coach Campbell pleased with versatility of the secondary 2 MIN READ Colts activate top receiver Alec Pierce from physically unable to perform list after ankle surgery 2 MIN READ Williams was 2 of 5 for 28 yards, with all three incompletions coming after Chicago (1-1) drove into the red zone only to have a holding penalty set up first-and-20 at the Bengals 27. Read More After the back-to-back-to-back incompletions — the second of which was off target to a wide-open Colston Loveland inside the 10 — Cairo Santos kicked a 45-yard field goal for a 3-0 lead.Santos added field goals of 26 and 44 yards, but missed from 53. Cincinnati’s Evan McPherson hit from 58 and 25 yards.Case Keenum replaced Williams and played until halftime, going 9 of 17 for 119 yards with no touchdowns or interceptions. Cincinnati first-year receiver Dohnte Meyers, a Canadian Football League import, continued to make an impressive case for a spot on the 53-man roster with five catches for 41 yards, a 9-yard rush, kick returns of 29 and 25 yards and punt returns of 25 and 9 yards.“It’s only our second preseason game, so I feel like every opportunity, every day is something where I can prove myself and continue to compete,” Meyers said. “Nothing’s set in stone. Nothing’s done. Every day is an opportunity to get better, so I feel like that’s something that I hold myself to. And I feel like that’s what the club expects from me, to continue to get better and continue to show up every day and push everybody to get better.”Clifford replaced Johnson in the second half and immediately led a scoring drive, hitting rookie wide receiver Noah Thomas for a 20-yard touchdown that upped the Bengals’ lead to 24-9.It’s the first time since Taylor was hired in 2019 that the Bengals have won more than one preseason game. InjuriesBears: LB Nephi Sewell was carted off late in the first half. Nearly all of the Bears players circled the cart to wish him well before he was taken into the locker room.Bengals: LB Joe Giles-Harris was evaluated for a concussion.Up nextBears: Play their final preseason game at Tennessee next Saturday.Bengals: Finish the preseason on Friday night at Philadelphia.—See AP’s full NFL coverage here",
-      "scrapedAt": "2026-08-27T22:01:54.709Z"
+      "content": "CINCINNATI (AP) — With Joe Burrow, Joe Flacco and the rest of Cincinnati’s starters and key backups watching in street clothes, 40-year-old journeyman Josh Johnson led the Bengals to a 27-9 preseason victory over the Chicago Bears on Saturday night.After directing a 14-play, 67-yard drive against Chicago’s starting defense to open the game, Johnson threw a pair of touchdown passes late in the second quarter to give the Bengals (2-0) an 11-point lead and ending his night.“I think it’s always good to go out there and show you can still make plays,” said Johnson, whose first NFL season was 2008 with Tampa Bay. “In this business, people want to put labels on you and put tags on you. Everybody thinks they have the right answers. The one person I know who has the answers is the man above.”Johnson went 15 of 23 for 156 yards with touchdown passes of 17 yards to rookie wide receiver Colbie Young and 6 to veteran tight end Tanner Hudson, the latter coming with 23 seconds left in the first half. “Josh, I thought played excellent and finished with a nice touchdown drive at halftime,” Bengals coach Zac Taylor said. “I probably would have played him into the third quarter, but I just thought he played real clean and so I got Sean (Clifford) in there in the second half.”Chicago quarterback Caleb Williams and the rest of the Bears’ starters made their preseason debuts in cameo fashion, playing just the opening series. Related Stories Kirk Cousins looks set to lead the Raiders even as Klint Kubiak keeps QB decision quiet 3 MIN READ Carson Schwesinger went from walk-on to AP NFL Defensive Rookie of the Year 2 MIN READ Tony Romo facing three more citations in connection with his arrest last month 2 MIN READ 19 Williams was 2 of 5 for 28 yards, with all three incompletions coming after Chicago (1-1) drove into the red zone only to have a holding penalty set up first-and-20 at the Bengals 27. Read More After the back-to-back-to-back incompletions — the second of which was off target to a wide-open Colston Loveland inside the 10 — Cairo Santos kicked a 45-yard field goal for a 3-0 lead.Santos added field goals of 26 and 44 yards, but missed from 53. Cincinnati’s Evan McPherson hit from 58 and 25 yards.Case Keenum replaced Williams and played until halftime, going 9 of 17 for 119 yards with no touchdowns or interceptions. Cincinnati first-year receiver Dohnte Meyers, a Canadian Football League import, continued to make an impressive case for a spot on the 53-man roster with five catches for 41 yards, a 9-yard rush, kick returns of 29 and 25 yards and punt returns of 25 and 9 yards.“It’s only our second preseason game, so I feel like every opportunity, every day is something where I can prove myself and continue to compete,” Meyers said. “Nothing’s set in stone. Nothing’s done. Every day is an opportunity to get better, so I feel like that’s something that I hold myself to. And I feel like that’s what the club expects from me, to continue to get better and continue to show up every day and push everybody to get better.”Clifford replaced Johnson in the second half and immediately led a scoring drive, hitting rookie wide receiver Noah Thomas for a 20-yard touchdown that upped the Bengals’ lead to 24-9.It’s the first time since Taylor was hired in 2019 that the Bengals have won more than one preseason game. InjuriesBears: LB Nephi Sewell was carted off late in the first half. Nearly all of the Bears players circled the cart to wish him well before he was taken into the locker room.Bengals: LB Joe Giles-Harris was evaluated for a concussion.Up nextBears: Play their final preseason game at Tennessee next Saturday.Bengals: Finish the preseason on Friday night at Philadelphia.—See AP’s full NFL coverage here",
+      "scrapedAt": "2026-08-28T21:58:08.116Z"
     },
     {
       "id": "fa564e2faea2535a",
@@ -4409,8 +4398,8 @@
       "sourceUrl": "https://apnews.com/article/panthers-hubbard-season-opener-7bc3839cb7b761b18bee4e0c04f69330",
       "publishedAt": null,
       "excerpt": null,
-      "content": "CHARLOTTE, N.C. (AP) — Carolina Panthers starting running back Chuba Hubbard is expected to be ready for the team’s Sept. 13 season opener against the Chicago Bears, coach Dave Canales said Monday.Hubbard strained his hamstring earlier this month in training camp and has yet to play in a preseason game while working his way back to full strength.Canales said Hubbard is progressing well. His speed is there, but the team has been reluctant to put him in contact drills.“He’s expected to be ready for Week 1,” Canales said. “He hit over 20 miles per hour the other day, but that is on a controlled setting and right now we don’t want to put him back out there for someone to pull on his jersey and for him to have to pull his way through that. But he’s ahead of schedule and he’s doing a great job.”Hubbard ran for 1,195 yards and 10 touchdowns in 2024, but a calf injury limited him to 511 yards and one score last season. Rico Dowdle excelled in Hubbard’s absence in 2025, compiling 652 yards from scrimmage during one three-game stretch, but eventually took a back seat to Hubbard down the stretch. Dowdle was unhappy about his reduced role in the offense late last season and left Carolina to sign with the Pittsburgh Steelers as an undrafted free agent.When asked how he’s feeling with the season opener approaching, Hubbard grinned and said, “pretty good.” Related Stories Rams reacquire WR Tutu Atwell from Dolphins in trade for little-used RB Jarquez Hunter 1 MIN READ Lions coach Campbell pleased with versatility of the secondary 2 MIN READ Colts activate top receiver Alec Pierce from physically unable to perform list after ankle surgery 2 MIN READ “I think the training and coaching staff are just trying to take care of me,” Hubbard said. “Last year I came back a little early and it kind of lingered on a little bit. So I think it’s them protecting me from myself a little bit. But I feel good and feel healthy and I’m looking forward to Week 1.”Hubbard is expected to share carries with Jonathon Brooks, a former second-round draft pick who has struggled with knee injuries during his first two seasons in the league. Read More Brooks is viewed as a more explosive option in the backfield, but he has only run nine times for 22 yards since coming to Carolina in 2024.Now entering his sixth season, Hubbard is viewed as one of the leaders on a Panthers team that won the NFC South last season and, despite an 8-9 record, nearly upset the Los Angeles Rams in the first round of the playoffs.“Since I came to Carolina as a rookie that is something that I brought with me,” Hubbard said. “As a rookie, obviously a guy speaking up and being rah-rah, a lot of guys didn’t like that. But a big thing with me is I wanted to win and change the culture in Carolina.” Legette sidelined with foot injuryPanthers wide receiver Xavier Legette, the team’s first-round pick in 2024, suffered a foot injury in Carolina’s preseason win over Jacksonville that will keep him out of the remainder of the preseason.Legette currently has a boot on his foot.Decision on starters’ playing time vs. Houston undecidedCarolina’s starters are expected to see extensive work during Wednesday’s joint practice with the Houston Texans in Charlotte. If all goes well, they won’t play in the preseason finale.“Yeah, that’s still up in the air,” Canales said after Monday’s full-pad practice. “Honestly, we have a really, really intense practice planned with the Texans on Wednesday. So, depending on how we come out of that, if we get the volume that we’re looking for, the odds are they won’t play. ... But we’re going to make that decision after the practice.”___See AP’s full NFL coverage here",
-      "scrapedAt": "2026-08-27T22:01:54.708Z"
+      "content": "CHARLOTTE, N.C. (AP) — Carolina Panthers starting running back Chuba Hubbard is expected to be ready for the team’s Sept. 13 season opener against the Chicago Bears, coach Dave Canales said Monday.Hubbard strained his hamstring earlier this month in training camp and has yet to play in a preseason game while working his way back to full strength.Canales said Hubbard is progressing well. His speed is there, but the team has been reluctant to put him in contact drills.“He’s expected to be ready for Week 1,” Canales said. “He hit over 20 miles per hour the other day, but that is on a controlled setting and right now we don’t want to put him back out there for someone to pull on his jersey and for him to have to pull his way through that. But he’s ahead of schedule and he’s doing a great job.”Hubbard ran for 1,195 yards and 10 touchdowns in 2024, but a calf injury limited him to 511 yards and one score last season. Rico Dowdle excelled in Hubbard’s absence in 2025, compiling 652 yards from scrimmage during one three-game stretch, but eventually took a back seat to Hubbard down the stretch. Dowdle was unhappy about his reduced role in the offense late last season and left Carolina to sign with the Pittsburgh Steelers as an undrafted free agent.When asked how he’s feeling with the season opener approaching, Hubbard grinned and said, “pretty good.” Related Stories Kirk Cousins looks set to lead the Raiders even as Klint Kubiak keeps QB decision quiet 3 MIN READ Carson Schwesinger went from walk-on to AP NFL Defensive Rookie of the Year 2 MIN READ Tony Romo facing three more citations in connection with his arrest last month 2 MIN READ 19 “I think the training and coaching staff are just trying to take care of me,” Hubbard said. “Last year I came back a little early and it kind of lingered on a little bit. So I think it’s them protecting me from myself a little bit. But I feel good and feel healthy and I’m looking forward to Week 1.”Hubbard is expected to share carries with Jonathon Brooks, a former second-round draft pick who has struggled with knee injuries during his first two seasons in the league. Read More Brooks is viewed as a more explosive option in the backfield, but he has only run nine times for 22 yards since coming to Carolina in 2024.Now entering his sixth season, Hubbard is viewed as one of the leaders on a Panthers team that won the NFC South last season and, despite an 8-9 record, nearly upset the Los Angeles Rams in the first round of the playoffs.“Since I came to Carolina as a rookie that is something that I brought with me,” Hubbard said. “As a rookie, obviously a guy speaking up and being rah-rah, a lot of guys didn’t like that. But a big thing with me is I wanted to win and change the culture in Carolina.” Legette sidelined with foot injuryPanthers wide receiver Xavier Legette, the team’s first-round pick in 2024, suffered a foot injury in Carolina’s preseason win over Jacksonville that will keep him out of the remainder of the preseason.Legette currently has a boot on his foot.Decision on starters’ playing time vs. Houston undecidedCarolina’s starters are expected to see extensive work during Wednesday’s joint practice with the Houston Texans in Charlotte. If all goes well, they won’t play in the preseason finale.“Yeah, that’s still up in the air,” Canales said after Monday’s full-pad practice. “Honestly, we have a really, really intense practice planned with the Texans on Wednesday. So, depending on how we come out of that, if we get the volume that we’re looking for, the odds are they won’t play. ... But we’re going to make that decision after the practice.”___See AP’s full NFL coverage here",
+      "scrapedAt": "2026-08-28T21:58:08.115Z"
     },
     {
       "id": "d470048da00994eb",
@@ -4487,7 +4476,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:02:06.172Z"
+      "scrapedAt": "2026-08-28T21:58:17.173Z"
     },
     {
       "id": "705409d5a642d4e8",
@@ -4498,7 +4487,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:02:06.172Z"
+      "scrapedAt": "2026-08-28T21:58:17.173Z"
     },
     {
       "id": "6a105cdb75683943",
@@ -4509,7 +4498,40 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-08-27T22:02:06.172Z"
+      "scrapedAt": "2026-08-28T21:58:17.173Z"
+    },
+    {
+      "id": "57cb281595bc0ae6",
+      "title": "Titans coach calls hit by Bears safety Xavier Woods on Wan’Dale Robinson in joint practice ‘cheap’",
+      "author": "Updated [hour]:[minute] [AMPM] [timezone], [monthFull] [day], [year] [deltaHours] hours ago Yesterday [monthFull] [day] [monthFull] [day], [year] [deltaMinutes] mins ago Now",
+      "source": "AP News",
+      "sourceUrl": "https://apnews.com/article/bears-titans-williams-ward-tate-4abb492a683984a758d64659a1ec2a70",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "NASHVILLE, Tenn. (AP) — The Chicago Bears and Tennessee wrapped up training camp Thursday with a joint practice highlighted late by a hit laying out wide receiver Wan’Dale Robinson in a two-minute drill that Titans coach Robert Saleh needed only one word to describe. “Cheap,” Saleh said. The coach also said Robinson was being evaluated for a concussion after the hit. Titans quarterback Cam Ward said his pass over the middle has to be better. Chicago defensive back Xavier Woods made the hit that brought players together yelling. Titans left guard Peter Skoronski said he just watched the play again before talking to reporters after practice. He said it was unacceptable and the kind of thing that’s on Tape 101 of what not to do in a period of practice where players are not tackling. Both he and veteran center Austin Schlottmann ran downfield after the hit. “I get we’re being competitive, I get DBs are physical, stuff like that,” Skoronski said. “But that’s totally uncalled for in the practice time like this. I think we’re trying to take those out or else we could do things like cut guys or clean out the pocket or do stuff like that if you allow that and OK, we can do that.” Robinson was one of the Titans’ biggest free agent additions this March when they spent the most money in the NFL adding veterans. He walked inside on his own after the play. Related Stories Kirk Cousins looks set to lead the Raiders even as Klint Kubiak keeps QB decision quiet 3 MIN READ Carson Schwesinger went from walk-on to AP NFL Defensive Rookie of the Year 2 MIN READ Tony Romo facing three more citations in connection with his arrest last month 2 MIN READ 18 “I thought our guys did a good job composing themselves,” Saleh said. “I thought they did a great job. Great job handling themselves.”Chicago coach Ben Johnson talked with reporters before the practice, the second for the Bears (1-1) ahead of these teams’ preseason finale Saturday. Several of the Bears struggled with apparent cramping in the humid conditions of a midday practice with the temperature feeling like 95 degrees late in the session. Read More Caleb Williams threw the ball well against the Titans, though he was picked off twice later with safety Tony Adams intercepting a pass near the goal line in the two-minute drill late. The Bears did pull off a trick play with D’Andre Swift throwing the ball back to Williams, who found Colston Loveland for a deep completion. Asked if the Titans objected to the trick play, Williams said no: “If they did, I didn’t hear them.” Quarterback-to-quarterback adviceThis practice featured the quarterbacks taken No. 1 overall in 2024 in Williams by the Bears and 2025 in Ward by the Titans. Williams was 5-12 as a rookie, while Ward’s Titans went 3-14. Asked what clicked for him going into his second season, Williams immediately mentioned Brian Daboll as Ward’s offensive coordinator with a good track record working with different quarterbacks.“So just believing and trusting in him and what he’s coaching you and teaching you and then I think just being able to go out there and execute,” Williams said. “I think we have some similarities in our games and things like that of being able to make the big plays.” Ward has spoken with Williams in the past. Their fathers also have talked. Ward and the Titans are trying to make a similar jump in his second season and reach the playoffs as Williams did with Chicago. “It’s good to have another good quarterback out here on the field,” Ward said. “That way our defense can get some good work in.”___See AP’s full NFL coverage here",
+      "scrapedAt": "2026-08-28T21:58:08.115Z"
+    },
+    {
+      "id": "fe3139132b71d8dd",
+      "title": "Donovyn Omolo’s 3 TD passes power Central Arkansas in 36-24 win over UT Martin",
+      "author": "Updated [hour]:[minute] [AMPM] [timezone], [monthFull] [day], [year] [deltaHours] hours ago Yesterday [monthFull] [day] [monthFull] [day], [year] [deltaMinutes] mins ago Now",
+      "source": "AP News",
+      "sourceUrl": "https://apnews.com/article/ut-martin-central-arkansas-score-5aa7e5bbe9ab9220abfb222595def3f4",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "MARTIN, Tenn. (AP) — Donovyn Omolo threw three touchdown passes in his first game with Central Arkansas, leading the Bears to a 36-24 victory over UT Martin in a Football Championship Subdivision season opener on Thursday night.Omolo, a sophomore who transferred from Central Missouri to join his hometown team, completed 20 of 27 passes for 243 yards and gained 118 yards rushing. Combined with a solid effort from the Central Arkansas defense, Omolo had more yards than UT Martin, 361-296.Two of Omolo’s touchdowns went to Arlie Lee, including a 51-yard hookup that made it 26-17 in the third quarter. Omolo threw one interception, a 56-yard pick-six by Trey Cotton.With Central Arkansas leading 29-24 in the fourth, Jalen Washington’s 27-yard touchdown run gave the Bears a two-score lead with 3 1/2 minutes remaining. UT Martin quarterback Julian Calvez threw for 147 yards and was intercepted twice.The Skyhawks, No. 23 in the Stats Perform FCS Top 25, lost their season opener for the third straight time.UT Martin and Central Arkansas last met in 2014 and the Bears now hold a 10-5 lead in the series. Up nextCentral Arkansas: vs. West Florida on Sept. 5.UT Martin: vs. Chicago State on Sept. 5.—-Sign up for Top 25 poll alerts here, visit the Top 25 here and see AP’s full college football coverage here",
+      "scrapedAt": "2026-08-28T21:58:08.117Z"
+    },
+    {
+      "id": "db27849d24aae241",
+      "title": "9 observations from the Chicago Bears’ joint practice, including another elite DT giving the OL fits",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/08/27/chicago-bears-tennessee-titans-joint-practice/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-08-28T21:58:17.173Z"
     }
   ]
 }
