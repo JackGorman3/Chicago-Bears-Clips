@@ -1,6 +1,61 @@
 {
-  "lastUpdated": "2026-09-12T15:17:34.647Z",
+  "lastUpdated": "2026-09-13T15:54:18.764Z",
   "articles": [
+    {
+      "id": "c5309707c9e2d8bf",
+      "title": "Week 1 NFL highlights: Best plays, moments, touchdowns, more",
+      "author": "NFL Nation",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49881465/week-1-highlights-best-plays-touchdowns-2026",
+      "publishedAt": "2026-09-13T15:19:56Z",
+      "excerpt": "Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.",
+      "content": "Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.",
+      "scrapedAt": "2026-09-13T15:54:08.964Z"
+    },
+    {
+      "id": "f6e63033cff50847",
+      "title": "Why Baker Mayfield's contract means the QB market could burst",
+      "author": "Dan Graziano",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49915176/quarterback-contract-market-baker-mayfield-extensions",
+      "publishedAt": "2026-09-13T12:38:29Z",
+      "excerpt": "Baker Mayfield just got $55 million per year in new money -- which is telling about where the QB market is headed. That's great news for 11 other passers ready for big deals.",
+      "content": "Baker Mayfield just got $55 million per year in new money -- which is telling about where the QB market is headed. That's great news for 11 other passers ready for big deals.",
+      "scrapedAt": "2026-09-13T15:54:08.964Z"
+    },
+    {
+      "id": "b629022f8a783cf9",
+      "title": "NFL Week 1 uniforms: Vikings rocking throwbacks, Bengals go orange",
+      "author": "Anthony Gharib",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49852219/nfl-week-1-uniforms",
+      "publishedAt": "2026-09-13T00:29:19Z",
+      "excerpt": "The NFL is back, and so are the uniform combinations. Here's a look at what each team is wearing in Week 1.",
+      "content": "The NFL is back, and so are the uniform combinations. Here's a look at what each team is wearing in Week 1.",
+      "scrapedAt": "2026-09-13T15:54:08.964Z"
+    },
+    {
+      "id": "39b12911b202eff7",
+      "title": "Chicago Bears announce roster moves",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/chicago-bears-announce-roster-moves-september-12-2026",
+      "publishedAt": "2026-09-12T17:30:00.000Z",
+      "excerpt": "The Chicago Bears have announced that the club has signed quarterback Miller Moss to the Practice Squad and has elevated Moss and wide receiver Kaden Davis from the practice squad for Sunday’s game against the Carolina Panthers.",
+      "content": "The Chicago Bears have announced that the club has signed quarterback Miller Moss to the Practice Squad and has elevated Moss and wide receiver Kaden Davis from the practice squad for Sunday’s game against the Carolina Panthers.",
+      "scrapedAt": "2026-09-13T15:54:11.718Z"
+    },
+    {
+      "id": "66e8053eea5ae3d1",
+      "title": "Sources: Bears, RB Swift agree to 3-year, $33.75M extension",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49906474/bears-rb-swift-agree-3-year-3375m-extension",
+      "publishedAt": "2026-09-12T15:24:15Z",
+      "excerpt": "The Bears and running back D'Andre Swift have reached an agreement on a three-year, $33.75 million extension that includes $27.5 million guaranteed, sources told ESPN's Adam Schefter.",
+      "content": "The Bears and running back D'Andre Swift have reached an agreement on a three-year, $33.75 million extension that includes $27.5 million guaranteed, sources told ESPN's Adam Schefter.",
+      "scrapedAt": "2026-09-13T15:54:08.964Z"
+    },
     {
       "id": "19deac1861aa28bd",
       "title": "Roster Moves: Chicago Bears sign RB D'Andre Swift to three-year extension",
@@ -10,128 +65,7 @@
       "publishedAt": "2026-09-12T14:30:00.000Z",
       "excerpt": "The Chicago Bears have announced that the club has signed running back D’Andre Swift to a three-year extension through 2029.",
       "content": "The Chicago Bears have announced that the club has signed running back D’Andre Swift to a three-year extension through 2029.",
-      "scrapedAt": "2026-09-12T15:17:29.174Z"
-    },
-    {
-      "id": "06b3394c04cf0009",
-      "title": "Game Preview: Bears at Panthers | 2026 Week 1",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/game-preview-bears-at-panthers-2026-week-1",
-      "publishedAt": "2026-09-12T13:32:00.000Z",
-      "excerpt": "The Bears will open the 2026 season Sunday in a matchup of 2025 NFC division winners when they visit the Panthers at Bank of America Stadium in Charlotte.",
-      "content": "The Bears will open the 2026 season Sunday in a matchup of 2025 NFC division winners when they visit the Panthers at Bank of America Stadium in Charlotte.",
-      "scrapedAt": "2026-09-12T15:17:29.175Z"
-    },
-    {
-      "id": "66e8053eea5ae3d1",
-      "title": "Sources: Bears, RB Swift agree to 3-year, $33.75M extension",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49906474/bears-rb-swift-agree-3-year-3375m-extension",
-      "publishedAt": "2026-09-12T13:28:06Z",
-      "excerpt": "The Bears and running back D'Andre Swift have reached an agreement on a three-year, $33.75 million extension that includes $27.5 million guaranteed, sources told ESPN's Adam Schefter.",
-      "content": "The Bears and running back D'Andre Swift have reached an agreement on a three-year, $33.75 million extension that includes $27.5 million guaranteed, sources told ESPN's Adam Schefter.",
-      "scrapedAt": "2026-09-12T15:17:25.432Z"
-    },
-    {
-      "id": "7e659fb48f462701",
-      "title": "Fast Facts: Senior writer Larry Mayer",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/fast-facts-senior-writer-larry-mayer",
-      "publishedAt": "2026-09-12T12:33:00.000Z",
-      "excerpt": "ChicagoBears.com senior writer Larry Mayer recently celebrated 25 years of working for the Bears. In honor of hitting the milestone, Mayer reflected on some of his favorite moments during his tenure, including the Bears' run to Super Bowl XLI, last year’s magical season under coach Ben Johnson, Charles “Peanut” Tillman’s pranks and more.",
-      "content": "ChicagoBears.com senior writer Larry Mayer recently celebrated 25 years of working for the Bears. In honor of hitting the milestone, Mayer reflected on some of his favorite moments during his tenure, including the Bears' run to Super Bowl XLI, last year’s magical season under coach Ben Johnson, Charles “Peanut” Tillman’s pranks and more.",
-      "scrapedAt": "2026-09-12T15:17:29.175Z"
-    },
-    {
-      "id": "16ce133519c16444",
-      "title": "NFL Week 1 predictions: Upsets, fantasy sleepers, stat lines",
-      "author": "Matt Bowen, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49872076/week-1-predictions-upsets-fantasy-sleepers-stats-2026",
-      "publishedAt": "2026-09-12T10:46:59Z",
-      "excerpt": "Could DeVonta Smith find the end zone in Week 1? Will the Jets finally intercept a pass? What will Aidan Hutchinson's stat line look like Sunday?",
-      "content": "Could DeVonta Smith find the end zone in Week 1? Will the Jets finally intercept a pass? What will Aidan Hutchinson's stat line look like Sunday?",
-      "scrapedAt": "2026-09-12T15:17:25.431Z"
-    },
-    {
-      "id": "3761e0bdc8015aae",
-      "title": "Three things Bears QB Caleb Williams wants to improve on",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49897273/chicago-bears-caleb-williams-2026-outlook",
-      "publishedAt": "2026-09-12T10:12:47Z",
-      "excerpt": "Ben Johnson laid out a careful plan for Williams' offseason tweaks, and the young QB has earned high marks.",
-      "content": "Ben Johnson laid out a careful plan for Williams' offseason tweaks, and the young QB has earned high marks.",
-      "scrapedAt": "2026-09-12T15:17:25.432Z"
-    },
-    {
-      "id": "53dc46d415277286",
-      "title": "Bears' Odunze feels 'ready' for Panthers despite questionable tag",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49907338/bears-odunze-feels-ready-panthers-questionable-tag",
-      "publishedAt": "2026-09-11T22:17:22Z",
-      "excerpt": "Chicago Bears wide receiver Rome Odunze (calf) says he expects to play Sunday in the season opener at Carolina despite being listed as questionable on the final injury report.",
-      "content": "Chicago Bears wide receiver Rome Odunze (calf) says he expects to play Sunday in the season opener at Carolina despite being listed as questionable on the final injury report.",
-      "scrapedAt": "2026-09-12T15:17:25.432Z"
-    },
-    {
-      "id": "3793c66bcef5931e",
-      "title": "Bears, Panthers look to continue to progress under still-developing No. 1 overall draft picks",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "http://www.espn.com/nfl/preview?gameId=401872661",
-      "publishedAt": "2026-09-11T20:55:28Z",
-      "excerpt": "— The Chicago Bears and Carolina Panthers meet Sunday in a clash of surprising 2025 division champions looking to build off last year's success behind still-developing former No. 1 picks at quarterback.",
-      "content": "— The Chicago Bears and Carolina Panthers meet Sunday in a clash of surprising 2025 division champions looking to build off last year's success behind still-developing former No. 1 picks at quarterback.",
-      "scrapedAt": "2026-09-12T15:17:25.432Z"
-    },
-    {
-      "id": "51f8743a99141c66",
-      "title": "'We are different': Ben Johnson, players ready to write 'a new chapter of Chicago Bears football'",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/we-are-different-ben-johnson-players-ready-to-write-a-new-chapter-of-chicago-bears-football",
-      "publishedAt": "2026-09-11T20:28:00.000Z",
-      "excerpt": "In their second year under head coach Ben Johnson, the Bears are embodying the mindset that their standard, play style and consistent work ethic will set them apart.",
-      "content": "In their second year under head coach Ben Johnson, the Bears are embodying the mindset that their standard, play style and consistent work ethic will set them apart.",
-      "scrapedAt": "2026-09-12T15:17:29.176Z"
-    },
-    {
-      "id": "1f1f9fb04577a48d",
-      "title": "Injury Update: Rome Odunze among four players questionable for Sunday's season opener vs. Panthers",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/injury-update-rome-odunze-among-four-players-questionable-for-sunday-s-season-opener-vs-panthers",
-      "publishedAt": "2026-09-11T20:14:39.000Z",
-      "excerpt": "The Bears listed four players as questionable for their Week 1 matchup in Charlotte Sunday, including receiver Rome Odunze. The third-year pro sustained a calf injury last week and was limited in each of the three practices this week.",
-      "content": "The Bears listed four players as questionable for their Week 1 matchup in Charlotte Sunday, including receiver Rome Odunze. The third-year pro sustained a calf injury last week and was limited in each of the three practices this week.",
-      "scrapedAt": "2026-09-12T15:17:29.176Z"
-    },
-    {
-      "id": "2621a2c9f824430d",
-      "title": "Who are the winningest NFL coaches of all time?",
-      "author": "Alex Kennedy and Keith Jenkins",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
-      "publishedAt": "2026-09-11T20:05:05Z",
-      "excerpt": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-      "content": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-      "scrapedAt": "2026-09-12T15:17:25.432Z"
-    },
-    {
-      "id": "51a466bb3499a5ea",
-      "title": "Girls Flag Football Player of the Week: Kaelie Tomalak | Week 2",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/girls-flag-football-player-of-the-week-kaelie-tomalak-week-2",
-      "publishedAt": "2026-09-11T13:33:00.000Z",
-      "excerpt": "Saint Charles North quarterback and free safety Kaelie Tomalak received Week 2 Player of the Week honors and spoke with ChicagoBears.com about her dad's influence on her love for football, her favorite moments from the season so far, her goals of playing flag football in college and more.",
-      "content": "Saint Charles North quarterback and free safety Kaelie Tomalak received Week 2 Player of the Week honors and spoke with ChicagoBears.com about her dad's influence on her love for football, her favorite moments from the season so far, her goals of playing flag football in college and more.",
-      "scrapedAt": "2026-09-12T15:17:29.177Z"
+      "scrapedAt": "2026-09-13T15:54:11.718Z"
     },
     {
       "id": "2314365724c741f7",
@@ -4718,7 +4652,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-09-12T15:17:30.492Z"
+      "scrapedAt": "2026-09-13T15:54:13.011Z"
     },
     {
       "id": "188d345733c2d5af",
@@ -5081,7 +5015,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-09-12T15:17:30.492Z"
+      "scrapedAt": "2026-09-13T15:54:13.012Z"
     },
     {
       "id": "780909b209c0c964",
@@ -5104,6 +5038,28 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-09-12T15:17:30.493Z"
+    },
+    {
+      "id": "7d6f205323cdec9e",
+      "title": "Week 1 updates: Rome Odunze is active for Chicago Bears opener, but safety Xavier Woods is out",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/13/chicago-bears-carolina-panthers-week-1-updates/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-13T15:54:13.011Z"
+    },
+    {
+      "id": "bb9b63116b8a5bef",
+      "title": "As Chicago Bears eye Indiana move, Arlington Heights extends lobbyist contract to lure team there",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/12/chicago-bears-indiana-arlington-heights-lobbyist-contract/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-13T15:54:13.011Z"
     }
   ]
 }
