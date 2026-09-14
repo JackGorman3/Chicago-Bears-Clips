@@ -1,27 +1,203 @@
 {
-  "lastUpdated": "2026-09-13T15:54:18.764Z",
+  "lastUpdated": "2026-09-14T17:56:14.481Z",
   "articles": [
+    {
+      "id": "88c20d8393d31d0e",
+      "title": "By the Numbers: Bears' Week 1 win over Panthers",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/by-the-numbers-bears-week-1-win-over-panthers",
+      "publishedAt": "2026-09-14T16:54:00.000Z",
+      "excerpt": "Take a look at some notable numbers and stats from the Bears’ 59-37 historic season-opening win over the Panthers Sunday in Charlotte.",
+      "content": "Take a look at some notable numbers and stats from the Bears’ 59-37 historic season-opening win over the Panthers Sunday in Charlotte.",
+      "scrapedAt": "2026-09-14T17:56:01.400Z"
+    },
+    {
+      "id": "5b134a41e24d6df9",
+      "title": "Bruschi, Rex marvel at Bears after big offensive game in Week 1",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/49940083/bruschi-rex-marvel-bears-big-offensive-game-week-1",
+      "publishedAt": "2026-09-14T16:39:07Z",
+      "excerpt": "Bruschi, Rex marvel at Bears after big offensive game in Week 1",
+      "content": "Bruschi, Rex marvel at Bears after big offensive game in Week 1",
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
+    },
+    {
+      "id": "7714c036a186a4da",
+      "title": "Touchdowns galore, awards market moves and a great Sunday for NFL bettors",
+      "author": "Doug Greenberg",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/49940225/nfl-week-1-betting-recap-odds-props-scores-mvp-super-bowl",
+      "publishedAt": "2026-09-14T16:28:29Z",
+      "excerpt": "A high-scoring Week 1 with a variety of players scoring TDs made for a bettor-friendly Sunday.",
+      "content": "A high-scoring Week 1 with a variety of players scoring TDs made for a bettor-friendly Sunday.",
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
+    },
+    {
+      "id": "539d3a103a84a919",
+      "title": "NFL Week 1: Takeaways, questions, fantasy spin for Sunday games",
+      "author": "NFL Nation",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49871987/week-1-sunday-games-takeaways-questions-2026",
+      "publishedAt": "2026-09-14T16:19:36Z",
+      "excerpt": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 1.",
+      "content": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 1.",
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
+    },
+    {
+      "id": "155c2d4f74fe83b7",
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "author": "Sarah Barshop",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "publishedAt": "2026-09-14T14:35:46Z",
+      "excerpt": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
+      "content": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
+    },
+    {
+      "id": "67a3ba79f42e09b5",
+      "title": "Ben Johnson, Ravens DBs lead top NFL quotes from NFL Week 1",
+      "author": "Dre Waters",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49934701/best-nfl-quotes-week-1-ben-johnson-marlon-humphrey-malaki-starks",
+      "publishedAt": "2026-09-14T13:12:17Z",
+      "excerpt": "Sometimes the highlights come from the postgame pressers. Here's a look at the top quips and comments from around the league in Week 1.",
+      "content": "Sometimes the highlights come from the postgame pressers. Here's a look at the top quips and comments from around the league in Week 1.",
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
+    },
+    {
+      "id": "c28f953c3543a274",
+      "title": "NFL Week 1 offense explosion: Bears, Ravens, Bills, Jaguars",
+      "author": "Bill Barnwell",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49930014/week-1-offenses-bears-ravens-bills-jaguars-barnwell",
+      "publishedAt": "2026-09-14T12:53:01Z",
+      "excerpt": "Chicago (59), Baltimore (41), Buffalo (36) and Jacksonville (34) were among 10 teams that scored 30-plus points Sunday. What happened, and can it continue?",
+      "content": "Chicago (59), Baltimore (41), Buffalo (36) and Jacksonville (34) were among 10 teams that scored 30-plus points Sunday. What happened, and can it continue?",
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
+    },
+    {
+      "id": "51d14f642a1c1e7b",
+      "title": "Bears to focus on defense after offensive explosion in Week 1",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/49937239/bears-focus-defense-offensive-explosion-week-1",
+      "publishedAt": "2026-09-14T05:07:11Z",
+      "excerpt": "Courtney Cronin details comments by Bears CB Jaylon Johnson following Chicago's 59-37 win over Carolina.",
+      "content": "Courtney Cronin details comments by Bears CB Jaylon Johnson following Chicago's 59-37 win over Carolina.",
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
+    },
     {
       "id": "c5309707c9e2d8bf",
       "title": "Week 1 NFL highlights: Best plays, moments, touchdowns, more",
       "author": "NFL Nation",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/49881465/week-1-highlights-best-plays-touchdowns-2026",
-      "publishedAt": "2026-09-13T15:19:56Z",
+      "publishedAt": "2026-09-14T03:52:42Z",
       "excerpt": "Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.",
       "content": "Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.",
-      "scrapedAt": "2026-09-13T15:54:08.964Z"
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
     },
     {
-      "id": "f6e63033cff50847",
-      "title": "Why Baker Mayfield's contract means the QB market could burst",
+      "id": "4c49ff0f2b2272c3",
+      "title": "Bears' offense makes statement with 'amazing' 59-point opener",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49935313/bears-call-59-point-opener-amazing-offense-makes-statement",
+      "publishedAt": "2026-09-14T02:00:26Z",
+      "excerpt": "The Bears walked away from their opener with a historic 59-37 win over the Panthers, one that saw them score the fourth-most points in a game in franchise history and saw the teams combine for 96 points, most ever in a season opener.",
+      "content": "The Bears walked away from their opener with a historic 59-37 win over the Panthers, one that saw them score the fourth-most points in a game in franchise history and saw the teams combine for 96 points, most ever in a season opener.",
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
+    },
+    {
+      "id": "4cd74f7de3cb9302",
+      "title": "Ben Johnson doubles down on his aspirations for the Bears' offense",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/49935952/ben-johnson-doubles-aspirations-bears-offense",
+      "publishedAt": "2026-09-14T01:59:54Z",
+      "excerpt": "Ben Johnson doubles down on his aspirations for the Bears' offense",
+      "content": "Ben Johnson doubles down on his aspirations for the Bears' offense",
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
+    },
+    {
+      "id": "872b879fc25f7f8f",
+      "title": "NFL Week 1's best arrivals, led by Dak Prescott and Cam Skattebo",
+      "author": "Cameron Wolfe",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49895823/nfl-week-1-fashionable-arrivals",
+      "publishedAt": "2026-09-14T01:53:11Z",
+      "excerpt": "From Spiderman to a Navy nod, players around the NFL brought the heat ahead of their Week 1 matchups.",
+      "content": "From Spiderman to a Navy nod, players around the NFL brought the heat ahead of their Week 1 matchups.",
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
+    },
+    {
+      "id": "ea7f7f17cbd5db48",
+      "title": "Judging the biggest overreactions to NFL Week 1 games",
       "author": "Dan Graziano",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49915176/quarterback-contract-market-baker-mayfield-extensions",
-      "publishedAt": "2026-09-13T12:38:29Z",
-      "excerpt": "Baker Mayfield just got $55 million per year in new money -- which is telling about where the QB market is headed. That's great news for 11 other passers ready for big deals.",
-      "content": "Baker Mayfield just got $55 million per year in new money -- which is telling about where the QB market is headed. That's great news for 11 other passers ready for big deals.",
-      "scrapedAt": "2026-09-13T15:54:08.964Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49881129/week-1-overreactions-2026-graziano-lamar-jackson-bears-bryce-young-cj-stroud",
+      "publishedAt": "2026-09-14T01:41:51Z",
+      "excerpt": "Is Jackson going to reset the market? What's up in L.A.? And which class of 2023 QB will be extended first? We sized up potential Week 1 overreactions.",
+      "content": "Is Jackson going to reset the market? What's up in L.A.? And which class of 2023 QB will be extended first? We sized up potential Week 1 overreactions.",
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
+    },
+    {
+      "id": "1a6c9cdd0803da31",
+      "title": "'What a start': D'Andre Swift, Kyle Monangai post 100-yard rushing performances in historic Week 1 win",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/what-a-start-d-andre-swift-kyle-monangai-post-100-yard-rushing-performances-in-historic-week-1-win",
+      "publishedAt": "2026-09-14T01:41:00.000Z",
+      "excerpt": "D’Andre Swift and Kyle Monangai picked up right where they left off last season Sunday against the Panthers, both running for 100-plus yards, marking the first time since 1980 and only the eighth time in NFL history that a team had two players rush for at least 100 yards in their season opener.",
+      "content": "D’Andre Swift and Kyle Monangai picked up right where they left off last season Sunday against the Panthers, both running for 100-plus yards, marking the first time since 1980 and only the eighth time in NFL history that a team had two players rush for at least 100 yards in their season opener.",
+      "scrapedAt": "2026-09-14T17:56:01.401Z"
+    },
+    {
+      "id": "ad03288ef22da2b7",
+      "title": "Key NFL Week 1 stats on Bears, Bills, Texans, Bucs, Cardinals",
+      "author": "Ben Solak",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49881588/week-1-five-key-stats-numbers-solak",
+      "publishedAt": "2026-09-14T01:19:19Z",
+      "excerpt": "We found six of the coolest advanced stats to come out of Sunday's games, from the Bears' electric day on offense to Baker Mayfield's struggles pushing the ball downfield.",
+      "content": "We found six of the coolest advanced stats to come out of Sunday's games, from the Bears' electric day on offense to Baker Mayfield's struggles pushing the ball downfield.",
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
+    },
+    {
+      "id": "6cae6e9c085ddca1",
+      "title": "Caleb Williams and Bears trounce Panthers 59-37 in highest-scoring season opener in NFL history",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "http://www.espn.com/nfl/recap?gameId=401872661",
+      "publishedAt": "2026-09-13T22:31:30Z",
+      "excerpt": "— Ben Johnson said he slept well Saturday night at the Bears' team hotel, sensing that quarterback Caleb Williams was more than ready for the season opener.",
+      "content": "— Ben Johnson said he slept well Saturday night at the Bears' team hotel, sensing that quarterback Caleb Williams was more than ready for the season opener.",
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
+    },
+    {
+      "id": "96f2ca8aea9724eb",
+      "title": "Chicago Bears vs. Carolina Panthers: Game Highlights",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/49933308/game-highlights",
+      "publishedAt": "2026-09-13T21:58:40Z",
+      "excerpt": "Chicago Bears vs. Carolina Panthers: Game Highlights",
+      "content": "Chicago Bears vs. Carolina Panthers: Game Highlights",
+      "scrapedAt": "2026-09-14T17:55:55.166Z"
+    },
+    {
+      "id": "3faef515cbf17aad",
+      "title": "Game Recap: Bears open season with record-setting victory over Panthers",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/game-recap-bears-offense-shines-in-season-opening-win-over-panthers",
+      "publishedAt": "2026-09-13T20:59:00.000Z",
+      "excerpt": "With quarterback Caleb Williams and an array of playmakers entering their second year in coach Ben Johnson’s offense, expectations were extremely high entering Sunday’s season opener. The explosive unit more than lived up to the hype, as the Bears set a franchise record for points in a season opener in a 59-37 win over the Panthers.",
+      "content": "With quarterback Caleb Williams and an array of playmakers entering their second year in coach Ben Johnson’s offense, expectations were extremely high entering Sunday’s season opener. The explosive unit more than lived up to the hype, as the Bears set a franchise record for points in a season opener in a 59-37 win over the Panthers.",
+      "scrapedAt": "2026-09-14T17:56:01.401Z"
     },
     {
       "id": "b629022f8a783cf9",
@@ -29,43 +205,10 @@
       "author": "Anthony Gharib",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/49852219/nfl-week-1-uniforms",
-      "publishedAt": "2026-09-13T00:29:19Z",
+      "publishedAt": "2026-09-13T20:30:39Z",
       "excerpt": "The NFL is back, and so are the uniform combinations. Here's a look at what each team is wearing in Week 1.",
       "content": "The NFL is back, and so are the uniform combinations. Here's a look at what each team is wearing in Week 1.",
-      "scrapedAt": "2026-09-13T15:54:08.964Z"
-    },
-    {
-      "id": "39b12911b202eff7",
-      "title": "Chicago Bears announce roster moves",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/chicago-bears-announce-roster-moves-september-12-2026",
-      "publishedAt": "2026-09-12T17:30:00.000Z",
-      "excerpt": "The Chicago Bears have announced that the club has signed quarterback Miller Moss to the Practice Squad and has elevated Moss and wide receiver Kaden Davis from the practice squad for Sunday’s game against the Carolina Panthers.",
-      "content": "The Chicago Bears have announced that the club has signed quarterback Miller Moss to the Practice Squad and has elevated Moss and wide receiver Kaden Davis from the practice squad for Sunday’s game against the Carolina Panthers.",
-      "scrapedAt": "2026-09-13T15:54:11.718Z"
-    },
-    {
-      "id": "66e8053eea5ae3d1",
-      "title": "Sources: Bears, RB Swift agree to 3-year, $33.75M extension",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49906474/bears-rb-swift-agree-3-year-3375m-extension",
-      "publishedAt": "2026-09-12T15:24:15Z",
-      "excerpt": "The Bears and running back D'Andre Swift have reached an agreement on a three-year, $33.75 million extension that includes $27.5 million guaranteed, sources told ESPN's Adam Schefter.",
-      "content": "The Bears and running back D'Andre Swift have reached an agreement on a three-year, $33.75 million extension that includes $27.5 million guaranteed, sources told ESPN's Adam Schefter.",
-      "scrapedAt": "2026-09-13T15:54:08.964Z"
-    },
-    {
-      "id": "19deac1861aa28bd",
-      "title": "Roster Moves: Chicago Bears sign RB D'Andre Swift to three-year extension",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/roster-moves-chicago-bears-sign-rb-d-andre-swift-to-three-year-extension",
-      "publishedAt": "2026-09-12T14:30:00.000Z",
-      "excerpt": "The Chicago Bears have announced that the club has signed running back D’Andre Swift to a three-year extension through 2029.",
-      "content": "The Chicago Bears have announced that the club has signed running back D’Andre Swift to a three-year extension through 2029.",
-      "scrapedAt": "2026-09-13T15:54:11.718Z"
+      "scrapedAt": "2026-09-14T17:55:55.167Z"
     },
     {
       "id": "2314365724c741f7",
@@ -4652,7 +4795,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-09-13T15:54:13.011Z"
+      "scrapedAt": "2026-09-14T17:56:02.767Z"
     },
     {
       "id": "188d345733c2d5af",
@@ -5060,6 +5203,39 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-09-13T15:54:13.011Z"
+    },
+    {
+      "id": "691f6b984b024216",
+      "title": "Green Bay Packers get stuffed on 4th down to turn a promising start against Minnesota Vikings into poor finish",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/14/green-bay-packers-poor-finish-week-1/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-14T17:56:02.768Z"
+    },
+    {
+      "id": "c40ffceb476f325c",
+      "title": "Chicago Bears debut a new brand — and they believe it can get better: Brad Biggs’ 10 thoughts on Week 1 win",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/14/chicago-bears-brad-biggs-10-thoughts-season-opener/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-14T17:56:02.768Z"
+    },
+    {
+      "id": "450c197a704a4087",
+      "title": "NFC North roundup: Minnesota Vikings post 29 points to beat Green Bay Packers — and Detroit Lions win in OT",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/13/nfc-north-minnesota-vikings-beat-green-bay-packers/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-14T17:56:02.768Z"
     }
   ]
 }
