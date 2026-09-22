@@ -1,16 +1,27 @@
 {
-  "lastUpdated": "2026-09-21T18:03:38.303Z",
+  "lastUpdated": "2026-09-22T16:37:19.360Z",
   "articles": [
     {
-      "id": "afa2b04298850ea7",
-      "title": "Bears' Johnson: QB Williams week-to-week, likely to miss time",
-      "author": "Courtney Cronin",
+      "id": "13ea943c83aa44c7",
+      "title": "2026 NFL Power Rankings: How all 32 teams stack up for Week 3",
+      "author": "NFL Nation",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49999247/bears-johnson-qb-williams-week-week-likely-miss",
-      "publishedAt": "2026-09-21T17:11:18Z",
-      "excerpt": "Bears coach Ben Johnson said Monday on ESPN 1000 that quarterback Caleb Williams' right hamstring injury \"sounds like it's going to be a week-to-week deal for him.\"",
-      "content": "Bears coach Ben Johnson said Monday on ESPN 1000 that quarterback Caleb Williams' right hamstring injury \"sounds like it's going to be a week-to-week deal for him.\"",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49998616/nfl-power-rankings-week-3-teams-quarterbacks-stats",
+      "publishedAt": "2026-09-22T16:21:13Z",
+      "excerpt": "How do all 32 NFL teams stack up ahead of Week 3? Plus, what we know for sure about the starting QBs around the league.",
+      "content": "How do all 32 NFL teams stack up ahead of Week 3? Plus, what we know for sure about the starting QBs around the league.",
+      "scrapedAt": "2026-09-22T16:37:06.736Z"
+    },
+    {
+      "id": "72612c350615a46f",
+      "title": "Get set for MNF with Eagles-Bears on ESPN and ABC",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50006080/get-set-mnf-eagles-bears-espn-abc",
+      "publishedAt": "2026-09-22T15:34:14Z",
+      "excerpt": "Get set for MNF with Eagles-Bears on ESPN and ABC",
+      "content": "Get set for MNF with Eagles-Bears on ESPN and ABC",
+      "scrapedAt": "2026-09-22T16:37:06.736Z"
     },
     {
       "id": "155c2d4f74fe83b7",
@@ -18,10 +29,10 @@
       "author": "Sarah Barshop",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
-      "publishedAt": "2026-09-21T17:10:23Z",
+      "publishedAt": "2026-09-22T15:32:23Z",
       "excerpt": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
       "content": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
+      "scrapedAt": "2026-09-22T16:37:06.736Z"
     },
     {
       "id": "9cceae96b8e440e1",
@@ -29,10 +40,109 @@
       "author": null,
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/49995686/2026-nfl-week-3-schedule-odds-betting-point-spreads-totals",
-      "publishedAt": "2026-09-21T16:51:40Z",
+      "publishedAt": "2026-09-22T14:22:41Z",
       "excerpt": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
       "content": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
-      "scrapedAt": "2026-09-21T18:03:24.558Z"
+      "scrapedAt": "2026-09-22T16:37:06.737Z"
+    },
+    {
+      "id": "2352c5846fe87314",
+      "title": "2027 NFL draft order projections for Round 1, top pick, more",
+      "author": "ESPN staff",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "publishedAt": "2026-09-22T10:31:39Z",
+      "excerpt": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "content": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "scrapedAt": "2026-09-22T16:37:06.737Z"
+    },
+    {
+      "id": "c029e75b0f11e09b",
+      "title": "Rams' jab at Jameis Winston, Giants leads NFL Week 2 trolls",
+      "author": "Anthony Gharib",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49993163/nfl-week-2-2026-trolls",
+      "publishedAt": "2026-09-22T04:20:37Z",
+      "excerpt": "Teams across the NFL came with petty postgame energy after wins in Week 2, led by the Los Angeles Rams.",
+      "content": "Teams across the NFL came with petty postgame energy after wins in Week 2, led by the Los Angeles Rams.",
+      "scrapedAt": "2026-09-22T16:37:06.737Z"
+    },
+    {
+      "id": "addf562abb8dfc6f",
+      "title": "NFL Week 2's best arrivals, led by Aaron Donald and Jaxson Dart",
+      "author": "Cameron Wolfe",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals",
+      "publishedAt": "2026-09-22T00:07:19Z",
+      "excerpt": "Rounding up the top pregame and tunnel arrivals from around the league.",
+      "content": "Rounding up the top pregame and tunnel arrivals from around the league.",
+      "scrapedAt": "2026-09-22T16:37:06.737Z"
+    },
+    {
+      "id": "084ee7bff04b5766",
+      "title": "3 things that stood out to Ben Johnson in Week 2 loss",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/3-things-that-stood-out-to-ben-johnson-in-week-2-loss",
+      "publishedAt": "2026-09-21T22:19:45.000Z",
+      "excerpt": "After watching tape of Sunday’s 9-3 loss to the Vikings, coach Ben Johnson spoke to reporters Monday about the Bears’ inability to take advantage of their scoring chances, having too many third-and-long situations and more.",
+      "content": "After watching tape of Sunday’s 9-3 loss to the Vikings, coach Ben Johnson spoke to reporters Monday about the Bears’ inability to take advantage of their scoring chances, having too many third-and-long situations and more.",
+      "scrapedAt": "2026-09-22T16:37:12.966Z"
+    },
+    {
+      "id": "afa2b04298850ea7",
+      "title": "Bears' Johnson: Williams week-to-week, but not ruled out for MNF",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49999247/bears-johnson-qb-williams-week-week-likely-miss",
+      "publishedAt": "2026-09-21T21:58:01Z",
+      "excerpt": "Bears quarterback Caleb Williams is considered \"week-to-week\" with a right hamstring injury he sustained in a 9-3 loss to the Vikings, coach Ben Johnson said Monday afternoon.",
+      "content": "Bears quarterback Caleb Williams is considered \"week-to-week\" with a right hamstring injury he sustained in a 9-3 loss to the Vikings, coach Ben Johnson said Monday afternoon.",
+      "scrapedAt": "2026-09-22T16:37:06.737Z"
+    },
+    {
+      "id": "da0828b3ce7e8d0f",
+      "title": "Caleb Williams week-to-week with hamstring injury",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/caleb-williams-week-to-week-with-hamstring-injury",
+      "publishedAt": "2026-09-21T21:10:20.000Z",
+      "excerpt": "Bears coach Ben Johnson told reporters Monday that quarterback Caleb Williams is week-to-week with a right hamstring injury he sustained midway through the fourth quarter of Sunday’s 9-3 loss to the Vikings at Soldier Field.",
+      "content": "Bears coach Ben Johnson told reporters Monday that quarterback Caleb Williams is week-to-week with a right hamstring injury he sustained midway through the fourth quarter of Sunday’s 9-3 loss to the Vikings at Soldier Field.",
+      "scrapedAt": "2026-09-22T16:37:12.967Z"
+    },
+    {
+      "id": "232638af4af1a0b0",
+      "title": "Why Orlvosky thinks Bears can stay afloat without Caleb Williams",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50000059/why-orlvosky-thinks-bears-stay-afloat-caleb-williams",
+      "publishedAt": "2026-09-21T20:02:43Z",
+      "excerpt": "Why Orlvosky thinks Bears can stay afloat without Caleb Williams",
+      "content": "Why Orlvosky thinks Bears can stay afloat without Caleb Williams",
+      "scrapedAt": "2026-09-22T16:37:06.737Z"
+    },
+    {
+      "id": "8bb821c6d4784585",
+      "title": "Good news for Caleb Williams",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/49999814/good-news-caleb-williams",
+      "publishedAt": "2026-09-21T19:25:45Z",
+      "excerpt": "Ian Rapoport reports on the injury status of Bears QB Caleb Williams.",
+      "content": "Ian Rapoport reports on the injury status of Bears QB Caleb Williams.",
+      "scrapedAt": "2026-09-22T16:37:06.737Z"
+    },
+    {
+      "id": "2621a2c9f824430d",
+      "title": "Who are the winningest NFL coaches of all time?",
+      "author": "Alex Kennedy and Keith Jenkins",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
+      "publishedAt": "2026-09-21T17:58:38Z",
+      "excerpt": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+      "content": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+      "scrapedAt": "2026-09-22T16:37:06.737Z"
     },
     {
       "id": "90cbfcdd9cedbe4e",
@@ -43,7 +153,7 @@
       "publishedAt": "2026-09-21T16:46:24Z",
       "excerpt": "Caleb Williams and Jayden Daniels both got injured. The Packers nearly lost to the Jets. The Saints upset the Ravens. And three teams have a claim as the NFC's best.",
       "content": "Caleb Williams and Jayden Daniels both got injured. The Packers nearly lost to the Jets. The Saints upset the Ravens. And three teams have a claim as the NFC's best.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
+      "scrapedAt": "2026-09-22T16:37:06.737Z"
     },
     {
       "id": "577851231a8b8d15",
@@ -54,7 +164,7 @@
       "publishedAt": "2026-09-21T15:35:55Z",
       "excerpt": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
       "content": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
+      "scrapedAt": "2026-09-22T16:37:06.737Z"
     },
     {
       "id": "14c3bd857c62b623",
@@ -65,172 +175,7 @@
       "publishedAt": "2026-09-21T15:16:31Z",
       "excerpt": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
       "content": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
-    },
-    {
-      "id": "f148095c31c2c3e3",
-      "title": "Stephen A.: Bears' season is over if they don't have Caleb Williams",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/49998364/bears-season-they-caleb-williams",
-      "publishedAt": "2026-09-21T14:25:33Z",
-      "excerpt": "Stephen A.: Bears' season is over if they don't have Caleb Williams",
-      "content": "Stephen A.: Bears' season is over if they don't have Caleb Williams",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
-    },
-    {
-      "id": "2352c5846fe87314",
-      "title": "2027 NFL draft order projections for Round 1, top pick, more",
-      "author": "ESPN staff",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "publishedAt": "2026-09-21T10:00:40Z",
-      "excerpt": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "content": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
-    },
-    {
-      "id": "eff653f6e7a334a5",
-      "title": "Week 2 NFL highlights: Best plays, moments, touchdowns, more",
-      "author": "NFL Nation",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49984903/week-2-highlights-best-plays-touchdowns-2026",
-      "publishedAt": "2026-09-21T04:04:09Z",
-      "excerpt": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
-      "content": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
-    },
-    {
-      "id": "2621a2c9f824430d",
-      "title": "Who are the winningest NFL coaches of all time?",
-      "author": "Alex Kennedy and Keith Jenkins",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
-      "publishedAt": "2026-09-21T03:57:51Z",
-      "excerpt": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-      "content": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
-    },
-    {
-      "id": "346dbce44455bba3",
-      "title": "Bears have faith in backup QB Tyson Bagent",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/49995982/bears-faith-backup-qb-tyson-bagent",
-      "publishedAt": "2026-09-21T03:33:02Z",
-      "excerpt": "Courtney Cronin breaks down the Bears QB situation after Caleb Williams' injury.",
-      "content": "Courtney Cronin breaks down the Bears QB situation after Caleb Williams' injury.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
-    },
-    {
-      "id": "a3a4abee702ac719",
-      "title": "Bears' Caleb Williams leaves on cart after injuring hamstring",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49991729/bears-caleb-williams-leaves-cart-falling-scramble",
-      "publishedAt": "2026-09-21T02:57:12Z",
-      "excerpt": "Bears quarterback Caleb Williams exited Sunday's game against the Minnesota Vikings because of a right hamstring injury.",
-      "content": "Bears quarterback Caleb Williams exited Sunday's game against the Minnesota Vikings because of a right hamstring injury.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
-    },
-    {
-      "id": "3286386ba052a5b7",
-      "title": "NFL Week 2 eye-popping stats from Eagles, Pats, Jets, Bears",
-      "author": "Ben Solak",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49990404/week-2-five-key-stats-numbers-solak",
-      "publishedAt": "2026-09-21T02:20:50Z",
-      "excerpt": "We found six of the coolest advanced stats to come out of Sunday's games -- from third-down completions to matchup route stats.",
-      "content": "We found six of the coolest advanced stats to come out of Sunday's games -- from third-down completions to matchup route stats.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
-    },
-    {
-      "id": "c029e75b0f11e09b",
-      "title": "Eagles' Broadway jab at Titans leads NFL Week 2 trolls",
-      "author": "Anthony Gharib",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49993163/nfl-week-2-2026-trolls",
-      "publishedAt": "2026-09-21T01:21:54Z",
-      "excerpt": "Teams across the NFL came with petty postgame energy after wins in Week 2, led by the Philadelphia Eagles.",
-      "content": "Teams across the NFL came with petty postgame energy after wins in Week 2, led by the Philadelphia Eagles.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
-    },
-    {
-      "id": "addf562abb8dfc6f",
-      "title": "NFL Week 2's best arrivals, led by Travis Kelce and Patrick Mahomes",
-      "author": "Cameron Wolfe",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals",
-      "publishedAt": "2026-09-21T01:17:18Z",
-      "excerpt": "Rounding up the top pregame and tunnel arrivals from around the league.",
-      "content": "Rounding up the top pregame and tunnel arrivals from around the league.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
-    },
-    {
-      "id": "26fcce68b464f1ef",
-      "title": "Rodgers and Turner help the Vikings shut down the Bears for a 9-3 win in the rain",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "http://www.espn.com/nfl/recap?gameId=401872937",
-      "publishedAt": "2026-09-20T23:10:34Z",
-      "excerpt": "— Dallas Turner threw Tyson Bagent to the ground, then took off down the field in celebration. It rained on his parade, for sure, but that was just fine with him.",
-      "content": "— Dallas Turner threw Tyson Bagent to the ground, then took off down the field in celebration. It rained on his parade, for sure, but that was just fine with him.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
-    },
-    {
-      "id": "1089c6608fbd2329",
-      "title": "Game Recap: Bears fall to 1-1 with loss to Vikings",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/game-recap-bears-fall-to-1-1-with-loss-to-vikings",
-      "publishedAt": "2026-09-20T20:59:00.000Z",
-      "excerpt": "The Bears lost quarterback Caleb Williams to a hamstring injury and fell to the Vikings 9-3 in an unexpected defensive battle Sunday at Soldier Field.",
-      "content": "The Bears lost quarterback Caleb Williams to a hamstring injury and fell to the Vikings 9-3 in an unexpected defensive battle Sunday at Soldier Field.",
-      "scrapedAt": "2026-09-21T18:03:31.012Z"
-    },
-    {
-      "id": "064bbfcf7c7d0d4b",
-      "title": "Minnesota Vikings vs. Chicago Bears: Game Highlights",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/49992260/game-highlights",
-      "publishedAt": "2026-09-20T20:50:45Z",
-      "excerpt": "Minnesota Vikings vs. Chicago Bears: Game Highlights",
-      "content": "Minnesota Vikings vs. Chicago Bears: Game Highlights",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
-    },
-    {
-      "id": "7ca48601b414ef5c",
-      "title": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
-      "author": "Anthony Gharib",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms",
-      "publishedAt": "2026-09-20T18:59:21Z",
-      "excerpt": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
-      "content": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
-    },
-    {
-      "id": "5685e25d6fc97633",
-      "title": "Who are the top 10 players without a Super Bowl ring?",
-      "author": "Katherine Terrell",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49972360/top-10-players-super-bowl-ring",
-      "publishedAt": "2026-09-20T17:17:41Z",
-      "excerpt": "Introducing our Super Bowl Top 10s. First, we rank the best players who never won a championship, beginning with Dan Marino.",
-      "content": "Introducing our Super Bowl Top 10s. First, we rank the best players who never won a championship, beginning with Dan Marino.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
-    },
-    {
-      "id": "d20602a422cb40af",
-      "title": "Bears QB Caleb Williams is the NFL's iceman",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/49989161/bears-qb-caleb-williams-nfl-iceman",
-      "publishedAt": "2026-09-20T16:07:39Z",
-      "excerpt": "Chicago's biggest superstar remains calmest when the noise is the loudest. Kimberley Martin sat down with Williams to walk through some of his most amazing moments.",
-      "content": "Chicago's biggest superstar remains calmest when the noise is the loudest. Kimberley Martin sat down with Williams to walk through some of his most amazing moments.",
-      "scrapedAt": "2026-09-21T18:03:24.559Z"
+      "scrapedAt": "2026-09-22T16:37:06.737Z"
     },
     {
       "id": "2314365724c741f7",
@@ -4817,7 +4762,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-09-21T18:03:32.344Z"
+      "scrapedAt": "2026-09-22T16:37:13.936Z"
     },
     {
       "id": "188d345733c2d5af",
@@ -5444,7 +5389,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-09-21T18:03:32.345Z"
+      "scrapedAt": "2026-09-22T16:37:13.936Z"
     },
     {
       "id": "4a38c1b0a94006f5",
@@ -5456,6 +5401,28 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-09-21T18:03:32.345Z"
+    },
+    {
+      "id": "07558deaa98f1404",
+      "title": "5 pressing questions after Chicago Bears’ Week 2 loss, including how they’ll respond to Caleb Williams’ injury",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/22/chicago-bears-week-2-pressing-questions/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-22T16:37:13.936Z"
+    },
+    {
+      "id": "69e6ec3380b234cb",
+      "title": "Caleb Williams ‘will likely miss some time’ — though Chicago Bears coach Ben Johnson not ruling out Week 3",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/21/chicago-bears-caleb-williams-hamstring-injury/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-22T16:37:13.936Z"
     }
   ]
 }
