@@ -1,38 +1,82 @@
 {
-  "lastUpdated": "2026-09-26T16:05:14.599Z",
+  "lastUpdated": "2026-09-27T16:41:55.099Z",
   "articles": [
     {
-      "id": "26df035b7d101955",
-      "title": "NFL Week 3 uniforms: Colts to wear 'Anvil Strike,' Bills debut 'Nickel City'",
-      "author": "Anthony Gharib",
+      "id": "8ce939ee2867649f",
+      "title": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
+      "author": "NFL Nation",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50008808/nfl-week-3-uniforms",
-      "publishedAt": "2026-09-25T20:04:00Z",
-      "excerpt": "Here's a look at what each NFL team is wearing in Week 3, led by the new NFL Rivalries look from the Indianapolis Colts.",
-      "content": "Here's a look at what each NFL team is wearing in Week 3, led by the new NFL Rivalries look from the Indianapolis Colts.",
-      "scrapedAt": "2026-09-26T16:05:05.746Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more",
+      "publishedAt": "2026-09-27T16:19:31Z",
+      "excerpt": "Week 3's Sunday slate will feature 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
+      "content": "Week 3's Sunday slate will feature 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
+      "scrapedAt": "2026-09-27T16:41:44.852Z"
     },
     {
-      "id": "0185b17856f801cf",
-      "title": "Bears OC Press Taylor lauds Case Keenum for his professionalism",
+      "id": "2dbbfe976f06613e",
+      "title": "Caleb Williams dealing with a Grade 2 hamstring strain",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50042986/caleb-williams-dealing-grade-2-hamstring-strain",
+      "publishedAt": "2026-09-27T15:52:28Z",
+      "excerpt": "Ian Rapoport provides an update on Bears QB Caleb Williams' hamstring injury and how much time he could miss.",
+      "content": "Ian Rapoport provides an update on Bears QB Caleb Williams' hamstring injury and how much time he could miss.",
+      "scrapedAt": "2026-09-27T16:41:44.851Z"
+    },
+    {
+      "id": "35881ec1b08a3e56",
+      "title": "Schefter: Bears expect Caleb Williams to miss multiple weeks",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50042342/bears-expect-caleb-williams-miss-multiple-weeks",
+      "publishedAt": "2026-09-27T13:55:52Z",
+      "excerpt": "Schefter: Bears expect Caleb Williams to miss multiple weeks",
+      "content": "Schefter: Bears expect Caleb Williams to miss multiple weeks",
+      "scrapedAt": "2026-09-27T16:41:44.852Z"
+    },
+    {
+      "id": "52f7ed286b71d01b",
+      "title": "Sources: Caleb Williams injury considered to have 3-4 week timeline",
+      "author": "Adam Schefter and Ian Rapoport",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50036929/sources-caleb-williams-injury-considered-3-4-week-line",
+      "publishedAt": "2026-09-27T13:53:56Z",
+      "excerpt": "Bears quarterback Caleb Williams has a Grade 2 hamstring injury that doctors say could sideline him for three to four weeks, league sources told ESPN and NFL Network.",
+      "content": "Bears quarterback Caleb Williams has a Grade 2 hamstring injury that doctors say could sideline him for three to four weeks, league sources told ESPN and NFL Network.",
+      "scrapedAt": "2026-09-27T16:41:44.852Z"
+    },
+    {
+      "id": "eade68ffc0741b8a",
+      "title": "Why Orlovsky thinks Bears can stay afloat without Caleb Williams",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50000059/why-orlovsky-thinks-bears-stay-afloat-caleb-williams",
+      "publishedAt": "2026-09-26T21:20:39Z",
+      "excerpt": "Why Orlovsky thinks Bears can stay afloat without Caleb Williams",
+      "content": "Why Orlovsky thinks Bears can stay afloat without Caleb Williams",
+      "scrapedAt": "2026-09-27T16:41:44.852Z"
+    },
+    {
+      "id": "f887df2c124c2427",
+      "title": "Injury Update: Bears rule out Caleb Williams, will start Tyson Bagent or Case Keenum vs. Eagles",
       "author": null,
       "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-oc-press-taylor-lauds-case-keenum-for-his-professionalism",
-      "publishedAt": "2026-09-25T20:00:05.000Z",
-      "excerpt": "If veteran Case Keenum is called upon to start Monday night against the Eagles, OC Press Taylor believes the Bears will be in capable hands, saying: “I don’t think anybody has any doubt he’ll be ready for the moment.”",
-      "content": "If veteran Case Keenum is called upon to start Monday night against the Eagles, OC Press Taylor believes the Bears will be in capable hands, saying: “I don’t think anybody has any doubt he’ll be ready for the moment.”",
-      "scrapedAt": "2026-09-26T16:05:07.220Z"
+      "sourceUrl": "https://www.chicagobears.com/news/injury-update-bears-rule-out-caleb-williams-will-start-tyson-bagent-or-case-keenum-vs-eagles",
+      "publishedAt": "2026-09-26T20:05:46.000Z",
+      "excerpt": "The Bears ruled Caleb Williams out of Monday night’s game against the Eagles with a hamstring injury, but they have not yet announced whether Tyson Bagent or Case Keenum will replace him.",
+      "content": "The Bears ruled Caleb Williams out of Monday night’s game against the Eagles with a hamstring injury, but they have not yet announced whether Tyson Bagent or Case Keenum will replace him.",
+      "scrapedAt": "2026-09-27T16:41:48.814Z"
     },
     {
-      "id": "9cceae96b8e440e1",
-      "title": "NFL Week 3 betting: Odds, lines and totals for every game",
-      "author": null,
+      "id": "e16dd8536245d5e3",
+      "title": "Bears QB Williams out for MNF; backup Bagent back at practice",
+      "author": "Courtney Cronin",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/49995686/2026-nfl-week-3-schedule-odds-betting-point-spreads-totals",
-      "publishedAt": "2026-09-25T16:05:29Z",
-      "excerpt": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
-      "content": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 3.",
-      "scrapedAt": "2026-09-26T16:05:05.746Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50034949/bears-qb-williams-mnf-backup-bagent-back-practice",
+      "publishedAt": "2026-09-26T19:30:24Z",
+      "excerpt": "Bears QB Caleb Williams is out for Monday's game against the Eagles, and backup Tyson Bagent returned to the practice field while still in the concussion protocol.",
+      "content": "Bears QB Caleb Williams is out for Monday's game against the Eagles, and backup Tyson Bagent returned to the practice field while still in the concussion protocol.",
+      "scrapedAt": "2026-09-27T16:41:44.852Z"
     },
     {
       "id": "2314365724c741f7",
@@ -5378,7 +5422,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-09-26T16:05:08.268Z"
+      "scrapedAt": "2026-09-27T16:41:50.052Z"
     },
     {
       "id": "f942f05b259419d8",
@@ -5389,7 +5433,29 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-09-26T16:05:08.268Z"
+      "scrapedAt": "2026-09-27T16:41:50.052Z"
+    },
+    {
+      "id": "28710535519d5646",
+      "title": "Case Keenum or Tyson Bagent at QB? Chicago Bears coach Ben Johnson and his staff adjust on the fly in Week 3.",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/27/chicago-bears-case-keenum-tyson-bagent/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-27T16:41:50.052Z"
+    },
+    {
+      "id": "4e4f2a1e5ae28cc7",
+      "title": "Tyson Bagent — still in concussion protocol — practices and emerges as possible QB starter for Chicago Bears",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/26/tyson-bagent-chicago-bears-practice/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-27T16:41:50.052Z"
     }
   ]
 }
