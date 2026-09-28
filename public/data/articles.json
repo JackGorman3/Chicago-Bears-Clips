@@ -1,38 +1,148 @@
 {
-  "lastUpdated": "2026-09-27T16:41:55.099Z",
+  "lastUpdated": "2026-09-28T19:27:25.949Z",
   "articles": [
+    {
+      "id": "9c19b93c5d75f9c1",
+      "title": "Game Preview: Eagles vs. Bears | 2026 Week 3",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/game-preview-eagles-vs-bears-2026-week-3",
+      "publishedAt": "2026-09-28T15:33:00.000Z",
+      "excerpt": "The Bears will look to rebound from last Sunday’s 9-3 loss to the Vikings and improve to 2-1 Monday night when they host the Eagles at Soldier Field.",
+      "content": "The Bears will look to rebound from last Sunday’s 9-3 loss to the Vikings and improve to 2-1 Monday night when they host the Eagles at Soldier Field.",
+      "scrapedAt": "2026-09-28T19:27:19.968Z"
+    },
+    {
+      "id": "b49a4b52485b4dbd",
+      "title": "NFL Week 4 betting: Odds, lines and totals for every game",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals",
+      "publishedAt": "2026-09-28T15:04:05Z",
+      "excerpt": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
+      "content": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
+      "scrapedAt": "2026-09-28T19:27:13.693Z"
+    },
+    {
+      "id": "155c2d4f74fe83b7",
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "author": "Sarah Barshop",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "publishedAt": "2026-09-28T14:59:56Z",
+      "excerpt": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "content": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "scrapedAt": "2026-09-28T19:27:13.693Z"
+    },
+    {
+      "id": "be6068c4ead4d74d",
+      "title": "Tyson Bagent is set to return from injury this week for Bears",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50052063/tyson-bagent-set-return-injury-week-bears",
+      "publishedAt": "2026-09-28T14:51:25Z",
+      "excerpt": "Courtney Cronin reports on the Bears QB room getting an upgrade as Tyson Bagent is expected to return this week.",
+      "content": "Courtney Cronin reports on the Bears QB room getting an upgrade as Tyson Bagent is expected to return this week.",
+      "scrapedAt": "2026-09-28T19:27:13.693Z"
+    },
+    {
+      "id": "89b199e129536a9a",
+      "title": "Bears collaborate with local artist Fedz on Latino Heritage Month gameday poster",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-collaborate-with-local-artist-fedz-latino-heritage-month-gameday-poster",
+      "publishedAt": "2026-09-28T14:19:00.000Z",
+      "excerpt": "As part of their Latino Heritage Month celebration, the Bears are collaborating with Adam Belmares, a University of Illinois-Chicago communications major who lives in the Chicagoland area, on a series of stories that will be featured on ChicagoBears.com. For his first piece, Belmares profiles local artist Fedz, who created the Bears' Latino Heritage Month gameday poster.",
+      "content": "As part of their Latino Heritage Month celebration, the Bears are collaborating with Adam Belmares, a University of Illinois-Chicago communications major who lives in the Chicagoland area, on a series of stories that will be featured on ChicagoBears.com. For his first piece, Belmares profiles local artist Fedz, who created the Bears' Latino Heritage Month gameday poster.",
+      "scrapedAt": "2026-09-28T19:27:19.969Z"
+    },
+    {
+      "id": "10f1e86ab3297307",
+      "title": "Where has Bears TE Colston Loveland been this season?",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50044351/where-chicago-bears-te-colston-loveland-season",
+      "publishedAt": "2026-09-28T13:00:28Z",
+      "excerpt": "The tight end has one catch and faces a tough Eagles defense on MNF. With no Caleb Williams, can he get going?",
+      "content": "The tight end has one catch and faces a tough Eagles defense on MNF. With no Caleb Williams, can he get going?",
+      "scrapedAt": "2026-09-28T19:27:13.693Z"
+    },
+    {
+      "id": "6a489c6ed6dc4894",
+      "title": "How to bet Eagles-Bears on MNF: Analysis, tips and favorite plays",
+      "author": "Liz Loza",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50005767/nfl-week-3-odds-betting-tips-picks-philadelphia-eagles-chicago-bears",
+      "publishedAt": "2026-09-28T12:53:18Z",
+      "excerpt": "Odds and analysis to help you bet Eagles-Bears on \"Monday Night Football.\"",
+      "content": "Odds and analysis to help you bet Eagles-Bears on \"Monday Night Football.\"",
+      "scrapedAt": "2026-09-28T19:27:13.693Z"
+    },
+    {
+      "id": "2352c5846fe87314",
+      "title": "2027 NFL draft order projections for Round 1, top pick, more",
+      "author": "ESPN staff",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "publishedAt": "2026-09-28T10:00:39Z",
+      "excerpt": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "content": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "scrapedAt": "2026-09-28T19:27:13.693Z"
+    },
     {
       "id": "8ce939ee2867649f",
       "title": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
       "author": "NFL Nation",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more",
-      "publishedAt": "2026-09-27T16:19:31Z",
-      "excerpt": "Week 3's Sunday slate will feature 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
-      "content": "Week 3's Sunday slate will feature 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
-      "scrapedAt": "2026-09-27T16:41:44.852Z"
+      "publishedAt": "2026-09-28T04:58:11Z",
+      "excerpt": "Lamar Jackson, Jahmyr Gibbs and Sam Darnold had big stat days during Sunday's 14-game slate in Week 3.",
+      "content": "Lamar Jackson, Jahmyr Gibbs and Sam Darnold had big stat days during Sunday's 14-game slate in Week 3.",
+      "scrapedAt": "2026-09-28T19:27:13.693Z"
     },
     {
       "id": "2dbbfe976f06613e",
-      "title": "Caleb Williams dealing with a Grade 2 hamstring strain",
+      "title": "Caleb Williams is dealing with a Grade 2 hamstring strain",
       "author": null,
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/video/clip/_/id/50042986/caleb-williams-dealing-grade-2-hamstring-strain",
-      "publishedAt": "2026-09-27T15:52:28Z",
+      "publishedAt": "2026-09-28T01:50:04Z",
       "excerpt": "Ian Rapoport provides an update on Bears QB Caleb Williams' hamstring injury and how much time he could miss.",
       "content": "Ian Rapoport provides an update on Bears QB Caleb Williams' hamstring injury and how much time he could miss.",
-      "scrapedAt": "2026-09-27T16:41:44.851Z"
+      "scrapedAt": "2026-09-28T19:27:13.693Z"
     },
     {
-      "id": "35881ec1b08a3e56",
-      "title": "Schefter: Bears expect Caleb Williams to miss multiple weeks",
-      "author": null,
+      "id": "26df035b7d101955",
+      "title": "NFL Week 3 uniforms: Colts to wear 'Anvil Strike,' Bills debut 'Nickel City'",
+      "author": "Anthony Gharib",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50042342/bears-expect-caleb-williams-miss-multiple-weeks",
-      "publishedAt": "2026-09-27T13:55:52Z",
-      "excerpt": "Schefter: Bears expect Caleb Williams to miss multiple weeks",
-      "content": "Schefter: Bears expect Caleb Williams to miss multiple weeks",
-      "scrapedAt": "2026-09-27T16:41:44.852Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50008808/nfl-week-3-uniforms",
+      "publishedAt": "2026-09-27T22:09:33Z",
+      "excerpt": "Here's a look at what each NFL team is wearing in Week 3, led by the new NFL Rivalries look from the Indianapolis Colts.",
+      "content": "Here's a look at what each NFL team is wearing in Week 3, led by the new NFL Rivalries look from the Indianapolis Colts.",
+      "scrapedAt": "2026-09-28T19:27:13.693Z"
+    },
+    {
+      "id": "2621a2c9f824430d",
+      "title": "Who are the winningest NFL coaches of all time?",
+      "author": "Alex Kennedy and Keith Jenkins",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
+      "publishedAt": "2026-09-27T20:50:51Z",
+      "excerpt": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+      "content": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+      "scrapedAt": "2026-09-28T19:27:13.693Z"
+    },
+    {
+      "id": "18b68e7a75404ed0",
+      "title": "Bears QB Bagent clears protocol; Keenum likely to start vs. Eagles",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50044058/bears-qb-bagent-clears-protocol-keenum-likely-start-vs-eagles",
+      "publishedAt": "2026-09-27T19:25:06Z",
+      "excerpt": "The Bears' Tyson Bagent has cleared the concussion protocol, but Case Keenum is expected to start Monday night's game at quarterback against the Eagles.",
+      "content": "The Bears' Tyson Bagent has cleared the concussion protocol, but Case Keenum is expected to start Monday night's game at quarterback against the Eagles.",
+      "scrapedAt": "2026-09-28T19:27:13.693Z"
     },
     {
       "id": "52f7ed286b71d01b",
@@ -40,43 +150,10 @@
       "author": "Adam Schefter and Ian Rapoport",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50036929/sources-caleb-williams-injury-considered-3-4-week-line",
-      "publishedAt": "2026-09-27T13:53:56Z",
+      "publishedAt": "2026-09-27T19:18:44Z",
       "excerpt": "Bears quarterback Caleb Williams has a Grade 2 hamstring injury that doctors say could sideline him for three to four weeks, league sources told ESPN and NFL Network.",
       "content": "Bears quarterback Caleb Williams has a Grade 2 hamstring injury that doctors say could sideline him for three to four weeks, league sources told ESPN and NFL Network.",
-      "scrapedAt": "2026-09-27T16:41:44.852Z"
-    },
-    {
-      "id": "eade68ffc0741b8a",
-      "title": "Why Orlovsky thinks Bears can stay afloat without Caleb Williams",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50000059/why-orlovsky-thinks-bears-stay-afloat-caleb-williams",
-      "publishedAt": "2026-09-26T21:20:39Z",
-      "excerpt": "Why Orlovsky thinks Bears can stay afloat without Caleb Williams",
-      "content": "Why Orlovsky thinks Bears can stay afloat without Caleb Williams",
-      "scrapedAt": "2026-09-27T16:41:44.852Z"
-    },
-    {
-      "id": "f887df2c124c2427",
-      "title": "Injury Update: Bears rule out Caleb Williams, will start Tyson Bagent or Case Keenum vs. Eagles",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/injury-update-bears-rule-out-caleb-williams-will-start-tyson-bagent-or-case-keenum-vs-eagles",
-      "publishedAt": "2026-09-26T20:05:46.000Z",
-      "excerpt": "The Bears ruled Caleb Williams out of Monday night’s game against the Eagles with a hamstring injury, but they have not yet announced whether Tyson Bagent or Case Keenum will replace him.",
-      "content": "The Bears ruled Caleb Williams out of Monday night’s game against the Eagles with a hamstring injury, but they have not yet announced whether Tyson Bagent or Case Keenum will replace him.",
-      "scrapedAt": "2026-09-27T16:41:48.814Z"
-    },
-    {
-      "id": "e16dd8536245d5e3",
-      "title": "Bears QB Williams out for MNF; backup Bagent back at practice",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50034949/bears-qb-williams-mnf-backup-bagent-back-practice",
-      "publishedAt": "2026-09-26T19:30:24Z",
-      "excerpt": "Bears QB Caleb Williams is out for Monday's game against the Eagles, and backup Tyson Bagent returned to the practice field while still in the concussion protocol.",
-      "content": "Bears QB Caleb Williams is out for Monday's game against the Eagles, and backup Tyson Bagent returned to the practice field while still in the concussion protocol.",
-      "scrapedAt": "2026-09-27T16:41:44.852Z"
+      "scrapedAt": "2026-09-28T19:27:13.693Z"
     },
     {
       "id": "2314365724c741f7",
@@ -5456,6 +5533,50 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-09-27T16:41:50.052Z"
+    },
+    {
+      "id": "03f1fa803b77149f",
+      "title": "New York Giants acquire quarterback J.J. McCarthy from Minnesota Vikings for 2027 fifth-round pick",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/28/jj-mccarthy-trade-giants-vikings/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-28T19:27:21.062Z"
+    },
+    {
+      "id": "49b3a3aeaf1eee3c",
+      "title": "Chicago Bears vs. Philadelphia Eagles: Everything you need to know about the Week 3 game before kickoff",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/28/chicago-bears-philadelphia-eagles-week-3-updates/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-28T19:27:21.062Z"
+    },
+    {
+      "id": "4ba03385c7280daf",
+      "title": "Column: Chicago Bears dressed up ground and pound with eye candy in Philly last year. Can they do it again?",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/28/chicago-bears-offense-motion/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-28T19:27:21.062Z"
+    },
+    {
+      "id": "2696ccba7ebecc2b",
+      "title": "Case Keenum reportedly to start for Chicago Bears on ‘Monday Night Football’ with Tyson Bagent as the backup",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/27/chicago-bears-case-keenum-start-week-3/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-28T19:27:21.062Z"
     }
   ]
 }
