@@ -1,6 +1,83 @@
 {
-  "lastUpdated": "2026-09-29T17:54:23.391Z",
+  "lastUpdated": "2026-09-30T17:49:26.528Z",
   "articles": [
+    {
+      "id": "8552122586eaaa2c",
+      "title": "Bears defense stifles Eagles with 'extraordinary' second half performance",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-defense-stifles-eagles-with-extraordinary-second-half-performance",
+      "publishedAt": "2026-09-30T16:45:00.000Z",
+      "excerpt": "Between coordinator Dennis Allen calling \"a heck of a game\" and the entire unit playing with energy and aggression, the Bears defense put together their best performance of the season, generating three takeaways and shutting out the Eagles in three of four quarters in their 27-7 win Monday night.",
+      "content": "Between coordinator Dennis Allen calling \"a heck of a game\" and the entire unit playing with energy and aggression, the Bears defense put together their best performance of the season, generating three takeaways and shutting out the Eagles in three of four quarters in their 27-7 win Monday night.",
+      "scrapedAt": "2026-09-30T17:49:19.287Z"
+    },
+    {
+      "id": "e847705ddfa53a42",
+      "title": "How to watch, listen to, stream Bears-Jets Week 4 game",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-new-york-jets-week-4-listen-stream-tv-radio-football-online-nfl",
+      "publishedAt": "2026-09-30T16:34:00.000Z",
+      "excerpt": "Here's where to watch, listen to and stream the Bears' Week 4 matchup with the New York Jets, which kicks off at noon CT Sunday, Oct. 4 at Soldier Field.",
+      "content": "Here's where to watch, listen to and stream the Bears' Week 4 matchup with the New York Jets, which kicks off at noon CT Sunday, Oct. 4 at Soldier Field.",
+      "scrapedAt": "2026-09-30T17:49:19.287Z"
+    },
+    {
+      "id": "154c1604b66d7517",
+      "title": "How NFL players cope with CTE risks, fears and internal debates",
+      "author": "Kevin Seifert and Stephen Holder",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49940451/how-nfl-players-cope-cte-risks",
+      "publishedAt": "2026-09-30T16:27:17Z",
+      "excerpt": "We asked over 30 NFL players about CTE concerns, and their answers ranged from fear to resignation.",
+      "content": "We asked over 30 NFL players about CTE concerns, and their answers ranged from fear to resignation.",
+      "scrapedAt": "2026-09-30T17:49:15.938Z"
+    },
+    {
+      "id": "1e08cf13c5f12150",
+      "title": "Would NFL players take a test that could diagnose CTE in the living?",
+      "author": "Stephen Holder",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49941739/would-nfl-players-take-test-diagnose-cte-living",
+      "publishedAt": "2026-09-30T15:50:18Z",
+      "excerpt": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
+      "content": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
+      "scrapedAt": "2026-09-30T17:49:15.939Z"
+    },
+    {
+      "id": "b49a4b52485b4dbd",
+      "title": "NFL Week 4 betting: Odds, lines and totals for every game",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals",
+      "publishedAt": "2026-09-30T15:37:09Z",
+      "excerpt": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
+      "content": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
+      "scrapedAt": "2026-09-30T17:49:15.938Z"
+    },
+    {
+      "id": "5525e8b02a56380d",
+      "title": "Case Keenum or Tyson Bagent? Bears face a QB decision",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50061765/chicago-bears-case-keenum-tyson-bagent",
+      "publishedAt": "2026-09-30T12:44:30Z",
+      "excerpt": "Keenum stepped up in a big way against the Eagles, but Bagent is healthy and Ben Johnson won't reveal his QB1.",
+      "content": "Keenum stepped up in a big way against the Eagles, but Bagent is healthy and Ben Johnson won't reveal his QB1.",
+      "scrapedAt": "2026-09-30T17:49:15.939Z"
+    },
+    {
+      "id": "577851231a8b8d15",
+      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "author": "Doug Greenberg",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
+      "publishedAt": "2026-09-29T19:00:36Z",
+      "excerpt": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "content": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "scrapedAt": "2026-09-30T17:49:15.939Z"
+    },
     {
       "id": "d756af4b39e110fe",
       "title": "By the Numbers: Bears' Monday Night Football win over Eagles",
@@ -10,183 +87,7 @@
       "publishedAt": "2026-09-29T16:45:25.000Z",
       "excerpt": "Check out some notable numbers and stats from the Bears’ dominant 27-7 win over the Eagles Monday night at Soldier Field.",
       "content": "Check out some notable numbers and stats from the Bears’ dominant 27-7 win over the Eagles Monday night at Soldier Field.",
-      "scrapedAt": "2026-09-29T17:54:18.509Z"
-    },
-    {
-      "id": "e03e5496401350a1",
-      "title": "2026 NFL Power Rankings: How all 32 teams stack up for Week 4",
-      "author": "NFL Nation",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50052289/nfl-power-rankings-week-4-teams-fantasy-surprises",
-      "publishedAt": "2026-09-29T15:18:28Z",
-      "excerpt": "How do all 32 NFL teams stack up through three weeks? Plus, we picked out each team's biggest fantasy surprise -- good or bad.",
-      "content": "How do all 32 NFL teams stack up through three weeks? Plus, we picked out each team's biggest fantasy surprise -- good or bad.",
-      "scrapedAt": "2026-09-29T17:54:12.227Z"
-    },
-    {
-      "id": "db0b5ef0f721ff99",
-      "title": "Stephen A.: Eagles’ loss to Bears is ‘embarrassing’",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50058769/eagles-loss-bears-embarrassing",
-      "publishedAt": "2026-09-29T14:36:12Z",
-      "excerpt": "Stephen A.: Eagles’ loss to Bears is ‘embarrassing’",
-      "content": "Stephen A.: Eagles’ loss to Bears is ‘embarrassing’",
-      "scrapedAt": "2026-09-29T17:54:12.226Z"
-    },
-    {
-      "id": "dd765d26c3b65322",
-      "title": "Case Keenum's 3-TD game leads Bears over Eagles on MNF",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50056420/case-keenum-3-td-game-leads-bears-eagles-mnf",
-      "publishedAt": "2026-09-29T13:40:48Z",
-      "excerpt": "Case Keenum's 3-TD game leads Bears over Eagles on MNF",
-      "content": "Case Keenum's 3-TD game leads Bears over Eagles on MNF",
-      "scrapedAt": "2026-09-29T17:54:12.227Z"
-    },
-    {
-      "id": "3602c7d9f3813ab6",
-      "title": "Seven things Solak thinks entering NFL Week 4",
-      "author": "Ben Solak",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50054740/week-4-seven-things-solak-thinks-lamar-mvp-bills-rams-trade",
-      "publishedAt": "2026-09-29T13:33:07Z",
-      "excerpt": "Bowers will go off under Klint Kubiak? The Rams need another pass catcher? Steelers-Browns will be fun? And Lamar Jackson for MVP? Get ready for Week 4 with some takes.",
-      "content": "Bowers will go off under Klint Kubiak? The Rams need another pass catcher? Steelers-Browns will be fun? And Lamar Jackson for MVP? Get ready for Week 4 with some takes.",
-      "scrapedAt": "2026-09-29T17:54:12.227Z"
-    },
-    {
-      "id": "faa04fb94d6f29b9",
-      "title": "'This is special': Case Keenum delivers impressive performance in Bears' primetime victory",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/this-is-special-case-keenum-delivers-impressive-performance-in-bears-primetime-victory",
-      "publishedAt": "2026-09-29T13:15:13.000Z",
-      "excerpt": "The opportunity to make his first start in 1,009 days already made Monday night special for veteran quarterback Case Keenum, but leading the Bears to a 27-7 win over Philadelphia in front of his family and the lively Soldier Field crowd created memories that will last a lifetime.",
-      "content": "The opportunity to make his first start in 1,009 days already made Monday night special for veteran quarterback Case Keenum, but leading the Bears to a 27-7 win over Philadelphia in front of his family and the lively Soldier Field crowd created memories that will last a lifetime.",
-      "scrapedAt": "2026-09-29T17:54:18.510Z"
-    },
-    {
-      "id": "ab9613655e95df40",
-      "title": "Case Keenum overwhelmed with joy after leading Bears to victory",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50056449/case-keenum-overwhelmed-joy-leading-bears-victory",
-      "publishedAt": "2026-09-29T13:02:50Z",
-      "excerpt": "Case Keenum overwhelmed with joy after leading Bears to victory",
-      "content": "Case Keenum overwhelmed with joy after leading Bears to victory",
-      "scrapedAt": "2026-09-29T17:54:12.227Z"
-    },
-    {
-      "id": "cd80741d42123e99",
-      "title": "Case Keenum and daughter steal show in interview with SVP",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50058277/case-keenum-daughter-steal-show-interview-svp",
-      "publishedAt": "2026-09-29T12:59:11Z",
-      "excerpt": "Case Keenum and daughter steal show in interview with SVP",
-      "content": "Case Keenum and daughter steal show in interview with SVP",
-      "scrapedAt": "2026-09-29T17:54:12.227Z"
-    },
-    {
-      "id": "8ba63a923006493d",
-      "title": "How Case Keenum's performance might benefit Caleb Williams",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50058141/how-case-keenum-performance-benefit-caleb-williams",
-      "publishedAt": "2026-09-29T12:42:10Z",
-      "excerpt": "How Case Keenum's performance might benefit Caleb Williams",
-      "content": "How Case Keenum's performance might benefit Caleb Williams",
-      "scrapedAt": "2026-09-29T17:54:12.227Z"
-    },
-    {
-      "id": "883f6a28ff1013ea",
-      "title": "Bears call on QB3 Case Keenum in rousing victory over Eagles",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50056918/bears-call-qb3-case-keenum-rousing-victory-eagles",
-      "publishedAt": "2026-09-29T12:08:22Z",
-      "excerpt": "In his first NFL start in 1,009 days, Chicago third-string quarterback Case Keenum, 38, led the Bears to a dominant 27-7 victory over the perennial NFC heavyweight Philadelphia Eagles on Monday, a performance coach Ben Johnson labeled \"extraordinary.\"",
-      "content": "In his first NFL start in 1,009 days, Chicago third-string quarterback Case Keenum, 38, led the Bears to a dominant 27-7 victory over the perennial NFC heavyweight Philadelphia Eagles on Monday, a performance coach Ben Johnson labeled \"extraordinary.\"",
-      "scrapedAt": "2026-09-29T17:54:12.227Z"
-    },
-    {
-      "id": "2352c5846fe87314",
-      "title": "2027 NFL draft order projections for Round 1, top pick, more",
-      "author": "ESPN staff",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "publishedAt": "2026-09-29T11:06:05Z",
-      "excerpt": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "content": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "scrapedAt": "2026-09-29T17:54:12.227Z"
-    },
-    {
-      "id": "c9ca13b015ffc037",
-      "title": "Sirianni regrets reaction to hit on QB Hurts in Eagles' loss",
-      "author": "Tim McManus",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50056700/sirianni-regrets-reaction-hit-qb-hurts-eagles-loss",
-      "publishedAt": "2026-09-29T06:59:56Z",
-      "excerpt": "After a 27-7 loss to Chicago on Monday, Eagles coach Nick Sirianni expressed \"remorse\" over his reaction to a sideline hit by Bears linebacker D'Marco Jackson on Philadelphia's Jalen Hurts that temporarily knocked his quarterback out of the first half.",
-      "content": "After a 27-7 loss to Chicago on Monday, Eagles coach Nick Sirianni expressed \"remorse\" over his reaction to a sideline hit by Bears linebacker D'Marco Jackson on Philadelphia's Jalen Hurts that temporarily knocked his quarterback out of the first half.",
-      "scrapedAt": "2026-09-29T17:54:12.227Z"
-    },
-    {
-      "id": "061a721f4e4fdb5f",
-      "title": "QB3 Case Keenum, Bears defense shock Eagles in MNF rout",
-      "author": "Courtney Cronin and Tim McManus",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50055561/nfl-chicago-bears-philadelphia-eagles-monday-night-football-case-keenum",
-      "publishedAt": "2026-09-29T05:28:40Z",
-      "excerpt": "Keenum stepped up big in a pressure situation and combined with a defensive gem to lead the Bears past the Eagles.",
-      "content": "Keenum stepped up big in a pressure situation and combined with a defensive gem to lead the Bears past the Eagles.",
-      "scrapedAt": "2026-09-29T17:54:12.227Z"
-    },
-    {
-      "id": "b4314d8eb5497227",
-      "title": "Case Keenum drives Chicago to 3 touchdowns as the Bears beat the Eagles 27-7",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "http://www.espn.com/nfl/recap?gameId=401872963",
-      "publishedAt": "2026-09-29T05:20:29Z",
-      "excerpt": "— Case Keenum was on target and on time all night long.",
-      "content": "— Case Keenum was on target and on time all night long.",
-      "scrapedAt": "2026-09-29T17:54:12.227Z"
-    },
-    {
-      "id": "d69529abb80e928d",
-      "title": "NFL Week 3's best arrivals, led by Jalen Hurts",
-      "author": "Cameron Wolfe",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50023585/nfl-week-3-fashionable-arrivals",
-      "publishedAt": "2026-09-29T04:25:49Z",
-      "excerpt": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "content": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "scrapedAt": "2026-09-29T17:54:12.227Z"
-    },
-    {
-      "id": "ab7a7d91b89070b7",
-      "title": "Game Recap: Case Keenum, defense lead Bears to dominant victory over Eagles",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/game-recap-case-keenum-defense-lead-bears-to-dominant-victory-over-eagles",
-      "publishedAt": "2026-09-29T04:13:00.000Z",
-      "excerpt": "Stellar performances by third-string quarterback Case Keenum and a stifling defense led the Bears to an impressive 27-7 win over the Eagles Monday night at Soldier Field.",
-      "content": "Stellar performances by third-string quarterback Case Keenum and a stifling defense led the Bears to an impressive 27-7 win over the Eagles Monday night at Soldier Field.",
-      "scrapedAt": "2026-09-29T17:54:18.511Z"
-    },
-    {
-      "id": "1cfc36bc30c1f01e",
-      "title": "How Rome Odunze was shaped by two grandfathers from very different backgrounds",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50053968/how-rome-odunze-was-shaped-two-grandfathers-very-different-backgrounds",
-      "publishedAt": "2026-09-28T23:53:59Z",
-      "excerpt": "How Rome Odunze was shaped by two grandfathers from very different backgrounds",
-      "content": "How Rome Odunze was shaped by two grandfathers from very different backgrounds",
-      "scrapedAt": "2026-09-29T17:54:12.227Z"
+      "scrapedAt": "2026-09-30T17:49:19.288Z"
     },
     {
       "id": "2314365724c741f7",
@@ -5620,7 +5521,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-09-29T17:54:19.131Z"
+      "scrapedAt": "2026-09-30T17:49:19.781Z"
     },
     {
       "id": "07935118ef97b372",
@@ -5654,6 +5555,39 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-09-29T17:54:19.132Z"
+    },
+    {
+      "id": "3cb59163f86dac13",
+      "title": "Chicago Bears Q&A: Who will it be at QB on Sunday — Case Keenum or Tyson Bagent?",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/30/chicago-bears-mailbag-case-keenum-tyson-bagent/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-30T17:49:19.780Z"
+    },
+    {
+      "id": "66aed7f70d8a21e7",
+      "title": "Chicago-based mariachi band makes history at Bears game while performance sparks online commentary",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/29/chicago-based-mariachi-band-makes-history-at-bears-game-while-performance-sparks-online-commentary/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-30T17:49:19.780Z"
+    },
+    {
+      "id": "004194457a9f35a3",
+      "title": "Kickoff time changed for Chicago Bears’ Week 5 game at Green Bay Packers",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/29/chicago-bears-green-bay-packers-time-change/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-09-30T17:49:19.781Z"
     }
   ]
 }
