@@ -1,6 +1,105 @@
 {
-  "lastUpdated": "2026-09-30T17:49:26.528Z",
+  "lastUpdated": "2026-10-01T18:15:15.390Z",
   "articles": [
+    {
+      "id": "30b992a82b5b2cdf",
+      "title": "Are we seeing more NFL quarterback injuries than normal this season?",
+      "author": "Bill Barnwell",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50059971/quarterback-injuries-barnwell-mayfield-dart-daniels",
+      "publishedAt": "2026-10-01T16:36:29Z",
+      "excerpt": "There have been eight QB injuries through three weeks of the NFL season, up a little bit from recent years. Is it a trend or just an outlier -- and is there a clear reason?",
+      "content": "There have been eight QB injuries through three weeks of the NFL season, up a little bit from recent years. Is it a trend or just an outlier -- and is there a clear reason?",
+      "scrapedAt": "2026-10-01T18:15:03.480Z"
+    },
+    {
+      "id": "6e0d262354c43c36",
+      "title": "Bears support Nike Rivalries campaign at local high school football game",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-support-nike-rivalries-campaign-local-high-school-football-game",
+      "publishedAt": "2026-10-01T15:11:05.000Z",
+      "excerpt": "The Bears helped bring the Nike Rivalries program to the traditional “Friday Night Lights” experience at Carmel Catholic High School last week for their Homecoming game against St. Ignatius College Prep.",
+      "content": "The Bears helped bring the Nike Rivalries program to the traditional “Friday Night Lights” experience at Carmel Catholic High School last week for their Homecoming game against St. Ignatius College Prep.",
+      "scrapedAt": "2026-10-01T18:15:07.517Z"
+    },
+    {
+      "id": "086e26388391b98b",
+      "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
+      "author": "Anthony Gharib",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms",
+      "publishedAt": "2026-10-01T13:39:33Z",
+      "excerpt": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
+      "content": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
+      "scrapedAt": "2026-10-01T18:15:03.479Z"
+    },
+    {
+      "id": "93225dddd1385d5b",
+      "title": "Bears open DB Kyler Gordon's 21-day practice window",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-open-db-kyler-gordon-s-21-day-practice-window",
+      "publishedAt": "2026-10-01T12:52:00.000Z",
+      "excerpt": "The Bears on Wednesday opened cornerback Kyler Gordon’s 21-day practice window, giving them three weeks to activate him off the physically unable to perform (PUP) list.",
+      "content": "The Bears on Wednesday opened cornerback Kyler Gordon’s 21-day practice window, giving them three weeks to activate him off the physically unable to perform (PUP) list.",
+      "scrapedAt": "2026-10-01T18:15:07.517Z"
+    },
+    {
+      "id": "1de36981cd746348",
+      "title": "Bears' Ben Johnson: 'Direction already made' on Week 4 QB call",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50071476/bears-ben-johnson-direction-already-made-week-4-qb",
+      "publishedAt": "2026-10-01T10:31:36Z",
+      "excerpt": "Bears coach Ben Johnson said he knows the \"direction\" the team will go at quarterback in Week 4 but won't publicly declare a starter.",
+      "content": "Bears coach Ben Johnson said he knows the \"direction\" the team will go at quarterback in Week 4 but won't publicly declare a starter.",
+      "scrapedAt": "2026-10-01T18:15:03.480Z"
+    },
+    {
+      "id": "9969a9b4d4092fb4",
+      "title": "Ben Johnson deciding who to start at QB in Week 4",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50072079/ben-johnson-deciding-start-qb-week-4",
+      "publishedAt": "2026-09-30T22:52:24Z",
+      "excerpt": "Courtney Cronin discusses the Bears' QB options ahead of their Week 4 matchup vs. the Jets.",
+      "content": "Courtney Cronin discusses the Bears' QB options ahead of their Week 4 matchup vs. the Jets.",
+      "scrapedAt": "2026-10-01T18:15:03.480Z"
+    },
+    {
+      "id": "d6912fc58a93abed",
+      "title": "Bears will wait to announce starting QB for Jets game",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-will-wait-to-announce-starting-qb-for-jets-game",
+      "publishedAt": "2026-09-30T22:29:53.000Z",
+      "excerpt": "When Ben Johnson met the media Wednesday before conducting a walk-through practice, the Bears coach was not ready to name a starting quarterback for Sunday’s home game against the Jets.",
+      "content": "When Ben Johnson met the media Wednesday before conducting a walk-through practice, the Bears coach was not ready to name a starting quarterback for Sunday’s home game against the Jets.",
+      "scrapedAt": "2026-10-01T18:15:07.518Z"
+    },
+    {
+      "id": "154c1604b66d7517",
+      "title": "Here's why NFL players risk CTE despite knowing the dangers",
+      "author": "Kevin Seifert and Stephen Holder",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49940451/how-nfl-players-cope-cte-risks",
+      "publishedAt": "2026-09-30T18:49:10Z",
+      "excerpt": "We asked over 30 NFL players about CTE concerns, and their answers ranged from fear to resignation.",
+      "content": "We asked over 30 NFL players about CTE concerns, and their answers ranged from fear to resignation.",
+      "scrapedAt": "2026-10-01T18:15:03.480Z"
+    },
+    {
+      "id": "1e08cf13c5f12150",
+      "title": "Would NFL players take a test to diagnose CTE in the living?",
+      "author": "Stephen Holder",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49941739/would-nfl-players-take-test-diagnose-cte-living",
+      "publishedAt": "2026-09-30T18:47:42Z",
+      "excerpt": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
+      "content": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
+      "scrapedAt": "2026-10-01T18:15:03.480Z"
+    },
     {
       "id": "8552122586eaaa2c",
       "title": "Bears defense stifles Eagles with 'extraordinary' second half performance",
@@ -10,7 +109,7 @@
       "publishedAt": "2026-09-30T16:45:00.000Z",
       "excerpt": "Between coordinator Dennis Allen calling \"a heck of a game\" and the entire unit playing with energy and aggression, the Bears defense put together their best performance of the season, generating three takeaways and shutting out the Eagles in three of four quarters in their 27-7 win Monday night.",
       "content": "Between coordinator Dennis Allen calling \"a heck of a game\" and the entire unit playing with energy and aggression, the Bears defense put together their best performance of the season, generating three takeaways and shutting out the Eagles in three of four quarters in their 27-7 win Monday night.",
-      "scrapedAt": "2026-09-30T17:49:19.287Z"
+      "scrapedAt": "2026-10-01T18:15:07.518Z"
     },
     {
       "id": "e847705ddfa53a42",
@@ -21,73 +120,7 @@
       "publishedAt": "2026-09-30T16:34:00.000Z",
       "excerpt": "Here's where to watch, listen to and stream the Bears' Week 4 matchup with the New York Jets, which kicks off at noon CT Sunday, Oct. 4 at Soldier Field.",
       "content": "Here's where to watch, listen to and stream the Bears' Week 4 matchup with the New York Jets, which kicks off at noon CT Sunday, Oct. 4 at Soldier Field.",
-      "scrapedAt": "2026-09-30T17:49:19.287Z"
-    },
-    {
-      "id": "154c1604b66d7517",
-      "title": "How NFL players cope with CTE risks, fears and internal debates",
-      "author": "Kevin Seifert and Stephen Holder",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49940451/how-nfl-players-cope-cte-risks",
-      "publishedAt": "2026-09-30T16:27:17Z",
-      "excerpt": "We asked over 30 NFL players about CTE concerns, and their answers ranged from fear to resignation.",
-      "content": "We asked over 30 NFL players about CTE concerns, and their answers ranged from fear to resignation.",
-      "scrapedAt": "2026-09-30T17:49:15.938Z"
-    },
-    {
-      "id": "1e08cf13c5f12150",
-      "title": "Would NFL players take a test that could diagnose CTE in the living?",
-      "author": "Stephen Holder",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49941739/would-nfl-players-take-test-diagnose-cte-living",
-      "publishedAt": "2026-09-30T15:50:18Z",
-      "excerpt": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
-      "content": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
-      "scrapedAt": "2026-09-30T17:49:15.939Z"
-    },
-    {
-      "id": "b49a4b52485b4dbd",
-      "title": "NFL Week 4 betting: Odds, lines and totals for every game",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals",
-      "publishedAt": "2026-09-30T15:37:09Z",
-      "excerpt": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
-      "content": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
-      "scrapedAt": "2026-09-30T17:49:15.938Z"
-    },
-    {
-      "id": "5525e8b02a56380d",
-      "title": "Case Keenum or Tyson Bagent? Bears face a QB decision",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50061765/chicago-bears-case-keenum-tyson-bagent",
-      "publishedAt": "2026-09-30T12:44:30Z",
-      "excerpt": "Keenum stepped up in a big way against the Eagles, but Bagent is healthy and Ben Johnson won't reveal his QB1.",
-      "content": "Keenum stepped up in a big way against the Eagles, but Bagent is healthy and Ben Johnson won't reveal his QB1.",
-      "scrapedAt": "2026-09-30T17:49:15.939Z"
-    },
-    {
-      "id": "577851231a8b8d15",
-      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "author": "Doug Greenberg",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-      "publishedAt": "2026-09-29T19:00:36Z",
-      "excerpt": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "content": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "scrapedAt": "2026-09-30T17:49:15.939Z"
-    },
-    {
-      "id": "d756af4b39e110fe",
-      "title": "By the Numbers: Bears' Monday Night Football win over Eagles",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/by-the-numbers-bears-monday-night-football-win-over-eagles",
-      "publishedAt": "2026-09-29T16:45:25.000Z",
-      "excerpt": "Check out some notable numbers and stats from the Bears’ dominant 27-7 win over the Eagles Monday night at Soldier Field.",
-      "content": "Check out some notable numbers and stats from the Bears’ dominant 27-7 win over the Eagles Monday night at Soldier Field.",
-      "scrapedAt": "2026-09-30T17:49:19.288Z"
+      "scrapedAt": "2026-10-01T18:15:07.519Z"
     },
     {
       "id": "2314365724c741f7",
@@ -5588,6 +5621,50 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-09-30T17:49:19.781Z"
+    },
+    {
+      "id": "87562657a74b2cc3",
+      "title": "Chicago Bears by the numbers: When did they last win back-to-back games with a backup QB?",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/01/chicago-bears-numbers-backup-qb/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-01T18:15:08.916Z"
+    },
+    {
+      "id": "9c1259555aeb98dd",
+      "title": "Coaches on kiss cam: Costumed couple make memorable moment at Soldier Field",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/01/coaches-on-the-kiss-cam-costumed-couple-soldier-field/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-01T18:15:08.916Z"
+    },
+    {
+      "id": "edd33560674bafdd",
+      "title": "Chicago Bears open nickel corner Kyler Gordon’s 21-day practice window to return from the PUP list",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/30/chicago-bears-kyler-gordon-practice-window/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-01T18:15:08.916Z"
+    },
+    {
+      "id": "5a3b3353bb3bc736",
+      "title": "Chicago Bears LB T.J. Edwards downplays viral eavesdropping before INT: ‘Didn’t pick up anything useful’",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/09/30/chicago-bears-tj-edwards-interception/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-01T18:15:08.917Z"
     }
   ]
 }
