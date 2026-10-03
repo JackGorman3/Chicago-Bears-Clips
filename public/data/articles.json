@@ -1,16 +1,115 @@
 {
-  "lastUpdated": "2026-10-02T17:40:36.400Z",
+  "lastUpdated": "2026-10-03T16:00:08.238Z",
   "articles": [
+    {
+      "id": "e3de0052183a4639",
+      "title": "Source: Bears expected to start QB Tyson Bagent vs. Jets",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50090746/source-bears-expected-start-qb-tyson-bagent-vs-jets",
+      "publishedAt": "2026-10-03T15:41:49Z",
+      "excerpt": "The Bears are expected to start Tyson Bagent at quarterback against the Jets, according to NFL Network's Ian Rapoport.",
+      "content": "The Bears are expected to start Tyson Bagent at quarterback against the Jets, according to NFL Network's Ian Rapoport.",
+      "scrapedAt": "2026-10-03T15:59:52.983Z"
+    },
+    {
+      "id": "8f0c7313959cfe85",
+      "title": "Game Preview: Jets vs. Bears | 2026 Week 4",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/game-preview-jets-vs-bears-2026-week-4",
+      "publishedAt": "2026-10-03T15:13:00.000Z",
+      "excerpt": "After routing the Eagles 27-7 Monday night, the Bears will look to register back-to-back wins and improve to 3-1 when they host the Jets Sunday at Soldier Field.",
+      "content": "After routing the Eagles 27-7 Monday night, the Bears will look to register back-to-back wins and improve to 3-1 when they host the Jets Sunday at Soldier Field.",
+      "scrapedAt": "2026-10-03T15:59:58.848Z"
+    },
+    {
+      "id": "d0992d27c46808a1",
+      "title": "NFL Week 4 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+      "author": "Matt Bowen, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50077462/week-4-predictions-upsets-fantasy-sleepers-stats-2026",
+      "publishedAt": "2026-10-03T11:02:06Z",
+      "excerpt": "Touchdowns for Lamar Jackson and Jameson Williams? The Cowboys pulling an upset of the Texans? Fantasy value for Marcus Mariota? And a trick play from Ben Johnson?",
+      "content": "Touchdowns for Lamar Jackson and Jameson Williams? The Cowboys pulling an upset of the Texans? Fantasy value for Marcus Mariota? And a trick play from Ben Johnson?",
+      "scrapedAt": "2026-10-03T15:59:52.983Z"
+    },
+    {
+      "id": "48d89e027305e280",
+      "title": "All-time rosters for 23 teams with multiple Super Bowls",
+      "author": "NFL Nation",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame",
+      "publishedAt": "2026-10-03T10:00:17Z",
+      "excerpt": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
+      "content": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
+      "scrapedAt": "2026-10-03T15:59:52.983Z"
+    },
+    {
+      "id": "ee1c2d4c5151f85a",
+      "title": "Bears yet to reveal starting QB for Sunday vs. Jets",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50087028/bears-yet-reveal-starting-qb-sunday-vs-jets",
+      "publishedAt": "2026-10-02T22:40:14Z",
+      "excerpt": "Courtney Cronin joins \"NFL Live\" to discuss the Bears' quarterback situation going into Week 4 vs. the Jets.",
+      "content": "Courtney Cronin joins \"NFL Live\" to discuss the Bears' quarterback situation going into Week 4 vs. the Jets.",
+      "scrapedAt": "2026-10-03T15:59:52.983Z"
+    },
+    {
+      "id": "92dc44ae4977aa9e",
+      "title": "Falcons vs Saints: Where to watch 'Monday Night Football'",
+      "author": "Keith Jenkins",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50086122/falcons-saints-where-watch-monday-night-football",
+      "publishedAt": "2026-10-02T20:29:21Z",
+      "excerpt": "Bijan Robinson and the Atlanta Falcons head to the Crescent City to face Tyler Shough and the New Orleans Saints on \"Monday Night Football.\"",
+      "content": "Bijan Robinson and the Atlanta Falcons head to the Crescent City to face Tyler Shough and the New Orleans Saints on \"Monday Night Football.\"",
+      "scrapedAt": "2026-10-03T15:59:52.983Z"
+    },
+    {
+      "id": "05771ae030040cea",
+      "title": "Injury Update: Caleb Williams officially ruled out for Sunday's game vs. Jets",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/injury-update-caleb-williams-officially-ruled-out-for-sunday-s-game-vs-jets",
+      "publishedAt": "2026-10-02T20:13:47.000Z",
+      "excerpt": "Either Tyson Bagent or Case Keenum will start at quarterback for the Bears Sunday against the Jets in place of Caleb Williams, who will miss his second straight game with a hamstring injury.",
+      "content": "Either Tyson Bagent or Case Keenum will start at quarterback for the Bears Sunday against the Jets in place of Caleb Williams, who will miss his second straight game with a hamstring injury.",
+      "scrapedAt": "2026-10-03T15:59:58.848Z"
+    },
+    {
+      "id": "577851231a8b8d15",
+      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "author": "Doug Greenberg",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
+      "publishedAt": "2026-10-02T19:59:37Z",
+      "excerpt": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "content": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "scrapedAt": "2026-10-03T15:59:52.983Z"
+    },
+    {
+      "id": "47e950bdcf3bcce6",
+      "title": "Fantasy football last-minute pickups for Week 4: Raymond, Allen, Waller among top options",
+      "author": "Matt Bowen",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/fantasy/football/story/_/id/50069246/fantasy-football-streamers-last-minute-pickups-week-4",
+      "publishedAt": "2026-10-02T19:13:30Z",
+      "excerpt": "If injuries or tough matchups have you seeking help, Matt Bowen provides options at each key position.",
+      "content": "If injuries or tough matchups have you seeking help, Matt Bowen provides options at each key position.",
+      "scrapedAt": "2026-10-03T15:59:52.983Z"
+    },
     {
       "id": "460c61191bca2b33",
       "title": "Bears coach Ben Johnson not ready to name QB starter",
       "author": "Courtney Cronin",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50085487/bears-coach-ben-johnson-not-ready-name-qb-starter",
-      "publishedAt": "2026-10-02T17:16:03Z",
+      "publishedAt": "2026-10-02T18:03:23Z",
       "excerpt": "Bears coach Ben Johnson will not say whether Case Keenum or Tyson Bagent will start Sunday against the Jets.",
       "content": "Bears coach Ben Johnson will not say whether Case Keenum or Tyson Bagent will start Sunday against the Jets.",
-      "scrapedAt": "2026-10-02T17:40:23.665Z"
+      "scrapedAt": "2026-10-03T15:59:52.983Z"
     },
     {
       "id": "62233d705fcff77f",
@@ -21,7 +120,18 @@
       "publishedAt": "2026-10-02T17:16:00.000Z",
       "excerpt": "The Bears have not yet announced their starting quarterback for Sunday’s game against the Jets, but both Tyson Bagent and Case Keenum will be ready if called upon because they’re helping each other prepare for the opportunity.",
       "content": "The Bears have not yet announced their starting quarterback for Sunday’s game against the Jets, but both Tyson Bagent and Case Keenum will be ready if called upon because they’re helping each other prepare for the opportunity.",
-      "scrapedAt": "2026-10-02T17:40:29.927Z"
+      "scrapedAt": "2026-10-03T15:59:58.849Z"
+    },
+    {
+      "id": "b8c7846d79b279a2",
+      "title": "A full-circle moment: My experience at the Bears' Latino Heritage Month game",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/a-full-circle-moment-my-experience-at-the-bears-latino-heritage-month-game",
+      "publishedAt": "2026-10-02T17:00:00.000Z",
+      "excerpt": "As part of their Latino Heritage Month celebration, the Bears are collaborating with Adam Belmares, a University of Illinois-Chicago communications major who lives in the Chicagoland area, on a series of stories that will be featured on ChicagoBears.com. For his second piece, Belmares documents his experience at the Bears' Latino Heritage Month game last Monday night at Soldier Field.",
+      "content": "As part of their Latino Heritage Month celebration, the Bears are collaborating with Adam Belmares, a University of Illinois-Chicago communications major who lives in the Chicagoland area, on a series of stories that will be featured on ChicagoBears.com. For his second piece, Belmares documents his experience at the Bears' Latino Heritage Month game last Monday night at Soldier Field.",
+      "scrapedAt": "2026-10-03T15:59:58.849Z"
     },
     {
       "id": "4dbcaefd5920908a",
@@ -32,18 +142,7 @@
       "publishedAt": "2026-10-02T15:36:04Z",
       "excerpt": "Could the Cardinals listen on Marvin Harrison Jr. or Josh Sweat? Will the Bears or Raiders be active? Here's our way-too-early preview of the Nov. 10 trade deadline.",
       "content": "Could the Cardinals listen on Marvin Harrison Jr. or Josh Sweat? Will the Bears or Raiders be active? Here's our way-too-early preview of the Nov. 10 trade deadline.",
-      "scrapedAt": "2026-10-02T17:40:23.665Z"
-    },
-    {
-      "id": "47e950bdcf3bcce6",
-      "title": "Fantasy football last-minute pickups for Week 4: Raymond, Allen, Waller among top options",
-      "author": "Matt Bowen",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/fantasy/football/story/_/id/50069246/fantasy-football-streamers-last-minute-pickups-week-4",
-      "publishedAt": "2026-10-02T15:16:57Z",
-      "excerpt": "If injuries or tough matchups have you seeking help, Matt Bowen provides options at each key position.",
-      "content": "If injuries or tough matchups have you seeking help, Matt Bowen provides options at each key position.",
-      "scrapedAt": "2026-10-02T17:40:23.665Z"
+      "scrapedAt": "2026-10-03T15:59:52.983Z"
     },
     {
       "id": "83f9c7d1a13d9cfb",
@@ -54,106 +153,18 @@
       "publishedAt": "2026-10-02T15:00:00.000Z",
       "excerpt": "The Chicago Bears are commencing the club’s 2026 UK Grand Tour, the latest activation and action of the franchise’s longstanding commitment to international growth and positive impact on a global scale.",
       "content": "The Chicago Bears are commencing the club’s 2026 UK Grand Tour, the latest activation and action of the franchise’s longstanding commitment to international growth and positive impact on a global scale.",
-      "scrapedAt": "2026-10-02T17:40:29.928Z"
+      "scrapedAt": "2026-10-03T15:59:58.849Z"
     },
     {
-      "id": "155c2d4f74fe83b7",
-      "title": "How active NFL players continue to redefine all-time sack list",
-      "author": "Sarah Barshop",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
-      "publishedAt": "2026-10-02T13:54:32Z",
-      "excerpt": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "content": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "scrapedAt": "2026-10-02T17:40:23.665Z"
-    },
-    {
-      "id": "8305ef88046632fc",
-      "title": "Make pass interference reviewable? 17 NFL coaches are split",
-      "author": "Jamison Hensley",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50078705/pass-interference-review-rams-broncos",
-      "publishedAt": "2026-10-02T13:47:07Z",
-      "excerpt": "It's been tried once before and some coaches want to bring it back, but others want to keep status quo.",
-      "content": "It's been tried once before and some coaches want to bring it back, but others want to keep status quo.",
-      "scrapedAt": "2026-10-02T17:40:23.665Z"
-    },
-    {
-      "id": "2352c5846fe87314",
-      "title": "2027 NFL draft order projections for Round 1, top pick, more",
-      "author": "ESPN staff",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "publishedAt": "2026-10-02T10:51:10Z",
-      "excerpt": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "content": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "scrapedAt": "2026-10-02T17:40:23.665Z"
-    },
-    {
-      "id": "b49a4b52485b4dbd",
-      "title": "NFL Week 4 betting: Odds, lines and totals for every game",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals",
-      "publishedAt": "2026-10-02T04:50:48Z",
-      "excerpt": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
-      "content": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
-      "scrapedAt": "2026-10-02T17:40:23.665Z"
-    },
-    {
-      "id": "086e26388391b98b",
-      "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
-      "author": "Anthony Gharib",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms",
-      "publishedAt": "2026-10-01T23:54:43Z",
-      "excerpt": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
-      "content": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
-      "scrapedAt": "2026-10-02T17:40:23.665Z"
-    },
-    {
-      "id": "132b4d18a49f7545",
-      "title": "NFL Week 4's best arrivals, led by Cleveland Browns mascot",
-      "author": "ESPN Staff",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50079780/nfl-week-4-fashionable-arrivals",
-      "publishedAt": "2026-10-01T23:21:46Z",
-      "excerpt": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "content": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "scrapedAt": "2026-10-02T17:40:23.665Z"
-    },
-    {
-      "id": "57dd27990e20669b",
-      "title": "7 things we learned from Bears coordinators",
+      "id": "6c68379a283094e3",
+      "title": "Girls Flag Football Player of the Week: Kerra-Elizabeth Serrette | Week 5",
       "author": null,
       "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/7-things-we-learned-from-bears-coordinators-week-4-2026",
-      "publishedAt": "2026-10-01T22:05:50.000Z",
-      "excerpt": "Bears coordinators Dennis Allen (defense), Press Taylor (offense) and Richard Hightower (special teams) spoke to the media Thursday about rookie safety Dillon Thieneman’s progress, receiver Kalif Raymond’s emergence and more.",
-      "content": "Bears coordinators Dennis Allen (defense), Press Taylor (offense) and Richard Hightower (special teams) spoke to the media Thursday about rookie safety Dillon Thieneman’s progress, receiver Kalif Raymond’s emergence and more.",
-      "scrapedAt": "2026-10-02T17:40:29.928Z"
-    },
-    {
-      "id": "675cf83d2a2e3572",
-      "title": "Johnson and Glenn match wits once again as the Bears host the Jets in Week 4",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "http://www.espn.com/nfl/preview?gameId=401872972",
-      "publishedAt": "2026-10-01T18:38:30Z",
-      "excerpt": "— Ben Johnson's time in Detroit — a formative experience that led to his current job as coach of the Chicago Bears — was shaped in part by going against Aaron Glenn's defense in practice with the Lions.",
-      "content": "— Ben Johnson's time in Detroit — a formative experience that led to his current job as coach of the Chicago Bears — was shaped in part by going against Aaron Glenn's defense in practice with the Lions.",
-      "scrapedAt": "2026-10-02T17:40:23.665Z"
-    },
-    {
-      "id": "30b992a82b5b2cdf",
-      "title": "Are we seeing more NFL quarterback injuries than normal this season?",
-      "author": "Bill Barnwell",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50059971/quarterback-injuries-barnwell-mayfield-dart-daniels",
-      "publishedAt": "2026-10-01T16:36:29Z",
-      "excerpt": "There have been eight QB injuries through three weeks of the NFL season, up a little bit from recent years. Is it a trend or just an outlier -- and is there a clear reason?",
-      "content": "There have been eight QB injuries through three weeks of the NFL season, up a little bit from recent years. Is it a trend or just an outlier -- and is there a clear reason?",
-      "scrapedAt": "2026-10-02T17:40:23.665Z"
+      "sourceUrl": "https://www.chicagobears.com/news/flag-football-player-of-week-kerra-elizabeth-serrette-week-5",
+      "publishedAt": "2026-10-02T14:20:52.000Z",
+      "excerpt": "Buffalo Grove senior Kerra-Elizabeth Serrette received Week 5 Player of the Week honors for her standout performances across three conference games. Herr spoke with ChicagoBears.com about her Bears fandom, why she enjoys playing quarterback, her future in flag football and more.",
+      "content": "Buffalo Grove senior Kerra-Elizabeth Serrette received Week 5 Player of the Week honors for her standout performances across three conference games. Herr spoke with ChicagoBears.com about her Bears fandom, why she enjoys playing quarterback, her future in flag football and more.",
+      "scrapedAt": "2026-10-03T15:59:58.849Z"
     },
     {
       "id": "2314365724c741f7",
@@ -5708,7 +5719,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-02T17:40:31.102Z"
+      "scrapedAt": "2026-10-03T16:00:00.176Z"
     },
     {
       "id": "cb34b4ab85fd98b2",
@@ -5719,7 +5730,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-02T17:40:31.102Z"
+      "scrapedAt": "2026-10-03T16:00:00.176Z"
     },
     {
       "id": "c2b22ef332a014e1",
@@ -5742,6 +5753,28 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-10-02T17:40:31.102Z"
+    },
+    {
+      "id": "f749867d90bad0a7",
+      "title": "Ben Johnson and Aaron Glenn — once friendly rivals in Detroit — face off for 1st time Sunday at Soldier Field",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/03/chicago-bears-ben-johnson-jets-aaron-glenn/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-03T16:00:00.176Z"
+    },
+    {
+      "id": "e966936b84c66875",
+      "title": "New York Jets set to face the Chicago Bears without RB Breece Hall and 3 other offensive starters",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/02/new-york-jets-injuries-chicago-bears/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-03T16:00:00.176Z"
     }
   ]
 }
