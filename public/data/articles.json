@@ -1,16 +1,93 @@
 {
-  "lastUpdated": "2026-10-03T16:00:08.238Z",
+  "lastUpdated": "2026-10-04T16:40:36.576Z",
   "articles": [
+    {
+      "id": "ab5690f1da824739",
+      "title": "Week 4 NFL highlights: Best plays, moments, touchdowns, more",
+      "author": "NFL Nation",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50085799/week-4-highlights-best-plays-touchdowns-2026",
+      "publishedAt": "2026-10-04T14:11:20Z",
+      "excerpt": "Check out top the plays from Week 4, featuring the season's first game in London and a showdown of unbeatens in the late afternoon.",
+      "content": "Check out top the plays from Week 4, featuring the season's first game in London and a showdown of unbeatens in the late afternoon.",
+      "scrapedAt": "2026-10-04T16:40:25.018Z"
+    },
+    {
+      "id": "47e950bdcf3bcce6",
+      "title": "Fantasy football last-minute pickups for Week 4: Raymond, Waller among top options",
+      "author": "Matt Bowen",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/fantasy/football/story/_/id/50069246/fantasy-football-streamers-last-minute-pickups-week-4",
+      "publishedAt": "2026-10-04T00:51:59Z",
+      "excerpt": "If injuries or tough matchups have you seeking help, Matt Bowen provides options at each key position.",
+      "content": "If injuries or tough matchups have you seeking help, Matt Bowen provides options at each key position.",
+      "scrapedAt": "2026-10-04T16:40:25.018Z"
+    },
+    {
+      "id": "48d89e027305e280",
+      "title": "All-time rosters for 23 teams with multiple Super Bowls",
+      "author": "NFL Nation",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame",
+      "publishedAt": "2026-10-03T23:19:51Z",
+      "excerpt": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
+      "content": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
+      "scrapedAt": "2026-10-04T16:40:25.018Z"
+    },
+    {
+      "id": "7f490d51fa72c36b",
+      "title": "Bears LT Braxton Jones on IR; Theo Benedet to start vs. Jets",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50092744/bears-lt-braxton-jones-ir-theo-benedet-start-vs-jets",
+      "publishedAt": "2026-10-03T20:37:39Z",
+      "excerpt": "Bears left tackle Braxton Jones has been placed on injured reserve after sustaining an injury to his right knee against the Eagles in Week 3.",
+      "content": "Bears left tackle Braxton Jones has been placed on injured reserve after sustaining an injury to his right knee against the Eagles in Week 3.",
+      "scrapedAt": "2026-10-04T16:40:25.018Z"
+    },
+    {
+      "id": "a772a641bf9f6b84",
+      "title": "Roster Moves: Chicago Bears place Braxton Jones on IR, elevate 2",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/roster-moves-chicago-bears-place-braxton-jones-on-ir-elevate-2",
+      "publishedAt": "2026-10-03T20:00:00.000Z",
+      "excerpt": "The Chicago Bears announced that the club has placed offensive lineman Braxton Jones on Reserve/Injured. Additionally, the Bears have elevated defensive lineman Marcus Davenport and defensive back Nick McCloud from the practice squad for Sunday’s game against the New York Jets.",
+      "content": "The Chicago Bears announced that the club has placed offensive lineman Braxton Jones on Reserve/Injured. Additionally, the Bears have elevated defensive lineman Marcus Davenport and defensive back Nick McCloud from the practice squad for Sunday’s game against the New York Jets.",
+      "scrapedAt": "2026-10-04T16:40:29.574Z"
+    },
+    {
+      "id": "086e26388391b98b",
+      "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
+      "author": "Anthony Gharib",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms",
+      "publishedAt": "2026-10-03T19:46:43Z",
+      "excerpt": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
+      "content": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
+      "scrapedAt": "2026-10-04T16:40:25.018Z"
+    },
     {
       "id": "e3de0052183a4639",
       "title": "Source: Bears expected to start QB Tyson Bagent vs. Jets",
       "author": "Courtney Cronin",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50090746/source-bears-expected-start-qb-tyson-bagent-vs-jets",
-      "publishedAt": "2026-10-03T15:41:49Z",
+      "publishedAt": "2026-10-03T16:51:12Z",
       "excerpt": "The Bears are expected to start Tyson Bagent at quarterback against the Jets, according to NFL Network's Ian Rapoport.",
       "content": "The Bears are expected to start Tyson Bagent at quarterback against the Jets, according to NFL Network's Ian Rapoport.",
-      "scrapedAt": "2026-10-03T15:59:52.983Z"
+      "scrapedAt": "2026-10-04T16:40:25.018Z"
+    },
+    {
+      "id": "cd80741d42123e99",
+      "title": "Case Keenum and daughter steal show in interview with SVP",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50058277/case-keenum-daughter-steal-show-interview-svp",
+      "publishedAt": "2026-10-03T15:46:59Z",
+      "excerpt": "Case Keenum and daughter steal show in interview with SVP",
+      "content": "Case Keenum and daughter steal show in interview with SVP",
+      "scrapedAt": "2026-10-04T16:40:25.018Z"
     },
     {
       "id": "8f0c7313959cfe85",
@@ -21,150 +98,7 @@
       "publishedAt": "2026-10-03T15:13:00.000Z",
       "excerpt": "After routing the Eagles 27-7 Monday night, the Bears will look to register back-to-back wins and improve to 3-1 when they host the Jets Sunday at Soldier Field.",
       "content": "After routing the Eagles 27-7 Monday night, the Bears will look to register back-to-back wins and improve to 3-1 when they host the Jets Sunday at Soldier Field.",
-      "scrapedAt": "2026-10-03T15:59:58.848Z"
-    },
-    {
-      "id": "d0992d27c46808a1",
-      "title": "NFL Week 4 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-      "author": "Matt Bowen, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50077462/week-4-predictions-upsets-fantasy-sleepers-stats-2026",
-      "publishedAt": "2026-10-03T11:02:06Z",
-      "excerpt": "Touchdowns for Lamar Jackson and Jameson Williams? The Cowboys pulling an upset of the Texans? Fantasy value for Marcus Mariota? And a trick play from Ben Johnson?",
-      "content": "Touchdowns for Lamar Jackson and Jameson Williams? The Cowboys pulling an upset of the Texans? Fantasy value for Marcus Mariota? And a trick play from Ben Johnson?",
-      "scrapedAt": "2026-10-03T15:59:52.983Z"
-    },
-    {
-      "id": "48d89e027305e280",
-      "title": "All-time rosters for 23 teams with multiple Super Bowls",
-      "author": "NFL Nation",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame",
-      "publishedAt": "2026-10-03T10:00:17Z",
-      "excerpt": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
-      "content": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
-      "scrapedAt": "2026-10-03T15:59:52.983Z"
-    },
-    {
-      "id": "ee1c2d4c5151f85a",
-      "title": "Bears yet to reveal starting QB for Sunday vs. Jets",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50087028/bears-yet-reveal-starting-qb-sunday-vs-jets",
-      "publishedAt": "2026-10-02T22:40:14Z",
-      "excerpt": "Courtney Cronin joins \"NFL Live\" to discuss the Bears' quarterback situation going into Week 4 vs. the Jets.",
-      "content": "Courtney Cronin joins \"NFL Live\" to discuss the Bears' quarterback situation going into Week 4 vs. the Jets.",
-      "scrapedAt": "2026-10-03T15:59:52.983Z"
-    },
-    {
-      "id": "92dc44ae4977aa9e",
-      "title": "Falcons vs Saints: Where to watch 'Monday Night Football'",
-      "author": "Keith Jenkins",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50086122/falcons-saints-where-watch-monday-night-football",
-      "publishedAt": "2026-10-02T20:29:21Z",
-      "excerpt": "Bijan Robinson and the Atlanta Falcons head to the Crescent City to face Tyler Shough and the New Orleans Saints on \"Monday Night Football.\"",
-      "content": "Bijan Robinson and the Atlanta Falcons head to the Crescent City to face Tyler Shough and the New Orleans Saints on \"Monday Night Football.\"",
-      "scrapedAt": "2026-10-03T15:59:52.983Z"
-    },
-    {
-      "id": "05771ae030040cea",
-      "title": "Injury Update: Caleb Williams officially ruled out for Sunday's game vs. Jets",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/injury-update-caleb-williams-officially-ruled-out-for-sunday-s-game-vs-jets",
-      "publishedAt": "2026-10-02T20:13:47.000Z",
-      "excerpt": "Either Tyson Bagent or Case Keenum will start at quarterback for the Bears Sunday against the Jets in place of Caleb Williams, who will miss his second straight game with a hamstring injury.",
-      "content": "Either Tyson Bagent or Case Keenum will start at quarterback for the Bears Sunday against the Jets in place of Caleb Williams, who will miss his second straight game with a hamstring injury.",
-      "scrapedAt": "2026-10-03T15:59:58.848Z"
-    },
-    {
-      "id": "577851231a8b8d15",
-      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "author": "Doug Greenberg",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-      "publishedAt": "2026-10-02T19:59:37Z",
-      "excerpt": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "content": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "scrapedAt": "2026-10-03T15:59:52.983Z"
-    },
-    {
-      "id": "47e950bdcf3bcce6",
-      "title": "Fantasy football last-minute pickups for Week 4: Raymond, Allen, Waller among top options",
-      "author": "Matt Bowen",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/fantasy/football/story/_/id/50069246/fantasy-football-streamers-last-minute-pickups-week-4",
-      "publishedAt": "2026-10-02T19:13:30Z",
-      "excerpt": "If injuries or tough matchups have you seeking help, Matt Bowen provides options at each key position.",
-      "content": "If injuries or tough matchups have you seeking help, Matt Bowen provides options at each key position.",
-      "scrapedAt": "2026-10-03T15:59:52.983Z"
-    },
-    {
-      "id": "460c61191bca2b33",
-      "title": "Bears coach Ben Johnson not ready to name QB starter",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50085487/bears-coach-ben-johnson-not-ready-name-qb-starter",
-      "publishedAt": "2026-10-02T18:03:23Z",
-      "excerpt": "Bears coach Ben Johnson will not say whether Case Keenum or Tyson Bagent will start Sunday against the Jets.",
-      "content": "Bears coach Ben Johnson will not say whether Case Keenum or Tyson Bagent will start Sunday against the Jets.",
-      "scrapedAt": "2026-10-03T15:59:52.983Z"
-    },
-    {
-      "id": "62233d705fcff77f",
-      "title": "Game prep a group effort for Bears quarterbacks",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/game-prep-a-group-effort-for-bears-quarterbacks",
-      "publishedAt": "2026-10-02T17:16:00.000Z",
-      "excerpt": "The Bears have not yet announced their starting quarterback for Sunday’s game against the Jets, but both Tyson Bagent and Case Keenum will be ready if called upon because they’re helping each other prepare for the opportunity.",
-      "content": "The Bears have not yet announced their starting quarterback for Sunday’s game against the Jets, but both Tyson Bagent and Case Keenum will be ready if called upon because they’re helping each other prepare for the opportunity.",
-      "scrapedAt": "2026-10-03T15:59:58.849Z"
-    },
-    {
-      "id": "b8c7846d79b279a2",
-      "title": "A full-circle moment: My experience at the Bears' Latino Heritage Month game",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/a-full-circle-moment-my-experience-at-the-bears-latino-heritage-month-game",
-      "publishedAt": "2026-10-02T17:00:00.000Z",
-      "excerpt": "As part of their Latino Heritage Month celebration, the Bears are collaborating with Adam Belmares, a University of Illinois-Chicago communications major who lives in the Chicagoland area, on a series of stories that will be featured on ChicagoBears.com. For his second piece, Belmares documents his experience at the Bears' Latino Heritage Month game last Monday night at Soldier Field.",
-      "content": "As part of their Latino Heritage Month celebration, the Bears are collaborating with Adam Belmares, a University of Illinois-Chicago communications major who lives in the Chicagoland area, on a series of stories that will be featured on ChicagoBears.com. For his second piece, Belmares documents his experience at the Bears' Latino Heritage Month game last Monday night at Soldier Field.",
-      "scrapedAt": "2026-10-03T15:59:58.849Z"
-    },
-    {
-      "id": "4dbcaefd5920908a",
-      "title": "2026 NFL trade deadline early look: Candidates to move, key teams, predictions",
-      "author": "Dan Graziano",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50077145/2026-trade-deadline-early-look-players-teams-predictions",
-      "publishedAt": "2026-10-02T15:36:04Z",
-      "excerpt": "Could the Cardinals listen on Marvin Harrison Jr. or Josh Sweat? Will the Bears or Raiders be active? Here's our way-too-early preview of the Nov. 10 trade deadline.",
-      "content": "Could the Cardinals listen on Marvin Harrison Jr. or Josh Sweat? Will the Bears or Raiders be active? Here's our way-too-early preview of the Nov. 10 trade deadline.",
-      "scrapedAt": "2026-10-03T15:59:52.983Z"
-    },
-    {
-      "id": "83f9c7d1a13d9cfb",
-      "title": "Chicago Bears commence 2026 UK Grand Tour",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/chicago-bears-commence-2026-uk-grand-tour",
-      "publishedAt": "2026-10-02T15:00:00.000Z",
-      "excerpt": "The Chicago Bears are commencing the club’s 2026 UK Grand Tour, the latest activation and action of the franchise’s longstanding commitment to international growth and positive impact on a global scale.",
-      "content": "The Chicago Bears are commencing the club’s 2026 UK Grand Tour, the latest activation and action of the franchise’s longstanding commitment to international growth and positive impact on a global scale.",
-      "scrapedAt": "2026-10-03T15:59:58.849Z"
-    },
-    {
-      "id": "6c68379a283094e3",
-      "title": "Girls Flag Football Player of the Week: Kerra-Elizabeth Serrette | Week 5",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/flag-football-player-of-week-kerra-elizabeth-serrette-week-5",
-      "publishedAt": "2026-10-02T14:20:52.000Z",
-      "excerpt": "Buffalo Grove senior Kerra-Elizabeth Serrette received Week 5 Player of the Week honors for her standout performances across three conference games. Herr spoke with ChicagoBears.com about her Bears fandom, why she enjoys playing quarterback, her future in flag football and more.",
-      "content": "Buffalo Grove senior Kerra-Elizabeth Serrette received Week 5 Player of the Week honors for her standout performances across three conference games. Herr spoke with ChicagoBears.com about her Bears fandom, why she enjoys playing quarterback, her future in flag football and more.",
-      "scrapedAt": "2026-10-03T15:59:58.849Z"
+      "scrapedAt": "2026-10-04T16:40:29.574Z"
     },
     {
       "id": "2314365724c741f7",
@@ -5763,7 +5697,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-03T16:00:00.176Z"
+      "scrapedAt": "2026-10-04T16:40:30.930Z"
     },
     {
       "id": "e966936b84c66875",
@@ -5775,6 +5709,39 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-10-03T16:00:00.176Z"
+    },
+    {
+      "id": "657af53b22465d12",
+      "title": "Week 4 photos: Chicago Bears vs. New York Jets",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/04/week-4-photos-chicago-bears-vs-new-york-jets/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-04T16:40:30.930Z"
+    },
+    {
+      "id": "d9accea7454d5806",
+      "title": "Week 4 updates: DB Cam Lewis and DL James Lynch are among Chicago Bears’ inactive players today",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/04/chicago-bears-new-york-jets-week-4-updates/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-04T16:40:30.930Z"
+    },
+    {
+      "id": "dd42f26e0cb0b7d5",
+      "title": "Chicago Bears backup QB Tyson Bagent expected to start, per report — and LT Braxton Jones placed on IR",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/03/chicago-bears-tyson-bagent-braxton-jones/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-04T16:40:30.930Z"
     }
   ]
 }
