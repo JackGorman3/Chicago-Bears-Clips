@@ -1,60 +1,82 @@
 {
-  "lastUpdated": "2026-10-07T18:41:09.510Z",
+  "lastUpdated": "2026-10-08T18:39:36.211Z",
   "articles": [
-    {
-      "id": "1e8446661565ea9c",
-      "title": "Why Daniel Dopp is not worried about D'Andre Swift's recent decline",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50125164/why-daniel-dopp-not-worried-dandre-swift-recent-decline",
-      "publishedAt": "2026-10-07T15:52:58Z",
-      "excerpt": "Why Daniel Dopp is not worried about D'Andre Swift's recent decline",
-      "content": "Why Daniel Dopp is not worried about D'Andre Swift's recent decline",
-      "scrapedAt": "2026-10-07T18:40:59.854Z"
-    },
-    {
-      "id": "03907a773ff8e52d",
-      "title": "How to watch, listen to, stream Bears-Packers Week 5 game",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/how-to-watch-listen-to-stream-bears-packers-week-5-game",
-      "publishedAt": "2026-10-07T14:17:00.000Z",
-      "excerpt": "Here's where to watch, listen to and stream the Bears' Week 5 matchup with the Packers, which kicks off at noon CT Sunday, Oct. 11 in Green Bay.",
-      "content": "Here's where to watch, listen to and stream the Bears' Week 5 matchup with the Packers, which kicks off at noon CT Sunday, Oct. 11 in Green Bay.",
-      "scrapedAt": "2026-10-07T18:41:02.756Z"
-    },
-    {
-      "id": "61953f7bb4262dbd",
-      "title": "Kyle Monangai, Chuba Hubbard starred in superb week for Africa's running backs in NFL",
-      "author": "Leonard Solms",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/story/_/id/50123398/kyle-monangai-chuba-hubbard-starred-superb-week-africa-running-backs-nfl",
-      "publishedAt": "2026-10-07T08:29:31Z",
-      "excerpt": "The Chicago Bears' Kyle Monangai (ties to Cameroon) and the Carolina Panthers' Chuba Hubbard (ties to Nigeria) starred in an NFL week which saw running backs with links to Africa impress.",
-      "content": "The Chicago Bears' Kyle Monangai (ties to Cameroon) and the Carolina Panthers' Chuba Hubbard (ties to Nigeria) starred in an NFL week which saw running backs with links to Africa impress.",
-      "scrapedAt": "2026-10-07T18:40:59.854Z"
-    },
-    {
-      "id": "2c28c4d5bdf1f876",
-      "title": "Seven things Solak thinks entering NFL Week 5: Jaguars are the AFC's best, more",
-      "author": "Ben Solak",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50110488/week-5-seven-things-solak-thinks-afc-nfc",
-      "publishedAt": "2026-10-06T20:02:39Z",
-      "excerpt": "Has Jacksonville climbed to the top of its conference? Get ready for Week 5 with takes on the Jaguars, Bengals, Rams, Bears, Texans, Eagles and Lions.",
-      "content": "Has Jacksonville climbed to the top of its conference? Get ready for Week 5 with takes on the Jaguars, Bengals, Rams, Bears, Texans, Eagles and Lions.",
-      "scrapedAt": "2026-10-07T18:40:59.854Z"
-    },
     {
       "id": "ccab24626319777c",
       "title": "Fantasy football D/ST outlook for Weeks 5-8: Jaguars a solid option in October",
       "author": "Tristan H. Cockcroft",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/fantasy/football/story/_/id/50117199/fantasy-football-defense-special-teams-streaming-week-5",
-      "publishedAt": "2026-10-06T17:04:36Z",
+      "publishedAt": "2026-10-08T17:46:01Z",
       "excerpt": "Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
       "content": "Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
-      "scrapedAt": "2026-10-07T18:40:59.854Z"
+      "scrapedAt": "2026-10-08T18:39:25.056Z"
+    },
+    {
+      "id": "79a82615b5308ff7",
+      "title": "NFL Week 5 uniforms: Packers debut Rivalries look, Patriots wearing throwbacks",
+      "author": "Anthony Gharib",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50120618/nfl-week-5-uniforms",
+      "publishedAt": "2026-10-08T16:09:05Z",
+      "excerpt": "Here's a look at what each NFL team is wearing in Week 5, led by the Green Bay Packers debuting their Rivalries look.",
+      "content": "Here's a look at what each NFL team is wearing in Week 5, led by the Green Bay Packers debuting their Rivalries look.",
+      "scrapedAt": "2026-10-08T18:39:25.055Z"
+    },
+    {
+      "id": "0430fc48770fcb59",
+      "title": "2026 NFL quarter-season awards: MVP picks, top rookies, OPOY, DPOY, best coaches",
+      "author": "Bill Barnwell",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50118698/2026-early-awards-ranking-mvp-rookies-coaches-barnwell",
+      "publishedAt": "2026-10-08T16:04:16Z",
+      "excerpt": "Brock Purdy for MVP? Klint Kubiak taking Coach of the Year? Will Anderson Jr. getting DPOY honors? We ranked the top candidates to win eight NFL awards through Week 4.",
+      "content": "Brock Purdy for MVP? Klint Kubiak taking Coach of the Year? Will Anderson Jr. getting DPOY honors? We ranked the top candidates to win eight NFL awards through Week 4.",
+      "scrapedAt": "2026-10-08T18:39:25.055Z"
+    },
+    {
+      "id": "db0e98432ca1362a",
+      "title": "Tyson Bagent looking forward to facing rival Packers",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/tyson-bagent-looking-forward-to-facing-rival-packers",
+      "publishedAt": "2026-10-08T01:20:20.000Z",
+      "excerpt": "Tyson Bagent is excited about starting his first rivalry game Sunday in Green Bay since 2022 since he led Shepherd University to a 30-13 road win over Shippensburg before a crowd of 876 fans.",
+      "content": "Tyson Bagent is excited about starting his first rivalry game Sunday in Green Bay since 2022 since he led Shepherd University to a 30-13 road win over Shippensburg before a crowd of 876 fans.",
+      "scrapedAt": "2026-10-08T18:39:28.652Z"
+    },
+    {
+      "id": "9bd2f73ade51b2ff",
+      "title": "Rome Odunze relished impact he made vs. Jets",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/rome-odunze-relished-impact-he-made-vs-jets",
+      "publishedAt": "2026-10-07T21:35:13.000Z",
+      "excerpt": "Bears receiver Rome Odunze enjoyed the role he played in last Sunday’s 23-12 win over the Jets, registering season highs with six receptions and 94 yards.",
+      "content": "Bears receiver Rome Odunze enjoyed the role he played in last Sunday’s 23-12 win over the Jets, registering season highs with six receptions and 94 yards.",
+      "scrapedAt": "2026-10-08T18:39:28.653Z"
+    },
+    {
+      "id": "45e597f53b01644a",
+      "title": "De'Andre Swift's fumble was 'egregious'",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50127532/deandre-swift-fumble-was-egregious",
+      "publishedAt": "2026-10-07T20:51:16Z",
+      "excerpt": "Courtney Cronin explains why Swift was sidelined after his third-quarter fumble against the Jets.",
+      "content": "Courtney Cronin explains why Swift was sidelined after his third-quarter fumble against the Jets.",
+      "scrapedAt": "2026-10-08T18:39:25.056Z"
+    },
+    {
+      "id": "891eed42170cd69e",
+      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "author": "ESPN staff",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+      "publishedAt": "2026-10-07T19:17:02Z",
+      "excerpt": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "content": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "scrapedAt": "2026-10-08T18:39:25.056Z"
     },
     {
       "id": "2314365724c741f7",
@@ -5752,7 +5774,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-07T18:41:04.048Z"
+      "scrapedAt": "2026-10-08T18:39:30.011Z"
     },
     {
       "id": "00d91ed3c9d97218",
@@ -5763,7 +5785,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-07T18:41:04.048Z"
+      "scrapedAt": "2026-10-08T18:39:30.011Z"
     },
     {
       "id": "4052fde2822bcdf6",
@@ -5786,6 +5808,28 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-10-07T18:41:04.049Z"
+    },
+    {
+      "id": "1e0d822d844e541f",
+      "title": "Chicago Bears by the numbers: Why did Case Keenum get the QB ‘win’ instead of Tyson Bagent?",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/08/chicago-bears-case-keenum-tyson-bagent-qb-win/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-08T18:39:30.010Z"
+    },
+    {
+      "id": "561b780f0fd953ba",
+      "title": "Chicago Bears QB Tyson Bagent says calling trip to Lambeau Field just another game ‘just wouldn’t be true’",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/07/chicago-bears-tyson-bagent-lambeau-field/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-08T18:39:30.010Z"
     }
   ]
 }
