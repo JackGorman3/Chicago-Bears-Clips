@@ -1,49 +1,148 @@
 {
-  "lastUpdated": "2026-10-11T17:32:26.705Z",
+  "lastUpdated": "2026-10-12T21:05:54.907Z",
   "articles": [
     {
+      "id": "155c2d4f74fe83b7",
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "author": "Sarah Barshop",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "publishedAt": "2026-10-12T17:01:10Z",
+      "excerpt": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "content": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "scrapedAt": "2026-10-12T21:05:42.015Z"
+    },
+    {
+      "id": "bbc0d81122f442d2",
+      "title": "What are NFL overtime rules for regular and postseason play?",
+      "author": "ESPN",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/39111637/what-nfl-rules-regular-postseason-play",
+      "publishedAt": "2026-10-12T16:41:14Z",
+      "excerpt": "Overtime periods can have a pivotal impact on game results. Here are key facts on regular-season and postseason overtime rules in the NFL.",
+      "content": "Overtime periods can have a pivotal impact on game results. Here are key facts on regular-season and postseason overtime rules in the NFL.",
+      "scrapedAt": "2026-10-12T21:05:42.015Z"
+    },
+    {
+      "id": "bd9ede183bfbfdd5",
+      "title": "Early bets for NFL Week 6: Three games we're jumping on before potential odds changes",
+      "author": "ESPN",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50147508/nfl-week-6-betting-odds-props-early-picks-predictions",
+      "publishedAt": "2026-10-12T16:01:11Z",
+      "excerpt": "Which Week 6 lines offered immediate value once odds came out? Here are three early bets we like.",
+      "content": "Which Week 6 lines offered immediate value once odds came out? Here are three early bets we like.",
+      "scrapedAt": "2026-10-12T21:05:42.014Z"
+    },
+    {
+      "id": "aa4e362bd52f7bc2",
+      "title": "NFL Week 5: Big takeaways, questions and fantasy spin from Sunday's games",
+      "author": "NFL Nation",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50127290/week-5-sunday-games-takeaways-questions-2026",
+      "publishedAt": "2026-10-12T15:52:53Z",
+      "excerpt": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 5.",
+      "content": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 5.",
+      "scrapedAt": "2026-10-12T21:05:42.015Z"
+    },
+    {
+      "id": "604fa61e8ed70313",
+      "title": "NFL Week 6 betting: Odds, lines and totals for every game",
+      "author": "ESPN",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals",
+      "publishedAt": "2026-10-12T15:16:21Z",
+      "excerpt": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
+      "content": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
+      "scrapedAt": "2026-10-12T21:05:42.015Z"
+    },
+    {
+      "id": "2352c5846fe87314",
+      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "author": "ESPN staff",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "publishedAt": "2026-10-12T10:00:12Z",
+      "excerpt": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "content": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "scrapedAt": "2026-10-12T21:05:42.015Z"
+    },
+    {
+      "id": "008bd22d3d2c3394",
+      "title": "Packers maul Bears, then fire back at Burden for 'quit' talk",
+      "author": "Rob Demovsky",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50162146/packers-maul-bears-fire-back-burden-quit-talk",
+      "publishedAt": "2026-10-12T01:29:59Z",
+      "excerpt": "Zaire Franklin had some strong words for Luther Burden -- even if he didn't mention him by name -- after the Packers' 31-7 win over the Bears at Lambeau Field.",
+      "content": "Zaire Franklin had some strong words for Luther Burden -- even if he didn't mention him by name -- after the Packers' 31-7 win over the Bears at Lambeau Field.",
+      "scrapedAt": "2026-10-12T21:05:42.015Z"
+    },
+    {
+      "id": "c77702589b17ee8f",
+      "title": "How soon could Caleb Williams return?",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50163059/how-soon-caleb-williams-return",
+      "publishedAt": "2026-10-12T01:15:24Z",
+      "excerpt": "Courtney Cronin reports on the Bears QB's potential return timeline as he looks to avoid further injury.",
+      "content": "Courtney Cronin reports on the Bears QB's potential return timeline as he looks to avoid further injury.",
+      "scrapedAt": "2026-10-12T21:05:42.015Z"
+    },
+    {
+      "id": "8701942f9c8f6816",
+      "title": "Chicago Bears vs. Green Bay Packers Game Highlights",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50161113/chicago-bears-vs-green-bay-packers-game-highlights",
+      "publishedAt": "2026-10-12T00:18:50Z",
+      "excerpt": "Chicago Bears vs. Green Bay Packers Game Highlights",
+      "content": "Chicago Bears vs. Green Bay Packers Game Highlights",
+      "scrapedAt": "2026-10-12T21:05:42.015Z"
+    },
+    {
+      "id": "efdb97f79bb53055",
+      "title": "Bears QB Caleb Williams 'close' to returning, Ben Johnson says",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50161771/bears-qb-caleb-williams-close-returning-ben-johnson-says",
+      "publishedAt": "2026-10-11T23:41:23Z",
+      "excerpt": "Following Sunday's loss to the Packers, Bears coach Ben Johnson said quarterback Caleb Williams is close to returning, which could be as soon as Week 6 when the Bears play the Falcons in Atlanta.",
+      "content": "Following Sunday's loss to the Packers, Bears coach Ben Johnson said quarterback Caleb Williams is close to returning, which could be as soon as Week 6 when the Bears play the Falcons in Atlanta.",
+      "scrapedAt": "2026-10-12T21:05:42.015Z"
+    },
+    {
+      "id": "b53bff3e6590c60b",
+      "title": "Love-Watson connection helps Packers take some revenge on Bears with a 31-7 rout",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "http://www.espn.com/nfl/recap?gameId=401872990",
+      "publishedAt": "2026-10-11T23:21:36Z",
+      "excerpt": "— Jordan Love and the Green Bay Packers wanted to make sure they didn’t let a big lead against the Chicago Bears slip away again.",
+      "content": "— Jordan Love and the Green Bay Packers wanted to make sure they didn’t let a big lead against the Chicago Bears slip away again.",
+      "scrapedAt": "2026-10-12T21:05:42.015Z"
+    },
+    {
       "id": "3181f7d0641dce00",
-      "title": "NFL Week 5 arrivals: Maxx Crosby, Craig Woodson honor New England legends",
+      "title": "NFL Week 5 arrivals: Ravens trio channels early 2000s style ahead of 'SNF'",
       "author": "ESPN Staff",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals",
-      "publishedAt": "2026-10-11T16:25:16Z",
+      "publishedAt": "2026-10-11T23:12:50Z",
       "excerpt": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "content": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "scrapedAt": "2026-10-11T17:32:19.580Z"
+      "scrapedAt": "2026-10-12T21:05:42.015Z"
     },
     {
-      "id": "5340731e619cc858",
-      "title": "Roster Moves: Chicago Bears activate Noah Sewell, elevate Zavier Scott",
+      "id": "6d127d6119b5134c",
+      "title": "Game Recap: Bears fall to Packers in Green Bay",
       "author": null,
       "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/roster-moves-chicago-bears-activate-noah-sewell-elevate-zavier-scott",
-      "publishedAt": "2026-10-10T18:30:00.000Z",
-      "excerpt": "The Chicago Bears announced that the club has activated linebacker Noah Sewell from Reserve/PUP. The Bears have also elevated running back Zavier Scott from the practice squad for Sunday’s game against the Green Bay Packers.",
-      "content": "The Chicago Bears announced that the club has activated linebacker Noah Sewell from Reserve/PUP. The Bears have also elevated running back Zavier Scott from the practice squad for Sunday’s game against the Green Bay Packers.",
-      "scrapedAt": "2026-10-11T17:32:20.319Z"
-    },
-    {
-      "id": "214e8775e143e4fb",
-      "title": "Game Preview: Bears at Packers | 2026 Week 5",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/game-preview-bears-at-packers-2026-week-5",
-      "publishedAt": "2026-10-10T18:20:00.000Z",
-      "excerpt": "The Bears will look for their third straight victory and to improve to 4-1 Sunday when they visit the rival Packers at Lambeau Field in Green Bay.",
-      "content": "The Bears will look for their third straight victory and to improve to 4-1 Sunday when they visit the rival Packers at Lambeau Field in Green Bay.",
-      "scrapedAt": "2026-10-11T17:32:20.319Z"
-    },
-    {
-      "id": "525b82a7add47fa1",
-      "title": "Checking in from Cardiff: Postcards with Zach Miller | Saturday, Oct. 10",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/checking-in-from-cardiff-postcards-with-zach-miller-saturday-oct-10",
-      "publishedAt": "2026-10-10T18:00:00.000Z",
-      "excerpt": "The Bears are across the pond for the UK Grand Tour, which features brand pop-ups and fan activations in five cities across all four United Kingdom nations. Former Bears tight end Zach Miller joined the Bears in Cardiff, Wales, for the second stop of the tour. Check out his postcard where he discusses his experience at the brand pop-up event at iconic Cardiff Castle, visiting Cardiff City Football",
-      "content": "The Bears are across the pond for the UK Grand Tour, which features brand pop-ups and fan activations in five cities across all four United Kingdom nations. Former Bears tight end Zach Miller joined the Bears in Cardiff, Wales, for the second stop of the tour. Check out his postcard where he discusses his experience at the brand pop-up event at iconic Cardiff Castle, visiting Cardiff City Football",
-      "scrapedAt": "2026-10-11T17:32:20.320Z"
+      "sourceUrl": "https://www.chicagobears.com/news/game-recap-bears-fall-to-packers-in-green-bay-2026-week-5",
+      "publishedAt": "2026-10-11T20:59:00.000Z",
+      "excerpt": "The Bears gave up touchdowns on the Packers’ first two possessions in Sunday’s NFC North showdown and were unable to overcome the early 14-0 deficit in a 31-7 loss at Lambeau Field.",
+      "content": "The Bears gave up touchdowns on the Packers’ first two possessions in Sunday’s NFC North showdown and were unable to overcome the early 14-0 deficit in a 31-7 loss at Lambeau Field.",
+      "scrapedAt": "2026-10-12T21:05:48.231Z"
     },
     {
       "id": "2314365724c741f7",
@@ -5807,7 +5906,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-11T17:32:20.919Z"
+      "scrapedAt": "2026-10-12T21:05:49.063Z"
     },
     {
       "id": "94578952e207e050",
@@ -5851,7 +5950,29 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-11T17:32:20.920Z"
+      "scrapedAt": "2026-10-12T21:05:49.062Z"
+    },
+    {
+      "id": "b2a54a3565c68fbf",
+      "title": "Chicago Bears get humbled after stoking Green Bay Packers rivalry: Brad Biggs’ 10 thoughts on the Week 5 loss",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/12/chicago-bears-10-thoughts-brad-biggs-green-bay-packers/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-12T21:05:49.062Z"
+    },
+    {
+      "id": "c625a664f0e6f931",
+      "title": "Chicago Bears bench Tyson Bagent for Case Keenum — and both QBs contribute to 5-turnover day at Lambeau Field",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/11/chicago-bears-tyson-bagent-case-keenum-turnovers/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-12T21:05:49.062Z"
     }
   ]
 }
