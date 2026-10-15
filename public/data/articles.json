@@ -1,60 +1,71 @@
 {
-  "lastUpdated": "2026-10-14T16:51:31.372Z",
+  "lastUpdated": "2026-10-15T16:38:12.038Z",
   "articles": [
     {
-      "id": "4164bc452f97291b",
-      "title": "How to watch, listen to, stream Bears-Falcons Week 6 game",
+      "id": "13cc11cb95ba6127",
+      "title": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+      "author": "Anthony Gharib",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
+      "publishedAt": "2026-10-15T12:58:28Z",
+      "excerpt": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+      "content": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+      "scrapedAt": "2026-10-15T16:37:49.275Z"
+    },
+    {
+      "id": "511a3dcf3d5eca66",
+      "title": "Falcons QB Michael Penix on track to start vs. Bears if no setbacks, coach says",
+      "author": "Marc Raimondi",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50182471/falcons-say-michael-penix-track-start-bears",
+      "publishedAt": "2026-10-15T11:21:45Z",
+      "excerpt": "Falcons quarterback Michael Penix Jr. will start Sunday against the Bears despite a rib injury, as long as there are no setbacks during the week.",
+      "content": "Falcons quarterback Michael Penix Jr. will start Sunday against the Bears despite a rib injury, as long as there are no setbacks during the week.",
+      "scrapedAt": "2026-10-15T16:37:49.275Z"
+    },
+    {
+      "id": "bbe910057a727c7b",
+      "title": "Williams returns to practice",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50185565/williams-returns-practice",
+      "publishedAt": "2026-10-15T00:25:26Z",
+      "excerpt": "Courtney Cronin details Caleb Williams' return and who could start at QB if Williams is unable to go in Week 6.",
+      "content": "Courtney Cronin details Caleb Williams' return and who could start at QB if Williams is unable to go in Week 6.",
+      "scrapedAt": "2026-10-15T16:37:49.275Z"
+    },
+    {
+      "id": "76f26b6b23e9b8a4",
+      "title": "Caleb Williams takes another step toward return from hamstring injury",
       "author": null,
       "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-atlanta-falcons-2026-week-6-listen-stream-tv-radio-football-online-nfl",
-      "publishedAt": "2026-10-14T14:19:00.000Z",
-      "excerpt": "Here's where to watch, listen to and stream the Bears' Week 6 matchup with the Falcons, which kicks off at noon CT Sunday, Oct. 18 in Atlanta.",
-      "content": "Here's where to watch, listen to and stream the Bears' Week 6 matchup with the Falcons, which kicks off at noon CT Sunday, Oct. 18 in Atlanta.",
-      "scrapedAt": "2026-10-14T16:51:24.446Z"
+      "sourceUrl": "https://www.chicagobears.com/news/caleb-williams-takes-another-step-toward-return-from-hamstring-injury",
+      "publishedAt": "2026-10-14T22:35:00.000Z",
+      "excerpt": "The Bears conducted a walk-through Wednesday. But had they held a regular practice, quarterback Caleb Williams would have been a full participant for the first time since injuring his hamstring in a Week 2 game against the Vikings.",
+      "content": "The Bears conducted a walk-through Wednesday. But had they held a regular practice, quarterback Caleb Williams would have been a full participant for the first time since injuring his hamstring in a Week 2 game against the Vikings.",
+      "scrapedAt": "2026-10-15T16:37:51.276Z"
     },
     {
-      "id": "66473b10ad48da18",
-      "title": "Revisiting 2026 preseason bold predictions for 32 NFL teams: Which are on track?",
-      "author": "Seth Walder",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50163007/2026-season-evaluating-preseason-predictions-updates",
-      "publishedAt": "2026-10-14T13:20:56Z",
-      "excerpt": "In the preseason, we made bold predictions for every NFL team, from Jordan Love's MVP case to Isaiah Likely's catch total. Which ones are on track? Which seem unlikely?",
-      "content": "In the preseason, we made bold predictions for every NFL team, from Jordan Love's MVP case to Isaiah Likely's catch total. Which ones are on track? Which seem unlikely?",
-      "scrapedAt": "2026-10-14T16:51:22.444Z"
-    },
-    {
-      "id": "838b1c740e17a191",
-      "title": "Bears DE Montez Sweat suspended two games for violating NFL's PED policy",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50176333/bears-de-sweat-suspended-two-games-violating-ped-policy",
-      "publishedAt": "2026-10-13T22:02:40Z",
-      "excerpt": "The NFL has issued a two-game suspension to Bears defensive end Montez Sweat for violating the league's policy on performance-enhancing substances.",
-      "content": "The NFL has issued a two-game suspension to Bears defensive end Montez Sweat for violating the league's policy on performance-enhancing substances.",
-      "scrapedAt": "2026-10-14T16:51:22.444Z"
-    },
-    {
-      "id": "0837fb8507a70aea",
-      "title": "Chicago Bears announce roster moves",
+      "id": "6822679d52197ad9",
+      "title": "Bears Care works with Hallmark to support first responders mourning loss of firefighter",
       "author": null,
       "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/chicago-bears-announce-roster-moves-october-13-2026",
-      "publishedAt": "2026-10-13T20:40:00.000Z",
-      "excerpt": "The Chicago Bears activated defensive lineman Shemar Turner off the Reserve/PUP list. Additionally, defensive lineman Montez Sweat has been placed on the Reserve/Suspended by Commissioner list.",
-      "content": "The Chicago Bears activated defensive lineman Shemar Turner off the Reserve/PUP list. Additionally, defensive lineman Montez Sweat has been placed on the Reserve/Suspended by Commissioner list.",
-      "scrapedAt": "2026-10-14T16:51:24.447Z"
+      "sourceUrl": "https://www.chicagobears.com/news/bears-care-works-with-hallmark-to-support-first-responders-mourning-loss-of-firefighter",
+      "publishedAt": "2026-10-14T20:24:00.000Z",
+      "excerpt": "More than a dozen of Hallmark Channel’s “Countdown to Christmas” stars, including cast members from “Holiday Touchdown: A Bears Love Story,” visited a Chicago firehouse Tuesday to offer support to first responders mourning the loss of firefighter/EMT Michael “Mickey” Altman.",
+      "content": "More than a dozen of Hallmark Channel’s “Countdown to Christmas” stars, including cast members from “Holiday Touchdown: A Bears Love Story,” visited a Chicago firehouse Tuesday to offer support to first responders mourning the loss of firefighter/EMT Michael “Mickey” Altman.",
+      "scrapedAt": "2026-10-15T16:37:51.277Z"
     },
     {
-      "id": "66ba1a97b8ce3844",
-      "title": "2026 NFL Power Rankings: How all 32 teams stack up for Week 6",
-      "author": "NFL Nation",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50166454/nfl-power-rankings-week-6-teams-biggest-issue-defense",
-      "publishedAt": "2026-10-13T19:01:02Z",
-      "excerpt": "How does every NFL team stack up heading into Week 6? We made our 1-32 list and picked the biggest defensive problem for every team.",
-      "content": "How does every NFL team stack up heading into Week 6? We made our 1-32 list and picked the biggest defensive problem for every team.",
-      "scrapedAt": "2026-10-14T16:51:22.444Z"
+      "id": "2b3c07564e182901",
+      "title": "Bears take former players on first-ever alumni road trip",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-take-former-players-on-first-ever-alumni-road-trip",
+      "publishedAt": "2026-10-14T15:34:00.000Z",
+      "excerpt": "Every year, the Bears hold an alumni golf tournament in the summer and an alumni weekend early in the football season. Last Sunday, the organization hosted an alumni road trip for the first time.",
+      "content": "Every year, the Bears hold an alumni golf tournament in the summer and an alumni weekend early in the football season. Last Sunday, the organization hosted an alumni road trip for the first time.",
+      "scrapedAt": "2026-10-15T16:37:51.278Z"
     },
     {
       "id": "2314365724c741f7",
@@ -5862,7 +5873,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-14T16:51:25.694Z"
+      "scrapedAt": "2026-10-15T16:37:52.180Z"
     },
     {
       "id": "b2a54a3565c68fbf",
@@ -5918,6 +5929,39 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-10-14T16:51:25.694Z"
+    },
+    {
+      "id": "7100eee19505da90",
+      "title": "Chicago Bears by the numbers: How do they replace suspended edge rusher Montez Sweat?",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/15/chicago-bears-numbers-montez-sweat/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-15T16:37:52.180Z"
+    },
+    {
+      "id": "e9086a02b3d8876a",
+      "title": "What we learned from the Chicago Bears, including the latest on Caleb Williams and Montez Sweat",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/14/chicago-bears-caleb-williams-montez-sweat/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-15T16:37:52.181Z"
+    },
+    {
+      "id": "91d14bf39c595c54",
+      "title": "Michael Penix Jr. expected to start at QB for Atlanta Falcons vs. Chicago Bears after suffering rib injury",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/14/michael-penix-jr-falcons-bears-week-6/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-15T16:37:52.181Z"
     }
   ]
 }
