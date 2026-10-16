@@ -1,71 +1,82 @@
 {
-  "lastUpdated": "2026-10-15T16:38:12.038Z",
+  "lastUpdated": "2026-10-16T16:21:36.025Z",
   "articles": [
+    {
+      "id": "295de9f86857e7c0",
+      "title": "Why is Caleb Williams being coy about his injury?",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50196164/why-caleb-williams-being-coy-injury",
+      "publishedAt": "2026-10-16T14:10:07Z",
+      "excerpt": "Why is Caleb Williams being coy about his injury?",
+      "content": "Why is Caleb Williams being coy about his injury?",
+      "scrapedAt": "2026-10-16T16:21:25.641Z"
+    },
+    {
+      "id": "9d2e2dd11bf07ec9",
+      "title": "Ranking all eight NFL divisions this season by strength: NFC North at No. 1?",
+      "author": "Dan Graziano",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50181965/2026-nfl-season-ranking-eight-nfl-divisions-best-worst",
+      "publishedAt": "2026-10-16T10:38:23Z",
+      "excerpt": "Why do we have the NFC North at No. 1 in our annual division power ranking -- even ahead of the mighty NFC West? And is the NFC South at the bottom of our list ... again?",
+      "content": "Why do we have the NFC North at No. 1 in our annual division power ranking -- even ahead of the mighty NFC West? And is the NFC South at the bottom of our list ... again?",
+      "scrapedAt": "2026-10-16T16:21:25.642Z"
+    },
     {
       "id": "13cc11cb95ba6127",
       "title": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
       "author": "Anthony Gharib",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
-      "publishedAt": "2026-10-15T12:58:28Z",
+      "publishedAt": "2026-10-16T00:00:42Z",
       "excerpt": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
       "content": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-      "scrapedAt": "2026-10-15T16:37:49.275Z"
+      "scrapedAt": "2026-10-16T16:21:25.642Z"
     },
     {
-      "id": "511a3dcf3d5eca66",
-      "title": "Falcons QB Michael Penix on track to start vs. Bears if no setbacks, coach says",
-      "author": "Marc Raimondi",
+      "id": "ea06bf5e6bc422fa",
+      "title": "Bears QB Caleb Williams practices in full, but game status still uncertain",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-qb-caleb-williams-practices-in-full-but-game-status-still-uncertain",
+      "publishedAt": "2026-10-15T23:49:21.000Z",
+      "excerpt": "Bears quarterback Caleb Williams was a full participant in practice again Thursday, but it has not yet been determined whether he will start Sunday’s game in Atlanta.",
+      "content": "Bears quarterback Caleb Williams was a full participant in practice again Thursday, but it has not yet been determined whether he will start Sunday’s game in Atlanta.",
+      "scrapedAt": "2026-10-16T16:21:29.720Z"
+    },
+    {
+      "id": "99093863f5457706",
+      "title": "Bears QB Williams unsure if he's playing, has to still go through protocols",
+      "author": "Courtney Cronin",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50182471/falcons-say-michael-penix-track-start-bears",
-      "publishedAt": "2026-10-15T11:21:45Z",
-      "excerpt": "Falcons quarterback Michael Penix Jr. will start Sunday against the Bears despite a rib injury, as long as there are no setbacks during the week.",
-      "content": "Falcons quarterback Michael Penix Jr. will start Sunday against the Bears despite a rib injury, as long as there are no setbacks during the week.",
-      "scrapedAt": "2026-10-15T16:37:49.275Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing",
+      "publishedAt": "2026-10-15T23:03:35Z",
+      "excerpt": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
+      "content": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
+      "scrapedAt": "2026-10-16T16:21:25.642Z"
     },
     {
-      "id": "bbe910057a727c7b",
-      "title": "Williams returns to practice",
+      "id": "6ccce3d969fa7c62",
+      "title": "Bears and Falcons lean on run games but have endured stressful starts to the season at quarterback",
       "author": null,
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50185565/williams-returns-practice",
-      "publishedAt": "2026-10-15T00:25:26Z",
-      "excerpt": "Courtney Cronin details Caleb Williams' return and who could start at QB if Williams is unable to go in Week 6.",
-      "content": "Courtney Cronin details Caleb Williams' return and who could start at QB if Williams is unable to go in Week 6.",
-      "scrapedAt": "2026-10-15T16:37:49.275Z"
+      "sourceUrl": "http://www.espn.com/nfl/preview?gameId=401872999",
+      "publishedAt": "2026-10-15T21:44:28Z",
+      "excerpt": "— When Chicago Bears coach Ben Johnson said this week that “a lot of things have gone through our minds” about his quarterback depth chart, the Atlanta Falcons could relate.",
+      "content": "— When Chicago Bears coach Ben Johnson said this week that “a lot of things have gone through our minds” about his quarterback depth chart, the Atlanta Falcons could relate.",
+      "scrapedAt": "2026-10-16T16:21:25.642Z"
     },
     {
-      "id": "76f26b6b23e9b8a4",
-      "title": "Caleb Williams takes another step toward return from hamstring injury",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/caleb-williams-takes-another-step-toward-return-from-hamstring-injury",
-      "publishedAt": "2026-10-14T22:35:00.000Z",
-      "excerpt": "The Bears conducted a walk-through Wednesday. But had they held a regular practice, quarterback Caleb Williams would have been a full participant for the first time since injuring his hamstring in a Week 2 game against the Vikings.",
-      "content": "The Bears conducted a walk-through Wednesday. But had they held a regular practice, quarterback Caleb Williams would have been a full participant for the first time since injuring his hamstring in a Week 2 game against the Vikings.",
-      "scrapedAt": "2026-10-15T16:37:51.276Z"
-    },
-    {
-      "id": "6822679d52197ad9",
-      "title": "Bears Care works with Hallmark to support first responders mourning loss of firefighter",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-care-works-with-hallmark-to-support-first-responders-mourning-loss-of-firefighter",
-      "publishedAt": "2026-10-14T20:24:00.000Z",
-      "excerpt": "More than a dozen of Hallmark Channel’s “Countdown to Christmas” stars, including cast members from “Holiday Touchdown: A Bears Love Story,” visited a Chicago firehouse Tuesday to offer support to first responders mourning the loss of firefighter/EMT Michael “Mickey” Altman.",
-      "content": "More than a dozen of Hallmark Channel’s “Countdown to Christmas” stars, including cast members from “Holiday Touchdown: A Bears Love Story,” visited a Chicago firehouse Tuesday to offer support to first responders mourning the loss of firefighter/EMT Michael “Mickey” Altman.",
-      "scrapedAt": "2026-10-15T16:37:51.277Z"
-    },
-    {
-      "id": "2b3c07564e182901",
-      "title": "Bears take former players on first-ever alumni road trip",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-take-former-players-on-first-ever-alumni-road-trip",
-      "publishedAt": "2026-10-14T15:34:00.000Z",
-      "excerpt": "Every year, the Bears hold an alumni golf tournament in the summer and an alumni weekend early in the football season. Last Sunday, the organization hosted an alumni road trip for the first time.",
-      "content": "Every year, the Bears hold an alumni golf tournament in the summer and an alumni weekend early in the football season. Last Sunday, the organization hosted an alumni road trip for the first time.",
-      "scrapedAt": "2026-10-15T16:37:51.278Z"
+      "id": "604fa61e8ed70313",
+      "title": "NFL Week 6 betting: Odds, lines and totals for every game",
+      "author": "ESPN",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals",
+      "publishedAt": "2026-10-15T18:15:59Z",
+      "excerpt": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
+      "content": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
+      "scrapedAt": "2026-10-16T16:21:25.642Z"
     },
     {
       "id": "2314365724c741f7",
@@ -5873,7 +5884,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-15T16:37:52.180Z"
+      "scrapedAt": "2026-10-16T16:21:30.883Z"
     },
     {
       "id": "b2a54a3565c68fbf",
@@ -5962,6 +5973,39 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-10-15T16:37:52.181Z"
+    },
+    {
+      "id": "f31d4a04b8c88dcd",
+      "title": "5 things to watch in the Chicago Bears-Atlanta Falcons matchup — plus our Week 6 predictions",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/16/chicago-bears-atlanta-falcons-predictions/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-16T16:21:30.883Z"
+    },
+    {
+      "id": "44a4f24236d21574",
+      "title": "Savannah Bananas coming to Chicago’s Soldier Field in 2027 — and tour bringing ‘360’ game to Notre Dame Stadium",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/15/savannah-bananas-chicago-soldier-field-notre-dame/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-16T16:21:30.883Z"
+    },
+    {
+      "id": "ef37de1c18fbbe90",
+      "title": "For Chicago Bears DE Shemar Turner, long ACL rehab was ‘like walking through a dark tunnel’",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/15/chicago-bears-shemar-turner-acl-rehab/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-16T16:21:30.883Z"
     }
   ]
 }
