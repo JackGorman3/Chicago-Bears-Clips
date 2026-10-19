@@ -1,115 +1,192 @@
 {
-  "lastUpdated": "2026-10-18T15:37:38.626Z",
+  "lastUpdated": "2026-10-19T18:32:57.252Z",
   "articles": [
+    {
+      "id": "f4531bd0cc09a88c",
+      "title": "NFL Week 7 betting odds: Lines and totals for every game",
+      "author": "ESPN",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals",
+      "publishedAt": "2026-10-19T15:22:09Z",
+      "excerpt": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
+      "content": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
+      "scrapedAt": "2026-10-19T18:32:44.482Z"
+    },
+    {
+      "id": "155c2d4f74fe83b7",
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "author": "Sarah Barshop",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "publishedAt": "2026-10-19T14:23:56Z",
+      "excerpt": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "content": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "scrapedAt": "2026-10-19T18:32:44.482Z"
+    },
+    {
+      "id": "a82f240781fb13e7",
+      "title": "Bears in Belfast: Postcards with Zach Miller | Monday, Oct. 19",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-in-belfast-postcards-with-zach-miller-monday-oct-19",
+      "publishedAt": "2026-10-19T13:57:23.000Z",
+      "excerpt": "The Bears officially wrapped up their UK Grand Tour Sunday in Belfast, Northern Ireland, after traveling to five cities across all four United Kingdom nations over the last three weeks. Former Bears tight end Zach Miller discusses the final stop, including seeing a Bears win at the Common Market watch party.",
+      "content": "The Bears officially wrapped up their UK Grand Tour Sunday in Belfast, Northern Ireland, after traveling to five cities across all four United Kingdom nations over the last three weeks. Former Bears tight end Zach Miller discusses the final stop, including seeing a Bears win at the Common Market watch party.",
+      "scrapedAt": "2026-10-19T18:32:50.746Z"
+    },
+    {
+      "id": "b8fd079909996a13",
+      "title": "By the Numbers: Bears' Week 6 victory over Falcons",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/by-the-numbers-bears-week-6-victory-over-falcons",
+      "publishedAt": "2026-10-19T13:44:34.000Z",
+      "excerpt": "Here are some notable numbers and stats from the Bears’ 31-23 win over the Falcons Sunday in Atlanta.",
+      "content": "Here are some notable numbers and stats from the Bears’ 31-23 win over the Falcons Sunday in Atlanta.",
+      "scrapedAt": "2026-10-19T18:32:50.746Z"
+    },
+    {
+      "id": "ae80a7daabc7714d",
+      "title": "Bears' Kyler Gordon returns with vengeance, answers critics",
+      "author": "Courtney Cronin and Jeremy Fowler",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50212900/chicago-bears-kyler-gordon-future-injuries-critics",
+      "publishedAt": "2026-10-19T12:55:36Z",
+      "excerpt": "In his season debut, Gordon was a huge factor in Chicago's win Sunday after battling through various injuries.",
+      "content": "In his season debut, Gordon was a huge factor in Chicago's win Sunday after battling through various injuries.",
+      "scrapedAt": "2026-10-19T18:32:44.482Z"
+    },
+    {
+      "id": "2352c5846fe87314",
+      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "author": "ESPN staff",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "publishedAt": "2026-10-19T10:00:01Z",
+      "excerpt": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "content": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "scrapedAt": "2026-10-19T18:32:44.482Z"
+    },
+    {
+      "id": "b4754505885f911c",
+      "title": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+      "author": "NFL Nation",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026",
+      "publishedAt": "2026-10-19T04:46:54Z",
+      "excerpt": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+      "content": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+      "scrapedAt": "2026-10-19T18:32:44.483Z"
+    },
     {
       "id": "19fb5a469c25a641",
       "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
       "author": "NFL Nation",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
-      "publishedAt": "2026-10-18T14:20:54Z",
+      "publishedAt": "2026-10-19T04:17:26Z",
       "excerpt": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
       "content": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
-      "scrapedAt": "2026-10-18T15:37:28.282Z"
+      "scrapedAt": "2026-10-19T18:32:44.483Z"
     },
     {
-      "id": "156d30048306cdb5",
-      "title": "Game Preview: Bears at Falcons | 2026 Week 6",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/game-preview-bears-at-falcons-2026-week-6",
-      "publishedAt": "2026-10-18T13:53:00.000Z",
-      "excerpt": "The Bears will look to rebound from last weekend’s loss to the Packers and improve to 4-2 when they visit the Falcons Sunday in Atlanta.",
-      "content": "The Bears will look to rebound from last weekend’s loss to the Packers and improve to 4-2 when they visit the Falcons Sunday in Atlanta.",
-      "scrapedAt": "2026-10-18T15:37:31.570Z"
-    },
-    {
-      "id": "23c05b2903f1861c",
-      "title": "Chicago Bears announce roster moves",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/chicago-bears-announce-roster-moves-october-17-2026",
-      "publishedAt": "2026-10-18T13:52:00.000Z",
-      "excerpt": "The Chicago Bears announced that the club has activated defensive back Kyler Gordon from Reserve/PUP and signed defensive back Nick McCloud to the active roster. In corresponding moves, the Bears have placed defensive lineman Dayo Odeyingbo on Reserve/Injured and released defensive back Xavier Woods.",
-      "content": "The Chicago Bears announced that the club has activated defensive back Kyler Gordon from Reserve/PUP and signed defensive back Nick McCloud to the active roster. In corresponding moves, the Bears have placed defensive lineman Dayo Odeyingbo on Reserve/Injured and released defensive back Xavier Woods.",
-      "scrapedAt": "2026-10-18T15:37:31.571Z"
-    },
-    {
-      "id": "891eed42170cd69e",
-      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "author": "ESPN staff",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
-      "publishedAt": "2026-10-18T11:16:20Z",
-      "excerpt": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-      "content": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-      "scrapedAt": "2026-10-18T15:37:28.283Z"
-    },
-    {
-      "id": "08c2c40f88f7b1b3",
-      "title": "Behind the Scenes: Filming 'Holiday Touchdown: A Bears Love Story'",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/behind-the-scenes-filming-holiday-touchdown-a-bears-love-story",
-      "publishedAt": "2026-10-18T00:00:00.000Z",
-      "excerpt": "Hallmark Media, NFL and Skydance Sports worked with the Bears over the last several months to film and produce \"Holiday Touchdown: A Bears Love Story\" — the third all-new original movie in the franchise — as part of Hallmark Channel’s 17th annual Countdown to Christmas. ChicagoBears.com documented the Bears’ involvement in the film, which premiered Saturday.",
-      "content": "Hallmark Media, NFL and Skydance Sports worked with the Bears over the last several months to film and produce \"Holiday Touchdown: A Bears Love Story\" — the third all-new original movie in the franchise — as part of Hallmark Channel’s 17th annual Countdown to Christmas. ChicagoBears.com documented the Bears’ involvement in the film, which premiered Saturday.",
-      "scrapedAt": "2026-10-18T15:37:31.571Z"
-    },
-    {
-      "id": "ccdea429193dc5fc",
-      "title": "Bears Care, Hallmark team up to auction pair of walk-on roles in 'Holiday Touchdown: A Bears Love Story'",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-care-hallmark-team-up-to-auction-pair-of-walk-on-roles-in-holiday-touchdown-a-bears-love-story",
-      "publishedAt": "2026-10-17T23:59:00.000Z",
-      "excerpt": "During the making of \"Holiday Touchdown: A Bears Love Story,\" Hallmark partnered with Bears Care, the organization’s charitable arm, to add a special touch to the film that would benefit the Chicagoland community.",
-      "content": "During the making of \"Holiday Touchdown: A Bears Love Story,\" Hallmark partnered with Bears Care, the organization’s charitable arm, to add a special touch to the film that would benefit the Chicagoland community.",
-      "scrapedAt": "2026-10-18T15:37:31.571Z"
-    },
-    {
-      "id": "7efa1f9dd61b9544",
-      "title": "Sources: Bears plan to start QB Caleb Williams in Week 6 vs. Falcons",
+      "id": "bfaa5ce2f3db75a2",
+      "title": "Caleb Williams dominates in Bears win",
       "author": null,
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50201828/sources-bears-plan-start-qb-caleb-williams-vs-falcons",
-      "publishedAt": "2026-10-17T20:47:43Z",
-      "excerpt": "The Bears are planning to start Caleb Williams against the Falcons after the star QB missed the past three games, sources told NFL Network and ESPN.",
-      "content": "The Bears are planning to start Caleb Williams against the Falcons after the star QB missed the past three games, sources told NFL Network and ESPN.",
-      "scrapedAt": "2026-10-18T15:37:28.283Z"
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50216200/caleb-williams-dominates-bears-win",
+      "publishedAt": "2026-10-19T04:07:09Z",
+      "excerpt": "Courtney Cronin recaps Caleb Williams performance in the Bears.",
+      "content": "Courtney Cronin recaps Caleb Williams performance in the Bears.",
+      "scrapedAt": "2026-10-19T18:32:44.483Z"
     },
     {
-      "id": "a702278c9d3eebf7",
-      "title": "Bears, Hallmark put on 'Holiday Touchdown: A Bears Love Story' premiere events",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-hallmark-put-on-holiday-touchdown-a-bears-love-story-premiere-events",
-      "publishedAt": "2026-10-17T20:23:00.000Z",
-      "excerpt": "Downtown Lake Forest was transformed into Hollywood Tuesday night for the premiere of Hallmark Channel’s “Holiday Touchdown: A Bears Love Story.” On Wednesday night, the Bears held a private screening of the movie for employees at Halas Hall.",
-      "content": "Downtown Lake Forest was transformed into Hollywood Tuesday night for the premiere of Hallmark Channel’s “Holiday Touchdown: A Bears Love Story.” On Wednesday night, the Bears held a private screening of the movie for employees at Halas Hall.",
-      "scrapedAt": "2026-10-18T15:37:31.571Z"
+      "id": "eb7fd4bb74ef2c7e",
+      "title": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
+      "author": "Dan Graziano",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams",
+      "publishedAt": "2026-10-19T03:00:12Z",
+      "excerpt": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
+      "content": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
+      "scrapedAt": "2026-10-19T18:32:44.483Z"
     },
     {
-      "id": "72e3ede7dac86783",
-      "title": "Bears CB Kyler Gordon set for 2026 debut after PUP activation",
+      "id": "a362200913b2e0ce",
+      "title": "Caleb Williams leads Bears by Falcons in return from injury",
       "author": "Courtney Cronin",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50202598/bears-cb-kyler-gordon-set-2026-debut-pup-activation",
-      "publishedAt": "2026-10-17T19:48:14Z",
-      "excerpt": "Bears nickel corner Kyler Gordon has been activated off the PUP list and could make his season debut against the Falcons.",
-      "content": "Bears nickel corner Kyler Gordon has been activated off the PUP list and could make his season debut against the Falcons.",
-      "scrapedAt": "2026-10-18T15:37:28.283Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50214605/caleb-williams-leads-bears-falcons-return-injury",
+      "publishedAt": "2026-10-19T01:01:17Z",
+      "excerpt": "Caleb Williams completed 30 of 36 passes for 305 yards and a TD and showed no physical limitations from the injury he suffered Sept. 20.",
+      "content": "Caleb Williams completed 30 of 36 passes for 305 yards and a TD and showed no physical limitations from the injury he suffered Sept. 20.",
+      "scrapedAt": "2026-10-19T18:32:44.483Z"
     },
     {
-      "id": "f4ed92a3c77954ad",
-      "title": "Greetings from Glasgow: Postcards with Zach Miller | Saturday, Oct. 17",
+      "id": "167f8532dc36f964",
+      "title": "Bears DB Kyler Gordon makes history in return to game action",
       "author": null,
       "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/greetings-from-glasgow-postcards-with-zach-miller-saturday-oct-17",
-      "publishedAt": "2026-10-17T17:15:00.000Z",
-      "excerpt": "The Bears are across the pond for the UK Grand Tour, featuring brand pop-ups and fan activations in five cities across all four nations of the United Kingdom. Former Bears tight end Zach Miller offers a glimpse of the tour stop in Glasgow, Scotland, which featured the Exceed pop-up event, a collaboration with a rugby team, an unforgettable zoo visit, and more.",
-      "content": "The Bears are across the pond for the UK Grand Tour, featuring brand pop-ups and fan activations in five cities across all four nations of the United Kingdom. Former Bears tight end Zach Miller offers a glimpse of the tour stop in Glasgow, Scotland, which featured the Exceed pop-up event, a collaboration with a rugby team, an unforgettable zoo visit, and more.",
-      "scrapedAt": "2026-10-18T15:37:31.571Z"
+      "sourceUrl": "https://www.chicagobears.com/news/bears-db-kyler-gordon-makes-history-in-return-to-game-action",
+      "publishedAt": "2026-10-19T00:39:20.000Z",
+      "excerpt": "One day after being activated from the physically unable to perform (PUP) list, cornerback Kyler Gordon registered 3.0 sacks and two forced fumbles in Sunday’s 31-23 win over the Falcons in Atlanta.",
+      "content": "One day after being activated from the physically unable to perform (PUP) list, cornerback Kyler Gordon registered 3.0 sacks and two forced fumbles in Sunday’s 31-23 win over the Falcons in Atlanta.",
+      "scrapedAt": "2026-10-19T18:32:50.746Z"
+    },
+    {
+      "id": "2621a2c9f824430d",
+      "title": "Who are the winningest NFL coaches of all time?",
+      "author": "Alex Kennedy and Keith Jenkins",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
+      "publishedAt": "2026-10-19T00:06:25Z",
+      "excerpt": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+      "content": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+      "scrapedAt": "2026-10-19T18:32:44.483Z"
+    },
+    {
+      "id": "f89ed79c7b69e1d2",
+      "title": "Packers LB Zaire Franklin leads NFL Week 6's best arrivals",
+      "author": "Cameron Wolfe",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals",
+      "publishedAt": "2026-10-18T23:58:17Z",
+      "excerpt": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "content": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "scrapedAt": "2026-10-19T18:32:44.483Z"
+    },
+    {
+      "id": "65e6014702012d00",
+      "title": "Caleb Williams completes first 12 passes in return after missing 3 games as Bears top Falcons 31-23",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "http://www.espn.com/nfl/recap?gameId=401872999",
+      "publishedAt": "2026-10-18T22:18:27Z",
+      "excerpt": "— Caleb Williams had been “itching” on the sideline while missing three straight games.",
+      "content": "— Caleb Williams had been “itching” on the sideline while missing three straight games.",
+      "scrapedAt": "2026-10-19T18:32:44.483Z"
+    },
+    {
+      "id": "43bb553623503273",
+      "title": "Chicago Bears vs. Atlanta Falcons: Game Highlights",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50212998/game-highlights",
+      "publishedAt": "2026-10-18T21:04:25Z",
+      "excerpt": "Chicago Bears vs. Atlanta Falcons: Game Highlights",
+      "content": "Chicago Bears vs. Atlanta Falcons: Game Highlights",
+      "scrapedAt": "2026-10-19T18:32:44.483Z"
+    },
+    {
+      "id": "9b000c3ada381f20",
+      "title": "Game Recap: Bears improve to 4-2 with road victory in Atlanta",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/game-recap-bears-improve-to-4-2-with-road-victory-in-atlanta-2026-week-6",
+      "publishedAt": "2026-10-18T20:59:00.000Z",
+      "excerpt": "After missing three games with a hamstring injury, quarterback Caleb Williams made a triumphant return Sunday in Atlanta, leading the Bears to a 31-23 win over the Falcons at Mercedes-Benz Stadium.",
+      "content": "After missing three games with a hamstring injury, quarterback Caleb Williams made a triumphant return Sunday in Atlanta, leading the Bears to a 31-23 win over the Falcons at Mercedes-Benz Stadium.",
+      "scrapedAt": "2026-10-19T18:32:50.747Z"
     },
     {
       "id": "13cc11cb95ba6127",
@@ -117,21 +194,10 @@
       "author": "Anthony Gharib",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
-      "publishedAt": "2026-10-17T17:07:04Z",
+      "publishedAt": "2026-10-18T19:52:52Z",
       "excerpt": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
       "content": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-      "scrapedAt": "2026-10-18T15:37:28.283Z"
-    },
-    {
-      "id": "1224352ff4466e54",
-      "title": "Chicago Bears and Hallmark Channel celebrate premiere week of 'Holiday Touchdown: A Bears Love Story' ahead of Oct. 17 premiere",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/chicago-bears-and-hallmark-channel-celebrate-premiere-week-of-holiday-touchdown-a-bears-love-story-ahead-of-oct-17-premiere",
-      "publishedAt": "2026-10-17T14:30:00.000Z",
-      "excerpt": "The Chicago Bears and Hallmark Channel are excited for the upcoming premiere of Holiday Touchdown: A Bears Love Story, premiering Saturday, Oct. 17, at 8/7c on Hallmark Channel as part of the network’s 17th annual Countdown to Christmas programming event. The film will stream the next day, Sunday, Oct. 18, on Hallmark+.",
-      "content": "The Chicago Bears and Hallmark Channel are excited for the upcoming premiere of Holiday Touchdown: A Bears Love Story, premiering Saturday, Oct. 17, at 8/7c on Hallmark Channel as part of the network’s 17th annual Countdown to Christmas programming event. The film will stream the next day, Sunday, Oct. 18, on Hallmark+.",
-      "scrapedAt": "2026-10-18T15:37:31.571Z"
+      "scrapedAt": "2026-10-19T18:32:44.483Z"
     },
     {
       "id": "2314365724c741f7",
@@ -6116,6 +6182,50 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-10-18T15:37:32.704Z"
+    },
+    {
+      "id": "4a1e2d434ec860aa",
+      "title": "Caleb Williams’ return energizes the Chicago Bears: Brad Biggs’ 10 thoughts on the Week 6 win",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/19/chicago-bears-brad-biggs-10-thoughts-atlanta-falcons/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-19T18:32:51.937Z"
+    },
+    {
+      "id": "2088f239f0293a1d",
+      "title": "Jahdae Walker’s ejection mars otherwise big day for Chicago Bears special teams — but penalties pile up again",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/18/chicago-bears-special-teams-jahdae-walker/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-19T18:32:51.938Z"
+    },
+    {
+      "id": "fd4c8e2a90e7bdf1",
+      "title": "‘Right back where I left off’: Kyler Gordon stars in return to Chicago Bears with 3 sacks and 2 forced fumbles",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/18/chicago-bears-kyler-gordon-sacks-return/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-19T18:32:51.938Z"
+    },
+    {
+      "id": "4cf4c71d52a12af1",
+      "title": "In return from injury, Caleb Williams has Chicago Bears offense in ‘flow-state mode’ in win in Atlanta",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/18/caleb-williams-chicago-bears-atlanta-falcons/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-19T18:32:51.938Z"
     }
   ]
 }
