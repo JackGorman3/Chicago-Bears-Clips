@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-10-20T16:35:40.659Z",
+  "lastUpdated": "2026-10-21T16:54:11.674Z",
   "articles": [
+    {
+      "id": "6090bc5e5c258bb8",
+      "title": "NFL Week 7 latest intel, buzz questions, news, fantasy tips: What we're hearing",
+      "author": "Jeremy Fowler and Dan Graziano",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50228657/week-7-buzz-fantasy-predictions-graziano-fowler-2026",
+      "publishedAt": "2026-10-21T16:06:52Z",
+      "excerpt": "Will the Seahawks stick with Sam Darnold past this season? Could Vita Vea get trade interest? What's next for the NFC East teams? And could the Colts make more changes?",
+      "content": "Will the Seahawks stick with Sam Darnold past this season? Could Vita Vea get trade interest? What's next for the NFC East teams? And could the Colts make more changes?",
+      "scrapedAt": "2026-10-21T16:54:01.262Z"
+    },
+    {
+      "id": "860fef7d320df1f6",
+      "title": "Caleb Williams named NFC Offensive Player of the Week",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/caleb-williams-named-nfc-offensive-player-of-the-week-6",
+      "publishedAt": "2026-10-21T16:00:00.000Z",
+      "excerpt": "Bears quarterback Caleb Williams has been chosen as the NFC Offensive Player of the Week for his performance in last Sunday’s 31-23 win over the Falcons.",
+      "content": "Bears quarterback Caleb Williams has been chosen as the NFC Offensive Player of the Week for his performance in last Sunday’s 31-23 win over the Falcons.",
+      "scrapedAt": "2026-10-21T16:54:05.156Z"
+    },
+    {
+      "id": "f8b93d0dc4b9d79f",
+      "title": "Are the Bears genuine Super Bowl contenders?",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50238528/are-bears-genuine-super-bowl-contenders",
+      "publishedAt": "2026-10-21T15:47:11Z",
+      "excerpt": "Are the Bears genuine Super Bowl contenders?",
+      "content": "Are the Bears genuine Super Bowl contenders?",
+      "scrapedAt": "2026-10-21T16:54:01.262Z"
+    },
+    {
+      "id": "975f76822d248e1a",
+      "title": "Caleb Williams' completion percentage on meteoric rise",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/caleb-williams-completion-percentage-on-meteoric-rise",
+      "publishedAt": "2026-10-21T14:04:00.000Z",
+      "excerpt": "For the second straight year, Bears quarterback Caleb Williams is accomplishing an important statistical goal he set before the season by a huge margin.",
+      "content": "For the second straight year, Bears quarterback Caleb Williams is accomplishing an important statistical goal he set before the season by a huge margin.",
+      "scrapedAt": "2026-10-21T16:54:05.157Z"
+    },
+    {
+      "id": "8a0e58865384c21b",
+      "title": "Why Kyler Gordon blitzing is a weapon for the Bears",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50233462/why-kyler-gordon-blitzing-weapon-bears",
+      "publishedAt": "2026-10-21T00:53:07Z",
+      "excerpt": "Courtney Cronin details Kyler Gordon's specialty as a blitzing defensive back.",
+      "content": "Courtney Cronin details Kyler Gordon's specialty as a blitzing defensive back.",
+      "scrapedAt": "2026-10-21T16:54:01.262Z"
+    },
+    {
+      "id": "96a9d0f0203302a1",
+      "title": "Bears looking to stack strong performances on short week",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-looking-to-stack-strong-performances-on-short-week",
+      "publishedAt": "2026-10-20T23:49:49.000Z",
+      "excerpt": "With Thursday night’s home game against the Patriots looming, the Bears quickly turned the page following Sunday’s impressive road win over the Falcons.",
+      "content": "With Thursday night’s home game against the Patriots looming, the Bears quickly turned the page following Sunday’s impressive road win over the Falcons.",
+      "scrapedAt": "2026-10-21T16:54:05.158Z"
+    },
+    {
+      "id": "577851231a8b8d15",
+      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "author": "Doug Greenberg",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
+      "publishedAt": "2026-10-20T19:28:49Z",
+      "excerpt": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "content": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "scrapedAt": "2026-10-21T16:54:01.262Z"
+    },
+    {
+      "id": "f4531bd0cc09a88c",
+      "title": "NFL Week 7 betting odds: Lines and totals for every game",
+      "author": "ESPN",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals",
+      "publishedAt": "2026-10-20T17:20:09Z",
+      "excerpt": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
+      "content": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
+      "scrapedAt": "2026-10-21T16:54:01.262Z"
+    },
     {
       "id": "3d4dae7d0da9815d",
       "title": "Seven things Solak thinks entering NFL Week 7: From Eagles to Matthew Stafford",
@@ -10,62 +98,18 @@
       "publishedAt": "2026-10-20T15:57:31Z",
       "excerpt": "Get ready for Week 7 with takes on the Colts' decision-makers, Caleb Williams' MVP case, Matthew Stafford's play, the Browns' trajectory and the Eagles' next moves.",
       "content": "Get ready for Week 7 with takes on the Colts' decision-makers, Caleb Williams' MVP case, Matthew Stafford's play, the Browns' trajectory and the Eagles' next moves.",
-      "scrapedAt": "2026-10-20T16:35:32.914Z"
+      "scrapedAt": "2026-10-21T16:54:01.262Z"
     },
     {
-      "id": "d04adf0efb8a021b",
-      "title": "NFL Power Rankings: How all 32 teams stack up for Week 7, plus offensive issues",
-      "author": "NFL Nation",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50218886/nfl-power-rankings-week-7-teams-biggest-issue-offense",
-      "publishedAt": "2026-10-20T14:42:42Z",
-      "excerpt": "How does every NFL team stack up heading into Week 7? We made our 1-32 list and picked the biggest offensive problem for every team.",
-      "content": "How does every NFL team stack up heading into Week 7? We made our 1-32 list and picked the biggest offensive problem for every team.",
-      "scrapedAt": "2026-10-20T16:35:32.914Z"
-    },
-    {
-      "id": "c7c81029fa0b12b0",
-      "title": "How to watch, listen to, stream Bears-Patriots Thursday Night Football Week 7 game",
+      "id": "9137be122beb45a3",
+      "title": "Chicago Bears announce That's Caring as second 2026 Small Business All-Pros Winner, presented by PNC",
       "author": null,
       "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-new-england-patriots-thursday-night-football-2026-week-7-listen-stream-tv-radio-online-nfl",
-      "publishedAt": "2026-10-20T13:11:00.000Z",
-      "excerpt": "Here's where to watch, listen to and stream the Bears' Week 7 matchup with the New England Patriots, which kicks off at 7:15 p.m. CT Thursday, Oct. 22 at Soldier Field.",
-      "content": "Here's where to watch, listen to and stream the Bears' Week 7 matchup with the New England Patriots, which kicks off at 7:15 p.m. CT Thursday, Oct. 22 at Soldier Field.",
-      "scrapedAt": "2026-10-20T16:35:35.511Z"
-    },
-    {
-      "id": "f89ed79c7b69e1d2",
-      "title": "49ers WR Mike Evans reps Bay Area with Curry jersey, leads NFL Week 6's arrivals",
-      "author": "Cameron Wolfe",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals",
-      "publishedAt": "2026-10-19T23:19:59Z",
-      "excerpt": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "content": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "scrapedAt": "2026-10-20T16:35:32.914Z"
-    },
-    {
-      "id": "bc2d3805ac878a1a",
-      "title": "5 things that stood out to Bears coordinators in Week 6 win",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/5-things-that-stood-out-to-bears-coordinators-in-week-6-win",
-      "publishedAt": "2026-10-19T20:40:31.000Z",
-      "excerpt": "Bears coordinators Dennis Allen (defense), Press Taylor (offense) and Richard Hightower (special teams) spoke to reporters Monday about Kyler Gordon’s performance vs. the Falcons, being efficient in the red zone, two special teams takeaways and more.",
-      "content": "Bears coordinators Dennis Allen (defense), Press Taylor (offense) and Richard Hightower (special teams) spoke to reporters Monday about Kyler Gordon’s performance vs. the Falcons, being efficient in the red zone, two special teams takeaways and more.",
-      "scrapedAt": "2026-10-20T16:35:35.512Z"
-    },
-    {
-      "id": "f4531bd0cc09a88c",
-      "title": "NFL Week 7 betting odds: Lines and totals for every game",
-      "author": "ESPN",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals",
-      "publishedAt": "2026-10-19T15:22:09Z",
-      "excerpt": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
-      "content": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
-      "scrapedAt": "2026-10-20T16:35:32.914Z"
+      "sourceUrl": "https://www.chicagobears.com/news/chicago-bears-announce-that-s-caring-as-second-2026-small-business-all-pros-winner-presented-by-pnc",
+      "publishedAt": "2026-10-20T15:00:00.000Z",
+      "excerpt": "The Chicago Bears and PNC Bank announced That’s Caring, a purpose-driven corporate gifting company based in Elk Grove Village, Ill., as the second of four small businesses selected as part of the 2026 Small Business All-Pros, presented by PNC. From Oct. 20 through Nov. 16, the Bears will spotlight That’s Caring across their digital, social and marketing channels, with additional exposure on gameda",
+      "content": "The Chicago Bears and PNC Bank announced That’s Caring, a purpose-driven corporate gifting company based in Elk Grove Village, Ill., as the second of four small businesses selected as part of the 2026 Small Business All-Pros, presented by PNC. From Oct. 20 through Nov. 16, the Bears will spotlight That’s Caring across their digital, social and marketing channels, with additional exposure on gameda",
+      "scrapedAt": "2026-10-21T16:54:05.158Z"
     },
     {
       "id": "2314365724c741f7",
@@ -6104,7 +6148,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-20T16:35:36.574Z"
+      "scrapedAt": "2026-10-21T16:54:06.384Z"
     },
     {
       "id": "03579a74c0ab49d0",
@@ -6127,6 +6171,39 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-10-20T16:35:36.575Z"
+    },
+    {
+      "id": "0260f85195355200",
+      "title": "5 things to watch in Thursday’s Chicago Bears-New England Patriots matchup — plus our Week 7 predictions",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/21/chicago-bears-new-england-patriots-predictions/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-21T16:54:06.384Z"
+    },
+    {
+      "id": "89433037e48969a9",
+      "title": "Chicago Bears QB Caleb Williams just played his most efficient game. Will it carry over to a crucial stretch?",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/20/chicago-bears-caleb-williams-efficiency/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-21T16:54:06.384Z"
+    },
+    {
+      "id": "b49d24f007a28559",
+      "title": "Kyler Gordon’s ‘innate ability’ to rush the QB fits into Chicago Bears scheme: ‘A fun part of the game for me’",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/20/chicago-bears-kyler-gordon-blitzing/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-21T16:54:06.384Z"
     }
   ]
 }
