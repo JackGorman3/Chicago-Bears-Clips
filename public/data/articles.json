@@ -1,16 +1,49 @@
 {
-  "lastUpdated": "2026-10-25T15:49:25.419Z",
+  "lastUpdated": "2026-10-26T18:30:05.653Z",
   "articles": [
     {
-      "id": "566816587ef54c03",
-      "title": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-      "author": "Anthony Gharib",
+      "id": "26d861ec5dfec55a",
+      "title": "NFL Week 8 betting odds: Lines and totals for every game",
+      "author": "ESPN",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms",
-      "publishedAt": "2026-10-24T17:02:08Z",
-      "excerpt": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-      "content": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-      "scrapedAt": "2026-10-25T15:49:18.696Z"
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals",
+      "publishedAt": "2026-10-26T17:39:24Z",
+      "excerpt": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
+      "content": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
+      "scrapedAt": "2026-10-26T18:29:57.510Z"
+    },
+    {
+      "id": "891eed42170cd69e",
+      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "author": "ESPN staff",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+      "publishedAt": "2026-10-26T16:14:24Z",
+      "excerpt": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "content": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "scrapedAt": "2026-10-26T18:29:57.510Z"
+    },
+    {
+      "id": "2352c5846fe87314",
+      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "author": "ESPN staff",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "publishedAt": "2026-10-26T10:00:11Z",
+      "excerpt": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "content": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "scrapedAt": "2026-10-26T18:29:57.510Z"
+    },
+    {
+      "id": "3c8e37e22a9a8e85",
+      "title": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
+      "author": "Cameron Wolfe",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
+      "publishedAt": "2026-10-25T23:18:44Z",
+      "excerpt": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "content": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "scrapedAt": "2026-10-26T18:29:57.510Z"
     },
     {
       "id": "2314365724c741f7",
@@ -6214,7 +6247,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-25T15:49:20.460Z"
+      "scrapedAt": "2026-10-26T18:30:01.357Z"
     },
     {
       "id": "364866f47efff18b",
@@ -6225,7 +6258,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-25T15:49:20.459Z"
+      "scrapedAt": "2026-10-26T18:30:01.357Z"
     },
     {
       "id": "e20d63b1c0ddfe3a",
@@ -6236,7 +6269,18 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-25T15:49:20.460Z"
+      "scrapedAt": "2026-10-26T18:30:01.357Z"
+    },
+    {
+      "id": "6799ab96d22f278a",
+      "title": "‘Ubiquitous’ Mike Ditka middle-finger photo remains a bit of a Chicago Bears mystery. Who snapped Da Finger?",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/26/chicago-bears-mike-ditka-middle-finger/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-26T18:30:01.357Z"
     }
   ]
 }
