@@ -1,6 +1,83 @@
 {
-  "lastUpdated": "2026-10-30T17:51:49.645Z",
+  "lastUpdated": "2026-10-31T17:02:52.843Z",
   "articles": [
+    {
+      "id": "91883a75c203e733",
+      "title": "Bears players, coaches thrilled with addition of Jeffery Simmons",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-players-coaches-thrilled-with-addition-of-jeffery-simmons",
+      "publishedAt": "2026-10-31T16:49:00.000Z",
+      "excerpt": "When the news broke that the Bears had traded for All-Pro defensive tackle Jeffery Simmons, it created a palpable jolt of energy throughout Halas Hall.",
+      "content": "When the news broke that the Bears had traded for All-Pro defensive tackle Jeffery Simmons, it created a palpable jolt of energy throughout Halas Hall.",
+      "scrapedAt": "2026-10-31T17:02:45.376Z"
+    },
+    {
+      "id": "f6f2d25c58d23959",
+      "title": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
+      "author": "Anthony Gharib",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
+      "publishedAt": "2026-10-31T02:02:22Z",
+      "excerpt": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
+      "content": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
+      "scrapedAt": "2026-10-31T17:02:41.901Z"
+    },
+    {
+      "id": "32cefcc26a914047",
+      "title": "Jeffery Simmons 'excited to be able to help' Bears 'compete for a championship'",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/jeffery-simmons-excited-to-be-able-to-help-bears-compete-for-a-championship",
+      "publishedAt": "2026-10-30T22:38:09.000Z",
+      "excerpt": "After a whirlwind 24 hours, All-Pro defensive tackle Jeffery Simmons spoke to reporters about the blockbuster trade that sent him from the Titans to the Bears.",
+      "content": "After a whirlwind 24 hours, All-Pro defensive tackle Jeffery Simmons spoke to reporters about the blockbuster trade that sent him from the Titans to the Bears.",
+      "scrapedAt": "2026-10-31T17:02:45.376Z"
+    },
+    {
+      "id": "c1e6504c1575fa8f",
+      "title": "Fast Facts: Jeffery Simmons",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/fast-facts-jeffery-simmons",
+      "publishedAt": "2026-10-30T21:58:54.000Z",
+      "excerpt": "The Bears acquired All-Pro veteran defensive tackle Jeffery Simmons on Thursday in a trade with Tennessee. Simmons sat down with ChicagoBears.com after his first practice as a Bear on Friday to discuss why he chose to wear No. 99, his love for fishing, why his mom is his inspiration and more.",
+      "content": "The Bears acquired All-Pro veteran defensive tackle Jeffery Simmons on Thursday in a trade with Tennessee. Simmons sat down with ChicagoBears.com after his first practice as a Bear on Friday to discuss why he chose to wear No. 99, his love for fishing, why his mom is his inspiration and more.",
+      "scrapedAt": "2026-10-31T17:02:45.377Z"
+    },
+    {
+      "id": "26d861ec5dfec55a",
+      "title": "NFL Week 8 betting odds: Lines and totals for every game",
+      "author": "ESPN",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals",
+      "publishedAt": "2026-10-30T18:48:32Z",
+      "excerpt": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
+      "content": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
+      "scrapedAt": "2026-10-31T17:02:41.901Z"
+    },
+    {
+      "id": "b6765d35afb94072",
+      "title": "Bears view Jeffery Simmons as difference maker on field, in locker room",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-view-jeffery-simmons-as-difference-maker-on-field-in-locker-room",
+      "publishedAt": "2026-10-30T18:44:26.000Z",
+      "excerpt": "In trading for Jeffery Simmons, the Bears landed an All-Pro defensive tackle who boasts a violent play style, elite leadership skills and excellent football character.",
+      "content": "In trading for Jeffery Simmons, the Bears landed an All-Pro defensive tackle who boasts a violent play style, elite leadership skills and excellent football character.",
+      "scrapedAt": "2026-10-31T17:02:45.378Z"
+    },
+    {
+      "id": "577851231a8b8d15",
+      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "author": "Doug Greenberg",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
+      "publishedAt": "2026-10-30T18:20:36Z",
+      "excerpt": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "content": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "scrapedAt": "2026-10-31T17:02:41.901Z"
+    },
     {
       "id": "442bacabade3734e",
       "title": "Bears acquire All-Pro DT Jeffery Simmons in trade with Titans",
@@ -10,7 +87,7 @@
       "publishedAt": "2026-10-30T16:06:57Z",
       "excerpt": "The Bears are acquiring All-Pro defensive tackle Jeffery Simmons from the Titans.",
       "content": "The Bears are acquiring All-Pro defensive tackle Jeffery Simmons from the Titans.",
-      "scrapedAt": "2026-10-30T17:51:38.633Z"
+      "scrapedAt": "2026-10-31T17:02:41.901Z"
     },
     {
       "id": "2352c5846fe87314",
@@ -21,150 +98,7 @@
       "publishedAt": "2026-10-30T15:17:41Z",
       "excerpt": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
       "content": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "scrapedAt": "2026-10-30T17:51:38.632Z"
-    },
-    {
-      "id": "18e7586ac20a0c0f",
-      "title": "NFL trade deadline grades: Jeffery Simmons, DeForest Buckner, Quenton Nelson",
-      "author": "Ben Solak and Seth Walder",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-      "publishedAt": "2026-10-30T04:25:16Z",
-      "excerpt": "Did the Bears give up too much to go all-in with Simmons? How did the Colts do in their DeForest Buckner and Quenton Nelson deals?",
-      "content": "Did the Bears give up too much to go all-in with Simmons? How did the Colts do in their DeForest Buckner and Quenton Nelson deals?",
-      "scrapedAt": "2026-10-30T17:51:38.633Z"
-    },
-    {
-      "id": "0fba324029884668",
-      "title": "2026 NFL trade deadline updates: Jeffery Simmons, Quenton Nelson on the move",
-      "author": "ESPN staff",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-      "publishedAt": "2026-10-30T03:37:23Z",
-      "excerpt": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including a blockbuster sending Jeffery Simmons to Chicago.",
-      "content": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including a blockbuster sending Jeffery Simmons to Chicago.",
-      "scrapedAt": "2026-10-30T17:51:38.633Z"
-    },
-    {
-      "id": "8d30ed54019b9c67",
-      "title": "Source: Bears quarterback Caleb Williams fined again for cleats",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50323203/bears-quarterback-caleb-williams-fined-again-cleats",
-      "publishedAt": "2026-10-30T01:53:54Z",
-      "excerpt": "The NFL fined Caleb Williams $23,882 for sporting Caddix cleats in Week 7, a source confirmed to ESPN on Thursday.",
-      "content": "The NFL fined Caleb Williams $23,882 for sporting Caddix cleats in Week 7, a source confirmed to ESPN on Thursday.",
-      "scrapedAt": "2026-10-30T17:51:38.633Z"
-    },
-    {
-      "id": "46873560a1fd94d2",
-      "title": "Jeffery Simmons traded to Bears: Does dealing multiple first-round picks work?",
-      "author": "Bill Barnwell",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50319184/jeffery-simmons-trade-two-first-round-picks-bears-titans",
-      "publishedAt": "2026-10-30T01:26:24Z",
-      "excerpt": "The Bears' aggressive move for Simmons marks the 10th time in the past decade that a team has traded multiple first-round picks for a star player. But the hit rate isn't great.",
-      "content": "The Bears' aggressive move for Simmons marks the 10th time in the past decade that a team has traded multiple first-round picks for a star player. But the hit rate isn't great.",
-      "scrapedAt": "2026-10-30T17:51:38.633Z"
-    },
-    {
-      "id": "6766944dbc06af55",
-      "title": "Chicago Bears acquire All-Pro DL Jeffery Simmons via trade | Roster Moves",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/chicago-bears-acquire-all-pro-dl-jeffery-simmons-via-trade-roster-moves",
-      "publishedAt": "2026-10-30T00:40:00.000Z",
-      "excerpt": "The Chicago Bears announced that the club has acquired three-time AP All-Pro defensive lineman Jeffery Simmons in a trade with the Tennessee Titans in exchange for a 2027 first-round selection, a 2028 first-round selection and a 2027 fourth-round selection. The Bears will also receive a 2028 fifth-round selection from Tennessee.",
-      "content": "The Chicago Bears announced that the club has acquired three-time AP All-Pro defensive lineman Jeffery Simmons in a trade with the Tennessee Titans in exchange for a 2027 first-round selection, a 2028 first-round selection and a 2027 fourth-round selection. The Bears will also receive a 2028 fifth-round selection from Tennessee.",
-      "scrapedAt": "2026-10-30T17:51:44.892Z"
-    },
-    {
-      "id": "f6f2d25c58d23959",
-      "title": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
-      "author": "Anthony Gharib",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
-      "publishedAt": "2026-10-30T00:30:13Z",
-      "excerpt": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "content": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "scrapedAt": "2026-10-30T17:51:38.633Z"
-    },
-    {
-      "id": "8830ece1f484dcb0",
-      "title": "NFL Week 8's best arrivals, led by Panthers' Bryce Young",
-      "author": "ESPN staff",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
-      "publishedAt": "2026-10-30T00:01:06Z",
-      "excerpt": "Here's a look at the best-dressed players around the NFL in Week 8.",
-      "content": "Here's a look at the best-dressed players around the NFL in Week 8.",
-      "scrapedAt": "2026-10-30T17:51:38.633Z"
-    },
-    {
-      "id": "daaf79e1c914b2b2",
-      "title": "2027 Chicago Bears draft picks",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/2027-chicago-bears-nfl-draft-picks-news-highlights-photos",
-      "publishedAt": "2026-10-29T21:00:00.000Z",
-      "excerpt": "Stay up-to-date on where the Bears will pick in the 2027 NFL Draft, how many picks they have, how they acquired their picks and more.",
-      "content": "Stay up-to-date on where the Bears will pick in the 2027 NFL Draft, how many picks they have, how they acquired their picks and more.",
-      "scrapedAt": "2026-10-30T17:51:44.893Z"
-    },
-    {
-      "id": "081f3a312d8151a5",
-      "title": "Seahawks' dominant defense faces challenge in Bears QB Caleb Williams and NFL's top rushing offense",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "http://www.espn.com/nfl/preview?gameId=401873036",
-      "publishedAt": "2026-10-29T20:46:47Z",
-      "excerpt": "Now it's Chicago's turn to face Seattle's “Dark Side.”",
-      "content": "Now it's Chicago's turn to face Seattle's “Dark Side.”",
-      "scrapedAt": "2026-10-30T17:51:38.633Z"
-    },
-    {
-      "id": "402ec5dbabff819f",
-      "title": "Bears get Jeffery Simmons: Key intel on blockbuster trade",
-      "author": "Courtney Cronin and Turron Davenport and Ben Solak and Jordan Reid",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50319153/jeffery-simmons-trade-titans-bears-draft-picks-deadline",
-      "publishedAt": "2026-10-29T19:32:27Z",
-      "excerpt": "Is Jeffery Simmons the key missing piece for the Bears' Super Bowl puzzle? Here are key takeaways from the blockbuster trade.",
-      "content": "Is Jeffery Simmons the key missing piece for the Bears' Super Bowl puzzle? Here are key takeaways from the blockbuster trade.",
-      "scrapedAt": "2026-10-30T17:51:38.633Z"
-    },
-    {
-      "id": "ccdaa7cc5452bb77",
-      "title": "Girls Flag Football Player of the Week: Josie Borkowski | Week 8",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/girls-flag-football-player-of-the-week-josie-borkowski-week-8",
-      "publishedAt": "2026-10-29T17:51:56.000Z",
-      "excerpt": "St. Ignatius junior Josie Borkowski earned Week 8 Player of the Week honors for her standout sectional performances as a running back and rusher, leading her team to the No. 3 seed in the IHSA State Tournament. She spoke with ChicagoBears.com about how flag football has impacted her life, her team's experience at the State tournament and more.",
-      "content": "St. Ignatius junior Josie Borkowski earned Week 8 Player of the Week honors for her standout sectional performances as a running back and rusher, leading her team to the No. 3 seed in the IHSA State Tournament. She spoke with ChicagoBears.com about how flag football has impacted her life, her team's experience at the State tournament and more.",
-      "scrapedAt": "2026-10-30T17:51:44.894Z"
-    },
-    {
-      "id": "a9959a4f57b02832",
-      "title": "How Jeffery Simmons landed with the Bears",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50319483/how-jeffery-simmons-landed-bears",
-      "publishedAt": "2026-10-29T16:35:53Z",
-      "excerpt": "How Jeffery Simmons landed with the Bears",
-      "content": "How Jeffery Simmons landed with the Bears",
-      "scrapedAt": "2026-10-30T17:51:38.633Z"
-    },
-    {
-      "id": "577851231a8b8d15",
-      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "author": "Doug Greenberg",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-      "publishedAt": "2026-10-29T16:06:00Z",
-      "excerpt": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "content": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "scrapedAt": "2026-10-30T17:51:38.633Z"
+      "scrapedAt": "2026-10-31T17:02:41.901Z"
     },
     {
       "id": "2314365724c741f7",
@@ -6479,6 +6413,50 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-10-30T17:51:45.543Z"
+    },
+    {
+      "id": "d7242e2cb6bba230",
+      "title": "5 things to watch in the Chicago Bears-Seattle Seahawks matchup Monday night — plus our Week 8 predictions",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/31/chicago-bears-seattle-seahawks-predictions-matchup/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-31T17:02:47.031Z"
+    },
+    {
+      "id": "60af5becb720a3ab",
+      "title": "What we learned about new Chicago Bears DT Jeffery Simmons, a ‘terrifying guy to go against’",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/30/chicago-bears-jeffery-simmons-caleb-williams/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-31T17:02:47.032Z"
+    },
+    {
+      "id": "9ab33e7db799a7bd",
+      "title": "Column: Are Chicago Bears ‘all-in’ with Jeffery Simmons deal? Ryan Poles sees it as boon now — and in future.",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/30/chicago-bears-jeffery-simmons-ryan-poles/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-31T17:02:47.032Z"
+    },
+    {
+      "id": "55d4e01250c66691",
+      "title": "What to know about the Chicago Bears’ possible move from Soldier Field",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/10/30/chicago-bears-soldier-field-stadium-news/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-10-31T17:02:47.032Z"
     }
   ]
 }
