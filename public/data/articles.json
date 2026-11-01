@@ -1,6 +1,83 @@
 {
-  "lastUpdated": "2026-10-31T17:02:52.843Z",
+  "lastUpdated": "2026-11-01T17:47:06.128Z",
   "articles": [
+    {
+      "id": "8830ece1f484dcb0",
+      "title": "NFL Week 8's best arrivals, led by Vikings' Kyler Murray",
+      "author": "ESPN staff",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
+      "publishedAt": "2026-11-01T17:05:43Z",
+      "excerpt": "Here's a look at the best-dressed players around the NFL in Week 8.",
+      "content": "Here's a look at the best-dressed players around the NFL in Week 8.",
+      "scrapedAt": "2026-11-01T17:46:55.372Z"
+    },
+    {
+      "id": "7d323d7ff1431c4d",
+      "title": "Bears QB Caleb Williams won't 'spat' custom cleats out of principle, source says",
+      "author": "Ian Rapoport",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50343312/source-caleb-williams-spat-cleats-principle",
+      "publishedAt": "2026-11-01T16:58:24Z",
+      "excerpt": "Caleb Williams believes in his custom Caddix cleats, a source told NFL Network, and won't cover the logo in accordance with league rules out of principle.",
+      "content": "Caleb Williams believes in his custom Caddix cleats, a source told NFL Network, and won't cover the logo in accordance with league rules out of principle.",
+      "scrapedAt": "2026-11-01T17:46:55.372Z"
+    },
+    {
+      "id": "bb82c24dacc0debf",
+      "title": "Game Preview: Bears at Seahawks | 2026 Week 8",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/game-preview-bears-at-seahawks-2026-week-8",
+      "publishedAt": "2026-11-01T16:20:00.000Z",
+      "excerpt": "The Bears (5-2) will seek their third straight win and fifth in the last six games Monday night when they visit the Seahawks (4-3) at Lumen Field in Seattle.",
+      "content": "The Bears (5-2) will seek their third straight win and fifth in the last six games Monday night when they visit the Seahawks (4-3) at Lumen Field in Seattle.",
+      "scrapedAt": "2026-11-01T17:46:58.780Z"
+    },
+    {
+      "id": "31f8db0c8334753f",
+      "title": "Sources: Bears, Titans used Myles Garrett deal as framework for Simmons trade",
+      "author": "Adam Schefter",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50343678/bears-trade-jeffery-simmons-based-myles-garrett-deal",
+      "publishedAt": "2026-11-01T14:41:28Z",
+      "excerpt": "The Bears and Titans came up with a Jeffery Simmons proposal that was based off this year's Myles Garrett trade, sources told ESPN.",
+      "content": "The Bears and Titans came up with a Jeffery Simmons proposal that was based off this year's Myles Garrett trade, sources told ESPN.",
+      "scrapedAt": "2026-11-01T17:46:55.372Z"
+    },
+    {
+      "id": "464507a53088cc02",
+      "title": "Ranking the top 10 trick plays in Super Bowl history",
+      "author": "Turron Davenport and Nate Taylor",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50300237/top-10-super-bowl-trick-plays-history",
+      "publishedAt": "2026-11-01T11:00:00Z",
+      "excerpt": "Which trick plays cemented their legacies in the Super Bowl? We listed 10 that changed momentum or flat-out won championships.",
+      "content": "Which trick plays cemented their legacies in the Super Bowl? We listed 10 that changed momentum or flat-out won championships.",
+      "scrapedAt": "2026-11-01T17:46:55.372Z"
+    },
+    {
+      "id": "f6f2d25c58d23959",
+      "title": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
+      "author": "Anthony Gharib",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
+      "publishedAt": "2026-10-31T21:53:28Z",
+      "excerpt": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
+      "content": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
+      "scrapedAt": "2026-11-01T17:46:55.372Z"
+    },
+    {
+      "id": "5e00bd88b00b86aa",
+      "title": "Injury Update: T.J. Edwards set to return Monday night in Seattle",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/injury-update-t-j-edwards-set-to-return-monday-night-in-seattle",
+      "publishedAt": "2026-10-31T19:58:45.000Z",
+      "excerpt": "Linebacker T.J. Edwards will be back in action Monday night in Seattle after missing the last two games with a hamstring injury.",
+      "content": "Linebacker T.J. Edwards will be back in action Monday night in Seattle after missing the last two games with a hamstring injury.",
+      "scrapedAt": "2026-11-01T17:46:58.780Z"
+    },
     {
       "id": "91883a75c203e733",
       "title": "Bears players, coaches thrilled with addition of Jeffery Simmons",
@@ -10,95 +87,7 @@
       "publishedAt": "2026-10-31T16:49:00.000Z",
       "excerpt": "When the news broke that the Bears had traded for All-Pro defensive tackle Jeffery Simmons, it created a palpable jolt of energy throughout Halas Hall.",
       "content": "When the news broke that the Bears had traded for All-Pro defensive tackle Jeffery Simmons, it created a palpable jolt of energy throughout Halas Hall.",
-      "scrapedAt": "2026-10-31T17:02:45.376Z"
-    },
-    {
-      "id": "f6f2d25c58d23959",
-      "title": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
-      "author": "Anthony Gharib",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
-      "publishedAt": "2026-10-31T02:02:22Z",
-      "excerpt": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "content": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "scrapedAt": "2026-10-31T17:02:41.901Z"
-    },
-    {
-      "id": "32cefcc26a914047",
-      "title": "Jeffery Simmons 'excited to be able to help' Bears 'compete for a championship'",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/jeffery-simmons-excited-to-be-able-to-help-bears-compete-for-a-championship",
-      "publishedAt": "2026-10-30T22:38:09.000Z",
-      "excerpt": "After a whirlwind 24 hours, All-Pro defensive tackle Jeffery Simmons spoke to reporters about the blockbuster trade that sent him from the Titans to the Bears.",
-      "content": "After a whirlwind 24 hours, All-Pro defensive tackle Jeffery Simmons spoke to reporters about the blockbuster trade that sent him from the Titans to the Bears.",
-      "scrapedAt": "2026-10-31T17:02:45.376Z"
-    },
-    {
-      "id": "c1e6504c1575fa8f",
-      "title": "Fast Facts: Jeffery Simmons",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/fast-facts-jeffery-simmons",
-      "publishedAt": "2026-10-30T21:58:54.000Z",
-      "excerpt": "The Bears acquired All-Pro veteran defensive tackle Jeffery Simmons on Thursday in a trade with Tennessee. Simmons sat down with ChicagoBears.com after his first practice as a Bear on Friday to discuss why he chose to wear No. 99, his love for fishing, why his mom is his inspiration and more.",
-      "content": "The Bears acquired All-Pro veteran defensive tackle Jeffery Simmons on Thursday in a trade with Tennessee. Simmons sat down with ChicagoBears.com after his first practice as a Bear on Friday to discuss why he chose to wear No. 99, his love for fishing, why his mom is his inspiration and more.",
-      "scrapedAt": "2026-10-31T17:02:45.377Z"
-    },
-    {
-      "id": "26d861ec5dfec55a",
-      "title": "NFL Week 8 betting odds: Lines and totals for every game",
-      "author": "ESPN",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals",
-      "publishedAt": "2026-10-30T18:48:32Z",
-      "excerpt": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
-      "content": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
-      "scrapedAt": "2026-10-31T17:02:41.901Z"
-    },
-    {
-      "id": "b6765d35afb94072",
-      "title": "Bears view Jeffery Simmons as difference maker on field, in locker room",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-view-jeffery-simmons-as-difference-maker-on-field-in-locker-room",
-      "publishedAt": "2026-10-30T18:44:26.000Z",
-      "excerpt": "In trading for Jeffery Simmons, the Bears landed an All-Pro defensive tackle who boasts a violent play style, elite leadership skills and excellent football character.",
-      "content": "In trading for Jeffery Simmons, the Bears landed an All-Pro defensive tackle who boasts a violent play style, elite leadership skills and excellent football character.",
-      "scrapedAt": "2026-10-31T17:02:45.378Z"
-    },
-    {
-      "id": "577851231a8b8d15",
-      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "author": "Doug Greenberg",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-      "publishedAt": "2026-10-30T18:20:36Z",
-      "excerpt": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "content": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "scrapedAt": "2026-10-31T17:02:41.901Z"
-    },
-    {
-      "id": "442bacabade3734e",
-      "title": "Bears acquire All-Pro DT Jeffery Simmons in trade with Titans",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50318351/sources-bears-trade-all-pro-dt-jeffery-simmons",
-      "publishedAt": "2026-10-30T16:06:57Z",
-      "excerpt": "The Bears are acquiring All-Pro defensive tackle Jeffery Simmons from the Titans.",
-      "content": "The Bears are acquiring All-Pro defensive tackle Jeffery Simmons from the Titans.",
-      "scrapedAt": "2026-10-31T17:02:41.901Z"
-    },
-    {
-      "id": "2352c5846fe87314",
-      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "author": "ESPN staff",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "publishedAt": "2026-10-30T15:17:41Z",
-      "excerpt": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "content": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "scrapedAt": "2026-10-31T17:02:41.901Z"
+      "scrapedAt": "2026-11-01T17:46:58.780Z"
     },
     {
       "id": "2314365724c741f7",
@@ -6423,7 +6412,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-31T17:02:47.031Z"
+      "scrapedAt": "2026-11-01T17:47:00.161Z"
     },
     {
       "id": "60af5becb720a3ab",
@@ -6434,7 +6423,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-31T17:02:47.032Z"
+      "scrapedAt": "2026-11-01T17:47:00.162Z"
     },
     {
       "id": "9ab33e7db799a7bd",
@@ -6445,7 +6434,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-10-31T17:02:47.032Z"
+      "scrapedAt": "2026-11-01T17:47:00.162Z"
     },
     {
       "id": "55d4e01250c66691",
@@ -6457,6 +6446,17 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-10-31T17:02:47.032Z"
+    },
+    {
+      "id": "6ad2d0034ecb44af",
+      "title": "Column: Jeffery Simmons’ arrival changes the math for Chicago Bears defense, which finally has ‘a true alpha’",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/01/chicago-bears-jeffery-simmons-nfc-north/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-01T17:47:00.161Z"
     }
   ]
 }
