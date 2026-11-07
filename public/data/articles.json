@@ -1,6 +1,83 @@
 {
-  "lastUpdated": "2026-11-06T19:05:56.985Z",
+  "lastUpdated": "2026-11-07T17:37:50.466Z",
   "articles": [
+    {
+      "id": "5b57715845c01c17",
+      "title": "Inside the evolution of Caleb Williams' MVP candidacy",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50402109/bears-caleb-williams-mvp",
+      "publishedAt": "2026-11-07T12:56:58Z",
+      "excerpt": "Williams has the fourth-shortest odds to win MVP as the Bears are currently favored to win the NFC.",
+      "content": "Williams has the fourth-shortest odds to win MVP as the Bears are currently favored to win the NFC.",
+      "scrapedAt": "2026-11-07T17:37:41.264Z"
+    },
+    {
+      "id": "738709520a113248",
+      "title": "2026 NFL trade deadline: Proposing deals for Tony Pollard, Riq Woolen, others",
+      "author": "Judy Battista, Matt Bowen, Jeremy Fowler, Aaron Schatz, Ben Solak, Seth Walder, Cameron Wolfe, Field Yates",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50389499/2026-nfl-trade-deadline-offers-experts-taylor-woolen-pollard",
+      "publishedAt": "2026-11-07T11:37:27Z",
+      "excerpt": "Our NFL experts pitched trade offers they'd love to see get done before Tuesday's deadline, including moves for Tony Pollard, Riq Woolen, Jonathan Taylor and Jessie Bates III.",
+      "content": "Our NFL experts pitched trade offers they'd love to see get done before Tuesday's deadline, including moves for Tony Pollard, Riq Woolen, Jonathan Taylor and Jessie Bates III.",
+      "scrapedAt": "2026-11-07T17:37:41.264Z"
+    },
+    {
+      "id": "0825de618dc77f65",
+      "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
+      "author": "Anthony Gharib",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
+      "publishedAt": "2026-11-07T05:57:32Z",
+      "excerpt": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
+      "content": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
+      "scrapedAt": "2026-11-07T17:37:41.264Z"
+    },
+    {
+      "id": "d1fd1fba50a7d958",
+      "title": "Bears-Buccaneers game preview | 2026 Week 9",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-buccaneers-game-preview-2026-week-9",
+      "publishedAt": "2026-11-07T03:05:51.000Z",
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-07T17:37:44.492Z"
+    },
+    {
+      "id": "15cbcc6c83ebebc7",
+      "title": "Kyle Monangai back at practice, questionable for Buccaneers game | Injury Update",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/kyle-monangai-back-at-practice-questionable-for-buccaneers-game-injury-update",
+      "publishedAt": "2026-11-06T21:42:12.000Z",
+      "excerpt": "Bears running back Kyle Monangai returned to practice on a limited basis Friday for the first time since injuring his toe and thumb in a Week 4 win over the Jets. He is listed as questionable for Sunday night’s home contest against the Buccaneers.",
+      "content": "Bears running back Kyle Monangai returned to practice on a limited basis Friday for the first time since injuring his toe and thumb in a Week 4 win over the Jets. He is listed as questionable for Sunday night’s home contest against the Buccaneers.",
+      "scrapedAt": "2026-11-07T17:37:44.492Z"
+    },
+    {
+      "id": "697c241dbd2af2cd",
+      "title": "Bears in Badalona: Postcard with Roberto Garza | Friday, Nov. 6",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-in-badalona-postcards-with-roberto-garza-friday-nov-6",
+      "publishedAt": "2026-11-06T20:43:00.000Z",
+      "excerpt": "The Bears are in Spain for their 2026 Flag Football Tour, marking the fourth consecutive year the club has held flag football clinics in Spain and showcasing their commitment to growing the game globally ahead of the sport’s debut at the 2028 Los Angeles Olympic Games. Former Bears offensive lineman Roberto Garza, who accompanied the team on the four-city trip, checks in after spending the first w",
+      "content": "The Bears are in Spain for their 2026 Flag Football Tour, marking the fourth consecutive year the club has held flag football clinics in Spain and showcasing their commitment to growing the game globally ahead of the sport’s debut at the 2028 Los Angeles Olympic Games. Former Bears offensive lineman Roberto Garza, who accompanied the team on the four-city trip, checks in after spending the first w",
+      "scrapedAt": "2026-11-07T17:37:44.493Z"
+    },
+    {
+      "id": "d155c294551aebc1",
+      "title": "Bears, Alice & Wonder celebrate collaboration with exclusive preview event",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-alice-wonder-celebrate-collaboration-with-exclusive-preview-event",
+      "publishedAt": "2026-11-06T18:47:08.000Z",
+      "excerpt": "The Bears and Alice & Wonder celebrated their collaboration with an exclusive preview event Thursday night, where guests and creators were invited to take a first look at the limited-edition apparel collection ahead of the public launch Friday morning.",
+      "content": "The Bears and Alice & Wonder celebrated their collaboration with an exclusive preview event Thursday night, where guests and creators were invited to take a first look at the limited-edition apparel collection ahead of the public launch Friday morning.",
+      "scrapedAt": "2026-11-07T17:37:44.494Z"
+    },
     {
       "id": "18e7586ac20a0c0f",
       "title": "NFL trade deadline grades: Deals for Jacoby Brissett, Jeffery Simmons, more",
@@ -10,7 +87,7 @@
       "publishedAt": "2026-11-06T18:25:11Z",
       "excerpt": "Wise move for the Ravens to add Jacoby Brissett? Did the Bears give up too much to go all-in with Jeffery Simmons? Let's evaluate eight trades before the deadline.",
       "content": "Wise move for the Ravens to add Jacoby Brissett? Did the Bears give up too much to go all-in with Jeffery Simmons? Let's evaluate eight trades before the deadline.",
-      "scrapedAt": "2026-11-06T19:05:44.626Z"
+      "scrapedAt": "2026-11-07T17:37:41.264Z"
     },
     {
       "id": "6a8022d199e898a6",
@@ -21,128 +98,7 @@
       "publishedAt": "2026-11-06T15:44:45Z",
       "excerpt": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
       "content": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
-      "scrapedAt": "2026-11-06T19:05:44.626Z"
-    },
-    {
-      "id": "8d4f41cd12efbf53",
-      "title": "How the Bucs' defense could create problems for Caleb Williams",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50399574/how-bucs-defense-create-problems-caleb-williams",
-      "publishedAt": "2026-11-06T15:20:18Z",
-      "excerpt": "How the Bucs' defense could create problems for Caleb Williams",
-      "content": "How the Bucs' defense could create problems for Caleb Williams",
-      "scrapedAt": "2026-11-06T19:05:44.626Z"
-    },
-    {
-      "id": "f57fb0bccb68d1ef",
-      "title": "Chicago Bears and Alice & Wonder launch limited-edition apparel collection",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/chicago-bears-and-alice-wonder-launch-limited-edition-apparel-collection",
-      "publishedAt": "2026-11-06T15:00:00.000Z",
-      "excerpt": "The Chicago Bears and Alice & Wonder officially announced the launch of the Bears x Alice & Wonder limited-edition apparel collection, bringing together Bears fandom and fashion-forward style through exclusive designs created for fans to wear on gameday and beyond.",
-      "content": "The Chicago Bears and Alice & Wonder officially announced the launch of the Bears x Alice & Wonder limited-edition apparel collection, bringing together Bears fandom and fashion-forward style through exclusive designs created for fans to wear on gameday and beyond.",
-      "scrapedAt": "2026-11-06T19:05:50.282Z"
-    },
-    {
-      "id": "891eed42170cd69e",
-      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "author": "ESPN staff",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
-      "publishedAt": "2026-11-06T13:28:42Z",
-      "excerpt": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
-      "content": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
-      "scrapedAt": "2026-11-06T19:05:44.626Z"
-    },
-    {
-      "id": "0825de618dc77f65",
-      "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
-      "author": "Anthony Gharib",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
-      "publishedAt": "2026-11-06T00:53:52Z",
-      "excerpt": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "content": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "scrapedAt": "2026-11-06T19:05:44.626Z"
-    },
-    {
-      "id": "8607d84b69c0054f",
-      "title": "NFL Week 9 arrivals: Trevor Lawrence doubles up on denim, Ethan Burke reps Ovechkin",
-      "author": "ESPN Staff",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
-      "publishedAt": "2026-11-06T00:38:13Z",
-      "excerpt": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-      "content": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-      "scrapedAt": "2026-11-06T19:05:44.626Z"
-    },
-    {
-      "id": "4b4cdbc0d1bf91e4",
-      "title": "How Jeffery Simmons' arrival impacts the Bears",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50393635/how-jeffery-simmons-arrival-impacts-bears",
-      "publishedAt": "2026-11-05T23:52:48Z",
-      "excerpt": "Courtney Cronin on how Jeffery Simmons' impact creates opportunities for his Bears teammates.",
-      "content": "Courtney Cronin on how Jeffery Simmons' impact creates opportunities for his Bears teammates.",
-      "scrapedAt": "2026-11-06T19:05:44.626Z"
-    },
-    {
-      "id": "b10519674bcff9a9",
-      "title": "Bears DC Dennis Allen expects Jeffery Simmons to be gift that keeps on giving",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-dc-dennis-allen-expects-jeffery-simmons-to-be-gift-that-keeps-on-giving",
-      "publishedAt": "2026-11-05T21:29:17.000Z",
-      "excerpt": "Defensive coordinator Dennis Allen praised Jeffery Simmons for how he performed in his Bears debut, telling reporters, \"he raises the level of everybody on the field.\"",
-      "content": "Defensive coordinator Dennis Allen praised Jeffery Simmons for how he performed in his Bears debut, telling reporters, \"he raises the level of everybody on the field.\"",
-      "scrapedAt": "2026-11-06T19:05:50.282Z"
-    },
-    {
-      "id": "7ef19be208209494",
-      "title": "'I'm just happy to have him here': Montez Sweat thrilled to reunite with former college teammate Jeffery Simmons",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/i-m-just-happy-to-have-him-here-montez-sweat-thrilled-to-reunite-with-former-college-teammate-jeffery-simmons",
-      "publishedAt": "2026-11-05T21:16:49.000Z",
-      "excerpt": "In reuniting with Jeffery Simmons, defensive end Montez Sweat is introducing his former college teammate to the Bears' culture, just as Simmons did for Sweat at Mississippi State in 2017.",
-      "content": "In reuniting with Jeffery Simmons, defensive end Montez Sweat is introducing his former college teammate to the Bears' culture, just as Simmons did for Sweat at Mississippi State in 2017.",
-      "scrapedAt": "2026-11-06T19:05:50.283Z"
-    },
-    {
-      "id": "348e6a9a84310c58",
-      "title": "Irving and the Buccaneers visit Swift and the Bears in a matchup of the NFL's top rushing teams",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "http://www.espn.com/nfl/preview?gameId=401873050",
-      "publishedAt": "2026-11-05T20:10:38Z",
-      "excerpt": "— Chicago Bears coach Ben Johnson knows a little something about a successful rushing attack. And he's impressed with Tampa Bay's ground game.",
-      "content": "— Chicago Bears coach Ben Johnson knows a little something about a successful rushing attack. And he's impressed with Tampa Bay's ground game.",
-      "scrapedAt": "2026-11-06T19:05:44.626Z"
-    },
-    {
-      "id": "de8cac0d94913098",
-      "title": "What 18 contenders should do at the NFL trade deadline: Who could get aggressive?",
-      "author": "Bill Barnwell",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50360077/2026-nfl-trade-deadline-contenders-activity-add-subtract",
-      "publishedAt": "2026-11-05T18:32:13Z",
-      "excerpt": "Should the Giants keep adding? Could the Bills go all-in? Would the Steelers stay conservative? Here's how 18 teams at or above .500 should approach the deadline.",
-      "content": "Should the Giants keep adding? Could the Bills go all-in? Would the Steelers stay conservative? Here's how 18 teams at or above .500 should approach the deadline.",
-      "scrapedAt": "2026-11-06T19:05:44.626Z"
-    },
-    {
-      "id": "aa376688d4432924",
-      "title": "Chicago Bears nominate Josh Blackwell for 2026 Salute to Service Award presented by USAA",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/chicago-bears-nominate-josh-blackwell-for-2026-salute-to-service-award-presented-by-usaa",
-      "publishedAt": "2026-11-05T18:00:00.000Z",
-      "excerpt": "The Chicago Bears announced that defensive back and special teams standout Josh Blackwell has been named the team's nominee for the 2026 Salute to Service Award presented by USAA. The annual award recognizes NFL players, coaches, staff and alumni who demonstrate an exceptional commitment to supporting U.S. service members, veterans and their families.",
-      "content": "The Chicago Bears announced that defensive back and special teams standout Josh Blackwell has been named the team's nominee for the 2026 Salute to Service Award presented by USAA. The annual award recognizes NFL players, coaches, staff and alumni who demonstrate an exceptional commitment to supporting U.S. service members, veterans and their families.",
-      "scrapedAt": "2026-11-06T19:05:50.284Z"
+      "scrapedAt": "2026-11-07T17:37:41.264Z"
     },
     {
       "id": "2314365724c741f7",
@@ -6632,7 +6588,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-06T19:05:51.481Z"
+      "scrapedAt": "2026-11-07T17:37:45.527Z"
     },
     {
       "id": "699f71839c74d7dd",
@@ -6676,7 +6632,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-06T19:05:51.481Z"
+      "scrapedAt": "2026-11-07T17:37:45.528Z"
     },
     {
       "id": "ec3f2770d14bd9cf",
@@ -6688,6 +6644,28 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-11-06T19:05:51.482Z"
+    },
+    {
+      "id": "7690a3e6e3446620",
+      "title": "How Jeffery Simmons changes everything for the Chicago Bears — in ways both obvious and subtle",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/07/jeffery-simmons-chicago-bears-impact/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-07T17:37:45.528Z"
+    },
+    {
+      "id": "de842c2afc2e3e14",
+      "title": "RB Kyle Monangai returns to Chicago Bears practice — but his status for Sunday night remains up in the air",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/06/kyle-monangai-chicago-bears-week-9-questionable/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-07T17:37:45.528Z"
     }
   ]
 }
