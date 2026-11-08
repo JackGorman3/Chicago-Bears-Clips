@@ -1,27 +1,60 @@
 {
-  "lastUpdated": "2026-11-07T17:37:50.466Z",
+  "lastUpdated": "2026-11-08T17:47:28.450Z",
   "articles": [
     {
-      "id": "5b57715845c01c17",
-      "title": "Inside the evolution of Caleb Williams' MVP candidacy",
-      "author": "Courtney Cronin",
+      "id": "8607d84b69c0054f",
+      "title": "NFL Week 9 arrivals: Lions show support for Jack Campbell",
+      "author": "ESPN Staff",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50402109/bears-caleb-williams-mvp",
-      "publishedAt": "2026-11-07T12:56:58Z",
-      "excerpt": "Williams has the fourth-shortest odds to win MVP as the Bears are currently favored to win the NFC.",
-      "content": "Williams has the fourth-shortest odds to win MVP as the Bears are currently favored to win the NFC.",
-      "scrapedAt": "2026-11-07T17:37:41.264Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
+      "publishedAt": "2026-11-08T16:55:10Z",
+      "excerpt": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
+      "content": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
+      "scrapedAt": "2026-11-08T17:47:17.888Z"
     },
     {
-      "id": "738709520a113248",
-      "title": "2026 NFL trade deadline: Proposing deals for Tony Pollard, Riq Woolen, others",
-      "author": "Judy Battista, Matt Bowen, Jeremy Fowler, Aaron Schatz, Ben Solak, Seth Walder, Cameron Wolfe, Field Yates",
+      "id": "1a892fa0b7c6e01c",
+      "title": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
+      "author": "NFL Nation",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50389499/2026-nfl-trade-deadline-offers-experts-taylor-woolen-pollard",
-      "publishedAt": "2026-11-07T11:37:27Z",
-      "excerpt": "Our NFL experts pitched trade offers they'd love to see get done before Tuesday's deadline, including moves for Tony Pollard, Riq Woolen, Jonathan Taylor and Jessie Bates III.",
-      "content": "Our NFL experts pitched trade offers they'd love to see get done before Tuesday's deadline, including moves for Tony Pollard, Riq Woolen, Jonathan Taylor and Jessie Bates III.",
-      "scrapedAt": "2026-11-07T17:37:41.264Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026",
+      "publishedAt": "2026-11-08T16:14:57Z",
+      "excerpt": "Check here for Sunday's top moments, TDs and analysis.",
+      "content": "Check here for Sunday's top moments, TDs and analysis.",
+      "scrapedAt": "2026-11-08T17:47:17.888Z"
+    },
+    {
+      "id": "e5607c87c9dbeea6",
+      "title": "Ben Johnson's Stanky Legg dance is Chicago Bears' latest postgame tradition",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50415535/ben-johnson-chicago-bears-stanky-legg",
+      "publishedAt": "2026-11-08T16:06:30Z",
+      "excerpt": "As the weeks progress for the Bears, players eagerly await Johnson's dance, knowing that it signifies another win.",
+      "content": "As the weeks progress for the Bears, players eagerly await Johnson's dance, knowing that it signifies another win.",
+      "scrapedAt": "2026-11-08T17:47:17.888Z"
+    },
+    {
+      "id": "2ffde8dd348d261a",
+      "title": "How Ben Johnson became the Bears head coach",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50415617/how-ben-johnson-became-bears-head-coach",
+      "publishedAt": "2026-11-08T16:05:34Z",
+      "excerpt": "How Ben Johnson became the Bears head coach",
+      "content": "How Ben Johnson became the Bears head coach",
+      "scrapedAt": "2026-11-08T17:47:17.888Z"
+    },
+    {
+      "id": "52dc34bbc34ce499",
+      "title": "How to bet Buccaneers-Bears: Tips, analysis and our top prop plays",
+      "author": "Matt Bowen",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50408146/nfl-week-9-odds-betting-picks-buccaneers-bears-preview",
+      "publishedAt": "2026-11-08T15:25:01Z",
+      "excerpt": "Odds, analysis and picks to help you bet Sunday's Tampa Bay Buccaneers-Chicago Bears game.",
+      "content": "Odds, analysis and picks to help you bet Sunday's Tampa Bay Buccaneers-Chicago Bears game.",
+      "scrapedAt": "2026-11-08T17:47:17.888Z"
     },
     {
       "id": "0825de618dc77f65",
@@ -29,10 +62,10 @@
       "author": "Anthony Gharib",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
-      "publishedAt": "2026-11-07T05:57:32Z",
+      "publishedAt": "2026-11-08T02:18:40Z",
       "excerpt": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
       "content": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "scrapedAt": "2026-11-07T17:37:41.264Z"
+      "scrapedAt": "2026-11-08T17:47:17.888Z"
     },
     {
       "id": "d1fd1fba50a7d958",
@@ -40,65 +73,10 @@
       "author": null,
       "source": "Chicago Bears Official",
       "sourceUrl": "https://www.chicagobears.com/news/bears-buccaneers-game-preview-2026-week-9",
-      "publishedAt": "2026-11-07T03:05:51.000Z",
-      "excerpt": null,
-      "content": "",
-      "scrapedAt": "2026-11-07T17:37:44.492Z"
-    },
-    {
-      "id": "15cbcc6c83ebebc7",
-      "title": "Kyle Monangai back at practice, questionable for Buccaneers game | Injury Update",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/kyle-monangai-back-at-practice-questionable-for-buccaneers-game-injury-update",
-      "publishedAt": "2026-11-06T21:42:12.000Z",
-      "excerpt": "Bears running back Kyle Monangai returned to practice on a limited basis Friday for the first time since injuring his toe and thumb in a Week 4 win over the Jets. He is listed as questionable for Sunday night’s home contest against the Buccaneers.",
-      "content": "Bears running back Kyle Monangai returned to practice on a limited basis Friday for the first time since injuring his toe and thumb in a Week 4 win over the Jets. He is listed as questionable for Sunday night’s home contest against the Buccaneers.",
-      "scrapedAt": "2026-11-07T17:37:44.492Z"
-    },
-    {
-      "id": "697c241dbd2af2cd",
-      "title": "Bears in Badalona: Postcard with Roberto Garza | Friday, Nov. 6",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-in-badalona-postcards-with-roberto-garza-friday-nov-6",
-      "publishedAt": "2026-11-06T20:43:00.000Z",
-      "excerpt": "The Bears are in Spain for their 2026 Flag Football Tour, marking the fourth consecutive year the club has held flag football clinics in Spain and showcasing their commitment to growing the game globally ahead of the sport’s debut at the 2028 Los Angeles Olympic Games. Former Bears offensive lineman Roberto Garza, who accompanied the team on the four-city trip, checks in after spending the first w",
-      "content": "The Bears are in Spain for their 2026 Flag Football Tour, marking the fourth consecutive year the club has held flag football clinics in Spain and showcasing their commitment to growing the game globally ahead of the sport’s debut at the 2028 Los Angeles Olympic Games. Former Bears offensive lineman Roberto Garza, who accompanied the team on the four-city trip, checks in after spending the first w",
-      "scrapedAt": "2026-11-07T17:37:44.493Z"
-    },
-    {
-      "id": "d155c294551aebc1",
-      "title": "Bears, Alice & Wonder celebrate collaboration with exclusive preview event",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-alice-wonder-celebrate-collaboration-with-exclusive-preview-event",
-      "publishedAt": "2026-11-06T18:47:08.000Z",
-      "excerpt": "The Bears and Alice & Wonder celebrated their collaboration with an exclusive preview event Thursday night, where guests and creators were invited to take a first look at the limited-edition apparel collection ahead of the public launch Friday morning.",
-      "content": "The Bears and Alice & Wonder celebrated their collaboration with an exclusive preview event Thursday night, where guests and creators were invited to take a first look at the limited-edition apparel collection ahead of the public launch Friday morning.",
-      "scrapedAt": "2026-11-07T17:37:44.494Z"
-    },
-    {
-      "id": "18e7586ac20a0c0f",
-      "title": "NFL trade deadline grades: Deals for Jacoby Brissett, Jeffery Simmons, more",
-      "author": "Ben Solak and Seth Walder",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-      "publishedAt": "2026-11-06T18:25:11Z",
-      "excerpt": "Wise move for the Ravens to add Jacoby Brissett? Did the Bears give up too much to go all-in with Jeffery Simmons? Let's evaluate eight trades before the deadline.",
-      "content": "Wise move for the Ravens to add Jacoby Brissett? Did the Bears give up too much to go all-in with Jeffery Simmons? Let's evaluate eight trades before the deadline.",
-      "scrapedAt": "2026-11-07T17:37:41.264Z"
-    },
-    {
-      "id": "6a8022d199e898a6",
-      "title": "NFL Week 9 betting odds: Lines and totals for every game",
-      "author": "ESPN",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals",
-      "publishedAt": "2026-11-06T15:44:45Z",
-      "excerpt": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
-      "content": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
-      "scrapedAt": "2026-11-07T17:37:41.264Z"
+      "publishedAt": "2026-11-07T18:12:00.000Z",
+      "excerpt": "The Bears (6-2) will seek their fourth straight win and sixth victory in their last seven games Sunday night when they host the Buccaneers (3-5) at Soldier Field.",
+      "content": "The Bears (6-2) will seek their fourth straight win and sixth victory in their last seven games Sunday night when they host the Buccaneers (3-5) at Soldier Field.",
+      "scrapedAt": "2026-11-08T17:47:21.845Z"
     },
     {
       "id": "2314365724c741f7",
@@ -6588,7 +6566,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-07T17:37:45.527Z"
+      "scrapedAt": "2026-11-08T17:47:23.053Z"
     },
     {
       "id": "699f71839c74d7dd",
@@ -6654,7 +6632,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-07T17:37:45.528Z"
+      "scrapedAt": "2026-11-08T17:47:23.053Z"
     },
     {
       "id": "de842c2afc2e3e14",
@@ -6666,6 +6644,28 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-11-07T17:37:45.528Z"
+    },
+    {
+      "id": "4a70836cfc839d8b",
+      "title": "Chicago Bears vs. Tampa Bay Buccaneers: Everything you need to know about the Week 9 game before kickoff",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/08/chicago-bears-tampa-bay-buccaneers-week-9-updates/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-08T17:47:23.053Z"
+    },
+    {
+      "id": "954105c8815afd0f",
+      "title": "Column: Kalif Raymond arrived as ‘the greatest teammate’ and a playmaker. The Chicago Bears are seeing why.",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/08/chicago-bears-kalif-raymond-greatest-teammate/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-08T17:47:23.053Z"
     }
   ]
 }
