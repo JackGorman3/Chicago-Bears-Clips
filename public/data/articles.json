@@ -1,16 +1,137 @@
 {
-  "lastUpdated": "2026-11-08T17:47:28.450Z",
+  "lastUpdated": "2026-11-09T22:06:45.506Z",
   "articles": [
     {
-      "id": "8607d84b69c0054f",
-      "title": "NFL Week 9 arrivals: Lions show support for Jack Campbell",
-      "author": "ESPN Staff",
+      "id": "18e7586ac20a0c0f",
+      "title": "NFL trade deadline grades: Deals for Jessie Bates III, Davon Godchaux, more",
+      "author": "Ben Solak and Seth Walder",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
-      "publishedAt": "2026-11-08T16:55:10Z",
-      "excerpt": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-      "content": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-      "scrapedAt": "2026-11-08T17:47:17.888Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "publishedAt": "2026-11-09T21:40:47Z",
+      "excerpt": "Do Jessie Bates III and Davon Godchaux lift the Jaguars' defense? Wise move for Lions to add Andre Cisco? Let's evaluate 11 trades before the deadline.",
+      "content": "Do Jessie Bates III and Davon Godchaux lift the Jaguars' defense? Wise move for Lions to add Andre Cisco? Let's evaluate 11 trades before the deadline.",
+      "scrapedAt": "2026-11-09T22:06:32.189Z"
+    },
+    {
+      "id": "38a13ea1ad99c31d",
+      "title": "By the Numbers: Bears' Week 9 victory over Buccaneers",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/by-the-numbers-bears-week-9-victory-over-buccaneers",
+      "publishedAt": "2026-11-09T18:32:00.000Z",
+      "excerpt": "Here are some notable numbers and stats from the Bears’ 27-24 win over the Buccaneers Sunday night at Soldier Field.",
+      "content": "Here are some notable numbers and stats from the Bears’ 27-24 win over the Buccaneers Sunday night at Soldier Field.",
+      "scrapedAt": "2026-11-09T22:06:38.617Z"
+    },
+    {
+      "id": "a8b3884af52714bc",
+      "title": "Is the NFC North the best division ever? Sizing up wins for Packers, Lions, Bears",
+      "author": "Bill Barnwell",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50422009/week-9-barnwell-nfc-north-packers-lions-bears-vikings",
+      "publishedAt": "2026-11-09T18:05:49Z",
+      "excerpt": "The Packers, Bears, Lions and Vikings are a combined 25-8 and all hold playoff spots right now. Can anyone stop the NFC North -- and who will win the division?",
+      "content": "The Packers, Bears, Lions and Vikings are a combined 25-8 and all hold playoff spots right now. Can anyone stop the NFC North -- and who will win the division?",
+      "scrapedAt": "2026-11-09T22:06:32.189Z"
+    },
+    {
+      "id": "891eed42170cd69e",
+      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "author": "ESPN staff",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+      "publishedAt": "2026-11-09T17:14:01Z",
+      "excerpt": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
+      "content": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
+      "scrapedAt": "2026-11-09T22:06:32.189Z"
+    },
+    {
+      "id": "7daec3d2ee3e65c9",
+      "title": "As the 'Peanut Punch' takes over NFL, how do teams counter it?",
+      "author": "Nick Suss",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50380155/countering-peanut-punch-james-cook-skattebo",
+      "publishedAt": "2026-11-09T16:55:50Z",
+      "excerpt": "After Charles Tillman popularized the punch 14 years ago, it has really taken off this season.",
+      "content": "After Charles Tillman popularized the punch 14 years ago, it has really taken off this season.",
+      "scrapedAt": "2026-11-09T22:06:32.189Z"
+    },
+    {
+      "id": "09249e990feda411",
+      "title": "Stephen A.: Caleb Williams' performance vs. the Bucs was a 'bad look'",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50433187/caleb-williams-performance-vs-bucs-was-bad-look",
+      "publishedAt": "2026-11-09T15:41:03Z",
+      "excerpt": "Stephen A.: Caleb Williams' performance vs. the Bucs was a 'bad look'",
+      "content": "Stephen A.: Caleb Williams' performance vs. the Bucs was a 'bad look'",
+      "scrapedAt": "2026-11-09T22:06:32.189Z"
+    },
+    {
+      "id": "49cd4d6eac97b46f",
+      "title": "Defense steps up in crucial situations to propel Bears to fourth consecutive victory",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/defense-steps-up-in-crucial-situations-to-propel-bears-to-fourth-consecutive-victory",
+      "publishedAt": "2026-11-09T14:49:00.000Z",
+      "excerpt": "The Bears defense led the way during Sunday night's victory over the Buccaneers, recording a pair of interceptions, including a pick-six by cornerback Jaylon Johnson.",
+      "content": "The Bears defense led the way during Sunday night's victory over the Buccaneers, recording a pair of interceptions, including a pick-six by cornerback Jaylon Johnson.",
+      "scrapedAt": "2026-11-09T22:06:38.617Z"
+    },
+    {
+      "id": "3bc48325c1199006",
+      "title": "NFL Week 10 betting odds: Lines and totals for every game",
+      "author": "ESPN",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals",
+      "publishedAt": "2026-11-09T14:34:46Z",
+      "excerpt": "Odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
+      "content": "Odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
+      "scrapedAt": "2026-11-09T22:06:32.189Z"
+    },
+    {
+      "id": "738709520a113248",
+      "title": "2026 NFL trade deadline: Proposing deals for Tony Pollard, Riq Woolen, others",
+      "author": "Judy Battista, Matt Bowen, Jeremy Fowler, Aaron Schatz, Ben Solak, Seth Walder, Cameron Wolfe, Field Yates",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50389499/2026-nfl-trade-deadline-offers-experts-taylor-woolen-pollard",
+      "publishedAt": "2026-11-09T13:28:46Z",
+      "excerpt": "Our NFL experts pitched trade offers they'd love to see get done before Tuesday's deadline, including moves for Tony Pollard, Riq Woolen, Jonathan Taylor and Jessie Bates III.",
+      "content": "Our NFL experts pitched trade offers they'd love to see get done before Tuesday's deadline, including moves for Tony Pollard, Riq Woolen, Jonathan Taylor and Jessie Bates III.",
+      "scrapedAt": "2026-11-09T22:06:32.190Z"
+    },
+    {
+      "id": "4d8d0ddcdbae63fb",
+      "title": "Caleb Williams unfazed by 4 interceptions as Bears pull out win vs. Bucs",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50430415/caleb-williams-4-interceptions-bears-win-buccaneers",
+      "publishedAt": "2026-11-09T13:07:14Z",
+      "excerpt": "Caleb Williams refused to let his four interceptions rattle his confidence as he put the Bears in position to beat the Buccaneers on a walk-off field goal.",
+      "content": "Caleb Williams refused to let his four interceptions rattle his confidence as he put the Bears in position to beat the Buccaneers on a walk-off field goal.",
+      "scrapedAt": "2026-11-09T22:06:32.189Z"
+    },
+    {
+      "id": "4efc4de2f4bb9d34",
+      "title": "Williams connects with Loveland to set up Santos' winning field goal as Bears edge Buccaneers 27-24",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "http://www.espn.com/nfl/recap?gameId=401873050",
+      "publishedAt": "2026-11-09T06:47:34Z",
+      "excerpt": "— Caleb Williams and the Chicago Bears played one of their worst games of the season — and won.",
+      "content": "— Caleb Williams and the Chicago Bears played one of their worst games of the season — and won.",
+      "scrapedAt": "2026-11-09T22:06:32.189Z"
+    },
+    {
+      "id": "9a8a376db6de75e6",
+      "title": "NFL Week 9: Big takeaways, questions and fantasy spin from Sunday's games",
+      "author": "NFL Nation",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50369510/week-9-sunday-games-takeaways-questions-2026",
+      "publishedAt": "2026-11-09T05:58:13Z",
+      "excerpt": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 9.",
+      "content": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 9.",
+      "scrapedAt": "2026-11-09T22:06:32.189Z"
     },
     {
       "id": "1a892fa0b7c6e01c",
@@ -18,43 +139,65 @@
       "author": "NFL Nation",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026",
-      "publishedAt": "2026-11-08T16:14:57Z",
+      "publishedAt": "2026-11-09T05:55:59Z",
       "excerpt": "Check here for Sunday's top moments, TDs and analysis.",
       "content": "Check here for Sunday's top moments, TDs and analysis.",
-      "scrapedAt": "2026-11-08T17:47:17.888Z"
+      "scrapedAt": "2026-11-09T22:06:32.189Z"
     },
     {
-      "id": "e5607c87c9dbeea6",
-      "title": "Ben Johnson's Stanky Legg dance is Chicago Bears' latest postgame tradition",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50415535/ben-johnson-chicago-bears-stanky-legg",
-      "publishedAt": "2026-11-08T16:06:30Z",
-      "excerpt": "As the weeks progress for the Bears, players eagerly await Johnson's dance, knowing that it signifies another win.",
-      "content": "As the weeks progress for the Bears, players eagerly await Johnson's dance, knowing that it signifies another win.",
-      "scrapedAt": "2026-11-08T17:47:17.888Z"
+      "id": "549d4b8ff3efeac3",
+      "title": "Bears hold off late rally to edge Buccaneers, extend winning streak to four | Game Recap",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-hold-off-late-rally-to-edge-buccaneers-extend-winning-streak-to-four-game-recap",
+      "publishedAt": "2026-11-09T05:13:00.000Z",
+      "excerpt": "Sunday night’s Bears-Buccaneers game at Soldier Field was filled with more dramatic highs and lows than the world’s most legendary roller coaster. Cairo Santos hit a 38-yard field goal as time expired to give the Bears a 27-24 victory.",
+      "content": "Sunday night’s Bears-Buccaneers game at Soldier Field was filled with more dramatic highs and lows than the world’s most legendary roller coaster. Cairo Santos hit a 38-yard field goal as time expired to give the Bears a 27-24 victory.",
+      "scrapedAt": "2026-11-09T22:06:38.618Z"
     },
     {
-      "id": "2ffde8dd348d261a",
-      "title": "How Ben Johnson became the Bears head coach",
+      "id": "57a7e8baa17c07fc",
+      "title": "Bears survive, take down Bucs with walk-off field goal",
       "author": null,
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50415617/how-ben-johnson-became-bears-head-coach",
-      "publishedAt": "2026-11-08T16:05:34Z",
-      "excerpt": "How Ben Johnson became the Bears head coach",
-      "content": "How Ben Johnson became the Bears head coach",
-      "scrapedAt": "2026-11-08T17:47:17.888Z"
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50429568/bears-survive-take-bucs-walk-field-goal",
+      "publishedAt": "2026-11-09T05:02:12Z",
+      "excerpt": "Bears survive, take down Bucs with walk-off field goal",
+      "content": "Bears survive, take down Bucs with walk-off field goal",
+      "scrapedAt": "2026-11-09T22:06:32.190Z"
     },
     {
-      "id": "52dc34bbc34ce499",
-      "title": "How to bet Buccaneers-Bears: Tips, analysis and our top prop plays",
-      "author": "Matt Bowen",
+      "id": "155c2d4f74fe83b7",
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "author": "Sarah Barshop",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50408146/nfl-week-9-odds-betting-picks-buccaneers-bears-preview",
-      "publishedAt": "2026-11-08T15:25:01Z",
-      "excerpt": "Odds, analysis and picks to help you bet Sunday's Tampa Bay Buccaneers-Chicago Bears game.",
-      "content": "Odds, analysis and picks to help you bet Sunday's Tampa Bay Buccaneers-Chicago Bears game.",
-      "scrapedAt": "2026-11-08T17:47:17.888Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "publishedAt": "2026-11-09T02:11:35Z",
+      "excerpt": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "content": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "scrapedAt": "2026-11-09T22:06:32.190Z"
+    },
+    {
+      "id": "8607d84b69c0054f",
+      "title": "NFL Week 9 arrivals: Caleb Williams rocks Supreme mascot zip-up before 'SNF'",
+      "author": "ESPN Staff",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
+      "publishedAt": "2026-11-09T00:31:42Z",
+      "excerpt": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
+      "content": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
+      "scrapedAt": "2026-11-09T22:06:32.190Z"
+    },
+    {
+      "id": "2621a2c9f824430d",
+      "title": "Who are the winningest NFL coaches of all time?",
+      "author": "Alex Kennedy and Keith Jenkins",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
+      "publishedAt": "2026-11-09T00:26:53Z",
+      "excerpt": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+      "content": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+      "scrapedAt": "2026-11-09T22:06:32.190Z"
     },
     {
       "id": "0825de618dc77f65",
@@ -62,21 +205,10 @@
       "author": "Anthony Gharib",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
-      "publishedAt": "2026-11-08T02:18:40Z",
+      "publishedAt": "2026-11-08T20:07:44Z",
       "excerpt": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
       "content": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "scrapedAt": "2026-11-08T17:47:17.888Z"
-    },
-    {
-      "id": "d1fd1fba50a7d958",
-      "title": "Bears-Buccaneers game preview | 2026 Week 9",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-buccaneers-game-preview-2026-week-9",
-      "publishedAt": "2026-11-07T18:12:00.000Z",
-      "excerpt": "The Bears (6-2) will seek their fourth straight win and sixth victory in their last seven games Sunday night when they host the Buccaneers (3-5) at Soldier Field.",
-      "content": "The Bears (6-2) will seek their fourth straight win and sixth victory in their last seven games Sunday night when they host the Buccaneers (3-5) at Soldier Field.",
-      "scrapedAt": "2026-11-08T17:47:21.845Z"
+      "scrapedAt": "2026-11-09T22:06:32.190Z"
     },
     {
       "id": "2314365724c741f7",
@@ -6666,6 +6798,50 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-11-08T17:47:23.053Z"
+    },
+    {
+      "id": "5b9d8a96800d0e90",
+      "title": "NFL trade deadline: A look at who is available — and what the top contenders need",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/09/nfl-trade-deadline-top-players/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-09T22:06:40.050Z"
+    },
+    {
+      "id": "738c929ab346036e",
+      "title": "Chicago Bears win their 4th straight game to head into the bye week at 7-2: Brad Biggs’ 10 thoughts on Week 9",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/09/brad-biggs-10-thoughts-chicago-bears-tampa-bay-buccaneers/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-09T22:06:40.050Z"
+    },
+    {
+      "id": "728eaf1480b1ec0d",
+      "title": "‘A team win’: Chicago Bears overcome 5 turnovers — including Caleb Williams’ 4 INTs — in Week 9 home win",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/09/chicago-bears-caleb-williams-4-interceptions/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-09T22:06:40.050Z"
+    },
+    {
+      "id": "9c9c24af2fc2c870",
+      "title": "Jaylon Johnson’s pivotal pick-6 sparks a revival of the Chicago Bears’ days of takeaways",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/09/chicago-bears-buccaneers-defense-jaylon-johnson/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-09T22:06:40.051Z"
     }
   ]
 }
