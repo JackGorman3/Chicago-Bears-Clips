@@ -1,27 +1,38 @@
 {
-  "lastUpdated": "2026-11-10T19:29:25.789Z",
+  "lastUpdated": "2026-11-11T19:24:52.287Z",
   "articles": [
+    {
+      "id": "dd1e2d0d1a3ddcb1",
+      "title": "2026 NFL trade deadline winners, losers: Kirk Cousins, Josh Downs, Bengals, more",
+      "author": "Ben Solak",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals",
+      "publishedAt": "2026-11-11T04:05:03Z",
+      "excerpt": "Which teams made the best -- and worst -- moves before the NFL trade deadline? We're making sense of all the action.",
+      "content": "Which teams made the best -- and worst -- moves before the NFL trade deadline? We're making sense of all the action.",
+      "scrapedAt": "2026-11-11T19:24:42.194Z"
+    },
+    {
+      "id": "18e7586ac20a0c0f",
+      "title": "NFL trade deadline grades: Deals for Kirk Cousins, Josh Downs, Ryan Neuzil",
+      "author": "Ben Solak and Seth Walder",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "publishedAt": "2026-11-11T02:53:07Z",
+      "excerpt": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
+      "content": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
+      "scrapedAt": "2026-11-11T19:24:42.194Z"
+    },
     {
       "id": "577851231a8b8d15",
       "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
       "author": "Doug Greenberg",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-      "publishedAt": "2026-11-10T19:17:08Z",
+      "publishedAt": "2026-11-10T22:10:36Z",
       "excerpt": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
       "content": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "scrapedAt": "2026-11-10T19:29:14.889Z"
-    },
-    {
-      "id": "18e7586ac20a0c0f",
-      "title": "NFL trade deadline grades: Deals for Jordan Davis, Jessie Bates III, Andre Cisco",
-      "author": "Ben Solak and Seth Walder",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-      "publishedAt": "2026-11-10T17:29:49Z",
-      "excerpt": "The Jaguars made a splash, but did they massively overpay for Jordan Davis? What about Jessie Bates III? Let's evaluate 12 trades.",
-      "content": "The Jaguars made a splash, but did they massively overpay for Jordan Davis? What about Jessie Bates III? Let's evaluate 12 trades.",
-      "scrapedAt": "2026-11-10T19:29:14.889Z"
+      "scrapedAt": "2026-11-11T19:24:42.194Z"
     },
     {
       "id": "3bc48325c1199006",
@@ -29,76 +40,10 @@
       "author": "ESPN",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals",
-      "publishedAt": "2026-11-10T17:28:23Z",
+      "publishedAt": "2026-11-10T21:30:43Z",
       "excerpt": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
       "content": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
-      "scrapedAt": "2026-11-10T19:29:14.889Z"
-    },
-    {
-      "id": "6677252f8a68d8b4",
-      "title": "Sportsbook liability Joe Burrow overtakes Josh Allen as NFL MVP favorite",
-      "author": "Doug Greenberg",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50443081/sportsbook-liability-burrow-overtakes-allen-mvp-favorite",
-      "publishedAt": "2026-11-10T17:03:43Z",
-      "excerpt": "Bengals QB Joe Burrow has overtaken Bills star Josh Allen as the betting favorite for NFL MVP honors, a development that could prove costly for sportsbooks.",
-      "content": "Bengals QB Joe Burrow has overtaken Bills star Josh Allen as the betting favorite for NFL MVP honors, a development that could prove costly for sportsbooks.",
-      "scrapedAt": "2026-11-10T19:29:14.889Z"
-    },
-    {
-      "id": "2c95e76a2397f631",
-      "title": "NFL Power Rankings: Stacking all 32 teams for Week 10, plus important games left",
-      "author": "NFL Nation",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50435694/nfl-power-rankings-week-10-most-important-games-remaining",
-      "publishedAt": "2026-11-10T15:35:36Z",
-      "excerpt": "How does every NFL team stack up as we hit midseason? We made our 1-32 list and picked key games in the second half of the season.",
-      "content": "How does every NFL team stack up as we hit midseason? We made our 1-32 list and picked key games in the second half of the season.",
-      "scrapedAt": "2026-11-10T19:29:14.889Z"
-    },
-    {
-      "id": "8607d84b69c0054f",
-      "title": "NFL Week 9 arrivals: Justin Jefferson rocks black leather trench coat before 'MNF'",
-      "author": "ESPN Staff",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
-      "publishedAt": "2026-11-10T01:12:56Z",
-      "excerpt": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-      "content": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-      "scrapedAt": "2026-11-10T19:29:14.889Z"
-    },
-    {
-      "id": "ab64f85c4b1835b9",
-      "title": "5 things we learned from Bears coach Ben Johnson in Week 9 win",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/5-things-we-learned-from-bears-coach-ben-johnson-in-week-9-win",
-      "publishedAt": "2026-11-10T00:30:17.000Z",
-      "excerpt": "After watching tape of Sunday night’s 27-24 victory over the Buccaneers, coach Ben Johnson discussed winning despite not playing up to the Bears' standard, why the offense felt comfortable needing a score on its final drive and more.",
-      "content": "After watching tape of Sunday night’s 27-24 victory over the Buccaneers, coach Ben Johnson discussed winning despite not playing up to the Bears' standard, why the offense felt comfortable needing a score on its final drive and more.",
-      "scrapedAt": "2026-11-10T19:29:19.547Z"
-    },
-    {
-      "id": "38a13ea1ad99c31d",
-      "title": "By the Numbers: Bears' Week 9 victory over Buccaneers",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/by-the-numbers-bears-week-9-victory-over-buccaneers",
-      "publishedAt": "2026-11-09T18:32:00.000Z",
-      "excerpt": "Here are some notable numbers and stats from the Bears’ 27-24 win over the Buccaneers Sunday night at Soldier Field.",
-      "content": "Here are some notable numbers and stats from the Bears’ 27-24 win over the Buccaneers Sunday night at Soldier Field.",
-      "scrapedAt": "2026-11-10T19:29:19.548Z"
-    },
-    {
-      "id": "a8b3884af52714bc",
-      "title": "Is the NFC North the best division ever? Sizing up wins for Packers, Lions, Bears",
-      "author": "Bill Barnwell",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50422009/week-9-barnwell-nfc-north-packers-lions-bears-vikings",
-      "publishedAt": "2026-11-09T18:05:49Z",
-      "excerpt": "The Packers, Bears, Lions and Vikings are a combined 25-8 and all hold playoff spots right now. Can anyone stop the NFC North -- and who will win the division?",
-      "content": "The Packers, Bears, Lions and Vikings are a combined 25-8 and all hold playoff spots right now. Can anyone stop the NFC North -- and who will win the division?",
-      "scrapedAt": "2026-11-10T19:29:14.889Z"
+      "scrapedAt": "2026-11-11T19:24:42.194Z"
     },
     {
       "id": "2314365724c741f7",
@@ -6709,7 +6654,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-09T22:06:40.050Z"
+      "scrapedAt": "2026-11-11T19:24:46.361Z"
     },
     {
       "id": "728eaf1480b1ec0d",
@@ -6742,7 +6687,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-10T19:29:20.975Z"
+      "scrapedAt": "2026-11-11T19:24:46.361Z"
     },
     {
       "id": "e9efefb77149a402",
@@ -6753,7 +6698,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-10T19:29:20.975Z"
+      "scrapedAt": "2026-11-11T19:24:46.361Z"
     },
     {
       "id": "34e7ad17b3802b84",
@@ -6764,7 +6709,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-10T19:29:20.976Z"
+      "scrapedAt": "2026-11-11T19:24:46.361Z"
     }
   ]
 }
