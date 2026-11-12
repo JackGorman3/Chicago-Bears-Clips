@@ -1,16 +1,71 @@
 {
-  "lastUpdated": "2026-11-11T19:24:52.287Z",
+  "lastUpdated": "2026-11-12T19:42:29.803Z",
   "articles": [
     {
-      "id": "dd1e2d0d1a3ddcb1",
-      "title": "2026 NFL trade deadline winners, losers: Kirk Cousins, Josh Downs, Bengals, more",
-      "author": "Ben Solak",
+      "id": "1b36d5885a3b9a21",
+      "title": "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
+      "author": "Anthony Gharib",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals",
-      "publishedAt": "2026-11-11T04:05:03Z",
-      "excerpt": "Which teams made the best -- and worst -- moves before the NFL trade deadline? We're making sense of all the action.",
-      "content": "Which teams made the best -- and worst -- moves before the NFL trade deadline? We're making sense of all the action.",
-      "scrapedAt": "2026-11-11T19:24:42.194Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms",
+      "publishedAt": "2026-11-12T18:20:03Z",
+      "excerpt": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
+      "content": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
+      "scrapedAt": "2026-11-12T19:42:19.920Z"
+    },
+    {
+      "id": "c38dd3d690aaf4f0",
+      "title": "Bears fans of the United Kingdom",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-fans-of-the-united-kingdom",
+      "publishedAt": "2026-11-12T17:02:00.000Z",
+      "excerpt": "In October, the Bears embarked on their first-ever UK Grand Tour, where they visited all four United Kingdom nations in one trip that spanned three weeks. ChicagoBears.com spoke with fans from all four nations to learn about how their fandom began, what it means to them to be Bears fans, how they’re starting new generations of fans and much more.",
+      "content": "In October, the Bears embarked on their first-ever UK Grand Tour, where they visited all four United Kingdom nations in one trip that spanned three weeks. ChicagoBears.com spoke with fans from all four nations to learn about how their fandom began, what it means to them to be Bears fans, how they’re starting new generations of fans and much more.",
+      "scrapedAt": "2026-11-12T19:42:23.334Z"
+    },
+    {
+      "id": "a913c4881119704c",
+      "title": "2026 NFL midseason award rankings: MVP picks, top rookies, OPOY, DPOY, coaches",
+      "author": "Bill Barnwell",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50452792/2026-midseason-awards-ranking-mvp-rookies-coaches-barnwell",
+      "publishedAt": "2026-11-12T16:45:52Z",
+      "excerpt": "Joe Burrow for MVP? Arvell Reese as the DROY? Hardware for Jaxon Smith-Njigba and Will Anderson Jr.? We ranked the top contenders to win eight NFL awards through Week 9.",
+      "content": "Joe Burrow for MVP? Arvell Reese as the DROY? Hardware for Jaxon Smith-Njigba and Will Anderson Jr.? We ranked the top contenders to win eight NFL awards through Week 9.",
+      "scrapedAt": "2026-11-12T19:42:19.921Z"
+    },
+    {
+      "id": "a68d3056f19bafcf",
+      "title": "Mail from Madrid: Postcards with Charles 'Peanut' Tillman | Nov. 11",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/mail-from-madrid-postcards-with-charles-peanut-tillman-nov-11",
+      "publishedAt": "2026-11-12T16:12:54.000Z",
+      "excerpt": "Former Bears cornerback Charles \"Peanut\" Tillman, who joined the Bears during their Spain Flag Football Tour stops in Valencia and Madrid, checks in from the capital to discuss his first experience helping teach flag football in Spain with the Bears.",
+      "content": "Former Bears cornerback Charles \"Peanut\" Tillman, who joined the Bears during their Spain Flag Football Tour stops in Valencia and Madrid, checks in from the capital to discuss his first experience helping teach flag football in Spain with the Bears.",
+      "scrapedAt": "2026-11-12T19:42:23.335Z"
+    },
+    {
+      "id": "10e9a1912eb835b9",
+      "title": "Chicago Bears open applications for 2027 Collin Wehr Scholarship",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/chicago-bears-open-applications-collin-wehr-scholarship-2027",
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "excerpt": "The Chicago Bears announced that applications are now open for the 2027 Collin Wehr Scholarship, an annual $25,000 scholarship established in memory of Collin Wehr, a young lifelong Chicago Bears fan who bravely battled pediatric cancer until his passing in 2013. The scholarship provides financial support to pediatric cancer survivors, those currently undergoing treatment and siblings of children ",
+      "content": "The Chicago Bears announced that applications are now open for the 2027 Collin Wehr Scholarship, an annual $25,000 scholarship established in memory of Collin Wehr, a young lifelong Chicago Bears fan who bravely battled pediatric cancer until his passing in 2013. The scholarship provides financial support to pediatric cancer survivors, those currently undergoing treatment and siblings of children ",
+      "scrapedAt": "2026-11-12T19:42:23.335Z"
+    },
+    {
+      "id": "97564c52948b717f",
+      "title": "2026 NFL midseason report: Questions, stats for all 32 teams entering second half",
+      "author": "NFL Nation reporters and Eric Moody",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50448976/2026-nfl-midseason-report-questions-stats-fantasy",
+      "publishedAt": "2026-11-12T12:48:02Z",
+      "excerpt": "The 2026 NFL season has hit the midway point. Here's what to watch in the second half, key QB stats and fantasy nuggets for all 32 teams.",
+      "content": "The 2026 NFL season has hit the midway point. Here's what to watch in the second half, key QB stats and fantasy nuggets for all 32 teams.",
+      "scrapedAt": "2026-11-12T19:42:19.921Z"
     },
     {
       "id": "18e7586ac20a0c0f",
@@ -18,32 +73,32 @@
       "author": "Ben Solak and Seth Walder",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-      "publishedAt": "2026-11-11T02:53:07Z",
+      "publishedAt": "2026-11-12T12:20:15Z",
       "excerpt": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
       "content": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
-      "scrapedAt": "2026-11-11T19:24:42.194Z"
+      "scrapedAt": "2026-11-12T19:42:19.921Z"
     },
     {
-      "id": "577851231a8b8d15",
-      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "author": "Doug Greenberg",
+      "id": "dd1e2d0d1a3ddcb1",
+      "title": "2026 NFL trade deadline winners, losers: Kirk Cousins, Josh Downs, Bengals, more",
+      "author": "Ben Solak",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-      "publishedAt": "2026-11-10T22:10:36Z",
-      "excerpt": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "content": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "scrapedAt": "2026-11-11T19:24:42.194Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals",
+      "publishedAt": "2026-11-12T11:58:20Z",
+      "excerpt": "Which teams made the best -- and worst -- moves before the NFL trade deadline? We're making sense of all the action.",
+      "content": "Which teams made the best -- and worst -- moves before the NFL trade deadline? We're making sense of all the action.",
+      "scrapedAt": "2026-11-12T19:42:19.921Z"
     },
     {
-      "id": "3bc48325c1199006",
-      "title": "NFL Week 10 betting odds: Lines and totals for every game",
-      "author": "ESPN",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals",
-      "publishedAt": "2026-11-10T21:30:43Z",
-      "excerpt": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
-      "content": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
-      "scrapedAt": "2026-11-11T19:24:42.194Z"
+      "id": "70e29598f83bd29a",
+      "title": "Honoring former Bears QB Young Bussey, who made ultimate sacrifice in World War II",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/honoring-former-bears-qb-young-bussey-who-made-ultimate-sacrifice-in-world-war-ii",
+      "publishedAt": "2026-11-11T18:10:19.000Z",
+      "excerpt": "More than 40 Bears players and members of the organization served in the Armed Forces during World War II, including multiple Hall of Famers. But only one, quarterback Young Bussey, was killed in action.",
+      "content": "More than 40 Bears players and members of the organization served in the Armed Forces during World War II, including multiple Hall of Famers. But only one, quarterback Young Bussey, was killed in action.",
+      "scrapedAt": "2026-11-12T19:42:23.336Z"
     },
     {
       "id": "2314365724c741f7",
@@ -6710,6 +6765,50 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-11-11T19:24:46.361Z"
+    },
+    {
+      "id": "2c4c42d865444040",
+      "title": "Kirk Cousins rejoins Vikings and NFC North, where familiarity and comfort will help him prepare for Packers",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/12/kirk-cousins-vikings-nfc-north/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-12T19:42:24.778Z"
+    },
+    {
+      "id": "da3ce1ed060cc8a5",
+      "title": "Chicago Bears Q&A: What area could see a big improvement after the bye? Why no more moves at the deadline?",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/12/chicago-bears-mailbag-bye-week-trade-deadline/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-12T19:42:24.778Z"
+    },
+    {
+      "id": "78b4028408f33173",
+      "title": "South Shore tourism chief talks Chicago Bears, hotel stays as budget is OK’d",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/11/south-shore-tourism-chief-talks-chicago-bears-hotel-stays-as-budget-is-okd/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-12T19:42:24.779Z"
+    },
+    {
+      "id": "80158dad0fcc44fe",
+      "title": "NFL by the numbers: Lopsided divisions have 6-3 Green Bay Packers in last and 3-5 Carolina Panthers in 1st",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/11/green-bay-packers-last-nfc-north/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-12T19:42:24.779Z"
     }
   ]
 }
