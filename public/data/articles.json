@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T19:24:36.978Z",
+  "lastUpdated": "2026-11-14T17:48:39.196Z",
   "articles": [
     {
       "id": "3bc48325c1199006",
@@ -7,43 +7,21 @@
       "author": "ESPN",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals",
-      "publishedAt": "2026-11-13T15:46:27Z",
+      "publishedAt": "2026-11-14T16:55:36Z",
       "excerpt": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
       "content": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
-      "scrapedAt": "2026-11-13T19:24:26.771Z"
+      "scrapedAt": "2026-11-14T17:48:29.777Z"
     },
     {
-      "id": "7f591f2b7f48c084",
-      "title": "NFC North: Bears win division? Cousins has Vikes in command?",
-      "author": "Courtney Cronin and Rob Demovsky and Kevin Seifert and Eric Woodyard",
+      "id": "e6bf98e3da0ce085",
+      "title": "Jeffery Simmons has high praise for Caleb Williams",
+      "author": null,
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50462993/lions-packers-bears-vikings-nfc-north",
-      "publishedAt": "2026-11-13T15:19:15Z",
-      "excerpt": "What will Kirk Cousins and Micah Parsons mean for the best division in football, or will the Bears hang on?",
-      "content": "What will Kirk Cousins and Micah Parsons mean for the best division in football, or will the Bears hang on?",
-      "scrapedAt": "2026-11-13T19:24:26.771Z"
-    },
-    {
-      "id": "891eed42170cd69e",
-      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "author": "ESPN staff",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
-      "publishedAt": "2026-11-13T14:11:35Z",
-      "excerpt": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
-      "content": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
-      "scrapedAt": "2026-11-13T19:24:26.771Z"
-    },
-    {
-      "id": "5700f65b0b15cbce",
-      "title": "NFL execs on tight playoff races, MVP, Super Bowl picks, breakouts, more",
-      "author": "Jeremy Fowler",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50462723/2026-nfl-playoffs-mvp-super-bowl-breakout-players-divisions",
-      "publishedAt": "2026-11-13T12:08:03Z",
-      "excerpt": "Who will win the most competitive divisions, and who's in line for awards? We asked sources around the NFL at midseason.",
-      "content": "Who will win the most competitive divisions, and who's in line for awards? We asked sources around the NFL at midseason.",
-      "scrapedAt": "2026-11-13T19:24:26.771Z"
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50473665/jeffery-simmons-high-praise-caleb-williams",
+      "publishedAt": "2026-11-13T19:57:28Z",
+      "excerpt": "Jeffery Simmons has high praise for Caleb Williams",
+      "content": "Jeffery Simmons has high praise for Caleb Williams",
+      "scrapedAt": "2026-11-14T17:48:29.777Z"
     },
     {
       "id": "1b36d5885a3b9a21",
@@ -51,21 +29,10 @@
       "author": "Anthony Gharib",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms",
-      "publishedAt": "2026-11-13T03:27:26Z",
+      "publishedAt": "2026-11-13T19:27:16Z",
       "excerpt": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
       "content": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
-      "scrapedAt": "2026-11-13T19:24:26.771Z"
-    },
-    {
-      "id": "27b49465d3f93776",
-      "title": "Cam Skattebo dons custom 'Iron Man' mask for TNF, leads NFL Week 10 arrivals",
-      "author": "ESPN Staff",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals",
-      "publishedAt": "2026-11-13T00:54:58Z",
-      "excerpt": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "content": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "scrapedAt": "2026-11-13T19:24:26.771Z"
+      "scrapedAt": "2026-11-14T17:48:29.777Z"
     },
     {
       "id": "2314365724c741f7",
@@ -6779,14 +6746,14 @@
     },
     {
       "id": "74f79c78eee69224",
-      "title": "Rolling Meadows, Palatine mayors want ‘seat at the table’ of potential Bears stadium authority",
+      "title": "Rolling Meadows and Palatine mayors want a ‘seat at the table’ of potential Bears stadium authority",
       "author": null,
       "source": "Chicago Tribune",
       "sourceUrl": "https://www.chicagotribune.com/2026/11/13/bears-stadium-rolling-meadows-palatine-mayors/",
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-13T19:24:32.006Z"
+      "scrapedAt": "2026-11-14T17:48:33.278Z"
     },
     {
       "id": "f739fac207fc165e",
@@ -6797,7 +6764,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-13T19:24:32.007Z"
+      "scrapedAt": "2026-11-14T17:48:33.279Z"
     },
     {
       "id": "f4a44a431d7445cf",
@@ -6808,7 +6775,18 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-13T19:24:32.007Z"
+      "scrapedAt": "2026-11-14T17:48:33.279Z"
+    },
+    {
+      "id": "4d5f7789a8da005b",
+      "title": "What to know about the Chicago Bears’ possible move from Soldier Field",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/13/chicago-bears-soldier-field-stadium-news/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-14T17:48:33.278Z"
     }
   ]
 }
