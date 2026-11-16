@@ -1,38 +1,93 @@
 {
-  "lastUpdated": "2026-11-15T18:39:07.546Z",
+  "lastUpdated": "2026-11-16T21:48:29.277Z",
   "articles": [
+    {
+      "id": "d824cd2b19277a69",
+      "title": "NFL Week 11 betting odds: Lines and totals for every game",
+      "author": "ESPN",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals",
+      "publishedAt": "2026-11-16T16:58:40Z",
+      "excerpt": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
+      "content": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
+      "scrapedAt": "2026-11-16T21:48:17.170Z"
+    },
+    {
+      "id": "53ede062a0c89e79",
+      "title": "NFL playoff chance tiers: Where all 32 teams fit in 2026 postseason picture",
+      "author": "Seth Walder",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50463347/2026-nfl-playoffs-chances-odds-tiers-32-teams-nfc-afc",
+      "publishedAt": "2026-11-16T16:21:08Z",
+      "excerpt": "We placed all 32 NFL teams into tiers based on their likelihood of making the playoffs, from Super Bowl favorites to the top-draft-pick candidates.",
+      "content": "We placed all 32 NFL teams into tiers based on their likelihood of making the playoffs, from Super Bowl favorites to the top-draft-pick candidates.",
+      "scrapedAt": "2026-11-16T21:48:17.171Z"
+    },
+    {
+      "id": "155c2d4f74fe83b7",
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "author": "Sarah Barshop",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "publishedAt": "2026-11-16T15:39:02Z",
+      "excerpt": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "content": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "scrapedAt": "2026-11-16T21:48:17.171Z"
+    },
     {
       "id": "c8d3bde03cd69628",
       "title": "Week 10 NFL highlights: Best plays, moments, touchdowns, more",
       "author": "NFL Nation",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026",
-      "publishedAt": "2026-11-15T17:58:11Z",
-      "excerpt": "Check here for all of Sunday's top moments, TDs and analysis from our reporters.",
-      "content": "Check here for all of Sunday's top moments, TDs and analysis from our reporters.",
-      "scrapedAt": "2026-11-15T18:38:56.064Z"
+      "publishedAt": "2026-11-16T05:24:51Z",
+      "excerpt": "Check here for all of Sunday's top moments, TDs and analysis from ESPN's NFL reporters.",
+      "content": "Check here for all of Sunday's top moments, TDs and analysis from ESPN's NFL reporters.",
+      "scrapedAt": "2026-11-16T21:48:17.171Z"
+    },
+    {
+      "id": "9eb31e3f0d5868a7",
+      "title": "Where the Bears stand in the NFC North after their bye week",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50498545/where-bears-stand-nfc-north-their-bye-week",
+      "publishedAt": "2026-11-16T04:40:12Z",
+      "excerpt": "Courtney Cronin breaks down the Bears' spot in the NFC North standings after their Week 10 bye week.",
+      "content": "Courtney Cronin breaks down the Bears' spot in the NFC North standings after their Week 10 bye week.",
+      "scrapedAt": "2026-11-16T21:48:17.171Z"
     },
     {
       "id": "27b49465d3f93776",
-      "title": "Panthers QB Bryce Young leads NFL Week 10 arrivals",
+      "title": "Ja'Marr Chase steps into 'SNF' in style, leads NFL Week 10 arrivals",
       "author": "ESPN Staff",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals",
-      "publishedAt": "2026-11-15T17:28:13Z",
+      "publishedAt": "2026-11-16T00:42:37Z",
       "excerpt": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "content": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "scrapedAt": "2026-11-15T18:38:56.064Z"
+      "scrapedAt": "2026-11-16T21:48:17.171Z"
     },
     {
-      "id": "ce29a52520bdc8ea",
-      "title": "Ranking the top 10 Super Bowl performances by a defender",
-      "author": "Courtney Cronin",
+      "id": "2621a2c9f824430d",
+      "title": "Who are the winningest NFL coaches of all time?",
+      "author": "Alex Kennedy and Keith Jenkins",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50454197/top-10-super-bowl-individual-defensive-performances",
-      "publishedAt": "2026-11-15T10:56:58Z",
-      "excerpt": "Not all Super Bowl MVPs were quarterbacks or offensive stars. We listed 10 standout individual defensive performances.",
-      "content": "Not all Super Bowl MVPs were quarterbacks or offensive stars. We listed 10 standout individual defensive performances.",
-      "scrapedAt": "2026-11-15T18:38:56.064Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
+      "publishedAt": "2026-11-15T22:37:16Z",
+      "excerpt": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+      "content": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+      "scrapedAt": "2026-11-16T21:48:17.171Z"
+    },
+    {
+      "id": "97564c52948b717f",
+      "title": "2026 NFL midseason report: Questions, stats for all 32 teams entering second half",
+      "author": "NFL Nation reporters and Michael F. Florio",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50448976/2026-nfl-midseason-report-questions-stats-fantasy",
+      "publishedAt": "2026-11-15T20:46:47Z",
+      "excerpt": "The 2026 NFL season has hit the midway point. Here's what to watch in the second half, key QB stats and fantasy nuggets for all 32 teams.",
+      "content": "The 2026 NFL season has hit the midway point. Here's what to watch in the second half, key QB stats and fantasy nuggets for all 32 teams.",
+      "scrapedAt": "2026-11-16T21:48:17.171Z"
     },
     {
       "id": "1b36d5885a3b9a21",
@@ -40,21 +95,21 @@
       "author": "Anthony Gharib",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms",
-      "publishedAt": "2026-11-15T02:09:50Z",
+      "publishedAt": "2026-11-15T20:40:00Z",
       "excerpt": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
       "content": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
-      "scrapedAt": "2026-11-15T18:38:56.064Z"
+      "scrapedAt": "2026-11-16T21:48:17.171Z"
     },
     {
-      "id": "3bc48325c1199006",
-      "title": "NFL Week 10 betting odds: Lines and totals for every game",
-      "author": "ESPN",
+      "id": "ce29a52520bdc8ea",
+      "title": "Ranking the top 10 Super Bowl performances by a defender",
+      "author": "Courtney Cronin",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals",
-      "publishedAt": "2026-11-14T16:55:36Z",
-      "excerpt": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
-      "content": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
-      "scrapedAt": "2026-11-15T18:38:56.064Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50454197/top-10-super-bowl-individual-defensive-performances",
+      "publishedAt": "2026-11-15T19:49:59Z",
+      "excerpt": "Not all Super Bowl MVPs were quarterbacks or offensive stars. We listed 10 standout individual defensive performances.",
+      "content": "Not all Super Bowl MVPs were quarterbacks or offensive stars. We listed 10 standout individual defensive performances.",
+      "scrapedAt": "2026-11-16T21:48:17.171Z"
     },
     {
       "id": "2314365724c741f7",
@@ -6853,6 +6908,50 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-11-15T18:39:00.449Z"
+    },
+    {
+      "id": "af570893ce3db2e5",
+      "title": "Minnesota Vikings’ potent pass rush has its best game yet with 8 sacks in a rout of Green Bay Packers",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/16/minnesota-vikings-green-bay-packers-sacks/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-16T21:48:24.412Z"
+    },
+    {
+      "id": "d08e30e0d394bc72",
+      "title": "Column: Chicago Bears stadium saga could be closer to a solution … or maybe not",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/16/chicago-bears-stadium-solution-column/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-16T21:48:24.412Z"
+    },
+    {
+      "id": "5b46168c010d4d19",
+      "title": "Chicago Bears get back to work after a bye-week breather: 3 things to watch in the season’s 2nd half",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/16/chicago-bears-second-half-begins/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-16T21:48:24.413Z"
+    },
+    {
+      "id": "97979a1b97e251c9",
+      "title": "Detroit Lions edge rusher Aidan Hutchinson has season-ending right knee injury",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/15/detroit-lions-aidan-hutchinson-knee-injury/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-16T21:48:24.413Z"
     }
   ]
 }
