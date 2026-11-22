@@ -1,71 +1,27 @@
 {
-  "lastUpdated": "2026-11-21T18:54:26.366Z",
+  "lastUpdated": "2026-11-22T19:15:12.017Z",
   "articles": [
     {
-      "id": "eb7a8256897e7d29",
-      "title": "Bears-Saints game preview | 2026 Week 11",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-saints-game-preview-2026-week-11",
-      "publishedAt": "2026-11-21T17:14:00.000Z",
-      "excerpt": "Back in action after their bye week, the Bears will seek their fifth straight win and seventh in eight games Sunday when they host the Saints at Soldier Field.",
-      "content": "Back in action after their bye week, the Bears will seek their fifth straight win and seventh in eight games Sunday when they host the Saints at Soldier Field.",
-      "scrapedAt": "2026-11-21T18:54:21.751Z"
-    },
-    {
-      "id": "44521b403fa4fa9e",
-      "title": "NFL Week 11 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-      "author": "Matt Bowen, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
+      "id": "bce844ce212edec7",
+      "title": "Week 11 NFL highlights: Best plays, moments, touchdowns, more",
+      "author": "NFL Nation",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50521728/week-11-predictions-upsets-fantasy-sleepers-stats-2026",
-      "publishedAt": "2026-11-21T11:49:08Z",
-      "excerpt": "Eagles upsetting the Steelers? Big receiving day for Christian McCaffrey? Touchdown for Josh Downs? Let's predict 15 things for Week 11.",
-      "content": "Eagles upsetting the Steelers? Big receiving day for Christian McCaffrey? Touchdown for Josh Downs? Let's predict 15 things for Week 11.",
-      "scrapedAt": "2026-11-21T18:54:17.936Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026",
+      "publishedAt": "2026-11-22T19:12:02Z",
+      "excerpt": "Check here for all of the top moments, TDs and analysis from games at the Cowboys, Chiefs, Eagles, Panthers and more.",
+      "content": "Check here for all of the top moments, TDs and analysis from games at the Cowboys, Chiefs, Eagles, Panthers and more.",
+      "scrapedAt": "2026-11-22T19:15:03.809Z"
     },
     {
-      "id": "02ee0d933e2ad515",
-      "title": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
-      "author": "Anthony Gharib",
+      "id": "6a5432268abc632d",
+      "title": "NFL Week 11 arrivals: CeeDee Lamb leads the way ahead of Titans-Cowboys",
+      "author": "ESPN Staff",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms",
-      "publishedAt": "2026-11-20T22:49:33Z",
-      "excerpt": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
-      "content": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
-      "scrapedAt": "2026-11-21T18:54:17.936Z"
-    },
-    {
-      "id": "007c5ab1e17c9911",
-      "title": "Jeffery Simmons, Kyle Monangai good to go against Saints | Injury Update",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/jeffery-simmons-kyle-monangai-good-to-go-against-saints-injury-update",
-      "publishedAt": "2026-11-20T20:48:54.000Z",
-      "excerpt": "Bears defensive tackle Jeffery Simmons and running back Kyle Monangai were full participants in Friday’s practice and have no injury designations for Sunday’s home game against the Saints, meaning both are expected to play.",
-      "content": "Bears defensive tackle Jeffery Simmons and running back Kyle Monangai were full participants in Friday’s practice and have no injury designations for Sunday’s home game against the Saints, meaning both are expected to play.",
-      "scrapedAt": "2026-11-21T18:54:21.752Z"
-    },
-    {
-      "id": "d824cd2b19277a69",
-      "title": "NFL Week 11 betting odds: Lines and totals for every game",
-      "author": "ESPN",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals",
-      "publishedAt": "2026-11-20T20:13:57Z",
-      "excerpt": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
-      "content": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
-      "scrapedAt": "2026-11-21T18:54:17.936Z"
-    },
-    {
-      "id": "0b1a0525517bb316",
-      "title": "Bears rule out CB Kyler Gordon; RB Kyle Monangai cleared to return",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50542720/bears-rule-cb-kyler-gordon-vs-saints",
-      "publishedAt": "2026-11-20T20:03:03Z",
-      "excerpt": "The Bears will be without nickel corner Kyler Gordon when they host the Saints, while running back Kyle Monangai, wide receiver Luther Burden III and defensive tackle Jeffery Simmons are expected to play.",
-      "content": "The Bears will be without nickel corner Kyler Gordon when they host the Saints, while running back Kyle Monangai, wide receiver Luther Burden III and defensive tackle Jeffery Simmons are expected to play.",
-      "scrapedAt": "2026-11-21T18:54:17.936Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
+      "publishedAt": "2026-11-22T17:13:29Z",
+      "excerpt": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "content": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "scrapedAt": "2026-11-22T19:15:03.809Z"
     },
     {
       "id": "1265f4c5d3053ade",
@@ -73,21 +29,21 @@
       "author": "Ben Solak, Seth Walder, Matt Bowen and Mike Clay",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50534274/week-11-nfl-odds-touchdown-props-best-bets-sunday-games",
-      "publishedAt": "2026-11-20T17:59:16Z",
+      "publishedAt": "2026-11-22T05:56:51Z",
       "excerpt": "Our experts dive into the odds and player props for Week 11 and offer their betting tips and favorite plays.",
       "content": "Our experts dive into the odds and player props for Week 11 and offer their betting tips and favorite plays.",
-      "scrapedAt": "2026-11-21T18:54:17.936Z"
+      "scrapedAt": "2026-11-22T19:15:03.809Z"
     },
     {
-      "id": "fe7089a152607304",
-      "title": "Jeffery Simmons making an impact on Bears defense",
+      "id": "9f5c6b1858908acb",
+      "title": "Celebrating Women and Girls in Sports: How Phoebe Schecter is helping the Bears grow flag football internationally",
       "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50541996/jeffery-simmons-making-impact-bears-defense",
-      "publishedAt": "2026-11-20T17:15:16Z",
-      "excerpt": "Courtney Cronin breaks down Simmons' influence on the Bears since the trade, highlighting both his on-field production and his leadership in the locker room.",
-      "content": "Courtney Cronin breaks down Simmons' influence on the Bears since the trade, highlighting both his on-field production and his leadership in the locker room.",
-      "scrapedAt": "2026-11-21T18:54:17.936Z"
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/celebrating-women-and-girls-in-sports-how-phoebe-schecter-is-helping-the-bears-grow-flag-football-internationally",
+      "publishedAt": "2026-11-22T02:28:00.000Z",
+      "excerpt": "In honor of the Bears' Celebrating Women and Girls in Sports game Sunday at Soldier Field, ChicagoBears.com profiles Phoebe Schecter, an international flag football player, former captain of the Great Britain women's national American football team, former NFL assistant coach and contributor to Sky Sports' NFL coverage, who has been an ardent supporter of the Bears’ efforts to expand flag football",
+      "content": "In honor of the Bears' Celebrating Women and Girls in Sports game Sunday at Soldier Field, ChicagoBears.com profiles Phoebe Schecter, an international flag football player, former captain of the Great Britain women's national American football team, former NFL assistant coach and contributor to Sky Sports' NFL coverage, who has been an ardent supporter of the Bears’ efforts to expand flag football",
+      "scrapedAt": "2026-11-22T19:15:05.906Z"
     },
     {
       "id": "2314365724c741f7",
@@ -7050,7 +7006,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-21T18:54:22.258Z"
+      "scrapedAt": "2026-11-22T19:15:06.557Z"
     },
     {
       "id": "b1b1bf2a2d654f87",
@@ -7083,7 +7039,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-21T18:54:22.258Z"
+      "scrapedAt": "2026-11-22T19:15:06.557Z"
     },
     {
       "id": "2271c75f69224895",
@@ -7094,7 +7050,18 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-21T18:54:22.258Z"
+      "scrapedAt": "2026-11-22T19:15:06.557Z"
+    },
+    {
+      "id": "4035a18897f36ca5",
+      "title": "Chicago Bears vs. New Orleans Saints: Everything you need to know about the Week 11 game before kickoff",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/22/chicago-bears-new-orleans-saints-week-11-updates/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-22T19:15:06.556Z"
     }
   ]
 }
