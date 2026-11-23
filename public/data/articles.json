@@ -1,49 +1,170 @@
 {
-  "lastUpdated": "2026-11-22T19:15:12.017Z",
+  "lastUpdated": "2026-11-23T23:37:36.717Z",
   "articles": [
+    {
+      "id": "b190b8568257a506",
+      "title": "Bears rookie Zavion Thomas displays triple-threat ability",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-rookie-zavion-thomas-displays-triple-threat-ability",
+      "publishedAt": "2026-11-23T22:05:39.000Z",
+      "excerpt": "Bears receiver Zavion Thomas delivered the most impactful game of his rookie season in Sunday’s 21-13 victory over the Saints.",
+      "content": "Bears receiver Zavion Thomas delivered the most impactful game of his rookie season in Sunday’s 21-13 victory over the Saints.",
+      "scrapedAt": "2026-11-23T23:37:30.606Z"
+    },
+    {
+      "id": "9b39c516810d2eda",
+      "title": "Jeffery Simmons brings joy to Chicago with turkey giveaway ahead of Thanksgiving",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/jeffery-simmons-brings-joy-chicago-with-turkey-giveaway-ahead-of-thanksgiving",
+      "publishedAt": "2026-11-23T21:08:41.000Z",
+      "excerpt": "Less than 48 hours before Jeffery Simmons posted one of the best performances of his career — recording three sacks in the Bears’ win over the Saints Sunday — he was helping Chicago off the field by hosting his annual turkey giveaway and meet-and-greet event on the city's South Side in celebration of Thanksgiving.",
+      "content": "Less than 48 hours before Jeffery Simmons posted one of the best performances of his career — recording three sacks in the Bears’ win over the Saints Sunday — he was helping Chicago off the field by hosting his annual turkey giveaway and meet-and-greet event on the city's South Side in celebration of Thanksgiving.",
+      "scrapedAt": "2026-11-23T23:37:30.607Z"
+    },
+    {
+      "id": "d907a1e709050390",
+      "title": "NFL Week 12 betting odds: Lines and totals for every game",
+      "author": "ESPN",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals",
+      "publishedAt": "2026-11-23T16:54:28Z",
+      "excerpt": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
+      "content": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
+      "scrapedAt": "2026-11-23T23:37:24.099Z"
+    },
+    {
+      "id": "155c2d4f74fe83b7",
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "author": "Sarah Barshop",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "publishedAt": "2026-11-23T15:26:24Z",
+      "excerpt": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "content": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "scrapedAt": "2026-11-23T23:37:24.099Z"
+    },
+    {
+      "id": "6bff00f6f405c767",
+      "title": "NFL Week 11: Big takeaways, questions and fantasy spin from Sunday's games",
+      "author": "NFL Nation",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026",
+      "publishedAt": "2026-11-23T05:53:02Z",
+      "excerpt": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.",
+      "content": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.",
+      "scrapedAt": "2026-11-23T23:37:24.099Z"
+    },
     {
       "id": "bce844ce212edec7",
       "title": "Week 11 NFL highlights: Best plays, moments, touchdowns, more",
       "author": "NFL Nation",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026",
-      "publishedAt": "2026-11-22T19:12:02Z",
-      "excerpt": "Check here for all of the top moments, TDs and analysis from games at the Cowboys, Chiefs, Eagles, Panthers and more.",
-      "content": "Check here for all of the top moments, TDs and analysis from games at the Cowboys, Chiefs, Eagles, Panthers and more.",
-      "scrapedAt": "2026-11-22T19:15:03.809Z"
+      "publishedAt": "2026-11-23T04:50:41Z",
+      "excerpt": "Check here for all of the top moments, TDs and analysis from games at the Broncos, Jets, Cowboys, Eagles and more.",
+      "content": "Check here for all of the top moments, TDs and analysis from games at the Broncos, Jets, Cowboys, Eagles and more.",
+      "scrapedAt": "2026-11-23T23:37:24.099Z"
+    },
+    {
+      "id": "c7c7a72b38963061",
+      "title": "Top NFL plays from Week 11",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50569830/top-nfl-plays-week-11",
+      "publishedAt": "2026-11-23T04:30:58Z",
+      "excerpt": "Top NFL plays from Week 11",
+      "content": "Top NFL plays from Week 11",
+      "scrapedAt": "2026-11-23T23:37:24.099Z"
+    },
+    {
+      "id": "898ef3b2dbbca76a",
+      "title": "Despite 5th straight win, Bears offense not 'satisfied'",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50569861/despite-5th-straight-win-bears-offense-not-satisfied",
+      "publishedAt": "2026-11-23T04:24:45Z",
+      "excerpt": "Courtney Cronin discusses the Bears offense following their 21-13 win over New Orleans.",
+      "content": "Courtney Cronin discusses the Bears offense following their 21-13 win over New Orleans.",
+      "scrapedAt": "2026-11-23T23:37:24.099Z"
+    },
+    {
+      "id": "914d572e3fa5d1fe",
+      "title": "Jeffery Simmons matches career high with 3 sacks in Bears' win",
+      "author": "Courtney Cronin",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50567207/jeffery-simmons-matches-career-high-3-sacks-bears-win",
+      "publishedAt": "2026-11-23T01:15:07Z",
+      "excerpt": "Jeffery Simmons recorded three sacks in the Bears' 21-13 win over the Saints on Sunday, which tied his single-game career high.",
+      "content": "Jeffery Simmons recorded three sacks in the Bears' 21-13 win over the Saints on Sunday, which tied his single-game career high.",
+      "scrapedAt": "2026-11-23T23:37:24.099Z"
     },
     {
       "id": "6a5432268abc632d",
-      "title": "NFL Week 11 arrivals: CeeDee Lamb leads the way ahead of Titans-Cowboys",
+      "title": "NFL Week 11 arrivals: George Kittle rocks luchador mask ahead of SNF in Mexico",
       "author": "ESPN Staff",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
-      "publishedAt": "2026-11-22T17:13:29Z",
+      "publishedAt": "2026-11-23T01:00:32Z",
       "excerpt": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "content": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "scrapedAt": "2026-11-22T19:15:03.809Z"
+      "scrapedAt": "2026-11-23T23:37:24.099Z"
     },
     {
-      "id": "1265f4c5d3053ade",
-      "title": "Week 11 betting preview: Analysis, best bets, TD predictions for Sunday",
-      "author": "Ben Solak, Seth Walder, Matt Bowen and Mike Clay",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50534274/week-11-nfl-odds-touchdown-props-best-bets-sunday-games",
-      "publishedAt": "2026-11-22T05:56:51Z",
-      "excerpt": "Our experts dive into the odds and player props for Week 11 and offer their betting tips and favorite plays.",
-      "content": "Our experts dive into the odds and player props for Week 11 and offer their betting tips and favorite plays.",
-      "scrapedAt": "2026-11-22T19:15:03.809Z"
-    },
-    {
-      "id": "9f5c6b1858908acb",
-      "title": "Celebrating Women and Girls in Sports: How Phoebe Schecter is helping the Bears grow flag football internationally",
+      "id": "5a3c7c9f2283d56d",
+      "title": "Jeffery Simmons, Montez Sweat lead Bears' strong defensive effort in win over Saints",
       "author": null,
       "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/celebrating-women-and-girls-in-sports-how-phoebe-schecter-is-helping-the-bears-grow-flag-football-internationally",
-      "publishedAt": "2026-11-22T02:28:00.000Z",
-      "excerpt": "In honor of the Bears' Celebrating Women and Girls in Sports game Sunday at Soldier Field, ChicagoBears.com profiles Phoebe Schecter, an international flag football player, former captain of the Great Britain women's national American football team, former NFL assistant coach and contributor to Sky Sports' NFL coverage, who has been an ardent supporter of the Bears’ efforts to expand flag football",
-      "content": "In honor of the Bears' Celebrating Women and Girls in Sports game Sunday at Soldier Field, ChicagoBears.com profiles Phoebe Schecter, an international flag football player, former captain of the Great Britain women's national American football team, former NFL assistant coach and contributor to Sky Sports' NFL coverage, who has been an ardent supporter of the Bears’ efforts to expand flag football",
-      "scrapedAt": "2026-11-22T19:15:05.906Z"
+      "sourceUrl": "https://www.chicagobears.com/news/jeffery-simmons-montez-sweat-lead-bears-strong-defensive-effort-in-win-over-saints",
+      "publishedAt": "2026-11-23T00:48:35.000Z",
+      "excerpt": "The partnership between defensive linemen Jeffery Simmons and Montez Sweat was on full display Sunday against the Saints, as the pair combined for four sacks and a safety to power a Bears defense that generated two takeaways and six total sacks en route to the team's eighth win of the season.",
+      "content": "The partnership between defensive linemen Jeffery Simmons and Montez Sweat was on full display Sunday against the Saints, as the pair combined for four sacks and a safety to power a Bears defense that generated two takeaways and six total sacks en route to the team's eighth win of the season.",
+      "scrapedAt": "2026-11-23T23:37:30.607Z"
+    },
+    {
+      "id": "3ecf7427c76063d1",
+      "title": "By the Numbers: Bears' Week 11 victory over Saints",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/by-the-numbers-bears-week-11-victory-over-saints",
+      "publishedAt": "2026-11-23T00:12:00.000Z",
+      "excerpt": "Here are some notable numbers and stats from the Bears’ 21-13 win over the Saints Sunday at Soldier Field.",
+      "content": "Here are some notable numbers and stats from the Bears’ 21-13 win over the Saints Sunday at Soldier Field.",
+      "scrapedAt": "2026-11-23T23:37:30.607Z"
+    },
+    {
+      "id": "27a3f001d6d81c12",
+      "title": "Jeffery Simmons gets 3 sacks as the Chicago Bears beat the New Orleans Saints 21-13",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "http://www.espn.com/nfl/recap?gameId=401873071",
+      "publishedAt": "2026-11-22T23:25:33Z",
+      "excerpt": "— Jeffery Simmons delivered once again. That blockbuster trade for the All-Pro defensive tackle is looking like the appropriate price at the moment.",
+      "content": "— Jeffery Simmons delivered once again. That blockbuster trade for the All-Pro defensive tackle is looking like the appropriate price at the moment.",
+      "scrapedAt": "2026-11-23T23:37:24.099Z"
+    },
+    {
+      "id": "2621a2c9f824430d",
+      "title": "Who are the winningest NFL coaches of all time?",
+      "author": "Alex Kennedy and Keith Jenkins",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
+      "publishedAt": "2026-11-22T23:05:23Z",
+      "excerpt": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+      "content": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+      "scrapedAt": "2026-11-23T23:37:24.099Z"
+    },
+    {
+      "id": "ab3e16220ba94cad",
+      "title": "Bears win fifth straight game, move to 8-2 with victory over Saints | Game Recap",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-win-fifth-straight-game-move-to-8-2-with-victory-over-saints-game-recap",
+      "publishedAt": "2026-11-22T21:59:00.000Z",
+      "excerpt": "The Bears extended their winning streak to five and improved their record to 8-2 Sunday with a 21-13 victory over the Saints at Soldier Field.",
+      "content": "The Bears extended their winning streak to five and improved their record to 8-2 Sunday with a 21-13 victory over the Saints at Soldier Field.",
+      "scrapedAt": "2026-11-23T23:37:30.607Z"
     },
     {
       "id": "2314365724c741f7",
@@ -7062,6 +7183,50 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-11-22T19:15:06.556Z"
+    },
+    {
+      "id": "50cd8ed74c76aaae",
+      "title": "Dennis Allen’s Stanky Legg may have ‘stunk,’ but his Chicago Bears defense is adept at musical chairs",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/23/dennis-allen-chicago-bears-defense-stanky-legg/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-23T23:37:32.057Z"
+    },
+    {
+      "id": "e4e1fcaa31fec8ae",
+      "title": "The Chicago Bears have played 38 times on Thanksgiving — and will play again Thursday. Here’s how they’ve fared.",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/23/chicago-bears-thanksgiving-record-nfl/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-23T23:37:32.057Z"
+    },
+    {
+      "id": "6901bd76c89769ab",
+      "title": "Chicago Bears have plenty to clean up — and not much time: Brad Biggs’ 10 thoughts on an uneven Week 11 win",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/23/chicago-bears-brad-biggs-10-thoughts-week-11/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-23T23:37:32.057Z"
+    },
+    {
+      "id": "b2826daf75ea7c1c",
+      "title": "‘He’s not human’: Jeffery Simmons’ 3-sack day leads a productive performance by the Chicago Bears defense",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/22/jeffery-simmons-sacks-chicago-bears-defense/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-23T23:37:32.057Z"
     }
   ]
 }
