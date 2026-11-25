@@ -1,38 +1,71 @@
 {
-  "lastUpdated": "2026-11-24T22:07:48.210Z",
+  "lastUpdated": "2026-11-25T21:23:52.766Z",
   "articles": [
     {
-      "id": "577851231a8b8d15",
-      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "author": "Doug Greenberg",
+      "id": "db9a823d2913710f",
+      "title": "Bears rule out Gordon for second straight game due to shoulder injury",
+      "author": "Courtney Cronin",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-      "publishedAt": "2026-11-24T17:36:17Z",
-      "excerpt": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "content": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "scrapedAt": "2026-11-24T22:07:38.710Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50597032/bears-rule-gordon-high-stakes-game-detroit",
+      "publishedAt": "2026-11-25T21:18:35Z",
+      "excerpt": "Bears cornerback Kyler Gordon's shoulder injury will prevent him from playing against the Lions in a key Thanksgiving Day divisional game in Detroit.",
+      "content": "Bears cornerback Kyler Gordon's shoulder injury will prevent him from playing against the Lions in a key Thanksgiving Day divisional game in Detroit.",
+      "scrapedAt": "2026-11-25T21:23:42.451Z"
     },
     {
-      "id": "4b05cff72d6842b3",
-      "title": "NFL Power Rankings: Stacking all 32 teams for Week 12, plus extension candidates",
-      "author": "NFL Nation",
+      "id": "cb7b9ed06ea7eac8",
+      "title": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
+      "author": "Anthony Gharib",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50574413/nfl-power-rankings-week-12-offseason-contract-extension-candidates",
-      "publishedAt": "2026-11-24T16:49:36Z",
-      "excerpt": "How does every NFL team stack up heading into Week 12? We made our 1-32 list and picked players who could get a new contract.",
-      "content": "How does every NFL team stack up heading into Week 12? We made our 1-32 list and picked players who could get a new contract.",
-      "scrapedAt": "2026-11-24T22:07:38.710Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms",
+      "publishedAt": "2026-11-25T20:56:45Z",
+      "excerpt": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
+      "content": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
+      "scrapedAt": "2026-11-25T21:23:42.451Z"
     },
     {
-      "id": "ea0ce311f311b732",
-      "title": "Stephen A.: Bears-Lions a big-time game",
+      "id": "ad240397e282ab26",
+      "title": "Three Bears players ruled out of Thanksgiving game in Detroit | Injury Update",
       "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/three-bears-players-ruled-out-of-thanksgiving-game-in-detroit-injury-update",
+      "publishedAt": "2026-11-25T20:00:40.000Z",
+      "excerpt": "The Bears on Wednesday ruled three players out of their Thanksgiving game against the Lions in Detroit: Running back Roschon Johnson (ankle), cornerback Kyler Gordon (shoulder) and safety Elijah Hicks (concussion).",
+      "content": "The Bears on Wednesday ruled three players out of their Thanksgiving game against the Lions in Detroit: Running back Roschon Johnson (ankle), cornerback Kyler Gordon (shoulder) and safety Elijah Hicks (concussion).",
+      "scrapedAt": "2026-11-25T21:23:46.829Z"
+    },
+    {
+      "id": "14824b724722aa9f",
+      "title": "NFL Week 12 latest intel, buzz questions, news, fantasy tips: What we're hearing",
+      "author": "Jeremy Fowler and Dan Graziano",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50583260/bears-lions-big-game",
-      "publishedAt": "2026-11-24T15:55:30Z",
-      "excerpt": "Stephen A.: Bears-Lions a big-time game",
-      "content": "Stephen A.: Bears-Lions a big-time game",
-      "scrapedAt": "2026-11-24T22:07:38.710Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50582929/week-12-buzz-fantasy-predictions-graziano-fowler-2026",
+      "publishedAt": "2026-11-25T18:44:11Z",
+      "excerpt": "Where could Daniel Jones land? What's the latest on coaching hot seats? What's next for Puka Nacua? And who is getting MVP love in league circles?",
+      "content": "Where could Daniel Jones land? What's the latest on coaching hot seats? What's next for Puka Nacua? And who is getting MVP love in league circles?",
+      "scrapedAt": "2026-11-25T21:23:42.451Z"
+    },
+    {
+      "id": "d15f149f0e3a4fff",
+      "title": "Bears mourn loss of Martha Firestone Ford",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-mourn-loss-of-martha-firestone-ford",
+      "publishedAt": "2026-11-25T16:15:00.000Z",
+      "excerpt": "Detroit Lions owner/chair emeritus Martha Firestone Ford passed away at her home surrounded by her family Tuesday at the age of 101. Bears chairman George H. McCaskey said in a statement: \"Tomorrow, when we play the Lions on Thanksgiving at Ford Field, Mrs. Ford will be on our minds and in our hearts. We extend our condolences to Sheila, the Ford and Firestone families, and to the Pride.\"",
+      "content": "Detroit Lions owner/chair emeritus Martha Firestone Ford passed away at her home surrounded by her family Tuesday at the age of 101. Bears chairman George H. McCaskey said in a statement: \"Tomorrow, when we play the Lions on Thanksgiving at Ford Field, Mrs. Ford will be on our minds and in our hearts. We extend our condolences to Sheila, the Ford and Firestone families, and to the Pride.\"",
+      "scrapedAt": "2026-11-25T21:23:46.830Z"
+    },
+    {
+      "id": "97dc7fb755927081",
+      "title": "Bears-Lions Thanksgiving Day game preview | 2026 Week 12",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-lions-thanksgiving-day-game-preview-2026-week-12",
+      "publishedAt": "2026-11-25T16:05:00.000Z",
+      "excerpt": "Two of the NFL’s hottest teams will battle on Thanksgiving Day in Detroit with the winner moving into sole possession of first place in the NFC North.",
+      "content": "Two of the NFL’s hottest teams will battle on Thanksgiving Day in Detroit with the winner moving into sole possession of first place in the NFC North.",
+      "scrapedAt": "2026-11-25T21:23:46.830Z"
     },
     {
       "id": "d907a1e709050390",
@@ -40,65 +73,54 @@
       "author": "ESPN",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals",
-      "publishedAt": "2026-11-24T15:40:19Z",
+      "publishedAt": "2026-11-25T15:11:35Z",
       "excerpt": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
       "content": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
-      "scrapedAt": "2026-11-24T22:07:38.710Z"
+      "scrapedAt": "2026-11-25T21:23:42.451Z"
     },
     {
-      "id": "6bff00f6f405c767",
-      "title": "NFL Week 11: Big takeaways, questions and fantasy spin from Sunday's games",
-      "author": "NFL Nation",
+      "id": "bd35a346786acb7a",
+      "title": "Bears' Johnson has no plan to stop using Swift in run game despite costly fumbles",
+      "author": "Courtney Cronin",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026",
-      "publishedAt": "2026-11-24T13:33:28Z",
-      "excerpt": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.",
-      "content": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.",
-      "scrapedAt": "2026-11-24T22:07:38.710Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50587324/bears-johnson-stick-swift-role-bears-run-game",
+      "publishedAt": "2026-11-25T11:21:26Z",
+      "excerpt": "Chicago Bears running back D'Andre Swift won't have an extended stay in Ben Johnson's doghouse after fumbling in the fourth quarter against the Saints.",
+      "content": "Chicago Bears running back D'Andre Swift won't have an extended stay in Ben Johnson's doghouse after fumbling in the fourth quarter against the Saints.",
+      "scrapedAt": "2026-11-25T21:23:42.451Z"
     },
     {
-      "id": "ab3edb540ad5304f",
-      "title": "How to watch, listen to, stream Bears-Lions Thanksgiving Day Week 12 game",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-detroit-lions-thanksgiving-day-2026-week-12-listen-stream-tv-radio-online-nfl",
-      "publishedAt": "2026-11-24T13:04:00.000Z",
-      "excerpt": "Here's where to watch, listen to and stream the Bears' Thanksgiving Day matchup with the Lions, which kicks off at noon CT Thursday, Nov. 26 in Detroit.",
-      "content": "Here's where to watch, listen to and stream the Bears' Thanksgiving Day matchup with the Lions, which kicks off at noon CT Thursday, Nov. 26 in Detroit.",
-      "scrapedAt": "2026-11-24T22:07:42.502Z"
-    },
-    {
-      "id": "6a5432268abc632d",
-      "title": "NFL Week 11 arrivals: Tee Higgins pays homage to Fiona the Hippo ahead of 'MNF'",
-      "author": "ESPN Staff",
+      "id": "0646817ef03ee82a",
+      "title": "2026 NFL Thanksgiving preview: Picks, predictions, schedule, odds, fantasy tips",
+      "author": "NFL Nation, Pamela Maldonado, Eric Moody, Seth Walder",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
-      "publishedAt": "2026-11-24T00:12:35Z",
-      "excerpt": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "content": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "scrapedAt": "2026-11-24T22:07:38.710Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50582822/thanksgiving-games-picks-schedule-fantasy-odds-2026",
+      "publishedAt": "2026-11-25T11:20:49Z",
+      "excerpt": "We have the top storylines, bold predictions, stats to know, fantasy/betting nuggets and more for four Wednesday and Thursday games in Week 12.",
+      "content": "We have the top storylines, bold predictions, stats to know, fantasy/betting nuggets and more for four Wednesday and Thursday games in Week 12.",
+      "scrapedAt": "2026-11-25T21:23:42.451Z"
     },
     {
-      "id": "b190b8568257a506",
-      "title": "Bears rookie Zavion Thomas displays triple-threat ability",
+      "id": "e515143613fff03e",
+      "title": "Caleb Williams' plan for facing Detroit on Thanksgiving",
       "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-rookie-zavion-thomas-displays-triple-threat-ability",
-      "publishedAt": "2026-11-23T22:05:39.000Z",
-      "excerpt": "Bears receiver Zavion Thomas delivered the most impactful game of his rookie season in Sunday’s 21-13 victory over the Saints.",
-      "content": "Bears receiver Zavion Thomas delivered the most impactful game of his rookie season in Sunday’s 21-13 victory over the Saints.",
-      "scrapedAt": "2026-11-24T22:07:42.502Z"
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50588900/caleb-williams-plan-facing-detroit-thanksgiving",
+      "publishedAt": "2026-11-25T02:51:11Z",
+      "excerpt": "Courtney Cronin details Caleb Williams' plan to be decisive against Detroit on Thanksgiving.",
+      "content": "Courtney Cronin details Caleb Williams' plan to be decisive against Detroit on Thanksgiving.",
+      "scrapedAt": "2026-11-25T21:23:42.451Z"
     },
     {
-      "id": "9b39c516810d2eda",
-      "title": "Jeffery Simmons brings joy to Chicago with turkey giveaway ahead of Thanksgiving",
+      "id": "b97e5d690d069b19",
+      "title": "Thanksgiving showdown will be a full-circle moment for Caleb Williams",
       "author": null,
       "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/jeffery-simmons-brings-joy-chicago-with-turkey-giveaway-ahead-of-thanksgiving",
-      "publishedAt": "2026-11-23T21:08:41.000Z",
-      "excerpt": "Less than 48 hours before Jeffery Simmons posted one of the best performances of his career — recording three sacks in the Bears’ win over the Saints Sunday — he was helping Chicago off the field by hosting his annual turkey giveaway and meet-and-greet event on the city's South Side in celebration of Thanksgiving.",
-      "content": "Less than 48 hours before Jeffery Simmons posted one of the best performances of his career — recording three sacks in the Bears’ win over the Saints Sunday — he was helping Chicago off the field by hosting his annual turkey giveaway and meet-and-greet event on the city's South Side in celebration of Thanksgiving.",
-      "scrapedAt": "2026-11-24T22:07:42.503Z"
+      "sourceUrl": "https://www.chicagobears.com/news/thanksgiving-showdown-will-be-a-full-circle-moment-for-caleb-williams",
+      "publishedAt": "2026-11-25T00:04:19.000Z",
+      "excerpt": "Preparing to lead the Bears against the Lions on Thanksgiving Day, Caleb Williams reminisced about watching games on the holiday as a kid, saying: “It’s great memories; now I get to be a part of making memories for somebody else.”",
+      "content": "Preparing to lead the Bears against the Lions on Thanksgiving Day, Caleb Williams reminisced about watching games on the holiday as a kid, saying: “It’s great memories; now I get to be a part of making memories for somebody else.”",
+      "scrapedAt": "2026-11-25T21:23:46.830Z"
     },
     {
       "id": "2314365724c741f7",
@@ -7127,7 +7149,7 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-24T22:07:43.366Z"
+      "scrapedAt": "2026-11-25T21:23:48.394Z"
     },
     {
       "id": "e4e1fcaa31fec8ae",
@@ -7171,7 +7193,29 @@
       "publishedAt": null,
       "excerpt": null,
       "content": "",
-      "scrapedAt": "2026-11-24T22:07:43.365Z"
+      "scrapedAt": "2026-11-25T21:23:48.394Z"
+    },
+    {
+      "id": "b45b2e08de65d828",
+      "title": "Why Chicago Bears rookie safety Dillon Thieneman lets his fearless play do the talking: ‘I’m locked in’",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/25/chicago-bears-dillon-thieneman-fearless-rookie/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-25T21:23:48.394Z"
+    },
+    {
+      "id": "82cff92e2523478e",
+      "title": "5 things to watch in the Chicago Bears-Detroit Lions game on Thanksgiving — plus our Week 12 predictions",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/25/thanksgiving-chicago-bears-detroit-lions-predictions/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-25T21:23:48.394Z"
     }
   ]
 }
