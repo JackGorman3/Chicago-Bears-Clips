@@ -1,38 +1,16 @@
 {
-  "lastUpdated": "2026-11-26T21:11:02.946Z",
+  "lastUpdated": "2026-11-27T20:54:23.726Z",
   "articles": [
     {
       "id": "79ff0376cd059799",
-      "title": "NFL Week 12: Highlights of Thanksgiving games",
+      "title": "NFL Week 12: Highlights of Thanksgiving weekend games",
       "author": "NFL Nation",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
-      "publishedAt": "2026-11-26T20:39:04Z",
+      "publishedAt": "2026-11-27T20:37:56Z",
       "excerpt": "Our team reporters are set to keep you updated on all the biggest plays and highlights.",
       "content": "Our team reporters are set to keep you updated on all the biggest plays and highlights.",
-      "scrapedAt": "2026-11-26T21:10:50.402Z"
-    },
-    {
-      "id": "f3ecf01580b14424",
-      "title": "NFL Week 12 arrivals: CeeDee Lamb leads arrivals ahead of Eagles-Cowboys",
-      "author": "ESPN Staff",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals",
-      "publishedAt": "2026-11-26T20:21:31Z",
-      "excerpt": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "content": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "scrapedAt": "2026-11-26T21:10:50.402Z"
-    },
-    {
-      "id": "7ee7d994198ecd12",
-      "title": "Bears TE Colston Loveland ruled out vs. Lions with knee injury",
-      "author": "Courtney Cronin",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50605365/bears-colston-loveland-ruled-vs-lions-knee-injury",
-      "publishedAt": "2026-11-26T19:37:33Z",
-      "excerpt": "The Bears have ruled out tight end Colston Loveland for the rest of Thursday's game at Detroit with a left knee injury.",
-      "content": "The Bears have ruled out tight end Colston Loveland for the rest of Thursday's game at Detroit with a left knee injury.",
-      "scrapedAt": "2026-11-26T21:10:50.403Z"
+      "scrapedAt": "2026-11-27T20:54:11.437Z"
     },
     {
       "id": "cb7b9ed06ea7eac8",
@@ -40,120 +18,164 @@
       "author": "Anthony Gharib",
       "source": "ESPN",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms",
-      "publishedAt": "2026-11-26T17:49:54Z",
+      "publishedAt": "2026-11-27T19:34:37Z",
       "excerpt": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
       "content": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
-      "scrapedAt": "2026-11-26T21:10:50.403Z"
+      "scrapedAt": "2026-11-27T20:54:11.438Z"
     },
     {
-      "id": "a1b6821cfedd9824",
-      "title": "How Jeffery Simmons changed the Bears' defensive identity",
+      "id": "1d3bbe550d6f0a99",
+      "title": "Colston Loveland week-to-week with knee injury",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/colston-loveland-week-to-week-with-knee-injury",
+      "publishedAt": "2026-11-27T19:05:00.000Z",
+      "excerpt": "The Bears on Friday announced that tight end Colston Loveland is week-to-week with a knee injury that forced him to exit Thursday’s 39-35 win over the Lions.",
+      "content": "The Bears on Friday announced that tight end Colston Loveland is week-to-week with a knee injury that forced him to exit Thursday’s 39-35 win over the Lions.",
+      "scrapedAt": "2026-11-27T20:54:17.698Z"
+    },
+    {
+      "id": "f3ecf01580b14424",
+      "title": "NFL Week 12 arrivals: Cameron Heyward leads arrivals ahead of Steelers-Broncos",
+      "author": "ESPN Staff",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals",
+      "publishedAt": "2026-11-27T18:59:58Z",
+      "excerpt": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "content": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "scrapedAt": "2026-11-27T20:54:11.438Z"
+    },
+    {
+      "id": "e12a69bc47e1231d",
+      "title": "Sources: Bears' Colston Loveland awaiting second opinion on knee",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50612564/sources-bears-expected-place-te-colston-loveland-knee-ir",
+      "publishedAt": "2026-11-27T18:16:47Z",
+      "excerpt": "The Bears are holding off on placing Colston Loveland on injured reserve while the injured tight end gets a second opinion on his left knee, sources told ESPN",
+      "content": "The Bears are holding off on placing Colston Loveland on injured reserve while the injured tight end gets a second opinion on his left knee, sources told ESPN",
+      "scrapedAt": "2026-11-27T20:54:11.438Z"
+    },
+    {
+      "id": "817dba1c79edd3a3",
+      "title": "Bears claw their way back",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50612704/bears-claw-their-way-back",
+      "publishedAt": "2026-11-27T17:53:38Z",
+      "excerpt": "Courtney Cronin joins SportsCenter to break down the Bears' win over the Lions and how Caleb Williams found Rome Odunze when it mattered most.",
+      "content": "Courtney Cronin joins SportsCenter to break down the Bears' win over the Lions and how Caleb Williams found Rome Odunze when it mattered most.",
+      "scrapedAt": "2026-11-27T20:54:11.438Z"
+    },
+    {
+      "id": "34c9ac7addb7d6d4",
+      "title": "Thanksgiving NFL football had it all: Comebacks, walk-offs and plenty of points",
+      "author": "Ben Solak",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50609153/thanksgiving-games-bears-lions-eagles-cowboys-bills-chiefs",
+      "publishedAt": "2026-11-27T15:23:37Z",
+      "excerpt": "Three go-ahead scores in the final minute? Two comebacks from double-digit deficits? And 174 combined points across the three games? Yeah, Thursday was awesome.",
+      "content": "Three go-ahead scores in the final minute? Two comebacks from double-digit deficits? And 174 combined points across the three games? Yeah, Thursday was awesome.",
+      "scrapedAt": "2026-11-27T20:54:11.438Z"
+    },
+    {
+      "id": "bef2ee74ceee3a0d",
+      "title": "By the Numbers: Bears' 39-35 Thanksgiving victory in Detroit",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/by-the-numbers-bears-39-35-thanksgiving-victory-in-detroit",
+      "publishedAt": "2026-11-27T14:03:01.000Z",
+      "excerpt": "Here are some notable numbers and stats from the Bears’ thrilling 39-35 comeback win over the Lions Thanksgiving Day in Detroit.",
+      "content": "Here are some notable numbers and stats from the Bears’ thrilling 39-35 comeback win over the Lions Thanksgiving Day in Detroit.",
+      "scrapedAt": "2026-11-27T20:54:17.699Z"
+    },
+    {
+      "id": "cb60020781d49310",
+      "title": "Chicago Bears vs. Detroit Lions: Game Highlights",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50606402/game-highlights",
+      "publishedAt": "2026-11-27T06:17:39Z",
+      "excerpt": "Chicago Bears vs. Detroit Lions: Game Highlights",
+      "content": "Chicago Bears vs. Detroit Lions: Game Highlights",
+      "scrapedAt": "2026-11-27T20:54:11.438Z"
+    },
+    {
+      "id": "95e2736b1703ede7",
+      "title": "QB Caleb Williams, WR Rome Odunze's chemistry helps Bears stun Lions",
       "author": "Courtney Cronin",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50597866/bears-jeffery-simmons-defense-super-bowl",
-      "publishedAt": "2026-11-26T17:16:52Z",
-      "excerpt": "Simmons' impact isn't just measured by his own numbers, but also by how he has elevated his teammates.",
-      "content": "Simmons' impact isn't just measured by his own numbers, but also by how he has elevated his teammates.",
-      "scrapedAt": "2026-11-26T21:10:50.403Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50608495/qb-caleb-williams-wr-rome-odunze-chemistry-helps-bears-stun-lions",
+      "publishedAt": "2026-11-27T03:58:07Z",
+      "excerpt": "QB Caleb Williams and WR Rome Odunze leaned on their chemistry and trust to secure Chicago's ninth win of the season.",
+      "content": "QB Caleb Williams and WR Rome Odunze leaned on their chemistry and trust to secure Chicago's ninth win of the season.",
+      "scrapedAt": "2026-11-27T20:54:11.438Z"
     },
     {
-      "id": "89e18ce5903d7375",
-      "title": "Jeffrey Simmons transforms Bears defense",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/video/clip/_/id/50604896/jeffrey-simmons-transforms-bears-defense",
-      "publishedAt": "2026-11-26T17:00:48Z",
-      "excerpt": "Courtney Cronin breaks down how Jeffery Simmons has elevated the Bears' defense and what it means heading into their matchup with the Lions.",
-      "content": "Courtney Cronin breaks down how Jeffery Simmons has elevated the Bears' defense and what it means heading into their matchup with the Lions.",
-      "scrapedAt": "2026-11-26T21:10:50.403Z"
-    },
-    {
-      "id": "97dc7fb755927081",
-      "title": "Bears-Lions Thanksgiving Day game preview | 2026 Week 12",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-lions-thanksgiving-day-game-preview-2026-week-12",
-      "publishedAt": "2026-11-26T14:35:00.000Z",
-      "excerpt": "Two of the NFL’s hottest teams will battle on Thanksgiving Day in Detroit with the winner moving into sole possession of first place in the NFC North.",
-      "content": "Two of the NFL’s hottest teams will battle on Thanksgiving Day in Detroit with the winner moving into sole possession of first place in the NFC North.",
-      "scrapedAt": "2026-11-26T21:10:56.699Z"
-    },
-    {
-      "id": "d15f149f0e3a4fff",
-      "title": "Bears mourn loss of Martha Firestone Ford",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/bears-mourn-loss-of-martha-firestone-ford",
-      "publishedAt": "2026-11-26T14:33:00.000Z",
-      "excerpt": "Detroit Lions owner/chair emeritus Martha Firestone Ford passed away at her home surrounded by her family Tuesday at the age of 101. Bears chairman George H. McCaskey said in a statement: \"Tomorrow, when we play the Lions on Thanksgiving at Ford Field, Mrs. Ford will be on our minds and in our hearts. We extend our condolences to Sheila, the Ford and Firestone families, and to the Pride.\"",
-      "content": "Detroit Lions owner/chair emeritus Martha Firestone Ford passed away at her home surrounded by her family Tuesday at the age of 101. Bears chairman George H. McCaskey said in a statement: \"Tomorrow, when we play the Lions on Thanksgiving at Ford Field, Mrs. Ford will be on our minds and in our hearts. We extend our condolences to Sheila, the Ford and Firestone families, and to the Pride.\"",
-      "scrapedAt": "2026-11-26T21:10:56.699Z"
-    },
-    {
-      "id": "b97e5d690d069b19",
-      "title": "Thanksgiving showdown will be a full-circle moment for Caleb Williams",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/thanksgiving-showdown-will-be-a-full-circle-moment-for-caleb-williams",
-      "publishedAt": "2026-11-26T14:31:00.000Z",
-      "excerpt": "Preparing to lead the Bears against the Lions on Thanksgiving Day, Caleb Williams reminisced about watching games on the holiday as a kid, saying: “It’s great memories; now I get to be a part of making memories for somebody else.”",
-      "content": "Preparing to lead the Bears against the Lions on Thanksgiving Day, Caleb Williams reminisced about watching games on the holiday as a kid, saying: “It’s great memories; now I get to be a part of making memories for somebody else.”",
-      "scrapedAt": "2026-11-26T21:10:56.699Z"
-    },
-    {
-      "id": "d907a1e709050390",
-      "title": "NFL Week 12 betting odds: Lines and totals for every game",
-      "author": "ESPN",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals",
-      "publishedAt": "2026-11-26T14:29:00Z",
-      "excerpt": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
-      "content": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
-      "scrapedAt": "2026-11-26T21:10:50.403Z"
-    },
-    {
-      "id": "ad240397e282ab26",
-      "title": "Three Bears players ruled out of Thanksgiving game in Detroit | Injury Update",
-      "author": null,
-      "source": "Chicago Bears Official",
-      "sourceUrl": "https://www.chicagobears.com/news/three-bears-players-ruled-out-of-thanksgiving-game-in-detroit-injury-update",
-      "publishedAt": "2026-11-26T14:27:00.000Z",
-      "excerpt": "The Bears on Wednesday ruled three players out of their Thanksgiving game against the Lions in Detroit: Running back Roschon Johnson (ankle), cornerback Kyler Gordon (shoulder) and safety Elijah Hicks (concussion).",
-      "content": "The Bears on Wednesday ruled three players out of their Thanksgiving game against the Lions in Detroit: Running back Roschon Johnson (ankle), cornerback Kyler Gordon (shoulder) and safety Elijah Hicks (concussion).",
-      "scrapedAt": "2026-11-26T21:10:56.700Z"
-    },
-    {
-      "id": "49a7f5ffa192a94d",
-      "title": "Best bets and top prop plays for Bears-Lions, Eagles-Cowboys and Chiefs-Bills",
-      "author": "Eric Moody",
-      "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/50415106/nfl-week-12-odds-thanksgiving-betting-preview-props",
-      "publishedAt": "2026-11-26T01:02:11Z",
-      "excerpt": "Odds, analysis and picks to help you bet Bears-Lions, Eagles-Cowboys and Chiefs-Bills on Thanksgiving.",
-      "content": "Odds, analysis and picks to help you bet Bears-Lions, Eagles-Cowboys and Chiefs-Bills on Thanksgiving.",
-      "scrapedAt": "2026-11-26T21:10:50.403Z"
-    },
-    {
-      "id": "e5095ce3ea04742c",
-      "title": "Lions and Bears kick off NFL's Thanksgiving Day tripleheader, playing for first place in NFC North",
-      "author": null,
-      "source": "ESPN",
-      "sourceUrl": "http://www.espn.com/nfl/preview?gameId=401873081",
-      "publishedAt": "2026-11-25T22:57:33Z",
-      "excerpt": "— NFL fans without ties to Detroit used to dread when the Lions kicked off the league's annual tradition of playing on Thanksgiving Day because they were a laughingstock for many years.",
-      "content": "— NFL fans without ties to Detroit used to dread when the Lions kicked off the league's annual tradition of playing on Thanksgiving Day because they were a laughingstock for many years.",
-      "scrapedAt": "2026-11-26T21:10:50.403Z"
-    },
-    {
-      "id": "db9a823d2913710f",
-      "title": "Bears rule out Gordon for second straight game due to shoulder injury",
+      "id": "7ee7d994198ecd12",
+      "title": "Bears TE Colston Loveland exits win over Lions with knee injury",
       "author": "Courtney Cronin",
       "source": "ESPN",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50597032/bears-rule-gordon-high-stakes-game-detroit",
-      "publishedAt": "2026-11-25T21:18:35Z",
-      "excerpt": "Bears cornerback Kyler Gordon's shoulder injury will prevent him from playing against the Lions in a key Thanksgiving Day divisional game in Detroit.",
-      "content": "Bears cornerback Kyler Gordon's shoulder injury will prevent him from playing against the Lions in a key Thanksgiving Day divisional game in Detroit.",
-      "scrapedAt": "2026-11-26T21:10:50.403Z"
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50605365/bears-colston-loveland-ruled-vs-lions-knee-injury",
+      "publishedAt": "2026-11-27T01:53:03Z",
+      "excerpt": "Bears tight end Colston Loveland was ruled out of Thursday's game at Detroit after injuring his left knee in the first quarter.",
+      "content": "Bears tight end Colston Loveland was ruled out of Thursday's game at Detroit after injuring his left knee in the first quarter.",
+      "scrapedAt": "2026-11-27T20:54:11.438Z"
+    },
+    {
+      "id": "79a8dd775e55a231",
+      "title": "'Jaw-dropping': Inside Rome Odunze's game-winning touchdown catch in Detroit",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/jaw-dropping-inside-rome-odunze-game-winning-touchdown-catch-detroit",
+      "publishedAt": "2026-11-27T01:30:00.000Z",
+      "excerpt": "Remarkable. Unbelievable. Spectacular. Elite. Insane. Rome Odunze's 6-yard touchdown reception in the final seconds of the Bears' 39-35 comeback win over the Lions left his teammates and coaches in awe and put the Bears atop the NFC North.",
+      "content": "Remarkable. Unbelievable. Spectacular. Elite. Insane. Rome Odunze's 6-yard touchdown reception in the final seconds of the Bears' 39-35 comeback win over the Lions left his teammates and coaches in awe and put the Bears atop the NFC North.",
+      "scrapedAt": "2026-11-27T20:54:17.700Z"
+    },
+    {
+      "id": "09bda42a8a3bdc2c",
+      "title": "Caleb Williams' late TD to Rome Odunze gives Bears dramatic win over Lions",
+      "author": "Courtney Cronin and Eric Woodyard",
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/50605750/jahmyr-gibbs-lions-caleb-williams-bears-thanksgiving-game",
+      "publishedAt": "2026-11-27T01:01:44Z",
+      "excerpt": "Caleb Williams turned into the 'Iceman' once again to give the Bears a dramatic late win over the Lions.",
+      "content": "Caleb Williams turned into the 'Iceman' once again to give the Bears a dramatic late win over the Lions.",
+      "scrapedAt": "2026-11-27T20:54:11.438Z"
+    },
+    {
+      "id": "26352a7822d0456e",
+      "title": "Caleb Williams' TD pass with 3 seconds left gives Bears 39-35 win over Lions",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "http://www.espn.com/nfl/recap?gameId=401873081",
+      "publishedAt": "2026-11-27T00:00:52Z",
+      "excerpt": "— Caleb Williams took a shotgun snap, dropped back, looked left and threw a perfect pass to the back, right corner of the end zone where only Rome Odunze could catch it.",
+      "content": "— Caleb Williams took a shotgun snap, dropped back, looked left and threw a perfect pass to the back, right corner of the end zone where only Rome Odunze could catch it.",
+      "scrapedAt": "2026-11-27T20:54:11.438Z"
+    },
+    {
+      "id": "092e5be24045355c",
+      "title": "Ben Johnson proud of TEs that stepped up after Colston Loveland injury",
+      "author": null,
+      "source": "ESPN",
+      "sourceUrl": "https://www.espn.com/video/clip/_/id/50607202/ben-johnson-proud-tes-stepped-colston-loveland-injury",
+      "publishedAt": "2026-11-26T23:55:59Z",
+      "excerpt": "Ben Johnson proud of TEs that stepped up after Colston Loveland injury",
+      "content": "Ben Johnson proud of TEs that stepped up after Colston Loveland injury",
+      "scrapedAt": "2026-11-27T20:54:11.438Z"
+    },
+    {
+      "id": "5a224d8baf2f6744",
+      "title": "Game Recap: Bears move into first place in NFC North with thrilling comeback win over Lions",
+      "author": null,
+      "source": "Chicago Bears Official",
+      "sourceUrl": "https://www.chicagobears.com/news/bears-move-into-first-place-in-nfc-north-with-thrilling-comeback-win-over-lions-game-recap",
+      "publishedAt": "2026-11-26T21:59:00.000Z",
+      "excerpt": "In a battle for first place in the NFC North that more than lived up to its billing, the Bears rallied in dramatic fashion for a thrilling 39-35 victory on Caleb Williams’ 6-yard touchdown pass to Rome Odunze with just :03 remaining.",
+      "content": "In a battle for first place in the NFC North that more than lived up to its billing, the Bears rallied in dramatic fashion for a thrilling 39-35 victory on Caleb Williams’ 6-yard touchdown pass to Rome Odunze with just :03 remaining.",
+      "scrapedAt": "2026-11-27T20:54:17.700Z"
     },
     {
       "id": "2314365724c741f7",
@@ -7293,6 +7315,50 @@
       "excerpt": null,
       "content": "",
       "scrapedAt": "2026-11-26T21:10:57.966Z"
+    },
+    {
+      "id": "b666b8c39067a01b",
+      "title": "Chicago Bears TE Colston Loveland will seek a 2nd opinion on his knee injury, with no decision yet on IR",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/27/colston-loveland-knee-injury-update/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-27T20:54:19.231Z"
+    },
+    {
+      "id": "d4e0b104135f3d6e",
+      "title": "Vintage Chicago Tribune: Chicago Bears vs. Detroit Lions — a Thanksgiving tradition",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/27/vintage-chicago-tribune-chicago-bears-detroit-lions-thanksgiving/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-27T20:54:19.231Z"
+    },
+    {
+      "id": "36751d15a459f470",
+      "title": "The Chicago Bears have played 39 times on Thanksgiving. Here’s how they’ve fared.",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/27/chicago-bears-thanksgiving-record-nfl/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-27T20:54:19.232Z"
+    },
+    {
+      "id": "a8993b1ceee92df1",
+      "title": "NFL’s Thanksgiving tripleheader has impressive comebacks — and fantastic finishes",
+      "author": null,
+      "source": "Chicago Tribune",
+      "sourceUrl": "https://www.chicagotribune.com/2026/11/27/nfl-thanksgiving-tripleheader/",
+      "publishedAt": null,
+      "excerpt": null,
+      "content": "",
+      "scrapedAt": "2026-11-27T20:54:19.232Z"
     }
   ]
 }
